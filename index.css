@@ -104,8 +104,8 @@ h1,h2,h3,h4,h5,h6{
   border-radius: 4px;
   justify-self: center;
   align-self: center;
-  margin: 0 15vw;
-  width: 70vw;
+  margin: 0 auto;
+  width: 60vw;
   background-color: #0a136b;
 }
 
@@ -225,6 +225,13 @@ footer a{
   text-align: center;
   background-color: #030b50;
   border: 1px solid #FFF;
+}
+
+@media (max-width: 1440px){
+  #main-layout{
+      margin: 0 15vw;
+      width: 70vw;
+  }
 }
 
 @media (max-width: 1200px) {
