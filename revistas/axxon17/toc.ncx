@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="80a6e5c8-3d5e-4c65-8d1d-2cb3d054bd9b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.64.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 17</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u3rC2YCKlGnTzyrVk6oP2yF" playOrder="1">
+      <navLabel>
+        <text>Editorial: El desafío de Axxón</text>
+      </navLabel>
+      <content src="c-17Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uYzuUYCpE74aCAWfTMfNo79" playOrder="2">
+      <navLabel>
+        <text>Ficciones: El libro de la Tierra Negra, primera parte: La Rata y el Protector</text>
+      </navLabel>
+      <content src="c-17Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ud8cKeKbOHYIGD2OtXSvQwE" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Segunda parte: Náufrago en la Tierra Negra</text>
+      </navLabel>
+      <content src="c-17Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uxXlKqhy6wcQZH6g3BwJCL7" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Tercera Parte: Nova Rastova</text>
+      </navLabel>
+      <content src="c-17Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u3GkPBGnV7gJw8gvoSPGQJD" playOrder="5">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-17Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uTyou4QsO95qYvOrSsO9usB" playOrder="6">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="301c5055-df89-4952-91d3-689dff089878" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.63.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axx¢n 275</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uZhGmSyI2gSlhvZuQMhUTEG" playOrder="1">
+      <navLabel>
+        <text>Editorial: Bicentenario de la Independencia Argentina. ¿Realidad, Utopía o Ucronía?</text>
+      </navLabel>
+      <content src="c-275Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uqbXqXXNiznH6erCiwsidoA" playOrder="2">
+      <navLabel>
+        <text>Ficciones: ¡Argentinos, a vencer!: 1 – Javier</text>
+      </navLabel>
+      <content src="c-275Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u5gZhTiCIklJdErmyCnuqKD" playOrder="3">
+      <navLabel>
+        <text>Ficciones: 2 – Claudia</text>
+      </navLabel>
+      <content src="c-275Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uJ4KBQoRk4HLpai8nbV7d7C" playOrder="4">
+      <navLabel>
+        <text>Ficciones: 3 – Bernardo</text>
+      </navLabel>
+      <content src="c-275Pag04.htm"/>
+    </navPoint>
+    <navPoint id="unS7WxCmmDdOHlsVkPWGCf2" playOrder="5">
+      <navLabel>
+        <text>Ficciones: 4 – Marita</text>
+      </navLabel>
+      <content src="c-275Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uOxyaqFUkHpB5ZzI8zujgM5" playOrder="6">
+      <navLabel>
+        <text>Ficciones: 5 – Por qué tardaste tanto</text>
+      </navLabel>
+      <content src="c-275Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uEZH3HKBy7il2tPjGZ3NMb4" playOrder="7">
+      <navLabel>
+        <text>Ficciones: 6 – El rímel corrido de sus ojos</text>
+      </navLabel>
+      <content src="c-275Pag07.htm"/>
+    </navPoint>
+    <navPoint id="usPeFEPUvwxlcxNih4baeQ8" playOrder="8">
+      <navLabel>
+        <text>Ficciones: 7 – Un acto escolar</text>
+      </navLabel>
+      <content src="c-275Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uxhdSGglIPLG6qSxnKXjbTE" playOrder="9">
+      <navLabel>
+        <text>Ficciones: 8 – Parece mentira las cosas que veo por las calles de Montevideo</text>
+      </navLabel>
+      <content src="c-275Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ubWwGWixKdB5iOkLMAobwB5" playOrder="10">
+      <navLabel>
+        <text>Ficciones: 9 – La tregua</text>
+      </navLabel>
+      <content src="c-275Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uBHU7oSEjG9ifhkGj6I4v8A" playOrder="11">
+      <navLabel>
+        <text>Ficciones: 10 – Requiem para Rocinante</text>
+      </navLabel>
+      <content src="c-275Pag11.htm"/>
+    </navPoint>
+    <navPoint id="uTF8DBJVTkB6fkfqKaaHPiE" playOrder="12">
+      <navLabel>
+        <text>Ficciones: 11 – Milagro en Pipinas</text>
+      </navLabel>
+      <content src="c-275Pag12.htm"/>
+    </navPoint>
+    <navPoint id="uq9bht4DfbHMDtVxaHpUcz7" playOrder="13">
+      <navLabel>
+        <text>Ficciones: 12 – Un negocio redondo</text>
+      </navLabel>
+      <content src="c-275Pag13.htm"/>
+    </navPoint>
+    <navPoint id="uZIF6oH4pBtVk6YyuLFWRGD" playOrder="14">
+      <navLabel>
+        <text>Ficciones: 13 – Camiones</text>
+      </navLabel>
+      <content src="c-275Pag14.htm"/>
+    </navPoint>
+    <navPoint id="uSdI7Q5Zk9c2Cjx5zOBETM4" playOrder="15">
+      <navLabel>
+        <text>Ficciones: 14 – Requiem para Rocinante</text>
+      </navLabel>
+      <content src="c-275Pag15.htm"/>
+    </navPoint>
+    <navPoint id="upbyFBX2Zc3QgWnYeobA88D" playOrder="16">
+      <navLabel>
+        <text>Ficciones: 15 – T.O.C.</text>
+      </navLabel>
+      <content src="c-275Pag16.htm"/>
+    </navPoint>
+    <navPoint id="uJNIbxEe9RC4Uefq3VBT5M6" playOrder="17">
+      <navLabel>
+        <text>Ficciones: 16 – Radio Sodre informa</text>
+      </navLabel>
+      <content src="c-275Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u9b94PYhwybuxMSdMx9Ze3G" playOrder="18">
+      <navLabel>
+        <text>Ficciones: 17 – Por los bares</text>
+      </navLabel>
+      <content src="c-275Pag18.htm"/>
+    </navPoint>
+    <navPoint id="uwX9QTlKNLEZDoVwXKxGWg9" playOrder="19">
+      <navLabel>
+        <text>Ficciones: 18 – Trago’s y Chica’s</text>
+      </navLabel>
+      <content src="c-275Pag19.htm"/>
+    </navPoint>
+    <navPoint id="uAXAZNuKLHrK252ninMAzRC" playOrder="20">
+      <navLabel>
+        <text>Ficciones: 19 – En una playa junto al mar</text>
+      </navLabel>
+      <content src="c-275Pag20.htm"/>
+    </navPoint>
+    <navPoint id="uvgVStgx6GkAxCIglrqrqAB" playOrder="21">
+      <navLabel>
+        <text>Ficciones: 20 – Diez lechugas</text>
+      </navLabel>
+      <content src="c-275Pag21.htm"/>
+    </navPoint>
+    <navPoint id="uW2J5mEHp9h5BsI8HiU6BU6" playOrder="22">
+      <navLabel>
+        <text>Ficciones: 21 – La cabalgata de las walkyrias</text>
+      </navLabel>
+      <content src="c-275Pag22.htm"/>
+    </navPoint>
+    <navPoint id="u6S4HmHSngCTpnnM24RweX5" playOrder="23">
+      <navLabel>
+        <text>Ficciones: 22 – Noches blancas</text>
+      </navLabel>
+      <content src="c-275Pag23.htm"/>
+    </navPoint>
+    <navPoint id="udLJT73Cmmioa6tBVZPrkRE" playOrder="24">
+      <navLabel>
+        <text>Ficciones: 23 – Nieve en Disney</text>
+      </navLabel>
+      <content src="c-275Pag24.htm"/>
+    </navPoint>
+    <navPoint id="uQU8iCN6SbCUP5xzYCJeQmA" playOrder="25">
+      <navLabel>
+        <text>Ficciones: 24 – La batalla de los cospeles</text>
+      </navLabel>
+      <content src="c-275Pag25.htm"/>
+    </navPoint>
+    <navPoint id="uOUCf4gXqA7eaf3wfL5Biw5" playOrder="26">
+      <navLabel>
+        <text>Ficciones: 25 – Un té de jengibre</text>
+      </navLabel>
+      <content src="c-275Pag26.htm"/>
+    </navPoint>
+    <navPoint id="uGAYshgiywQTvfJZyuplnS7" playOrder="27">
+      <navLabel>
+        <text>Ficciones: 26 – Peatonal 1 y Avenida 26</text>
+      </navLabel>
+      <content src="c-275Pag27.htm"/>
+    </navPoint>
+    <navPoint id="uX9t64KaenLxHHbrJUIzxf7" playOrder="28">
+      <navLabel>
+        <text>Ficciones: 27 – Halopidol Forte</text>
+      </navLabel>
+      <content src="c-275Pag28.htm"/>
+    </navPoint>
+    <navPoint id="uUUQwi265j85MYQoEEfLkp7" playOrder="29">
+      <navLabel>
+        <text>Ficciones: 28 – El último café</text>
+      </navLabel>
+      <content src="c-275Pag29.htm"/>
+    </navPoint>
+    <navPoint id="uo3wi7oXbIUsNypoEp8T9B5" playOrder="30">
+      <navLabel>
+        <text>Ficciones: 29 – Grandes cosas</text>
+      </navLabel>
+      <content src="c-275Pag30.htm"/>
+    </navPoint>
+    <navPoint id="uVk2McDCeOoK6qopet4ayE9" playOrder="31">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

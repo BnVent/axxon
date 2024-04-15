@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="2ab59436-0aab-4c2f-878f-fb133b54a111" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.30.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 263</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ua554ee39-f385-44bf-a758-f8530845db24" playOrder="1">
+      <navLabel>
+        <text>Editorial: Mi tiempo personal</text>
+      </navLabel>
+      <content src="c-263Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u78d2e582-828f-4564-8a44-097655b4d8d8" playOrder="2">
+      <navLabel>
+        <text>Presentacion: La búsqueda perpetua</text>
+      </navLabel>
+      <content src="c-263Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uebea47b0-9f06-4173-aebe-c655efecf77d" playOrder="3">
+      <navLabel>
+        <text>Ficciones: La ruta a Trascendencia: 1 – Bienvenidos al Tren Fantasma</text>
+      </navLabel>
+      <content src="c-263Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ufaf6ca75-8d33-406b-8e67-13e6b93bedef" playOrder="4">
+      <navLabel>
+        <text>Ficciones: 2 – No especularás</text>
+      </navLabel>
+      <content src="c-263Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u4a932498-237d-4a8e-a82b-b97a36c159cd" playOrder="5">
+      <navLabel>
+        <text>Ficciones: 3 – El mensajero de los Persecs</text>
+      </navLabel>
+      <content src="c-263Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uf1056efd-1f3f-4d87-aa46-0116fea407cc" playOrder="6">
+      <navLabel>
+        <text>Ficciones: 4 – El dilema</text>
+      </navLabel>
+      <content src="c-263Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uf2ba459c-5f0f-43fb-80f0-c47727eb1f55" playOrder="7">
+      <navLabel>
+        <text>Ficciones: 5 – El pasado que vuelve</text>
+      </navLabel>
+      <content src="c-263Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u81a73fcb-ddc1-4f07-8a2f-75281db93d57" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Demasiado tiempo</text>
+      </navLabel>
+      <content src="c-263Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u0f4b6e09-3e3a-46f1-89be-172e91517cb4" playOrder="9">
+      <navLabel>
+        <text>Entrevista: Entrevista a Alejandro Alonso</text>
+      </navLabel>
+      <content src="c-263Pag09.htm"/>
+    </navPoint>
+    <navPoint id="udf48992a-64b8-4c8c-864c-670ea38aa2c1" playOrder="10">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

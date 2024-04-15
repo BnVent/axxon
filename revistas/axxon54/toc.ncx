@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="33fb139f-dec2-41e8-af08-654566e9b6b7" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.7)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 54</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="4d8dbf69-0975-44f4-9e67-914aa4af64b7" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-54Pag01.htm"/>
+    </navPoint>
+    <navPoint id="486b31c4-79c1-4a6a-8f30-dcea86cb4174" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 54</text>
+      </navLabel>
+      <content src="c-54Pag02.htm"/>
+    </navPoint>
+    <navPoint id="4a0db6cd-f2e3-4698-a3e5-9b23d9575fda" playOrder="3">
+      <navLabel>
+        <text>Sección: Tour Macabro</text>
+      </navLabel>
+      <content src="c-54Pag03.htm"/>
+    </navPoint>
+    <navPoint id="b73866c8-9709-47fa-bff8-021eb55e6906" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Simbiosis</text>
+      </navLabel>
+      <content src="c-54Pag04.htm"/>
+    </navPoint>
+    <navPoint id="65cbe102-7236-46b7-b0f0-59f62f1b735f" playOrder="5">
+      <navLabel>
+        <text>Ensayo: Cómo salió a la luz la novela “Apocalipsis, la danza de la muerte” y el personaje Randall Fl</text>
+      </navLabel>
+      <content src="c-54Pag05.htm"/>
+    </navPoint>
+    <navPoint id="57ec96d1-ada5-4f38-af1d-3b07d9fa1c2a" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Pequeña ceremonia nocturna</text>
+      </navLabel>
+      <content src="c-54Pag06.htm"/>
+    </navPoint>
+    <navPoint id="66b11b4f-f8ec-4367-8f59-45d9ffc38116" playOrder="7">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual (V)</text>
+      </navLabel>
+      <content src="c-54Pag07.htm"/>
+    </navPoint>
+    <navPoint id="3f32eabf-adf8-4a08-83c6-123861df5e02" playOrder="8">
+      <navLabel>
+        <text>Ficciones: La perfección del anzuelo</text>
+      </navLabel>
+      <content src="c-54Pag08.htm"/>
+    </navPoint>
+    <navPoint id="0f4543f5-2e53-409f-b585-3e1383cd4c72" playOrder="9">
+      <navLabel>
+        <text>Sección: El portal fantástico - 2</text>
+      </navLabel>
+      <content src="c-54Pag09.htm"/>
+    </navPoint>
+    <navPoint id="4297dd8d-71da-421e-ba17-d25dfe08f588" playOrder="10">
+      <navLabel>
+        <text>Ficciones: La noche boca arriba</text>
+      </navLabel>
+      <content src="c-54Pag10.htm"/>
+    </navPoint>
+    <navPoint id="cc3fdf38-7d48-43e6-98f3-fe05358d006f" playOrder="11">
+      <navLabel>
+        <text>Ficciones: 1999</text>
+      </navLabel>
+      <content src="c-54Pag11.htm"/>
+    </navPoint>
+    <navPoint id="08940b42-1050-4f1f-a1b6-78c122571459" playOrder="12">
+      <navLabel>
+        <text>Ficciones: No entres ahora</text>
+      </navLabel>
+      <content src="c-54Pag12.htm"/>
+    </navPoint>
+    <navPoint id="7194c996-2b49-4306-a24d-05190fcb6a5b" playOrder="13">
+      <navLabel>
+        <text>Sección: La aventura es la aventura (jornada I)</text>
+      </navLabel>
+      <content src="c-54Pag13.htm"/>
+    </navPoint>
+    <navPoint id="33bf20e8-d4f0-4499-add9-30f99f0d62a3" playOrder="14">
+      <navLabel>
+        <text>Correo: Correo 54</text>
+      </navLabel>
+      <content src="c-54Pag14.htm"/>
+    </navPoint>
+    <navPoint id="a5b86ec0-0ee1-48c0-93d2-c18db8472180" playOrder="15">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad</text>
+      </navLabel>
+      <content src="c-54Pag15.htm"/>
+    </navPoint>
+    <navPoint id="e9f594b5-c4d3-4d2e-8bd0-0bb22c3e27c4" playOrder="16">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-54Pag16.htm"/>
+    </navPoint>
+    <navPoint id="083191a8-2a42-4c40-8d7c-e27b7f0902bb" playOrder="17">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-54Pag17.htm"/>
+    </navPoint>
+    <navPoint id="63482729-4e2e-4984-a763-46858095eb44" playOrder="18">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="d12c5414-f5ee-47ff-8fc3-5dfe77d1a98d" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.41.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 186</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u01bd9ad7-5bc1-43dc-8f89-402e1106eb40" playOrder="1">
+      <navLabel>
+        <text>Editorial: Salir adelante</text>
+      </navLabel>
+      <content src="c-186Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u6b89a55f-53ff-4d4e-bb29-12cc9231091c" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Fuente de la vejez</text>
+      </navLabel>
+      <content src="c-186Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uf18618a7-b988-4699-a64d-2f02978bd2ee" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Julieta</text>
+      </navLabel>
+      <content src="c-186Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u4adda852-7372-4227-a086-06ee9b0ea4b5" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Pesadilla</text>
+      </navLabel>
+      <content src="c-186Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ue8176a42-e1d2-49b5-bd33-10212166b3c6" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (42)</text>
+      </navLabel>
+      <content src="c-186Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u892cd861-7862-4c6e-8326-b7bc6fba4db4" playOrder="6">
+      <navLabel>
+        <text>Ensayo: Anotaciones en una libreta: Heliconia-Primavera</text>
+      </navLabel>
+      <content src="c-186Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u22109dd0-6f54-4065-8e47-a960b4e01ecd" playOrder="7">
+      <navLabel>
+        <text>Ensayo: El sin fin de lo mismo</text>
+      </navLabel>
+      <content src="c-186Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u99449518-66a9-45e3-8b22-efce0e3fc8a4" playOrder="8">
+      <navLabel>
+        <text>Divulgación: Jacobson, Un órgano… ¿vestigial?</text>
+      </navLabel>
+      <content src="c-186Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ua32281d3-9e77-4df6-b467-ea5f95c0bddb" playOrder="9">
+      <navLabel>
+        <text>Axxóncine: El mundo mágico de Terabithia</text>
+      </navLabel>
+      <content src="c-186Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uad06ba31-e7dd-41a8-9956-1f7abc87b9a2" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Copyright</text>
+      </navLabel>
+      <content src="c-186Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uca2adac2-9ca5-4296-891b-e155f81309ef" playOrder="11">
+      <navLabel>
+        <text>Ficciones: ¿Lo harías por mí, amor?</text>
+      </navLabel>
+      <content src="c-186Pag11.htm"/>
+    </navPoint>
+    <navPoint id="uc158613c-6f67-4283-bc6e-2d024a83725f" playOrder="12">
+      <navLabel>
+        <text>Ficciones: En busca de la X perdida</text>
+      </navLabel>
+      <content src="c-186Pag12.htm"/>
+    </navPoint>
+    <navPoint id="ufd075e14-f6f6-4f11-82e8-8b9a80804d41" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Espejo humeante</text>
+      </navLabel>
+      <content src="c-186Pag13.htm"/>
+    </navPoint>
+    <navPoint id="uef16225b-f039-4760-aaf5-575dc5636cf4" playOrder="14">
+      <navLabel>
+        <text>Clásico: Magnetismo</text>
+      </navLabel>
+      <content src="c-186Pag14.htm"/>
+    </navPoint>
+    <navPoint id="ud4af8f9c-5c0e-4adb-98d5-c4546547447f" playOrder="15">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-186Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u738a4a47-099f-4e08-aaf0-79e9510ba833" playOrder="16">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

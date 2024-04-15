@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="c5e88416-839d-4f20-8da2-2879aa2304e0" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.38.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 164</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ua0b9033f-3f42-4d2b-b492-5aaed772084d" playOrder="1">
+      <navLabel>
+        <text>Editorial: Un salto cuántico</text>
+      </navLabel>
+      <content src="c-164Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u40324de9-1296-43a6-a03b-110eeb4c3fe5" playOrder="2">
+      <navLabel>
+        <text>Correo: Correo axxónico</text>
+      </navLabel>
+      <content src="c-164Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u4e7d663d-7e31-4577-b8e8-36816d953075" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Dancing with an angel</text>
+      </navLabel>
+      <content src="c-164Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uc7fe4840-c541-4e2b-b0ba-57e8dde13a1f" playOrder="4">
+      <navLabel>
+        <text>Ficciones: ¿Que en paz descanses? ¡Ja, ja!</text>
+      </navLabel>
+      <content src="c-164Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ueefaa3f7-cd13-42dd-8021-237e6e83e4a3" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El cateto prohibido</text>
+      </navLabel>
+      <content src="c-164Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u8874dc04-237a-4fdf-aa88-a36f1dde35a9" playOrder="6">
+      <navLabel>
+        <text>Divulgación: Extrasolares</text>
+      </navLabel>
+      <content src="c-164Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u87374377-7076-442a-9160-d4e0dd979b49" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Sobrellevar el dia</text>
+      </navLabel>
+      <content src="c-164Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u66e5c6b9-e02c-4199-af34-6826dfed8c87" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Mobilis in Mobili</text>
+      </navLabel>
+      <content src="c-164Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ucba72f76-3cce-46d6-b5de-8f8d89ae84cc" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Los festejos del fin del mundo</text>
+      </navLabel>
+      <content src="c-164Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u831d4aa7-a5db-47f9-bcbd-3c52c9566141" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Cuerpos orbitales</text>
+      </navLabel>
+      <content src="c-164Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u66f410cf-f3fd-4901-ba16-d7ab91688472" playOrder="11">
+      <navLabel>
+        <text>Ficciones: El túnel</text>
+      </navLabel>
+      <content src="c-164Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u7939da8a-6a76-45f7-ae1a-7c3b63c7260b" playOrder="12">
+      <navLabel>
+        <text>Ensayo: Historia de la Ciencia Ficción Uruguaya (1)</text>
+      </navLabel>
+      <content src="c-164Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u67f19c5c-2379-45ea-92b4-9b24d3cc398d" playOrder="13">
+      <navLabel>
+        <text>Sección: Batiburrillo</text>
+      </navLabel>
+      <content src="c-164Pag13.htm"/>
+    </navPoint>
+    <navPoint id="uaaa95709-ebd6-4c0b-90c6-0a93a9328f27" playOrder="14">
+      <navLabel>
+        <text>Batiburrillo: Me la sé lunga</text>
+      </navLabel>
+      <content src="c-164Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u82768883-7025-4c08-9341-d1e69cd77ad6" playOrder="15">
+      <navLabel>
+        <text>Batiburrillo: Una estrella en el hielo: Un sucio trapo rojo</text>
+      </navLabel>
+      <content src="c-164Pag15.htm"/>
+    </navPoint>
+    <navPoint id="ud62b35f3-a2c2-449c-ad79-d682556ad6e7" playOrder="16">
+      <navLabel>
+        <text>Batiburrillo: Antiguo Grimorio de Artes Herméticas</text>
+      </navLabel>
+      <content src="c-164Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u7888c0a0-f286-4cd4-8beb-e83176bf89ab" playOrder="17">
+      <navLabel>
+        <text>Entrevista: Entrevista con Terry Pratchett</text>
+      </navLabel>
+      <content src="c-164Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u91cabc74-2a0c-426e-9257-98299161e645" playOrder="18">
+      <navLabel>
+        <text>Artículo: La Ciencia Ficción en Croacia</text>
+      </navLabel>
+      <content src="c-164Pag18.htm"/>
+    </navPoint>
+    <navPoint id="ua5bacc6c-fb7e-4ec8-bb67-e9d97c85239b" playOrder="19">
+      <navLabel>
+        <text>Ficciones: Ensayo de proyección prospectiva #3</text>
+      </navLabel>
+      <content src="c-164Pag19.htm"/>
+    </navPoint>
+    <navPoint id="uf35bd935-4936-4acb-9485-64ced98b39dc" playOrder="20">
+      <navLabel>
+        <text>Ficciones: Polimorfo</text>
+      </navLabel>
+      <content src="c-164Pag20.htm"/>
+    </navPoint>
+    <navPoint id="u804bf590-7811-44f2-ba05-4cf41ac8dc60" playOrder="21">
+      <navLabel>
+        <text>Ficciones: La anfitriona</text>
+      </navLabel>
+      <content src="c-164Pag21.htm"/>
+    </navPoint>
+    <navPoint id="ube95fc7c-5531-41e2-ac75-f3251992d7d8" playOrder="22">
+      <navLabel>
+        <text>Ficciones: El juego</text>
+      </navLabel>
+      <content src="c-164Pag22.htm"/>
+    </navPoint>
+    <navPoint id="u9be8f7a0-5285-438e-b82f-9bc43a3414fb" playOrder="23">
+      <navLabel>
+        <text>Clásico: Las muertes concéntricas</text>
+      </navLabel>
+      <content src="c-164Pag23.htm"/>
+    </navPoint>
+    <navPoint id="uce48ea09-933f-4c88-80ea-6ebac2c2dd35" playOrder="24">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

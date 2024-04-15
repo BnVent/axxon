@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="e2cbb1cc-0a37-4f14-b1e7-418e8fe1b032" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.11.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 139</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u50825855-c57f-4b12-a1bf-aba3639c05cc" playOrder="1">
+      <navLabel>
+        <text>Editorial: Posibilidades</text>
+      </navLabel>
+      <content src="c-139Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ub35172f9-d874-4e89-b27e-f5f7e7885350" playOrder="2">
+      <navLabel>
+        <text>Correo: Correo 139</text>
+      </navLabel>
+      <content src="c-139Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u664ce34b-1845-4542-b898-24eaf3a77406" playOrder="3">
+      <navLabel>
+        <text>Divulgación: La verdad mentirosa</text>
+      </navLabel>
+      <content src="c-139Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ufbbd3a13-bf14-4746-85b7-d6f288a3fa4b" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Átomo Jack y el mercader de sueños</text>
+      </navLabel>
+      <content src="c-139Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ucc9d8115-8458-45fb-a394-f204d24aa900" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El secreto de Morfeo</text>
+      </navLabel>
+      <content src="c-139Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u79ae2179-6215-4124-9d51-cb05e3d8c965" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Derechos no humanos</text>
+      </navLabel>
+      <content src="c-139Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u91c36722-85af-4f02-9906-8a8a5ee66e8f" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Cronoplasma</text>
+      </navLabel>
+      <content src="c-139Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u4fd7b60d-7722-470e-9356-6b2921a6da15" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Los campos de los no muertos</text>
+      </navLabel>
+      <content src="c-139Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ud4d96a2f-e1b6-449c-b1f8-d03411c28265" playOrder="9">
+      <navLabel>
+        <text>Sección: Anacrónicas</text>
+      </navLabel>
+      <content src="c-139Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ueeb172e2-2826-4fb1-b648-517064276599" playOrder="10">
+      <navLabel>
+        <text>Anacrónicas: ¡Cumplimos un año!</text>
+      </navLabel>
+      <content src="c-139Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ueabe8e5c-57b3-4c4e-a0a8-de1da24437d7" playOrder="11">
+      <navLabel>
+        <text>Anacrónicas: Las Heroicrónicas, tercera parte</text>
+      </navLabel>
+      <content src="c-139Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u2a169a53-2738-448c-963b-6ae8255ea200" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Por un plato de cornigules</text>
+      </navLabel>
+      <content src="c-139Pag12.htm"/>
+    </navPoint>
+    <navPoint id="ueac852cc-0653-4618-b204-33563b63afdc" playOrder="13">
+      <navLabel>
+        <text>Ficciones: El mejor amigo</text>
+      </navLabel>
+      <content src="c-139Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u3f1df2ce-6bd1-438a-b271-eda1d701ae25" playOrder="14">
+      <navLabel>
+        <text>Uficción: Correcciones en la trama del tiempo</text>
+      </navLabel>
+      <content src="c-139Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u7323b679-831a-4e58-a052-531d61ed51f5" playOrder="15">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

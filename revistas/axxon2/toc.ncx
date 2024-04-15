@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="10b9539b-73de-4bde-af2f-f233b11e627d" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.41.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 2</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u952b9a41-10ce-498b-a917-3b00eee92858" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial</text>
+      </navLabel>
+      <content src="c-2Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u824e1f86-ae8d-4c79-8a97-06ca80a8cee9" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Nombre propuesto para el planeta: ?</text>
+      </navLabel>
+      <content src="c-2Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u605cc452-5b03-4089-b4d2-1a10655a56a1" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Noticias del sol</text>
+      </navLabel>
+      <content src="c-2Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uefefb880-f238-4c26-898e-23d5c4f45569" playOrder="4">
+      <navLabel>
+        <text>Bestiario: Espuma espaciotemporal</text>
+      </navLabel>
+      <content src="c-2Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u93fe0f5d-6f53-452e-aa09-c1612ac8ae4b" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Marina del silencio</text>
+      </navLabel>
+      <content src="c-2Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u2852c5d4-449d-4c33-a54b-599da263dcbf" playOrder="6">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-2Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u9e6d80d1-2266-4741-864f-ee723f678681" playOrder="7">
+      <navLabel>
+        <text>Anticipo: En los próximos números…</text>
+      </navLabel>
+      <content src="c-2Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u22d7c5af-3008-4ebb-bbba-e53e7bfa0c01" playOrder="8">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-2Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u96c6adb6-3df9-41a5-a02c-3aab5b522048" playOrder="9">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

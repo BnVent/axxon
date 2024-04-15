@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="e86ca360-dd25-49ae-8ea3-fec2c0420811" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 183</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u4591ff3d-23bf-47b6-88dc-7f38b2895cd7" playOrder="1">
+      <navLabel>
+        <text>Editorial: ¿Quién mata a la ciencia ficción?</text>
+      </navLabel>
+      <content src="c-183Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ucd8fb57c-8662-4975-8465-e8ec07a46fd5" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-183Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uc099c0a6-2b03-4b5f-a4f2-587fc9622268" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Críptico</text>
+      </navLabel>
+      <content src="c-183Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u3de9e233-76f6-4909-bbda-cadba8d21a60" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El árbol maldito</text>
+      </navLabel>
+      <content src="c-183Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u9b0b4c82-9e66-4c0f-94b1-5b4518a33c48" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Razones para no publicar</text>
+      </navLabel>
+      <content src="c-183Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u633038dc-e335-40ec-ba52-4d613aaddda7" playOrder="6">
+      <navLabel>
+        <text>Ficciones: La paz del ladrillo</text>
+      </navLabel>
+      <content src="c-183Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u2304c16b-e72b-4a37-bab9-5270bddb4eed" playOrder="7">
+      <navLabel>
+        <text>Ensayo: Ciencia Ficción y Realidad</text>
+      </navLabel>
+      <content src="c-183Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u2d268d9c-1335-4acd-bc67-531e6c5e772b" playOrder="8">
+      <navLabel>
+        <text>Divulgación: “Monsieur Le Blanc”</text>
+      </navLabel>
+      <content src="c-183Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u595ce63f-3d92-47bd-9ac0-ec4bd9ec26fc" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Nada que declarar</text>
+      </navLabel>
+      <content src="c-183Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ud62ab2f1-996a-4652-a122-0671a2eae184" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (40)</text>
+      </navLabel>
+      <content src="c-183Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uc62324b7-ff54-474d-a3e4-8b444b6c7cb1" playOrder="11">
+      <navLabel>
+        <text>Ficciones: La revolución del Póniatan</text>
+      </navLabel>
+      <content src="c-183Pag11.htm"/>
+    </navPoint>
+    <navPoint id="uc6e1c4cd-8bd9-4bdd-a877-0f54b5a4c070" playOrder="12">
+      <navLabel>
+        <text>Ensayo: A través del tiempo y el espacio, medio siglo después</text>
+      </navLabel>
+      <content src="c-183Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u93be0436-50f0-4de7-b8eb-ed3ef5cee23c" playOrder="13">
+      <navLabel>
+        <text>Ensayo: Arthur C. Clarke y la odisea del Hombre</text>
+      </navLabel>
+      <content src="c-183Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u58cd745a-9778-4ed9-8c34-5d4f15abff18" playOrder="14">
+      <navLabel>
+        <text>Axxóncine: Eterno resplandor de una mente sin recuerdos</text>
+      </navLabel>
+      <content src="c-183Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u9df83bc9-ab60-4444-98f6-451626f56b88" playOrder="15">
+      <navLabel>
+        <text>Clásico: La casa en el confín de la Tierra</text>
+      </navLabel>
+      <content src="c-183Pag15_split_000.htm"/>
+    </navPoint>
+    <navPoint id="u14072e19-996d-4d10-9201-5f3abea49e38" playOrder="16">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

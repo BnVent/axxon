@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="dd3c9e02-41dd-4af3-bb42-71bc85965b35" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.18.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 127</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u3cbc9a09-c4e3-4e0c-8078-c55cf4478fa4" playOrder="1">
+      <navLabel>
+        <text>Editorial: La magia existe</text>
+      </navLabel>
+      <content src="c-127Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uaf8ae57e-aaae-4e8a-a60b-1021af35b4de" playOrder="2">
+      <navLabel>
+        <text>Correo: Correo 127</text>
+      </navLabel>
+      <content src="c-127Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u5ff7b7db-a104-4c49-83a4-1c39af4c3737" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Cacería de sangre</text>
+      </navLabel>
+      <content src="c-127Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ucf712ee6-fb13-422b-98d9-d3084d151124" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Los bucles extraños</text>
+      </navLabel>
+      <content src="c-127Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uf8295b4b-1547-4960-83b6-3bf3f2ff7f18" playOrder="5">
+      <navLabel>
+        <text>Divulgación: La garra del león</text>
+      </navLabel>
+      <content src="c-127Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u05da4a40-590e-4c7c-b9c5-310da214c67e" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Caribbean Caipirinha</text>
+      </navLabel>
+      <content src="c-127Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ub47f6c41-8464-4471-998d-807355c76482" playOrder="7">
+      <navLabel>
+        <text>Poesía: Los jinetes del recuerdo</text>
+      </navLabel>
+      <content src="c-127Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ue3d8bb04-e63e-487b-b9ff-e97deca85097" playOrder="8">
+      <navLabel>
+        <text>Artículo: Johnny-B descolgó su teléfono</text>
+      </navLabel>
+      <content src="c-127Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u292df6eb-d04e-4712-b677-30d2b9e35bde" playOrder="9">
+      <navLabel>
+        <text>Sección: Anacrónicas</text>
+      </navLabel>
+      <content src="c-127Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ucb2fb30a-0ded-472a-824f-b421c42c84d3" playOrder="10">
+      <navLabel>
+        <text>Anacrónicas: ¿Quién es Otis?</text>
+      </navLabel>
+      <content src="c-127Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ue57ee2e4-c2d2-4447-ac43-44d763e696de" playOrder="11">
+      <navLabel>
+        <text>Anacrónicas: Sobre El Gaucho de los Anillos</text>
+      </navLabel>
+      <content src="c-127Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ue83bcf99-2c38-44b0-bddc-96226d3dd79a" playOrder="12">
+      <navLabel>
+        <text>Anacrónicas: El Gaucho de los Anillos (8)</text>
+      </navLabel>
+      <content src="c-127Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u92302bc9-030b-4e92-933f-c27c83bd4ff5" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Parición</text>
+      </navLabel>
+      <content src="c-127Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u55b38100-de01-4674-8ddf-9eba16dd40ba" playOrder="14">
+      <navLabel>
+        <text>Contratapa: Mercaderes del espacio</text>
+      </navLabel>
+      <content src="c-127Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u9051066e-7532-4ac6-950f-d483027a2fcb" playOrder="15">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

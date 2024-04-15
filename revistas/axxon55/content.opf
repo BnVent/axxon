@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Ediciones Axxón</dc:publisher>
+    <meta name="calibre:series_index" content="55"/>
+    <dc:language>es</dc:language>
+    <dc:creator opf:file-as="Desconocido" opf:role="aut">Eduardo Carletti (editor)</dc:creator>
+    <meta name="calibre:timestamp" content="2012-12-08T14:54:51.234000+00:00"/>
+    <dc:title>Axxón 55</dc:title>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:series" content="Axxón"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">ea115413-ab94-4c1a-9e20-1915afd5d334</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="ax-portalfantastico.png" id="added9" media-type="image/png"/>
+    <item href="ax-tourmacabro.png" id="added14" media-type="image/png"/>
+    <item href="axxon-55_001.png" id="added4" media-type="image/png"/>
+    <item href="axxon-55_002.png" id="added5" media-type="image/png"/>
+    <item href="axxon-55_003.png" id="added6" media-type="image/png"/>
+    <item href="axxon-55_004.png" id="added7" media-type="image/png"/>
+    <item href="axxon-55_005.png" id="added8" media-type="image/png"/>
+    <item href="axxon-55_006.png" id="added10" media-type="image/png"/>
+    <item href="axxon-55_007.png" id="added11" media-type="image/png"/>
+    <item href="axxon-55_008.png" id="added12" media-type="image/png"/>
+    <item href="axxon-55_009.png" id="added13" media-type="image/png"/>
+    <item href="axxon-55_010.png" id="added15" media-type="image/png"/>
+    <item href="axxon.htm" id="html16" media-type="application/xhtml+xml"/>
+    <item href="axxon00.gif" id="added17" media-type="image/gif"/>
+    <item href="axxon55.htm" id="html" media-type="application/xhtml+xml"/>
+    <item href="c-55Pag01.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="c-55Pag02.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="c-55Pag03.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="c-55Pag04.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="c-55Pag05.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="c-55Pag06.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="c-55Pag07.htm" id="html7" media-type="application/xhtml+xml"/>
+    <item href="c-55Pag08.htm" id="html8" media-type="application/xhtml+xml"/>
+    <item href="c-55Pag09.htm" id="html9" media-type="application/xhtml+xml"/>
+    <item href="c-55Pag10.htm" id="html10" media-type="application/xhtml+xml"/>
+    <item href="c-55Pag11.htm" id="html11" media-type="application/xhtml+xml"/>
+    <item href="c-55Pag12.htm" id="html12" media-type="application/xhtml+xml"/>
+    <item href="c-55Pag13.htm" id="html13" media-type="application/xhtml+xml"/>
+    <item href="c-55Pag14.htm" id="html14" media-type="application/xhtml+xml"/>
+    <item href="c-55Pag15.htm" id="html15" media-type="application/xhtml+xml"/>
+    <item href="c-55tapach.jpg" id="added18" media-type="image/jpeg"/>
+    <item href="c-ejc0.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="x-epub.png" id="added19" media-type="image/png"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+    <itemref idref="html1"/>
+    <itemref idref="html2"/>
+    <itemref idref="html3"/>
+    <itemref idref="html4"/>
+    <itemref idref="html5"/>
+    <itemref idref="html6"/>
+    <itemref idref="html7"/>
+    <itemref idref="html8"/>
+    <itemref idref="html9"/>
+    <itemref idref="html10"/>
+    <itemref idref="html11"/>
+    <itemref idref="html12"/>
+    <itemref idref="html13"/>
+    <itemref idref="html14"/>
+    <itemref idref="html15"/>
+    <itemref idref="html16"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

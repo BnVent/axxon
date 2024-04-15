@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="b9d66064-cc66-4b04-912e-fcdf664685ca" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.31.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 133</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u7cd1c567-5a9f-4b5d-a3a1-cd3fc2ce0503" playOrder="1">
+      <navLabel>
+        <text>Editorial: Hacer</text>
+      </navLabel>
+      <content src="c-133Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uca528d8e-4837-4c0c-a823-74e791d7f8d2" playOrder="2">
+      <navLabel>
+        <text>Correo: Correo 133</text>
+      </navLabel>
+      <content src="c-133Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uf29075d0-59f1-488d-98da-da19e7c83fe8" playOrder="3">
+      <navLabel>
+        <text>Ficciones: De nuevo, el principio</text>
+      </navLabel>
+      <content src="c-133Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u0cf3c897-10c5-4bb7-9ee1-ee0e8cd8bcdd" playOrder="4">
+      <navLabel>
+        <text>Ensayo: Entre el feed-back y el slip-stream</text>
+      </navLabel>
+      <content src="c-133Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u2b20da74-cb13-4693-99aa-67b7e85835cb" playOrder="5">
+      <navLabel>
+        <text>Divulgación: Blues del Planeta Rojo</text>
+      </navLabel>
+      <content src="c-133Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uc8f8930f-6757-4c8d-bd7a-8b2c63caf402" playOrder="6">
+      <navLabel>
+        <text>Sección: AnaCrónicas</text>
+      </navLabel>
+      <content src="c-133Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u7ef3137e-cebb-46b8-b63a-95fbe8eb122a" playOrder="7">
+      <navLabel>
+        <text>Anacrónicas: Runa</text>
+      </navLabel>
+      <content src="c-133Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u8c429234-cc42-4071-81b2-ae8c2609f73e" playOrder="8">
+      <navLabel>
+        <text>Anacrónicas: Allende lo razonable: Felipe Ricardo, el tanguero perseguido</text>
+      </navLabel>
+      <content src="c-133Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uf8faf30c-6f21-461e-845e-c82605f2395d" playOrder="9">
+      <navLabel>
+        <text>Anacrónicas: El Gaucho de los Anillos (14)</text>
+      </navLabel>
+      <content src="c-133Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u218a4a38-72a0-48ef-890d-e279746c170c" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Cierto tufo a podrido</text>
+      </navLabel>
+      <content src="c-133Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ub455a713-f60d-45cb-8bd9-0f585e0351a1" playOrder="11">
+      <navLabel>
+        <text>Sección: Contratapa: Matadero 5</text>
+      </navLabel>
+      <content src="c-133Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u1afbfc70-a435-4ffc-98ba-cbecb689affa" playOrder="12">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

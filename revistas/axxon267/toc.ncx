@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="cfca3910-a33f-4cd0-b435-b5b5effce1fb" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.45.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 267</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ubfAa6kR5jSJab2lqvcxUE4" playOrder="1">
+      <navLabel>
+        <text>Editorial: Coqueteando con la Muerte</text>
+      </navLabel>
+      <content src="c-267Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uWHFzQaPxTEzapQ8khOTQDB" playOrder="2">
+      <navLabel>
+        <text>Ficciones: El huésped de Antares</text>
+      </navLabel>
+      <content src="c-267Pag02.htm"/>
+    </navPoint>
+    <navPoint id="udAhy7t4GiLoTHmL2iNQNf6" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Válida para algo</text>
+      </navLabel>
+      <content src="c-267Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uAyq2d8ThoxnUjU63dMUA8F" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (setenta y nueve)</text>
+      </navLabel>
+      <content src="c-267Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ulTBM6Yd3HhoCpwy3AKxflE" playOrder="5">
+      <navLabel>
+        <text>Ficciones: La máquina inútil: Incidente en el jardín de niños (un absurdo argumento de cine ‘Serie B</text>
+      </navLabel>
+      <content src="c-267Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uCMKcm3Sd5D2rIdZpi5VMAD" playOrder="6">
+      <navLabel>
+        <text>Ficciones: La segunda venida o Luche y vuelve</text>
+      </navLabel>
+      <content src="c-267Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uUxSKbvzGqljYxGc2zK2Ss9" playOrder="7">
+      <navLabel>
+        <text>Artículo: Ir más allá: El uso de la bibliografía científica y la consulta con científicos u otros ex</text>
+      </navLabel>
+      <content src="c-267Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u7GG7AtgwAce9Iz2u5GR9X5" playOrder="8">
+      <navLabel>
+        <text>Ficciones: El año del Gorila Sapiens</text>
+      </navLabel>
+      <content src="c-267Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uSSdhsCGihu7QuxogeGuA6H" playOrder="9">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-267Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uyRJKCqPcrQznn466FUEF3F" playOrder="10">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

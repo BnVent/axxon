@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="23feeb7a-ee9a-4498-9e23-a193ef39d7cf" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.12)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 58</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="1ef3db2e-a0f9-457a-a048-a4371acf9b3a" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades 58</text>
+      </navLabel>
+      <content src="c-58Pag01.htm"/>
+    </navPoint>
+    <navPoint id="9d8df489-9aa4-4558-9ceb-3887ff862978" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 58</text>
+      </navLabel>
+      <content src="c-58Pag02.htm"/>
+    </navPoint>
+    <navPoint id="d45318d7-9fba-421e-89e1-3ea50dc893bc" playOrder="3">
+      <navLabel>
+        <text>Ficciones: La revolución del cascanueces</text>
+      </navLabel>
+      <content src="c-58Pag03.htm"/>
+    </navPoint>
+    <navPoint id="cb5951ab-38d5-4228-87df-1aa7ee51085c" playOrder="5">
+      <navLabel>
+        <text>Sección: Tour Macabro (6)</text>
+      </navLabel>
+      <content src="c-58Pag04.htm"/>
+    </navPoint>
+    <navPoint id="0691f5e1-cff8-49dc-bccb-30d3b811279e" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Tigre en la nieve</text>
+      </navLabel>
+      <content src="c-58Pag05.htm"/>
+    </navPoint>
+    <navPoint id="7bccb4fa-8c4c-4623-985d-9fb3334c276c" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Pesadilla en azul</text>
+      </navLabel>
+      <content src="c-58Pag06.htm"/>
+    </navPoint>
+    <navPoint id="af679b49-93c2-4d14-867d-ccb0e290966b" playOrder="8">
+      <navLabel>
+        <text>Ficciones: La real existencia del terror</text>
+      </navLabel>
+      <content src="c-58Pag07.htm"/>
+    </navPoint>
+    <navPoint id="9fd05f09-92e7-4648-b068-ba482fe61cec" playOrder="9">
+      <navLabel>
+        <text>Sección: El Portal Fantástico (6)</text>
+      </navLabel>
+      <content src="c-58Pag08.htm"/>
+    </navPoint>
+    <navPoint id="527c649f-bcdb-401a-b168-c2fc9b031ceb" playOrder="10">
+      <navLabel>
+        <text>Ficciones: El alquimista</text>
+      </navLabel>
+      <content src="c-58Pag09.htm"/>
+    </navPoint>
+    <navPoint id="0d2be208-440e-44f7-a7eb-c565ba6e116a" playOrder="11">
+      <navLabel>
+        <text>Ficciones: El preparado</text>
+      </navLabel>
+      <content src="c-58Pag10.htm"/>
+    </navPoint>
+    <navPoint id="d9e6ba44-d939-43ec-8200-c0e472096832" playOrder="12">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual (IX)</text>
+      </navLabel>
+      <content src="c-58Pag11.htm"/>
+    </navPoint>
+    <navPoint id="d1eaa3c0-bb64-418c-b49e-d6b143e60a32" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Imágenes rotas, sueños de herrumbre</text>
+      </navLabel>
+      <content src="c-58Pag12.htm"/>
+    </navPoint>
+    <navPoint id="adec0674-cf07-4378-83d8-05546d4e36dd" playOrder="14">
+      <navLabel>
+        <text>Ficciones: A veces sí</text>
+      </navLabel>
+      <content src="c-58Pag13.htm"/>
+    </navPoint>
+    <navPoint id="f9e23efd-4ef9-4058-bce2-41b9aff8845c" playOrder="15">
+      <navLabel>
+        <text>Correo: Correo 58</text>
+      </navLabel>
+      <content src="c-58Pag14.htm"/>
+    </navPoint>
+    <navPoint id="cd8e0abc-e004-4e9a-9c7f-76b73bbfaba8" playOrder="16">
+      <navLabel>
+        <text>Nota: Un paseo virtual</text>
+      </navLabel>
+      <content src="c-58Pag15.htm"/>
+    </navPoint>
+    <navPoint id="b35775e3-22e8-4a80-9531-9aa39cbf9463" playOrder="17">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad (31)</text>
+      </navLabel>
+      <content src="c-58Pag16.htm"/>
+    </navPoint>
+    <navPoint id="795d457c-73b1-4324-a33a-8a69f10bda99" playOrder="18">
+      <navLabel>
+        <text>Sección: ET AL Virtual, Información sobre CF</text>
+      </navLabel>
+      <content src="c-58Pag17.htm"/>
+    </navPoint>
+    <navPoint id="4ff1f834-fc36-459d-9c6e-f918cb057429" playOrder="48">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-58Pag18.htm"/>
+    </navPoint>
+    <navPoint id="c2fb0350-c6a1-4e69-9eb1-2b3880bd8a0d" playOrder="49">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-58Pag19.htm"/>
+    </navPoint>
+    <navPoint id="0095638a-8a8b-4a93-8724-452d871f5607" playOrder="50">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="8ed5466b-6111-45ea-8fa8-325f60a5cf52" playOrder="4">
+      <navLabel>
+        <text>[1]</text>
+      </navLabel>
+      <content src="c-58Pag03.htm#junk"/>
+    </navPoint>
+    <navPoint id="c4ede9ae-5fe1-4868-9134-bb5393f9eab7" playOrder="19">
+      <navLabel>
+        <text>Premio James Tiptree Jr. Memorial</text>
+      </navLabel>
+      <content src="c-58Pag17.htm#premio-james-tiptree-jr-memorial"/>
+    </navPoint>
+    <navPoint id="a454d9a7-34fa-472b-8d44-a22da0945823" playOrder="20">
+      <navLabel>
+        <text>Premio Science Fiction Book Club</text>
+      </navLabel>
+      <content src="c-58Pag17.htm#premio-science-fiction-book-club"/>
+    </navPoint>
+    <navPoint id="c09cab1a-9445-4294-8042-5988ee418651" playOrder="21">
+      <navLabel>
+        <text>Premio Bram Stoker</text>
+      </navLabel>
+      <content src="c-58Pag17.htm#premio-bram-stoker"/>
+    </navPoint>
+    <navPoint id="940dd691-b77f-49fc-b046-1bd25575511d" playOrder="22">
+      <navLabel>
+        <text>Premio L. Ron Hubbard</text>
+      </navLabel>
+      <content src="c-58Pag17.htm#premio-l-ron-hubbard"/>
+    </navPoint>
+    <navPoint id="513cfb8a-646d-4e69-8a0a-15591b85a8ac" playOrder="23">
+      <navLabel>
+        <text>Premio Italia</text>
+      </navLabel>
+      <content src="c-58Pag17.htm#premio-italia"/>
+    </navPoint>
+    <navPoint id="a6dec127-b7a1-4f65-a685-1a5d90ad5852" playOrder="24">
+      <navLabel>
+        <text>Premio Nova</text>
+      </navLabel>
+      <content src="c-58Pag17.htm#premio-nova"/>
+    </navPoint>
+    <navPoint id="0503249c-07ae-480d-a8cd-088a3dcf338b" playOrder="25">
+      <navLabel>
+        <text>Premios Puebla y Kalpa de México</text>
+      </navLabel>
+      <content src="c-58Pag17.htm#premios-puebla-y-kalpa-de-mexico"/>
+    </navPoint>
+    <navPoint id="8c5bbe18-6bf5-48eb-936e-f395e1b004a6" playOrder="26">
+      <navLabel>
+        <text>Puebla</text>
+      </navLabel>
+      <content src="c-58Pag17.htm#puebla"/>
+    </navPoint>
+    <navPoint id="13e9d115-2f14-4b02-909e-27c110406ca3" playOrder="27">
+      <navLabel>
+        <text>Kalpa</text>
+      </navLabel>
+      <content src="c-58Pag17.htm#kalpa"/>
+    </navPoint>
+    <navPoint id="934e73d6-9aa6-49a4-afce-aec3cf7da9a4" playOrder="28">
+      <navLabel>
+        <text>MISCELANEA</text>
+      </navLabel>
+      <content src="c-58Pag17.htm#miscelanea"/>
+    </navPoint>
+    <navPoint id="55cce448-4bb1-44c1-9b4f-e32fc98bbf8c" playOrder="29">
+      <navLabel>
+        <text>Plagio a la tailandesa</text>
+      </navLabel>
+      <content src="c-58Pag17.htm#plagio-a-la-tailandesa"/>
+    </navPoint>
+    <navPoint id="ae0dab9d-b589-4ec0-8356-1e020997f03a" playOrder="30">
+      <navLabel>
+        <text>La ciencia ficción argentina en el exterior</text>
+      </navLabel>
+      <content src="c-58Pag17.htm#la-ciencia-ficcion-argentina-en-el-exterior"/>
+    </navPoint>
+    <navPoint id="9ce64109-c60e-4550-a769-ff88f178da92" playOrder="31">
+      <navLabel>
+        <text>Roddenberry en el espacio</text>
+      </navLabel>
+      <content src="c-58Pag17.htm#roddenberry-en-el-espacio"/>
+    </navPoint>
+    <navPoint id="52185070-cc71-4e7c-be89-28092242cfb7" playOrder="32">
+      <navLabel>
+        <text>Neuromante en AudioBook</text>
+      </navLabel>
+      <content src="c-58Pag17.htm#neuromante-en-audiobook"/>
+    </navPoint>
+    <navPoint id="b5bfd2c3-1ed6-4a45-b60d-def726825c36" playOrder="33">
+      <navLabel>
+        <text>LIBROS</text>
+      </navLabel>
+      <content src="c-58Pag17.htm#libros"/>
+    </navPoint>
+    <navPoint id="7c4638c9-47fb-46e9-a3dd-6644fbfa2b12" playOrder="34">
+      <navLabel>
+        <text>Novedades bibliográficas ESTADOS UNIDOS</text>
+      </navLabel>
+      <content src="c-58Pag17.htm#novedades-bibliograficas-estados-unidos"/>
+    </navPoint>
+    <navPoint id="4a5b9046-3041-4f1f-9dc3-7efa77fc65c6" playOrder="35">
+      <navLabel>
+        <text>REVISTAS</text>
+      </navLabel>
+      <content src="c-58Pag17.htm#revistas"/>
+    </navPoint>
+    <navPoint id="96146bca-a7be-48ea-922e-a020c576e5a1" playOrder="36">
+      <navLabel>
+        <text>BEM</text>
+      </navLabel>
+      <content src="c-58Pag17.htm#bem"/>
+    </navPoint>
+    <navPoint id="8a77b675-d71d-428a-a96f-34e4e6f94012" playOrder="37">
+      <navLabel>
+        <text>UMBRALES</text>
+      </navLabel>
+      <content src="c-58Pag17.htm#umbrales"/>
+    </navPoint>
+    <navPoint id="d983c79e-7371-459a-8734-51852e31251a" playOrder="38">
+      <navLabel>
+        <text>LA LANGOSTA SE HA POSADO</text>
+      </navLabel>
+      <content src="c-58Pag17.htm#la-langosta-se-ha-posado"/>
+    </navPoint>
+    <navPoint id="43023968-cc85-4066-b17a-0873aa37e1bf" playOrder="39">
+      <navLabel>
+        <text>CUASAR</text>
+      </navLabel>
+      <content src="c-58Pag17.htm#cuasar"/>
+    </navPoint>
+    <navPoint id="ea9003df-91cd-4096-94a7-c1e5c7a2f556" playOrder="40">
+      <navLabel>
+        <text>CINE Y VIDEO</text>
+      </navLabel>
+      <content src="c-58Pag17.htm#cine-y-video"/>
+    </navPoint>
+    <navPoint id="8bd58f4e-1ff2-4039-80d1-d6d1bb6c554c" playOrder="41">
+      <navLabel>
+        <text>ELLISON AL CINE</text>
+      </navLabel>
+      <content src="c-58Pag17.htm#ellison-al-cine"/>
+    </navPoint>
+    <navPoint id="134ed6e0-d429-4014-b3d9-6d25d7cd15d6" playOrder="42">
+      <navLabel>
+        <text>POHL Y SILVERBERG TAMBIEN VAN AL CINE</text>
+      </navLabel>
+      <content src="c-58Pag17.htm#pohl-y-silverberg-tambien-van-al-cine"/>
+    </navPoint>
+    <navPoint id="9a9de670-53c4-4c40-a76f-59ee5e3b19ec" playOrder="43">
+      <navLabel>
+        <text>PINCUSHION</text>
+      </navLabel>
+      <content src="c-58Pag17.htm#pincushion"/>
+    </navPoint>
+    <navPoint id="a7c862c4-87ad-4df3-af52-7ec30a8f2925" playOrder="44">
+      <navLabel>
+        <text>NOTICIAS DIVERSAS DE CINE</text>
+      </navLabel>
+      <content src="c-58Pag17.htm#noticias-diversas-de-cine"/>
+    </navPoint>
+    <navPoint id="1d91aee7-d290-4d71-a4e1-77925b881735" playOrder="45">
+      <navLabel>
+        <text>EDICIONES EN VIDEO</text>
+      </navLabel>
+      <content src="c-58Pag17.htm#ediciones-en-video"/>
+    </navPoint>
+    <navPoint id="5678c8c4-f290-435f-8d2f-bcc107f5f4df" playOrder="46">
+      <navLabel>
+        <text>MUERTES</text>
+      </navLabel>
+      <content src="c-58Pag17.htm#muertes"/>
+    </navPoint>
+    <navPoint id="c55afa7c-bdc6-4070-9405-bb01e3bbe79d" playOrder="47">
+      <navLabel>
+        <text>T. D. HAMM</text>
+      </navLabel>
+      <content src="c-58Pag17.htm#t-d-hamm"/>
+    </navPoint>
+  </navMap>
+</ncx>

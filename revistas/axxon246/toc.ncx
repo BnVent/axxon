@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="792dfee5-0e63-4c7d-b229-a56b4f7e069d" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 246</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u96ec6945-e8bb-439b-89aa-418b9907f589" playOrder="1">
+      <navLabel>
+        <text>Editorial: Un mundo sin Axxón</text>
+      </navLabel>
+      <content src="c-246Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u26a7bafb-cb27-46fb-8542-aa616734fb66" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Umbral y Océano</text>
+      </navLabel>
+      <content src="c-246Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ud5c932a1-cdf9-4ca1-a16d-ab2bc075042a" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El caballo aparece</text>
+      </navLabel>
+      <content src="c-246Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ud672da7a-d5af-44eb-a5b5-cd80ad515c02" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El tipo que vio a Moby</text>
+      </navLabel>
+      <content src="c-246Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ub1eba194-6180-4d45-8d00-2e18f9e9d9fc" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Sargento Ignacio Cárdenas</text>
+      </navLabel>
+      <content src="c-246Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ubf0b3b07-710e-4872-88c9-4dd40f76f73f" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Algunas cosas que vi en el Desierto</text>
+      </navLabel>
+      <content src="c-246Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u49739623-8e43-463e-a2c2-7ef48d01e021" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Ficciones Breves Nº 71</text>
+      </navLabel>
+      <content src="c-246Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u7f977d35-cf84-4045-8c5b-4c508b796b2d" playOrder="8">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="u95e1dab9-9bd7-4491-8935-78fa1d3fe4a7" playOrder="8">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/246/cuento1ilus1.htm"/>
+    </navPoint>
+    <navPoint id="u6af52776-31d5-4978-8107-13978bccd9d0" playOrder="9">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/246/cuento2ilus1.htm"/>
+    </navPoint>
+    <navPoint id="u750921b0-7759-4118-a51b-14387d0a83a3" playOrder="10">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/246/cuento3ilus1.htm"/>
+    </navPoint>
+    <navPoint id="u1395f590-98ab-4351-b11f-cf3e356afe07" playOrder="11">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/246/cuento4ilus1.htm"/>
+    </navPoint>
+    <navPoint id="uae913d2b-b358-43ce-9e84-2c1f18745bb5" playOrder="12">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/246/cuento5ilus1.htm"/>
+    </navPoint>
+    <navPoint id="u80316b10-f3a1-4765-afe6-f25b32a9d39f" playOrder="13">
+      <navLabel>
+        <text>editorial</text>
+      </navLabel>
+      <content src="/rev/2013/09/editorial-un-mundo-sin-axxon/"/>
+    </navPoint>
+  </navMap>
+</ncx>

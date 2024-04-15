@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="97cca9fe-dcc9-4168-978b-ec356539eac5" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.5)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 214</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="1e2e1807-a47d-48e4-acc1-f19abeabe2c4" playOrder="1">
+      <navLabel>
+        <text>Ficciones - Misión espacial al asteroide del General</text>
+      </navLabel>
+      <content src="pagina01.htm"/>
+    </navPoint>
+    <navPoint id="9a0a7040-702d-4273-8a72-68af1c3f72e0" playOrder="2">
+      <navLabel>
+        <text>Ficciones - Notas al pie</text>
+      </navLabel>
+      <content src="pagina02.htm"/>
+    </navPoint>
+    <navPoint id="63081211-fda0-4918-b4d3-018cc03fe45a" playOrder="3">
+      <navLabel>
+        <text>Ficciones - Manzana Roja</text>
+      </navLabel>
+      <content src="pagina03.htm"/>
+    </navPoint>
+    <navPoint id="3ade3938-199d-4672-823d-e87dfb5bb082" playOrder="4">
+      <navLabel>
+        <text>Ficciones - Fairlane</text>
+      </navLabel>
+      <content src="pagina04.htm"/>
+    </navPoint>
+    <navPoint id="b6dc5c35-5cb6-45dc-a03a-30c42f359dfd" playOrder="5">
+      <navLabel>
+        <text>Ficciones - Apocalipsis</text>
+      </navLabel>
+      <content src="pagina05.htm"/>
+    </navPoint>
+    <navPoint id="67afb46f-30d9-4aca-bd3a-90ffb2810f01" playOrder="6">
+      <navLabel>
+        <text>Ficciones - Personalidades III: Vidas Paralelas en un mismo universo</text>
+      </navLabel>
+      <content src="pagina06.htm"/>
+    </navPoint>
+    <navPoint id="a79608f9-002a-4ae7-af90-1296a144bbbe" playOrder="7">
+      <navLabel>
+        <text>Ficciones - Agua turbia</text>
+      </navLabel>
+      <content src="pagina07.htm"/>
+    </navPoint>
+    <navPoint id="3e0d51b8-51af-41aa-a882-78463845158e" playOrder="8">
+      <navLabel>
+        <text>Ficciones - El más grande truco del Gran Cavalini</text>
+      </navLabel>
+      <content src="pagina08.htm"/>
+    </navPoint>
+    <navPoint id="8e1e9d35-950a-4238-bb9e-594979eed219" playOrder="9">
+      <navLabel>
+        <text>Ficciones - Igual que en la tele</text>
+      </navLabel>
+      <content src="pagina09.htm"/>
+    </navPoint>
+    <navPoint id="9d272ca6-6947-4614-81bb-9f3038df2af4" playOrder="10">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="941dae92-63dc-4cb5-a58c-2c01bc1c59bf" playOrder="10">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/214/cuento1ilus1.htm"/>
+    </navPoint>
+    <navPoint id="8c6a8146-578b-441e-be5f-fce3be634791" playOrder="11">
+      <navLabel>
+        <text>Enciclopedia</text>
+      </navLabel>
+      <content src="../../wiki/index.php"/>
+    </navPoint>
+    <navPoint id="1718d71b-e130-4435-b5ad-e1e5deb0eeeb" playOrder="12">
+      <navLabel>
+        <text>REFLEJOS</text>
+      </navLabel>
+      <content src="/rev/160/c-160cuento15.htm"/>
+    </navPoint>
+    <navPoint id="5370f29a-109d-44f8-92eb-1b255009909b" playOrder="13">
+      <navLabel>
+        <text>CONTRA EL TAXISTA</text>
+      </navLabel>
+      <content src="/rev/163/c-163cuento18.htm"/>
+    </navPoint>
+    <navPoint id="6716933d-a133-47e5-b63d-be6d11f3dadb" playOrder="14">
+      <navLabel>
+        <text>EL IDIOMA DE LOS PRÓCERES</text>
+      </navLabel>
+      <content src="/rev/167/c-167cuento5.htm"/>
+    </navPoint>
+    <navPoint id="bd29c845-81d5-4e01-a097-28352cf10485" playOrder="15">
+      <navLabel>
+        <text>EL JEDI SE VA DE COMPRAS</text>
+      </navLabel>
+      <content src="/rev/169/c-169cuento8.htm"/>
+    </navPoint>
+    <navPoint id="ecbaa65b-b205-4990-b214-eb6c5993f688" playOrder="16">
+      <navLabel>
+        <text>EL EXAMEN MÉDICO</text>
+      </navLabel>
+      <content src="/rev/171/c-171cuento11.htm"/>
+    </navPoint>
+    <navPoint id="f34cc957-466e-4d15-b808-76a738eafeae" playOrder="17">
+      <navLabel>
+        <text>LA VIDA EN LA GALAXIA</text>
+      </navLabel>
+      <content src="/rev/178/c-178cuento4.htm"/>
+    </navPoint>
+    <navPoint id="6687e436-773e-4cd5-befa-0ba7ebb47871" playOrder="18">
+      <navLabel>
+        <text>UN MISTERIO URBANO EN ROSARIO, ARGENTINA</text>
+      </navLabel>
+      <content src="/rev/179/c-179cuento7.htm"/>
+    </navPoint>
+    <navPoint id="f001e118-33b5-4e18-92e9-c6143fb84188" playOrder="19">
+      <navLabel>
+        <text>LA NAVE DE LOS SUEÑOS</text>
+      </navLabel>
+      <content src="/rev/181/c-181cuento7.htm"/>
+    </navPoint>
+    <navPoint id="ff6e1ed0-5a6b-4fde-b7eb-b427c7e737ce" playOrder="20">
+      <navLabel>
+        <text>LA SEMANA ALEATORIA: CRÓNICA DE UN EXPERIMENTO SOCIAL</text>
+      </navLabel>
+      <content src="/rev/"/>
+    </navPoint>
+    <navPoint id="be98f468-a3de-445f-ac6f-5968f58e829e" playOrder="21">
+      <navLabel>
+        <text>BURROS MÁS VELOCES QUE LA LUZ</text>
+      </navLabel>
+      <content src="/rev/187/c-187cuento4.htm"/>
+    </navPoint>
+    <navPoint id="caf8e0de-dfe1-40cf-9411-ef0bca3b77ae" playOrder="22">
+      <navLabel>
+        <text>ROBOT</text>
+      </navLabel>
+      <content src="/rev/169/c-169cuento3.htm"/>
+    </navPoint>
+    <navPoint id="e1c5b5f0-84de-4964-99e2-9f4d792a8bf0" playOrder="23">
+      <navLabel>
+        <text>EL DESTINO NO ES CIEGO</text>
+      </navLabel>
+      <content src="/rev/135/c-135Uficcion1.htm"/>
+    </navPoint>
+    <navPoint id="e9450750-e4c0-4444-bde9-b997ea834adf" playOrder="24">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/214/cuento2ilus1.htm"/>
+    </navPoint>
+    <navPoint id="b10969b7-89c1-4713-a7ef-fc314eb9a8e5" playOrder="25">
+      <navLabel>
+        <text>TRES VECES MÁS PEQUEÑO</text>
+      </navLabel>
+      <content src="/rev/163/c-163cuento11.htm"/>
+    </navPoint>
+    <navPoint id="19caad43-800c-4873-bf96-24643908374e" playOrder="26">
+      <navLabel>
+        <text>AJOLOTE</text>
+      </navLabel>
+      <content src="/rev/156/c-156cuento2.htm"/>
+    </navPoint>
+    <navPoint id="bf10e2a8-b80d-4e56-a700-94674e478da1" playOrder="27">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/214/cuento3ilus1.htm"/>
+    </navPoint>
+    <navPoint id="b8d783a2-f0ca-4b6a-98b8-6b702f02c66c" playOrder="28">
+      <navLabel>
+        <text>DIOS DEL ÁCIDO</text>
+      </navLabel>
+      <content src="/rev/135/c-135Cuento1.htm"/>
+    </navPoint>
+    <navPoint id="eb4b21ff-9e9d-463f-a067-ceebbc1847e4" playOrder="29">
+      <navLabel>
+        <text>FAMILIA DEL VEINTIUNO</text>
+      </navLabel>
+      <content src="/rev/195/c-195cuento3.htm"/>
+    </navPoint>
+    <navPoint id="0d4150c8-5397-4799-9b25-e0c6580e334c" playOrder="30">
+      <navLabel>
+        <text>DUENDES</text>
+      </navLabel>
+      <content src="/rev/196/c-196cuento3.htm"/>
+    </navPoint>
+    <navPoint id="5279fea8-ef20-4a78-ac85-73c9b5105a87" playOrder="31">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/214/cuento4ilus1.htm"/>
+    </navPoint>
+    <navPoint id="4d9bd264-7bf0-4add-aa0a-112ff581482f" playOrder="32">
+      <navLabel>
+        <text>CÍRCULOS Y ENGRANAJES</text>
+      </navLabel>
+      <content src="/rev/155/c-155cuento1.htm"/>
+    </navPoint>
+    <navPoint id="fc053f5d-6ea8-4571-bec4-57dbe281a80d" playOrder="33">
+      <navLabel>
+        <text>UN CRIMEN PASIONAL</text>
+      </navLabel>
+      <content src="/rev/#10"/>
+    </navPoint>
+    <navPoint id="d48a80a9-b257-4299-a208-073d5c06ce11" playOrder="34">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/214/cuento5ilus1.htm"/>
+    </navPoint>
+    <navPoint id="2e55883b-2347-474f-8f3a-cdd6d509229b" playOrder="35">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/214/cuento6ilus1.htm"/>
+    </navPoint>
+    <navPoint id="9dbae52c-ee59-4b84-899c-8549e190199f" playOrder="36">
+      <navLabel>
+        <text>PERSONALIDADES</text>
+      </navLabel>
+      <content src="/rev/175/c-175cuento9.htm"/>
+    </navPoint>
+    <navPoint id="d885bf77-21b2-40f9-9acb-d319b9068834" playOrder="37">
+      <navLabel>
+        <text>PERSONALIDADES II: AUTÓMATA DE BUENOS AIRES</text>
+      </navLabel>
+      <content src="/rev/185/c-185cuento3.htm"/>
+    </navPoint>
+    <navPoint id="8a58ec4c-9a61-4b79-aaa5-b4ffc17522ac" playOrder="38">
+      <navLabel>
+        <text>ANOCHE-SER</text>
+      </navLabel>
+      <content src="/rev/196/c-196cuento1.htm"/>
+    </navPoint>
+    <navPoint id="fad24448-c278-4a7b-a241-85d3fdc10ed4" playOrder="39">
+      <navLabel>
+        <text>AVATAR</text>
+      </navLabel>
+      <content src="/rev/190/c-190cuento1.htm"/>
+    </navPoint>
+    <navPoint id="99c18a0f-ae9c-451b-8dde-2dba2583564f" playOrder="40">
+      <navLabel>
+        <text>SECRETO DE CONFESIÓN</text>
+      </navLabel>
+      <content src="/rev/104/c-104Cuento2.htm"/>
+    </navPoint>
+    <navPoint id="1c24ca32-ee89-4fc7-90cb-37a894c026c4" playOrder="41">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/214/cuento7ilus1.htm"/>
+    </navPoint>
+    <navPoint id="006990c0-1af1-4e8f-9101-5476df3aa755" playOrder="42">
+      <navLabel>
+        <text>EL LIBRO DEL HIEROFANTE</text>
+      </navLabel>
+      <content src="/rev/194/c-194cuento9.htm"/>
+    </navPoint>
+    <navPoint id="87f6f026-e35b-4f47-8639-93d39af7f20d" playOrder="43">
+      <navLabel>
+        <text>EL COLOR QUE CAYÓ DEL CIELO</text>
+      </navLabel>
+      <content src="/rev/173/c-173cuento18.htm"/>
+    </navPoint>
+    <navPoint id="e5f51ba2-0ab3-4bfc-93fa-922175a69c89" playOrder="44">
+      <navLabel>
+        <text>LA LLAMADA DE CTHULHU</text>
+      </navLabel>
+      <content src="/rev/165/c-165cuento9.htm"/>
+    </navPoint>
+    <navPoint id="377add1a-dc9d-4834-a68d-6ebbe29ca3f5" playOrder="45">
+      <navLabel>
+        <text>STATUS QUO</text>
+      </navLabel>
+      <content src="/rev/115/c-115StatusQuo.htm"/>
+    </navPoint>
+    <navPoint id="b7341961-0a86-4832-b057-2ac6d4854621" playOrder="46">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/214/cuento8ilus1.htm"/>
+    </navPoint>
+    <navPoint id="608db9a1-eca5-4d9a-827a-f1eac0809f78" playOrder="47">
+      <navLabel>
+        <text>ADIVINA, ADIVINANZA</text>
+      </navLabel>
+      <content src="/rev/179/c-179cuento6.htm"/>
+    </navPoint>
+    <navPoint id="8e77cd63-2efc-4d0a-96d1-674ed4bad8d8" playOrder="48">
+      <navLabel>
+        <text>ÚLTIMO ACTO</text>
+      </navLabel>
+      <content src="/rev/197/c-197cuento9.htm#1"/>
+    </navPoint>
+    <navPoint id="42e82960-2032-4366-aeeb-da114c9edbad" playOrder="49">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/214/cuento9ilus1.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

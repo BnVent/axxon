@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="899fc5c9-a3ef-4012-bdd7-19e95978e1e9" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.13.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 33</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ufquTYyMlO3D72OUoOLkIt6" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 33</text>
+      </navLabel>
+      <content src="c-33Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ugPuM5vDSENPD7os4zR9qR5" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Demasiado tiempo</text>
+      </navLabel>
+      <content src="c-33Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uPtUc2jxRupYGVUsVfmFQqD" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Imágenes persistentes</text>
+      </navLabel>
+      <content src="c-33Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uPW6t7gVtNHavpVmMJfvhz2" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El mundo está lleno de mujeres hermosas</text>
+      </navLabel>
+      <content src="c-33Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uOaaxGWzIxJtiSULEj9bpX4" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Jinetes del radio</text>
+      </navLabel>
+      <content src="c-33Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uyMDaOF7CwYfMgriSyKYDh5" playOrder="6">
+      <navLabel>
+        <text>Ficciones: El agujero bueno</text>
+      </navLabel>
+      <content src="c-33Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uwu6ujESlWiW8IMDvKPQ357" playOrder="7">
+      <navLabel>
+        <text>Ficciones: El procesador de texto de los dioses</text>
+      </navLabel>
+      <content src="c-33Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uFE7Ulc3RyZ9gjFXBozDjB4" playOrder="8">
+      <navLabel>
+        <text>Ensayo: La imagen de la mujer en la ciencia ficción</text>
+      </navLabel>
+      <content src="c-33Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uI4iFuYtkgWXuHaM6MArTLE" playOrder="9">
+      <navLabel>
+        <text>Correo: Correo 33</text>
+      </navLabel>
+      <content src="c-33Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uzBmw58ryXgj47Enh6dqtID" playOrder="10">
+      <navLabel>
+        <text>Noticias: Crónica del otro lado del charco</text>
+      </navLabel>
+      <content src="c-33Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uvYMkZJZF5jCY5cEqzCjv34" playOrder="11">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad</text>
+      </navLabel>
+      <content src="c-33Pag11.htm"/>
+    </navPoint>
+    <navPoint id="uGaaZcL3BbOfLnLVNwRfcCH" playOrder="12">
+      <navLabel>
+        <text>Anticipos: En próximos números de Axxón</text>
+      </navLabel>
+      <content src="c-33Pag12.htm"/>
+    </navPoint>
+    <navPoint id="uLge4VIDuxq9H8sKoQGHff2" playOrder="13">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-33Pag13.htm"/>
+    </navPoint>
+    <navPoint id="up6WjRGZKaoUEpSQ36yCtj2" playOrder="14">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="29c78e54-ee16-4cc9-a444-bff54abfabf6" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.22)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 106</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u38287777-8058-48dc-acd4-690b921b8573" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-106Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u4f72521d-82d3-48bd-9a68-5877144aae02" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 106</text>
+      </navLabel>
+      <content src="c-106Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u978e0ba9-beb3-4d4f-bd02-e930c85a1240" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El arma</text>
+      </navLabel>
+      <content src="c-106Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u6ccda222-ba13-49dc-b156-f0437c5c9ca2" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Islandia</text>
+      </navLabel>
+      <content src="c-106Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ua32473ab-0cc2-4ea2-80c8-027ecc5e5d88" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Mein Führer</text>
+      </navLabel>
+      <content src="c-106Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ub50e1679-5efe-45a1-b580-ff01fa16ef7c" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Camino a Kali</text>
+      </navLabel>
+      <content src="c-106Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u89e68e8c-a3d7-4f9c-aa7f-9a0a7c0dbc41" playOrder="7">
+      <navLabel>
+        <text>Sección: Undernow</text>
+      </navLabel>
+      <content src="c-106Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u9953adda-26d0-470a-91e3-7edba32c66ea" playOrder="8">
+      <navLabel>
+        <text>Entrevista: Entrevista con Pablo Capanna</text>
+      </navLabel>
+      <content src="c-106Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u056ef9d9-3d23-4595-9569-36793c13d489" playOrder="9">
+      <navLabel>
+        <text>Sección: Tecno Núcleo: Sacando cuentas con los dedos</text>
+      </navLabel>
+      <content src="c-106Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u81dbc71f-e89d-4a70-b751-02100c996368" playOrder="10">
+      <navLabel>
+        <text>Sección: Telaraña</text>
+      </navLabel>
+      <content src="c-106Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ua8950155-7136-4f63-8228-243a8b2abe7b" playOrder="11">
+      <navLabel>
+        <text>Noticias: Concursos, premios, convocatorias…</text>
+      </navLabel>
+      <content src="c-106Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ue6f3a341-36e4-4bbf-9a0b-3f9e227fff9d" playOrder="13">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="u79a7fe47-3d45-496f-b099-137b8975d1b8" playOrder="12">
+      <navLabel>
+        <text>Telaraña</text>
+      </navLabel>
+      <content src="c-106_10.htm"/>
+    </navPoint>
+    <navPoint id="u7e7b6f42-4ba5-42bd-980f-bc66542caf34" playOrder="12">
+      <navLabel>
+        <text>revista BEM</text>
+      </navLabel>
+      <content src="c-106Pag11.htm#cartabem"/>
+    </navPoint>
+  </navMap>
+</ncx>

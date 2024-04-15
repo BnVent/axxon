@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="a5d3b5e9-6cc5-4094-9df7-f42cb13ecd23" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.31.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 132</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uc0fa6318-8ed5-44df-b092-bfdc610842aa" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 132</text>
+      </navLabel>
+      <content src="c-132Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ua952d3f5-bcbb-4cb3-888f-5228d7b360b6" playOrder="2">
+      <navLabel>
+        <text>Correo: Correo 132</text>
+      </navLabel>
+      <content src="c-132Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ued33384e-2fd7-46e8-92db-fb87831a718d" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El primer viaje de la Argonauta</text>
+      </navLabel>
+      <content src="c-132Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u752fefcf-8902-49be-ba21-ffdb18481228" playOrder="4">
+      <navLabel>
+        <text>Divulgación: Fantasmas del vendaval</text>
+      </navLabel>
+      <content src="c-132Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ucbbba55a-050b-4822-a8c5-03a37995a11e" playOrder="5">
+      <navLabel>
+        <text>Ensayo: “1984” y el poder despótico</text>
+      </navLabel>
+      <content src="c-132Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uc89e63ad-250e-45f7-b305-9c2cfc8d65a6" playOrder="6">
+      <navLabel>
+        <text>Sección: Anacrónicas</text>
+      </navLabel>
+      <content src="c-132Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u381e3e9f-2a9f-480c-98ec-69a98cebc7dd" playOrder="7">
+      <navLabel>
+        <text>Anacrónicas: Reseña: El diario del mariposón</text>
+      </navLabel>
+      <content src="c-132Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u6965d709-5d78-4795-a8d1-0a2028450c31" playOrder="8">
+      <navLabel>
+        <text>Anacrónicas: El mangazo</text>
+      </navLabel>
+      <content src="c-132Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uc47f2fd4-9c76-4049-abfa-cfa1b76ca7e8" playOrder="9">
+      <navLabel>
+        <text>Anacrónicas: El Gaucho de los Anillos (13)</text>
+      </navLabel>
+      <content src="c-132Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u2664b526-538c-459e-a099-27d17b100d80" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Historia fantástica del soldado Fabio Leguizamón</text>
+      </navLabel>
+      <content src="c-132Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u9314bbf6-0418-4bd8-b67f-5f73b60935a3" playOrder="11">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

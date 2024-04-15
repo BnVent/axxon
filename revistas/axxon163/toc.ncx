@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="a2a4bb6f-1bc9-4698-bd4b-6d8c0365c305" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.38.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 163</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u9c8dfb56-8c0c-4b43-8818-e779ca9f32e8" playOrder="1">
+      <navLabel>
+        <text>Editorial: Contradicciones</text>
+      </navLabel>
+      <content src="c-163Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u7a47d42f-e189-4e4e-876d-9d134835e73a" playOrder="2">
+      <navLabel>
+        <text>Correo: Correo axxónico</text>
+      </navLabel>
+      <content src="c-163Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uf08450f4-381e-4107-8f00-1c65a1054989" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Incidente en la base de lanzamiento de misiles</text>
+      </navLabel>
+      <content src="c-163Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u5d1ce486-66fc-4ab6-9777-50c76465e304" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El aparcamiento</text>
+      </navLabel>
+      <content src="c-163Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u2c1d1667-943e-4564-bc62-5f06ac853c25" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Pervivencia de la pasión romántica</text>
+      </navLabel>
+      <content src="c-163Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uf9bfef97-b12a-4dd4-963a-7af3a710c68a" playOrder="6">
+      <navLabel>
+        <text>Ficciones: El ciego perfecto</text>
+      </navLabel>
+      <content src="c-163Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u2d2c8d62-00f2-4cc8-8a52-f3e8f1adb095" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Huéspedes del basurero</text>
+      </navLabel>
+      <content src="c-163Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u13b83aa6-c8ec-4ac7-862f-a77bdec31a78" playOrder="8">
+      <navLabel>
+        <text>Ficciones: 82 ficciones apocalípticas</text>
+      </navLabel>
+      <content src="c-163Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ube612056-7a20-4074-b338-3d4cb6fa40e1" playOrder="9">
+      <navLabel>
+        <text>Divulgación: Los peligros del twist</text>
+      </navLabel>
+      <content src="c-163Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u535a767f-f81f-4b83-a6af-b4d263faaec1" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Rodillas de Mercromina</text>
+      </navLabel>
+      <content src="c-163Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ua6ab7e65-9dfc-4213-90d4-aabb6ec0f474" playOrder="11">
+      <navLabel>
+        <text>Ficciones: La cria de Hatch</text>
+      </navLabel>
+      <content src="c-163Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u91e8d6e8-8c7f-40dd-affc-82ed6a233a76" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Malos pensamientos</text>
+      </navLabel>
+      <content src="c-163Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u79c13eb5-e6a6-4a1c-8df9-8d55401e55b4" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Johnny Gobac y su maravilloso circo de ratas</text>
+      </navLabel>
+      <content src="c-163Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u0d488fb7-038c-46e8-b068-6e8b18b91c5c" playOrder="14">
+      <navLabel>
+        <text>Ficciones: Tres veces más pequeño</text>
+      </navLabel>
+      <content src="c-163Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u7a7a2a9e-c8db-4b08-803f-d9d446440154" playOrder="15">
+      <navLabel>
+        <text>Ficciones: La triple muerte de Moffo Mönnly</text>
+      </navLabel>
+      <content src="c-163Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u9d5de477-ae48-43c2-873d-a1e916ac198b" playOrder="16">
+      <navLabel>
+        <text>Ficciones: Orden directa</text>
+      </navLabel>
+      <content src="c-163Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u257ca42e-2fef-41fc-805c-34506012044d" playOrder="17">
+      <navLabel>
+        <text>Ficciones: Muerte lenta</text>
+      </navLabel>
+      <content src="c-163Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u5e513571-baea-4cd1-b42e-14958f14e2ab" playOrder="18">
+      <navLabel>
+        <text>Ficciones: Danaide metálica</text>
+      </navLabel>
+      <content src="c-163Pag18.htm"/>
+    </navPoint>
+    <navPoint id="uda42ea6a-c8ef-4979-8bc1-e11f7dfe5a0d" playOrder="19">
+      <navLabel>
+        <text>Ficciones: Simbiótica</text>
+      </navLabel>
+      <content src="c-163Pag19.htm"/>
+    </navPoint>
+    <navPoint id="ud72b6073-898d-4cf4-a67a-3df724747967" playOrder="20">
+      <navLabel>
+        <text>Ficciones: Guardianes de un dios ignoto</text>
+      </navLabel>
+      <content src="c-163Pag20.htm"/>
+    </navPoint>
+    <navPoint id="u983fb65e-8881-434c-b98d-5cc2550348b9" playOrder="21">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (27)</text>
+      </navLabel>
+      <content src="c-163Pag21.htm"/>
+    </navPoint>
+    <navPoint id="u11105d91-c81b-461c-82ca-fe37ea51af6f" playOrder="22">
+      <navLabel>
+        <text>Clásico: El hombre artificial</text>
+      </navLabel>
+      <content src="c-163Pag22.htm"/>
+    </navPoint>
+    <navPoint id="u6b911f70-eb82-45b1-9f3f-40061bc2ce6f" playOrder="23">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

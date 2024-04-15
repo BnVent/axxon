@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="49a01566-8f16-424e-86b8-5fbbbbfaa7bf" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.14.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 248</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ue0ee1279-323f-485f-bd6b-a02e885b7564" playOrder="1">
+      <navLabel>
+        <text>Editorial: Disociados</text>
+      </navLabel>
+      <content src="c-248Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u686daa29-cfec-4f3b-8c60-ab0f387fd98a" playOrder="2">
+      <navLabel>
+        <text>Presentación: Ricardo Giorno: apuntes biográficos</text>
+      </navLabel>
+      <content src="c-248Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u6c73fb8b-0ddd-4350-a62c-5b8ced4e3b4d" playOrder="3">
+      <navLabel>
+        <text>Entrevista: Entrevista a Ricardo Giorno</text>
+      </navLabel>
+      <content src="c-248Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u016a87a2-d8d0-4106-a5f0-b93170945d5c" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Segundo teatro de operaciones: la Charly contra la Lenon y la Macárni</text>
+      </navLabel>
+      <content src="c-248Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u6f4d1b94-7aad-4e68-b263-d500ba673f5e" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Último tango en Buenos Aires</text>
+      </navLabel>
+      <content src="c-248Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u3261428f-a986-4405-93a5-a1dba1c2c5c8" playOrder="6">
+      <navLabel>
+        <text>Ficciones: A vos, te parece</text>
+      </navLabel>
+      <content src="c-248Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u8b60bb53-81fd-4c90-91e4-8170c2ce9114" playOrder="7">
+      <navLabel>
+        <text>Ficciones: El loco de la colina</text>
+      </navLabel>
+      <content src="c-248Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ua7fec722-e17f-433c-83ec-af0b080ad6ef" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Síndrome de escritodeficiencia adquirida</text>
+      </navLabel>
+      <content src="c-248Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u3deb8f2b-bb70-40d8-9a1b-431d803fd02a" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Argentina potencia</text>
+      </navLabel>
+      <content src="c-248Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ufe2f64a5-afd9-4089-8aef-ef735c85bf4d" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Dolores que se pasan</text>
+      </navLabel>
+      <content src="c-248Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ufd0b9af0-9c36-4279-b745-2a819df89573" playOrder="11">
+      <navLabel>
+        <text>Ficciones: En verano… hambre</text>
+      </navLabel>
+      <content src="c-248Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ue0e3170a-1068-44c5-9fc6-ea29c871f653" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Cadenas</text>
+      </navLabel>
+      <content src="c-248Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u2113e684-a19e-4719-ab18-75e1e1c70971" playOrder="13">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

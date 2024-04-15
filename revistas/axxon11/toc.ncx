@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="42f08232-7393-48f2-b3c1-e8966e0cadb9" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.41.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 11</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u62a29f71-d01f-44e2-a501-d8f32424d4cb" playOrder="1">
+      <navLabel>
+        <text>Editorial: Fractales</text>
+      </navLabel>
+      <content src="c-11Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u021ad10a-3828-4158-a619-9284c04bb9dd" playOrder="2">
+      <navLabel>
+        <text>Nota: El conjunto de Mandelbrot</text>
+      </navLabel>
+      <content src="c-11Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u6fc903c5-11b8-4cfd-9d5c-9f91a69b9013" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Las sectas Amygdalianas</text>
+      </navLabel>
+      <content src="c-11Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uba5a321e-d1f2-409f-ae67-a1abee71976a" playOrder="4">
+      <navLabel>
+        <text>Fractales: Fractales</text>
+      </navLabel>
+      <content src="c-11Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uc249d7c9-a874-4b71-801c-7fa401923478" playOrder="5">
+      <navLabel>
+        <text>Correo: Correo 11</text>
+      </navLabel>
+      <content src="c-11Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u946739dd-124c-4365-85ee-c89245556aa2" playOrder="6">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-11Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uc199cf2b-a925-4770-a664-7c64390cd2f0" playOrder="7">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-11Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u825e2ecb-0159-4d5c-a9a7-05a1a8ca2b86" playOrder="8">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

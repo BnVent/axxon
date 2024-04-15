@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Ediciones Axxón</dc:publisher>
+    <meta name="calibre:series_index" content="119"/>
+    <dc:language>es</dc:language>
+    <dc:creator opf:file-as="Desconocido" opf:role="aut">Eduardo Carletti (editor)</dc:creator>
+    <meta name="calibre:timestamp" content="2013-11-09T17:54:08.631000+00:00"/>
+    <dc:title>Axxón 119</dc:title>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:series" content="Axxón"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">4e2ecb03-63c7-43cc-a49b-c4ec35396739</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="axxon.htm" id="html8" media-type="application/xhtml+xml"/>
+    <item href="axxon00.gif" id="added104" media-type="image/gif"/>
+    <item href="axxon119.htm" id="html" media-type="application/xhtml+xml"/>
+    <item href="c-119Pag01.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="c-119Pag02.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="c-119Pag03.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="c-119Pag04.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="c-119Pag05.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="c-119Pag06.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="c-119Pag07.htm" id="html7" media-type="application/xhtml+xml"/>
+    <item href="c-119anderfoto01.jpg" id="added28" media-type="image/jpeg"/>
+    <item href="c-119anderfoto01ch.jpg" id="added29" media-type="image/jpeg"/>
+    <item href="c-119anderfoto02.jpg" id="added30" media-type="image/jpeg"/>
+    <item href="c-119anderfoto02ch.jpg" id="added31" media-type="image/jpeg"/>
+    <item href="c-119anderfoto03.jpg" id="added32" media-type="image/jpeg"/>
+    <item href="c-119anderfoto03ch.jpg" id="added33" media-type="image/jpeg"/>
+    <item href="c-119anderfoto04.jpg" id="added34" media-type="image/jpeg"/>
+    <item href="c-119anderfoto04ch.jpg" id="added35" media-type="image/jpeg"/>
+    <item href="c-119anderfoto05.jpg" id="added36" media-type="image/jpeg"/>
+    <item href="c-119anderfoto05ch.jpg" id="added37" media-type="image/jpeg"/>
+    <item href="c-119anderfoto06.jpg" id="added38" media-type="image/jpeg"/>
+    <item href="c-119anderfoto06ch.jpg" id="added39" media-type="image/jpeg"/>
+    <item href="c-119anderfoto11.jpg" id="added40" media-type="image/jpeg"/>
+    <item href="c-119anderfoto11ch.jpg" id="added41" media-type="image/jpeg"/>
+    <item href="c-119anderfoto13.jpg" id="added42" media-type="image/jpeg"/>
+    <item href="c-119anderfoto13ch.jpg" id="added43" media-type="image/jpeg"/>
+    <item href="c-119anderfoto14.jpg" id="added44" media-type="image/jpeg"/>
+    <item href="c-119anderfoto14ch.jpg" id="added45" media-type="image/jpeg"/>
+    <item href="c-119anderfoto15.jpg" id="added46" media-type="image/jpeg"/>
+    <item href="c-119anderfoto15ch.jpg" id="added47" media-type="image/jpeg"/>
+    <item href="c-119anderfoto16.jpg" id="added48" media-type="image/jpeg"/>
+    <item href="c-119anderfoto16ch.jpg" id="added49" media-type="image/jpeg"/>
+    <item href="c-119anderfoto17.jpg" id="added50" media-type="image/jpeg"/>
+    <item href="c-119anderfoto17ch.jpg" id="added51" media-type="image/jpeg"/>
+    <item href="c-119anderfoto18.jpg" id="added52" media-type="image/jpeg"/>
+    <item href="c-119anderfoto18ch.jpg" id="added53" media-type="image/jpeg"/>
+    <item href="c-119anderfoto19.jpg" id="added54" media-type="image/jpeg"/>
+    <item href="c-119anderfoto19ch.jpg" id="added55" media-type="image/jpeg"/>
+    <item href="c-119anderfoto20.jpg" id="added56" media-type="image/jpeg"/>
+    <item href="c-119anderfoto20ch.jpg" id="added57" media-type="image/jpeg"/>
+    <item href="c-119anderfoto21.jpg" id="added58" media-type="image/jpeg"/>
+    <item href="c-119anderfoto21ch.jpg" id="added59" media-type="image/jpeg"/>
+    <item href="c-119anderfoto22.jpg" id="added60" media-type="image/jpeg"/>
+    <item href="c-119anderfoto22ch.jpg" id="added61" media-type="image/jpeg"/>
+    <item href="c-119anderfoto23.jpg" id="added62" media-type="image/jpeg"/>
+    <item href="c-119anderfoto23ch.jpg" id="added63" media-type="image/jpeg"/>
+    <item href="c-119anderfoto24.jpg" id="added64" media-type="image/jpeg"/>
+    <item href="c-119anderfoto24ch.jpg" id="added65" media-type="image/jpeg"/>
+    <item href="c-119anderfoto25.jpg" id="added66" media-type="image/jpeg"/>
+    <item href="c-119anderfoto25ch.jpg" id="added67" media-type="image/jpeg"/>
+    <item href="c-119anderfoto26.jpg" id="added68" media-type="image/jpeg"/>
+    <item href="c-119anderfoto26ch.jpg" id="added69" media-type="image/jpeg"/>
+    <item href="c-119anderfoto27.jpg" id="added70" media-type="image/jpeg"/>
+    <item href="c-119anderfoto27ch.jpg" id="added71" media-type="image/jpeg"/>
+    <item href="c-119anderfoto28.jpg" id="added72" media-type="image/jpeg"/>
+    <item href="c-119anderfoto28ch.jpg" id="added73" media-type="image/jpeg"/>
+    <item href="c-119anderfoto29.jpg" id="added74" media-type="image/jpeg"/>
+    <item href="c-119anderfoto29ch.jpg" id="added75" media-type="image/jpeg"/>
+    <item href="c-119anderfoto30.jpg" id="added76" media-type="image/jpeg"/>
+    <item href="c-119anderfoto30ch.jpg" id="added77" media-type="image/jpeg"/>
+    <item href="c-119anderfoto31.jpg" id="added78" media-type="image/jpeg"/>
+    <item href="c-119anderfoto31ch.jpg" id="added79" media-type="image/jpeg"/>
+    <item href="c-119anderfoto32.jpg" id="added80" media-type="image/jpeg"/>
+    <item href="c-119anderfoto32ch.jpg" id="added81" media-type="image/jpeg"/>
+    <item href="c-119anderfoto33.jpg" id="added82" media-type="image/jpeg"/>
+    <item href="c-119anderfoto33ch.jpg" id="added83" media-type="image/jpeg"/>
+    <item href="c-119anderfoto34.jpg" id="added84" media-type="image/jpeg"/>
+    <item href="c-119anderfoto34ch.jpg" id="added85" media-type="image/jpeg"/>
+    <item href="c-119anderfoto35.jpg" id="added86" media-type="image/jpeg"/>
+    <item href="c-119anderfoto35ch.jpg" id="added87" media-type="image/jpeg"/>
+    <item href="c-119anderfoto36.jpg" id="added88" media-type="image/jpeg"/>
+    <item href="c-119anderfoto36ch.jpg" id="added89" media-type="image/jpeg"/>
+    <item href="c-119anderfoto37.jpg" id="added90" media-type="image/jpeg"/>
+    <item href="c-119anderfoto37ch.jpg" id="added91" media-type="image/jpeg"/>
+    <item href="c-119anderfoto38.jpg" id="added92" media-type="image/jpeg"/>
+    <item href="c-119anderfoto38ch.jpg" id="added93" media-type="image/jpeg"/>
+    <item href="c-119anderfoto39.jpg" id="added94" media-type="image/jpeg"/>
+    <item href="c-119anderfoto39ch.jpg" id="added95" media-type="image/jpeg"/>
+    <item href="c-119anderfoto40.jpg" id="added96" media-type="image/jpeg"/>
+    <item href="c-119anderfoto40ch.jpg" id="added97" media-type="image/jpeg"/>
+    <item href="c-119anderfoto41.jpg" id="added98" media-type="image/jpeg"/>
+    <item href="c-119anderfoto41ch.jpg" id="added99" media-type="image/jpeg"/>
+    <item href="c-119anderfoto42.jpg" id="added100" media-type="image/jpeg"/>
+    <item href="c-119anderfoto42ch.jpg" id="added101" media-type="image/jpeg"/>
+    <item href="c-119anderfoto43.jpg" id="added102" media-type="image/jpeg"/>
+    <item href="c-119anderfoto43ch.jpg" id="added103" media-type="image/jpeg"/>
+    <item href="c-119barraander.gif" id="added27" media-type="image/gif"/>
+    <item href="c-119gal01.htm" id="added11" media-type="application/xhtml+xml"/>
+    <item href="c-119gal01ch.jpg" id="added12" media-type="image/jpeg"/>
+    <item href="c-119gal02.htm" id="added23" media-type="application/xhtml+xml"/>
+    <item href="c-119gal02ch.jpg" id="added24" media-type="image/jpeg"/>
+    <item href="c-119gal03.htm" id="added17" media-type="application/xhtml+xml"/>
+    <item href="c-119gal03ch.jpg" id="added18" media-type="image/jpeg"/>
+    <item href="c-119gal04.htm" id="added19" media-type="application/xhtml+xml"/>
+    <item href="c-119gal04ch.jpg" id="added20" media-type="image/jpeg"/>
+    <item href="c-119gal05.htm" id="added13" media-type="application/xhtml+xml"/>
+    <item href="c-119gal05ch.jpg" id="added14" media-type="image/jpeg"/>
+    <item href="c-119gal06.htm" id="added21" media-type="application/xhtml+xml"/>
+    <item href="c-119gal06ch.jpg" id="added22" media-type="image/jpeg"/>
+    <item href="c-119gal07.htm" id="added15" media-type="application/xhtml+xml"/>
+    <item href="c-119gal07ch.jpg" id="added16" media-type="image/jpeg"/>
+    <item href="c-119gal08.htm" id="added25" media-type="application/xhtml+xml"/>
+    <item href="c-119gal08ch.jpg" id="added26" media-type="image/jpeg"/>
+    <item href="c-119perrosilus1.jpg" id="added6" media-type="image/jpeg"/>
+    <item href="c-119perrosilus2.jpg" id="added7" media-type="image/jpeg"/>
+    <item href="c-119perrosilus3.jpg" id="added8" media-type="image/jpeg"/>
+    <item href="c-119perrosilus4.jpg" id="added9" media-type="image/jpeg"/>
+    <item href="c-119perrosilus5.jpg" id="added10" media-type="image/jpeg"/>
+    <item href="c-119quilinoilus.htm" id="added3" media-type="application/xhtml+xml"/>
+    <item href="c-119quilinoilusch.jpg" id="added4" media-type="image/jpeg"/>
+    <item href="c-119tapach.jpg" id="added105" media-type="image/jpeg"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="x-epub.png" id="added106" media-type="image/png"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+    <itemref idref="html1"/>
+    <itemref idref="html2"/>
+    <itemref idref="html3"/>
+    <itemref idref="html4"/>
+    <itemref idref="html5"/>
+    <itemref idref="html6"/>
+    <itemref idref="html7"/>
+    <itemref idref="html8"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

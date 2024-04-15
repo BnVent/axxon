@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="c6d06aa4-3281-4316-9a22-23a207f1a27c" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.42.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 254</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u35da0f05-3ed1-4eb4-aff2-93a242f00ff1" playOrder="1">
+      <navLabel>
+        <text>Editorial : Esperanza</text>
+      </navLabel>
+      <content src="c-254Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u96831c09-6dd4-4d57-b612-8dd41527bbb4" playOrder="2">
+      <navLabel>
+        <text>Ficciones : A sus huesos se los llevará el viento</text>
+      </navLabel>
+      <content src="c-254Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u277f880f-a3d8-4fa1-9217-f159d826e9f9" playOrder="3">
+      <navLabel>
+        <text>Ficciones : La noche de los cazadores</text>
+      </navLabel>
+      <content src="c-254Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u5084154e-6494-49e2-bedb-88a6d273a990" playOrder="4">
+      <navLabel>
+        <text>Ficciones : Fiebre</text>
+      </navLabel>
+      <content src="c-254Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u845c34c6-c232-4a49-b8f8-a6392b56c076" playOrder="5">
+      <navLabel>
+        <text>Ficciones : Horóscopo Cuántico (no tan) Definitivo</text>
+      </navLabel>
+      <content src="c-254Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uad54e388-bea7-4593-bf4d-6b70ce143ef2" playOrder="6">
+      <navLabel>
+        <text>Ficciones : Las cosas…</text>
+      </navLabel>
+      <content src="c-254Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ufd99e4ae-5c0c-4928-bb69-9125ee90a58a" playOrder="7">
+      <navLabel>
+        <text>Ficciones : La máquina de sangre</text>
+      </navLabel>
+      <content src="c-254Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ua71421aa-242b-43e0-b151-b7534a38f48d" playOrder="8">
+      <navLabel>
+        <text>Ficciones : La niña sin sueños</text>
+      </navLabel>
+      <content src="c-254Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uc9591b6c-6347-4daf-9143-cbe1d4ee0007" playOrder="9">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

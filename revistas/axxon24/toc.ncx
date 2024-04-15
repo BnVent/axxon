@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="30d9847f-fabb-40e8-9fd3-31caa8ca9337" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.50)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 24</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="d9693f65-e94c-4444-9078-23c547b83b1f" playOrder="1">
+      <navLabel>
+        <text>Editorial - Editorial 24</text>
+      </navLabel>
+      <content src="c-24Pag01.htm"/>
+    </navPoint>
+    <navPoint id="bdcb2ca4-1003-49ea-9e84-9ec7f9ebe73c" playOrder="2">
+      <navLabel>
+        <text>Ficciones - Cuando cruce la valla</text>
+      </navLabel>
+      <content src="c-24Pag02.htm"/>
+    </navPoint>
+    <navPoint id="022511dc-d281-431e-a2c1-a64997dbd383" playOrder="3">
+      <navLabel>
+        <text>Ficciones - La entropía viene a cenar</text>
+      </navLabel>
+      <content src="c-24Pag03.htm"/>
+    </navPoint>
+    <navPoint id="28cd238f-fe32-4212-ac50-2b7a9723f84f" playOrder="4">
+      <navLabel>
+        <text>Ficciones - Lima Eco Tango no se rinde</text>
+      </navLabel>
+      <content src="c-24Pag04.htm"/>
+    </navPoint>
+    <navPoint id="18c6991b-62aa-4fd8-9049-75ca2b5d3bec" playOrder="5">
+      <navLabel>
+        <text>Bits - Ahogándose en datos</text>
+      </navLabel>
+      <content src="c-24Pag05.htm"/>
+    </navPoint>
+    <navPoint id="f035342d-4026-4049-bef5-b1987a464bf6" playOrder="6">
+      <navLabel>
+        <text>Ficciones - Desparramo</text>
+      </navLabel>
+      <content src="c-24Pag06.htm"/>
+    </navPoint>
+    <navPoint id="80e7998e-f5f4-43fb-b6f5-9fedd25367be" playOrder="7">
+      <navLabel>
+        <text>Ficciones - Primera sesión</text>
+      </navLabel>
+      <content src="c-24Pag07.htm"/>
+    </navPoint>
+    <navPoint id="c42b456e-1168-44dc-a33a-5c5e375160ba" playOrder="8">
+      <navLabel>
+        <text>Correo - Correo 24</text>
+      </navLabel>
+      <content src="c-24Pag08.htm"/>
+    </navPoint>
+    <navPoint id="1baac836-e357-473f-90e7-0a576db3ce1d" playOrder="9">
+      <navLabel>
+        <text>Secciones - Una mirada a la realidad (4)</text>
+      </navLabel>
+      <content src="c-24Pag09.htm"/>
+    </navPoint>
+    <navPoint id="fe99bbeb-dcb9-4e99-abc6-b09aa05c290d" playOrder="26">
+      <navLabel>
+        <text>Equipo - Equipo Axxón</text>
+      </navLabel>
+      <content src="c-24Pag10.htm"/>
+    </navPoint>
+    <navPoint id="8bbe0975-9129-4711-b829-c0a9744959fa" playOrder="27">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="89115d14-bbfa-4695-86f0-52d6de8273c9" playOrder="10">
+      <navLabel>
+        <text>Terminator 2, por Marc Shapiro</text>
+      </navLabel>
+      <content src="c-24Pag09.htm#terminator-2-por-marc-shapiro"/>
+    </navPoint>
+    <navPoint id="08ba823c-5afe-405f-96d5-749b632b19ee" playOrder="11">
+      <navLabel>
+        <text>Cuasar número 22 ARGENTINA</text>
+      </navLabel>
+      <content src="c-24Pag09.htm#cuasar-numero-22-argentina"/>
+    </navPoint>
+    <navPoint id="13a619c1-cd42-4e8a-a544-8809f9fb863a" playOrder="12">
+      <navLabel>
+        <text>Concurso Cuasar de cuentos inéditos de CF y F ARGENTINA</text>
+      </navLabel>
+      <content src="c-24Pag09.htm#concurso-cuasar-de-cuentos-ineditos-de-cf-y-f-argentina"/>
+    </navPoint>
+    <navPoint id="415168f5-0867-456a-bd43-7e3034393698" playOrder="13">
+      <navLabel>
+        <text>SF 7, fanzine ARGENTINA</text>
+      </navLabel>
+      <content src="c-24Pag09.htm#sf-7-fanzine-argentina"/>
+    </navPoint>
+    <navPoint id="ff2ff68e-b496-4ed2-bdaa-b5f5300a30fb" playOrder="14">
+      <navLabel>
+        <text>No-Concurso Axxón 1991 ARGENTINA</text>
+      </navLabel>
+      <content src="c-24Pag09.htm#no-concurso-axxon-1991-argentina"/>
+    </navPoint>
+    <navPoint id="e7211d6d-de73-4c64-a7df-df3961b0b5f4" playOrder="15">
+      <navLabel>
+        <text>CON SUR I, 23 al 27 de septiembre de 1991 ARGENTINA</text>
+      </navLabel>
+      <content src="c-24Pag09.htm#con-sur-i-23-al-27-de-septiembre-de-1991-argentina"/>
+    </navPoint>
+    <navPoint id="81c69bc1-6d9f-421c-9a0f-8b48e11ef968" playOrder="16">
+      <navLabel>
+        <text>PROGRAMA</text>
+      </navLabel>
+      <content src="c-24Pag09.htm#programa"/>
+    </navPoint>
+    <navPoint id="5fdf1abf-b70a-4d1d-83dc-ff91406bd034" playOrder="17">
+      <navLabel>
+        <text>LUNES 23/9/91</text>
+      </navLabel>
+      <content src="c-24Pag09.htm#lunes-23-9-91"/>
+    </navPoint>
+    <navPoint id="ecd2ef51-8a0d-4a22-a359-ec88e443e0cb" playOrder="18">
+      <navLabel>
+        <text>MARTES 24/9-91</text>
+      </navLabel>
+      <content src="c-24Pag09.htm#martes-24-9-91"/>
+    </navPoint>
+    <navPoint id="1190015b-5cb4-4d17-8e59-a54e4a083485" playOrder="19">
+      <navLabel>
+        <text>MIERCOLES 25/9/91</text>
+      </navLabel>
+      <content src="c-24Pag09.htm#miercoles-25-9-91"/>
+    </navPoint>
+    <navPoint id="d63fec6f-75e8-4c0d-9b5c-48be05955de4" playOrder="20">
+      <navLabel>
+        <text>JUEVES 26/9/91</text>
+      </navLabel>
+      <content src="c-24Pag09.htm#jueves-26-9-91"/>
+    </navPoint>
+    <navPoint id="6ae674fa-7e11-4581-b84e-38fd456007a1" playOrder="21">
+      <navLabel>
+        <text>VIERNES 27/9/91</text>
+      </navLabel>
+      <content src="c-24Pag09.htm#viernes-27-9-91"/>
+    </navPoint>
+    <navPoint id="6ba6dc4a-9b5c-4355-925d-7eca90b80be1" playOrder="22">
+      <navLabel>
+        <text>Explosiva aparición de fanzines ARGENTINA</text>
+      </navLabel>
+      <content src="c-24Pag09.htm#explosiva-aparicion-de-fanzines-argentina"/>
+    </navPoint>
+    <navPoint id="b80e42ed-aa23-47c6-b057-1da03223b07e" playOrder="23">
+      <navLabel>
+        <text>Ultimísimo momento: Premio Más Allá 1991 ARGENTINA</text>
+      </navLabel>
+      <content src="c-24Pag09.htm#ultimisimo-momento-premio-mas-alla-1991-argentina"/>
+    </navPoint>
+    <navPoint id="796e9c1a-f480-4ac5-83f1-dd99bec20546" playOrder="24">
+      <navLabel>
+        <text>Blade Runner Magazine desaparece ESPAÑA</text>
+      </navLabel>
+      <content src="c-24Pag09.htm#blade-runner-magazine-desaparece-espana"/>
+    </navPoint>
+    <navPoint id="960b32a1-51dd-49f6-9dea-6ee1056586c5" playOrder="25">
+      <navLabel>
+        <text>Intercambio y comunicación RUSIA</text>
+      </navLabel>
+      <content src="c-24Pag09.htm#intercambio-y-comunicacion-rusia"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <title>Axxón 61 - SECCIÓN: - Informática - Tecnología RISC: ¿Qué es?</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link href="stylesheet.css" rel="stylesheet" type="text/css"/>
+<link href="page_styles.css" rel="stylesheet" type="text/css"/>
+</head>
+  <body class="calibre">
+
+<div id="main" class="calibre1">
+<h1 class="calibre7">Informática - Tecnología RISC: ¿Qué es?</h1>
+<p class="calibre5"><b class="calibre4">Eduardo J. Carletti</b></p><p class="calibre5"></p>
+<div class="calibre1">
+<!-- # :maxLineLen=120:folding=explicit:mode=rest:wrap=soft:collapseFolds=1:encoding=windows-1252: -->
+<img alt="" src="ax-informatica.png" class="calibre18"/>
+<!--  -->
+<p class="resumen1">Aquí damos un pasito más en nuestra aventura
+de publicar notas de informática, mientras
+esperamos la llegada de más colaboraciones.</p>
+<p class="calibre5">Tratamos aquí de una de las tecnologías
+en danza hoy, de la que se habla mucho pero,
+como en otras muchas cosas, se sabe poco…</p>
+<p class="pcalibre pri">En los últimos tiempos, más de uno de nuestros lectores habrá
+visto aparecer dentro del lenguaje del mundo de las computadoras una nueva sigla que se aplica a la tecnología de construcción de los procesadores centrales, o CPUs, sin que nadie
+se tome un segundo para explicar de qué se trata: RISC. Aclaremos primero de dónde sale el nombre, y luego explicaremos
+qué significa: La palabra RISC está formada por las primeras
+letras del inglés <em class="calibre8">R</em>educed <em class="calibre8">I</em>nstruction <em class="calibre8">S</em>et <em class="calibre8">C</em>omputer, cuya traducción más directa sería Computadora con Grupo Reducido de
+Instrucciones. Sus opuestos serían los procesadores CISC, de
+<em class="calibre8">C</em>omplex <em class="calibre8">I</em>nstruction <em class="calibre8">S</em>et <em class="calibre8">C</em>omputer, o Computadora con Grupo
+Complejo de Instrucciones, entre las cuales se cuentan las
+computadoras basadas en gran parte de los chips conocidos,
+como el 8086, 8088, 80286, 80386, 80486 (es decir, los que se
+usan en las PC’s) y también, por qué no nombrarlos, la familia de los 68000.</p>
+<p class="calibre5">Veamos, en primer lugar, qué quiere decir todo esto, y así
+comprenderemos la razón de ser de los cambios de diseño
+implementados en estos nuevos procesadores.</p>
+<p class="calibre5">Como muchos programadores saben, las máquinas CISC poseen una
+gran cantidad de instrucciones. Esto parece correcto, e incluso un programador se alegra cuando encuentra que un nuevo
+procesador trae nuevas y más potentes instrucciones. ¿Qué
+significa, en un sentido puramente técnico, que se agregue
+una nueva instrucción a un procesador o familia de procesadores? Pensemos que en realidad un CPU (procesador) es capaz de
+realizar en su interior (y también en su comunicación con el
+mundo exterior) tan solo una limitada cantidad de acciones.
+Interiormente, lo que puede hacer se puede extractar en pocas
+acciones: 1) Mover de un archivo a otro, haciendo pasar el
+dato o no por un módulo interno fundamental que se llama ALU
+(del inglés <em class="calibre8">A</em>rithmetic-<em class="calibre8">L</em>ogic <em class="calibre8">U</em>nit, o Unidad Aritmético-Lógica), una unidad que se ocupa de realizar sumas, restas,
+desplazamientos lógicos (<em class="calibre8">shifts</em>) y otras operaciones relativas a las matemáticas y la manipulación de datos; y 2) Manejar el flujo del programa, es decir, hacer saltos condicionados a los resultados de las operaciones o a los contenidos de
+los registros. En su relación con el exterior puede hacer dos
+cosas: leer datos o escribir datos (en la memoria o en unidades de entrada/salida). ¿Qué son y de dónde salen, entonces,
+los dos centenas de instrucciones que se encuentran en los
+procesadores CISC?</p>
+<p class="calibre5">Aquí está el <em class="calibre8">quid</em> de la cuestión. Los procesadores CISC
+tienen en su interior algo a lo que se le llama <em class="calibre8">Microcódigo</em>.
+Este misterioso microcódigo está residente en un ROM dentro
+del procesador, y no es accesible para el programador. Pero
+no nos asustemos, no se trata de nada raro ni incomprensible:
+en un sentido formal y práctico, lo que este ROM contiene son
+ni más ni menos que subrutinas. ¿Subrutinas de <em class="calibre8">qué</em>?, se preguntarán con ojos desorbitados aquellos programadores que hacen
+sudar sus frentes trabajando en el más puro y refinado assembler, quizá programando directamente en idioma de máquina, y
+creen que lo están haciendo en el nivel más cercano al alma
+de la computadora. Pues bien, no es así; lamento decírselos
+tan de golpe, pero ustedes no programan al nivel más bajo posible. Pero no se arranquen los pelos ni empiecen a maldecir.
+Esto no es porque los fabricantes de compiladores o los diseñadores de chips les estén haciendo trampa, o estén escondiendo algo, sino porque los que diseñaron el chip, pensando
+su estructura bajo el concepto CISC, ya han incluido las secuencias de instrucciones de bajo nivel más típicas en el interior del microcódigo. Cuando uno programa una instrucción
+en un procesador CISC, digamos una instrucción ADD (suma),
+por ejemplo, en realidad lo que hace es poner en la secuencia
+de programa un número que apunta, en definitiva, a una subrutina. Esta subrutina se compone a su vez de una secuencia de
+órdenes internas -el microcódigo- que se van ejecutando pulso
+a pulso de reloj, cuya función es mover los datos desde sus
+registros de origen a través de la Unidad Aritmético-lógica,
+aplicarles la operación que se requiere (suma, resta, desplazamiento, etc.), y luego llevar el valor resultante hacia el
+registro (o memoria) donde se espera el resultado de la operación. Por esta razón las instrucciones de los procesadores
+CISC tienen duraciones diferentes (en número de pulsos de reloj) entre sí, o para cada tipo de direccionamiento.</p>
+<p class="calibre5">Ahora bien, ocurre que estos microprogramas han sido diseñados (programados) en base a un criterio, es decir, cuando
+se hace una suma, la rutina de microcódigo se compone de una
+secuencia de movimientos que se supone la más normal para hacer una suma. Sin embargo, es posible que la misma operación
+se pueda hacer de otros modos. Dado que no se pueden poner
+tantas subrutinas en el interior del chip como formas de hacer cada operación, se han <em class="calibre8">estandarizado</em> ciertas maneras típicas de hacer cada cosa. Todo programador sabe que para hacer una suma, por ejemplo, se deben usar ciertos registros,
+llamados comunmente “acumuladores”, y que el resultado aparece, también, en uno de ellos. ¿Por qué no permitir el uso
+de cualquiera de los registros para fuente y destino de los
+datos? Porque las combinaciones serían tantas, dada la cantidad de registros, que se necesitarían instrucciones de más de
+16 bits (por dar un ejemplo de longitud de instrucción), incluso, si tenemos en cuenta que los procesadores cada vez
+tienen más registros internos, de más de 32. Por otra parte,
+programar sería extremadamente complicado, y esta es una de
+las cosas que se trató de evitar al crear el concepto CISC.
+La cuestión es que la forma elegida para realizar la operación puede ser la más normal, pero no la más eficiente, y de
+aquí surge la habilidad de los procesadores RISC (al usar un
+concepto absolutamente opuesto) de ser más rápidos y eficientes.</p>
+<p class="calibre5">A esta altura de la charla, los lectores más avispados
+habrán comprendido que el microcódigo está formado de microinstrucciones, y que en ese caso <em class="calibre8">sí</em> se trata de instrucciones del más bajo nivel. Estas instrucciones de microcódigo, no accesibles para los programadores en los procesadores CISC, como dijimos, pero sí a los programadores de los
+fabricantes de chips, son órdenes muy básicas, totalmente
+hermanadas con el hardware. Permiten pasar un dato de un registro a otro, incrementar o decrementar un contador, o hacer
+un desplazamiento o una operación matemática o lógica básica,
+y poca cosa más. Permiten, también, llevar un dato a la memoria o traer un dato desde ella. Una operación de entrada/salida, en aquellos procesadores que las tienen, es
+idéntica a una operación de memoria, sólo que dirigida en
+otro sentido. Ahora bien, si quitamos las subrutinas preprogramadas del interior del chip y permitimos que un programador (a nivel usuario, no a nivel fábrica) genere las secuencias de datos necesarias para hacer las operaciones <em class="calibre8">tal como</em>
+<em class="calibre8">él quiere</em> (dentro de las posibilidades que le da el hardware,
+por supuesto) nos encontraremos frente a un procesador del
+tipo RISC. ¿Vieron que no era tan difícil?</p>
+<p class="calibre5">La razón principal que se tuvo en algún momento del desarrollo de los procesadores para elegir el criterio CISC antes que el RISC fue la necesidad de ahorro de memoria. Las
+memorias eran, hace no tantos años, extremadamente caras. El
+concepto CISC permitía ahorrar memoria, bastante considerablemente a veces. Por otra parte, el hecho de entregar sus
+procesadores prácticamente provistos de una “librería” de subrutinas pre-hechas hizo que los fabricantes de microprocesadores pudieran colocar mejor sus productos, y que las empresas de software prefirieran este tipo de productos. Los programas desarrollados para un procesador RISC son más largos y
+más difíciles de hacer. Claro que a cambio -si se sabe programar- se obtiene eficiencia y velocidad.</p>
+<p class="calibre5">Ahora que ya casi no se programa en assembler (y mucho
+menos en idioma de máquina), sino en idiomas de alto nivel,
+gracias al desarrollo de eficientes compiladores los RISC se
+están imponiendo. Se trata de procesadores que, a causa del
+concepto que se ha usado para su funcionamiento interno, son
+más rápidos y más potentes, y muy eficientes a la hora de
+tratar con movimientos de datos y de realizar operaciones matemáticas, cualidades éstas cada vez más importantes en el
+procesamiento actual de la información, especialmente en el
+manipuleo de imágenes. No se trata de un cambio de tecnología
+en la física de la integración, como en el caso del avance de
+los procesadores de frecuencias de reloj más lentas a más rápidas (pongamos por caso el avance producido entre un 80486
+de 40 MHz a uno 40486DX2 de 66 MHz), sino tan solo de un cambio de concepto. Tampoco es algo muy nuevo: en los años setenta, además de las unidades centrales de proceso también
+había unos extraños ayudantes a los que se les llamaba (se
+les llama aún) <em class="calibre8">Array Processors</em>. Estos sistemas, que usaban
+arquitecturas diferentes a las de las unidades centrales de
+proceso, se usaban en aquellos equipos que debían realizar
+operaciones matemáticas repetitivas sobre grandes grupos de
+datos (arrays); internamente, estos equipos usaban el concepto RISC. Para ahorrar memoria de sistema, se creó el concepto de microprograma, aunque este microprograma era variable. Se hallaba en RAMs de muy alta velocidad de acceso (y
+terriblemente caras, mucho más caras que las RAM de muy alta
+velocidad de acceso de hoy en día), en las cuales se volcaba,
+para cada aplicación (incluso dinámicamente, <em class="calibre8">en medio</em> de cada
+aplicación) el microcódigo deseado. Estas RAMs se llamaban
+WCS, que quiere decir, en inglés <em class="calibre8">W</em>ritable <em class="calibre8">C</em>ontrol <em class="calibre8">S</em>torage
+(Almacenaje Escribible de Control… y perdonen si la traducción no suena muy bien).</p>
+<p class="pcalibre pri">Las características básicas de la tecnología RISC son: El
+programa controla directamente el hardware (una ventaja sobre
+el concepto CISC es que en éstos el procesador muchas veces
+debe perder un primer pulso de reloj en interpretar el código
+de máquina, mientras que los RISC lo aplican directamente al
+hardware). Se pueden usar todos los registros para guardar
+datos momentáneamente (acumular). El formato de las instrucciones es fijo: tiene siempre la misma cantidad de bits. Las
+instrucciones son pocas, lo que facilita la optimización del
+código. Las instrucciones se ejecutan en un solo ciclo de reloj.</p>
+<p class="calibre5">Por otra parte, el compilador que se usa tiene grandísima
+importancia en el resultado obtenido. Debe ser muy eficiente
+y sofisticado. Si no maneja bien la ubicación de los datos en
+los registros, el orden de las operaciones y los movimientos,
+la arquitectura usada no tendrá ningún efecto positivo y se
+perderán las ventajas que se buscaron al cambiar de concepto.</p>
+<p class="pcalibre pri">Este ha sido un breve pantallazo sobre tecnología de Microprocesadores. Esperamos que haya sido claro, comprensible y además (si no es mucho pedir) que les haya resultado útil.</p>
+</div>
+
+</div>
+
+</body>
+</html>

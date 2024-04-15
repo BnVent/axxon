@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="f78a1318-d2ea-4606-90b5-85a69f2ec69b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.7.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 60</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uc562b9a8-6a7e-415b-af39-3b30ffd7e519" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 60</text>
+      </navLabel>
+      <content src="c-60Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u498ae5ee-ed1c-4f60-8743-718b3e53376a" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Las otras lecciones de Fedro</text>
+      </navLabel>
+      <content src="c-60Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ub0723b3b-b4b1-46ac-9265-fbc9c72397aa" playOrder="3">
+      <navLabel>
+        <text>Sección: El Portal Fantástico (7)</text>
+      </navLabel>
+      <content src="c-60Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u5f8d926b-79ff-4343-9293-f0f5ae66fa3a" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Magia de zorros</text>
+      </navLabel>
+      <content src="c-60Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u044bad3f-771a-401a-b782-b3e3aef6ab5f" playOrder="6">
+      <navLabel>
+        <text>Sección: Tour Macabro (8)</text>
+      </navLabel>
+      <content src="c-60Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ufbc094df-0625-471c-81fc-e76f997b16fd" playOrder="7">
+      <navLabel>
+        <text>Ficciones: No crezcas nunca</text>
+      </navLabel>
+      <content src="c-60Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u36c9857d-db5f-4e74-bb07-fa06fce48323" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Ecos</text>
+      </navLabel>
+      <content src="c-60Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u3066de6e-70df-444e-a546-0c611b1c61c4" playOrder="9">
+      <navLabel>
+        <text>Ficciones: La fragancia de las orquídeas</text>
+      </navLabel>
+      <content src="c-60Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ue233ce93-04dd-424b-8c63-b539f392dc84" playOrder="10">
+      <navLabel>
+        <text>Sección: La aventura es la aventura (Jornada IV)</text>
+      </navLabel>
+      <content src="c-60Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u864c7931-a6c8-41ac-b4c2-6206586e526a" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Náufrago de sí mismo</text>
+      </navLabel>
+      <content src="c-60Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u3248890b-3ca2-400c-89e0-19ea4c7c65c1" playOrder="12">
+      <navLabel>
+        <text>Sección: Cronicas desde la Garrafa Virtual (XI)</text>
+      </navLabel>
+      <content src="c-60Pag11.htm"/>
+    </navPoint>
+    <navPoint id="uffa42443-47d3-4c6e-8897-81d82a19310a" playOrder="13">
+      <navLabel>
+        <text>Correo: Correo 60</text>
+      </navLabel>
+      <content src="c-60Pag12.htm"/>
+    </navPoint>
+    <navPoint id="ue2aba6fd-41de-4dda-9c66-d608bb4cab40" playOrder="14">
+      <navLabel>
+        <text>Sección: Predicciones tecnológicas (parte 1)</text>
+      </navLabel>
+      <content src="c-60Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u7790b83e-079c-4ef5-98d4-24ceed8a511f" playOrder="15">
+      <navLabel>
+        <text>Sección: ET AL Virtual (4)</text>
+      </navLabel>
+      <content src="c-60Pag14.htm"/>
+    </navPoint>
+    <navPoint id="ube4d00ee-a146-423e-9f90-a3ef4aa573a3" playOrder="47">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-60Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u670c80ae-9ddd-4e35-9cf8-d170fcd36602" playOrder="48">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-60Pag16.htm"/>
+    </navPoint>
+    <navPoint id="ue29df7c9-15ea-4f59-97bb-6cb7ffc2a814" playOrder="49">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="u1295d494-7d1c-472b-920e-989dde6c684f" playOrder="5">
+      <navLabel>
+        <text>[*]</text>
+      </navLabel>
+      <content src="c-60Pag04.htm#id2"/>
+    </navPoint>
+    <navPoint id="uc7675cb0-d51d-4a53-b20d-93499e946136" playOrder="16">
+      <navLabel>
+        <text>PREMIOS</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#premios"/>
+    </navPoint>
+    <navPoint id="u25e41bc5-f95c-4495-9aaa-93e6067ec995" playOrder="17">
+      <navLabel>
+        <text>Premio Locus</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#premio-locus"/>
+    </navPoint>
+    <navPoint id="uaadd0588-a98c-4613-adc3-776372c4efa9" playOrder="18">
+      <navLabel>
+        <text>Premio Mundial de Fantasía</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#premio-mundial-de-fantasia"/>
+    </navPoint>
+    <navPoint id="ue438ce82-2e24-4411-a6d0-bf816331f52e" playOrder="19">
+      <navLabel>
+        <text>Premio Más Allá</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#premio-mas-alla"/>
+    </navPoint>
+    <navPoint id="ud4aaabbf-2571-4bf7-a633-edbe70ee17aa" playOrder="20">
+      <navLabel>
+        <text>AUTORES</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#autores"/>
+    </navPoint>
+    <navPoint id="ub6a50776-ecbd-46b8-9074-8bf29336a4ef" playOrder="21">
+      <navLabel>
+        <text>Silverberg vuelve a Majipur</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#silverberg-vuelve-a-majipur"/>
+    </navPoint>
+    <navPoint id="u5be1ff28-61cf-415d-ab29-a651110f623c" playOrder="22">
+      <navLabel>
+        <text>Connie Willis prepara su próxima novela</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#connie-willis-prepara-su-proxima-novela"/>
+    </navPoint>
+    <navPoint id="u12671bb1-e6aa-440f-a86d-8f458866563a" playOrder="23">
+      <navLabel>
+        <text>Carlos Chernov escribe la continuación de Anatomía humana</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#carlos-chernov-escribe-la-continuacion-de-anatomia-humana"/>
+    </navPoint>
+    <navPoint id="u2d16be1f-cc26-4c9c-a3c7-93c5b4725a5b" playOrder="24">
+      <navLabel>
+        <text>“Johnny Mnemonic” se convierte en novela</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#johnny-mnemonic-se-convierte-en-novela"/>
+    </navPoint>
+    <navPoint id="uf7dadb19-7626-4028-b153-708aab4bf076" playOrder="25">
+      <navLabel>
+        <text>Bioy Casares cumplió 80 años</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#bioy-casares-cumplio-80-anos"/>
+    </navPoint>
+    <navPoint id="uea85be2a-b059-4f7b-9922-a72c10a7ba03" playOrder="26">
+      <navLabel>
+        <text>King apoya a las librerías independientes</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#king-apoya-a-las-librerias-independientes"/>
+    </navPoint>
+    <navPoint id="ue66eda0a-7312-4096-8ebf-e43cd009b291" playOrder="27">
+      <navLabel>
+        <text>LIBROS Y REVISTAS</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#libros-y-revistas"/>
+    </navPoint>
+    <navPoint id="u033a4d3c-f96f-44e8-8011-d5abb1ca0732" playOrder="28">
+      <navLabel>
+        <text>Novedades bibliográficas en inglés</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#novedades-bibliograficas-en-ingles"/>
+    </navPoint>
+    <navPoint id="uadebcddd-31a4-4e6a-943b-9bec1f643d22" playOrder="29">
+      <navLabel>
+        <text>Publicaciones recibidas</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#publicaciones-recibidas"/>
+    </navPoint>
+    <navPoint id="u9a93245d-3531-4f4d-9f47-8d1cb329cedd" playOrder="30">
+      <navLabel>
+        <text>CONCURSOS</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#concursos"/>
+    </navPoint>
+    <navPoint id="u4c577c56-8671-412b-898f-f97273467df2" playOrder="31">
+      <navLabel>
+        <text>Concurso Casa de las Américas</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#concurso-casa-de-las-americas"/>
+    </navPoint>
+    <navPoint id="u7a3b891a-1b25-49c8-b914-68cf3d2ea55a" playOrder="32">
+      <navLabel>
+        <text>MISCELANEA</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#miscelanea"/>
+    </navPoint>
+    <navPoint id="u7c74c60b-9a37-40e8-b363-9d71a1bed400" playOrder="33">
+      <navLabel>
+        <text>Crisis en las librerías</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#crisis-en-las-librerias"/>
+    </navPoint>
+    <navPoint id="u120e9263-56c5-4fc3-aa8c-fda144b9636e" playOrder="34">
+      <navLabel>
+        <text>C I N E Y V I D E O</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#c-i-n-e-y-v-i-d-e-o"/>
+    </navPoint>
+    <navPoint id="ubc60c225-2e22-4800-b9df-59c94d4891b7" playOrder="35">
+      <navLabel>
+        <text>CINE</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#cine"/>
+    </navPoint>
+    <navPoint id="u744b2fda-7a94-4567-9e2d-6f8771e5f540" playOrder="36">
+      <navLabel>
+        <text>ESTRENOS</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#estrenos"/>
+    </navPoint>
+    <navPoint id="u4518c475-b573-4af0-a4ff-7e09cb70b0f1" playOrder="37">
+      <navLabel>
+        <text>VIDEO</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#video"/>
+    </navPoint>
+    <navPoint id="u0f38cfe1-897b-4874-9430-d2c7082b1961" playOrder="38">
+      <navLabel>
+        <text>DISCOS LASER: CD-ROM y OTROS</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#discos-laser-cd-rom-y-otros"/>
+    </navPoint>
+    <navPoint id="u176b9d3c-7178-4789-b658-d237606f96a8" playOrder="39">
+      <navLabel>
+        <text>CARACTERISTICAS QUE LOS DIFERENCIAN</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#caracteristicas-que-los-diferencian"/>
+    </navPoint>
+    <navPoint id="ub688bcee-4dda-4de3-94cc-0babefd6e42b" playOrder="40">
+      <navLabel>
+        <text>FORMATOS DE CD</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#formatos-de-cd"/>
+    </navPoint>
+    <navPoint id="ueb5657e0-486b-44dd-b79f-f41181cfc3b3" playOrder="41">
+      <navLabel>
+        <text>FORMATO CD-A</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#formato-cd-a"/>
+    </navPoint>
+    <navPoint id="u80975e94-521d-482f-94e3-181451698bd3" playOrder="42">
+      <navLabel>
+        <text>FORMATO CD-ROM</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#formato-cd-rom"/>
+    </navPoint>
+    <navPoint id="u14035014-4c9a-4624-9eb9-c2e2865e90f1" playOrder="43">
+      <navLabel>
+        <text>FORMATO CD-ROM XA</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#formato-cd-rom-xa"/>
+    </navPoint>
+    <navPoint id="ub5b83196-28a1-4c81-b7c9-790ac0003f6c" playOrder="44">
+      <navLabel>
+        <text>FORMATO CD-I</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#formato-cd-i"/>
+    </navPoint>
+    <navPoint id="ucc4550c1-3ff3-4b88-bc51-5186b77eb08c" playOrder="45">
+      <navLabel>
+        <text>FORMATO MO/CD-R</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#formato-mo-cd-r"/>
+    </navPoint>
+    <navPoint id="u499410f3-bcec-49d2-9c3a-4dde5f5ebac2" playOrder="46">
+      <navLabel>
+        <text>FORMATO DE ARCHIVOS EN CR-ROM</text>
+      </navLabel>
+      <content src="c-60Pag14.htm#formato-de-archivos-en-cr-rom"/>
+    </navPoint>
+  </navMap>
+</ncx>

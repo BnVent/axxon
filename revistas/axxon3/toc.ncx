@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="f695d18b-696a-45ec-802b-05dd55077784" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.41.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 3</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ue440b3ef-ea57-406c-9156-45843d082cf9" playOrder="1">
+      <navLabel>
+        <text>Editorial: Gurbo, una revista</text>
+      </navLabel>
+      <content src="c-3Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u250feb2d-7c83-4820-92a9-9ec0bd2387d8" playOrder="2">
+      <navLabel>
+        <text>Sección Especial: El Rock y la Ciencia Ficción</text>
+      </navLabel>
+      <content src="c-3Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u19cbc2f6-b9cc-4152-b04e-31247c044a5e" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El Corte Final</text>
+      </navLabel>
+      <content src="c-3Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ube491f29-287d-495a-a26f-44600acbf1de" playOrder="4">
+      <navLabel>
+        <text>Ficciones: …cómo se me parte el corazón cuando canto esta canción…</text>
+      </navLabel>
+      <content src="c-3Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u9eb65fd7-f51b-48c8-9c12-0d8f356d5d3a" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El cordero se acuesta en Broadway</text>
+      </navLabel>
+      <content src="c-3Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ua3f85ff9-db71-4536-9ff2-d1a91273649f" playOrder="6">
+      <navLabel>
+        <text>Ficciones: R-CTI</text>
+      </navLabel>
+      <content src="c-3Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uda95e340-6939-4f62-81de-d2447c907a7e" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Con una ayudita de sus amigos</text>
+      </navLabel>
+      <content src="c-3Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u2869dcca-c61e-4b80-9734-1ecbdd154a4f" playOrder="8">
+      <navLabel>
+        <text>Letras: Letras</text>
+      </navLabel>
+      <content src="c-3Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u965ec27c-d1ba-4235-98bb-ad153877e391" playOrder="9">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-3Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ue29ca87e-8d7d-466d-9aac-328c4f465dee" playOrder="10">
+      <navLabel>
+        <text>Anticipo: En los próximos números…</text>
+      </navLabel>
+      <content src="c-3Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u9c40c1de-ebd5-457f-9fe7-ee02e99c0764" playOrder="11">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-3Pag11.htm"/>
+    </navPoint>
+    <navPoint id="uf2f7b552-acda-40e3-b796-5e8c74c51afc" playOrder="12">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

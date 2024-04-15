@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="959ff37a-97af-4efd-8aed-149bc6557c6c" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.34.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 134</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u7e7e2737-7599-45eb-b727-9e0c673853ce" playOrder="1">
+      <navLabel>
+        <text>Editorial: Deseos</text>
+      </navLabel>
+      <content src="c-134Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u2e4b2016-af7a-442a-8e8d-29ecfdc39e22" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxonitas</text>
+      </navLabel>
+      <content src="c-134Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u06aa7902-f970-4d1f-bd02-7d54810aecd2" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Rojo federal</text>
+      </navLabel>
+      <content src="c-134Pag03.htm"/>
+    </navPoint>
+    <navPoint id="udce4066d-32ff-4066-b1d5-ba98442a3fab" playOrder="4">
+      <navLabel>
+        <text>Ficciones: La máquina</text>
+      </navLabel>
+      <content src="c-134Pag04.htm"/>
+    </navPoint>
+    <navPoint id="udb87dd03-9c60-47b0-9fc1-15cf603b6f13" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Expediente de uno que no existe</text>
+      </navLabel>
+      <content src="c-134Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ub286695e-182f-418f-9a22-6e8074130940" playOrder="6">
+      <navLabel>
+        <text>Divulgación: Babel revisitada: las lenguas humanas y sus orígenes</text>
+      </navLabel>
+      <content src="c-134Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u44c83a9f-1c48-4a7e-b4a1-fe0f9100bdc4" playOrder="7">
+      <navLabel>
+        <text>Ensayo: ¿Dónde está la frontera entre la Ciencia Ficción y lo Fantástico?</text>
+      </navLabel>
+      <content src="c-134Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u5c5f2257-4355-41a2-ad58-c794ca64cc07" playOrder="8">
+      <navLabel>
+        <text>Sección: AnaCrónicas</text>
+      </navLabel>
+      <content src="c-134Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ue9561023-0643-4b00-8b6f-05696ca5fa22" playOrder="9">
+      <navLabel>
+        <text>Anacrónicas: Carta abierta de Gregorio S. a todos los vertebrados del mundo</text>
+      </navLabel>
+      <content src="c-134Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u216deed3-f21d-423e-89c2-d7a31312ffbb" playOrder="10">
+      <navLabel>
+        <text>Anacrónicas: La piedra del escándalo</text>
+      </navLabel>
+      <content src="c-134Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u80d82541-cb71-435f-b89b-ace1b8e77c66" playOrder="11">
+      <navLabel>
+        <text>Anacrónicas: El Gaucho de los Anillos (15)</text>
+      </navLabel>
+      <content src="c-134Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ud537353c-27e5-4f54-b2f9-b19b4a847c47" playOrder="12">
+      <navLabel>
+        <text>Contratapa: Playa Terminal</text>
+      </navLabel>
+      <content src="c-134Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u326f61d8-1461-41a5-9f15-da95c664d57c" playOrder="13">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="fc7baa86-dfca-4b15-a2af-094ad39a345c" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.20.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 100</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u4251ffa3-2e4a-4060-b481-1a75e2b6f803" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-100Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ubbe95b39-9e4a-47d3-8d88-a05843364d5c" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 100</text>
+      </navLabel>
+      <content src="c-100Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u359071ce-679b-44dc-9865-c37a24c806ab" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Susurros</text>
+      </navLabel>
+      <content src="c-100Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u43946ad7-0cd3-47d4-b40c-68ae9f0aa9a9" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Encubridor</text>
+      </navLabel>
+      <content src="c-100Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u9b65a572-db9f-49b2-ae05-b5b4a9864ac1" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Póstumo</text>
+      </navLabel>
+      <content src="c-100Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ud7f9a0c8-314e-4899-b844-7ae041207dd5" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Escultor de cabezas</text>
+      </navLabel>
+      <content src="c-100Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ud76379a2-ea8a-4c3f-84e8-e9c07e633b86" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Los que vibran en acuario</text>
+      </navLabel>
+      <content src="c-100Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u269a5450-021f-4423-8c21-a5851305e176" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Oscura sed</text>
+      </navLabel>
+      <content src="c-100Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u1086525b-5867-45d1-9e14-fef4da43338f" playOrder="9">
+      <navLabel>
+        <text>Sección: Tour Macabro</text>
+      </navLabel>
+      <content src="c-100Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uc7976742-4e20-4e2d-97dd-bf5cccf40dc6" playOrder="10">
+      <navLabel>
+        <text>Tour Macabro: Grotesca comedia de la seducción</text>
+      </navLabel>
+      <content src="c-100Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u91ecf047-8dc6-44f6-b437-6f85fc4bfbde" playOrder="11">
+      <navLabel>
+        <text>Tour Macabro: Letras</text>
+      </navLabel>
+      <content src="c-100Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u9d466734-b612-4a25-952c-1fe08e7f7899" playOrder="12">
+      <navLabel>
+        <text>Tour Macabro: Galería de arte</text>
+      </navLabel>
+      <content src="c-100Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u43be3c2d-ec3c-430c-b9ab-a337f63a18ee" playOrder="13">
+      <navLabel>
+        <text>Sección: Crónicas desde la garrafa virtual</text>
+      </navLabel>
+      <content src="c-100Pag13.htm"/>
+    </navPoint>
+    <navPoint id="ud8d419c4-a98d-4f90-96d8-2bce910d5ff3" playOrder="14">
+      <navLabel>
+        <text>Aves Raras: Aves Raras III: Eduardo J. Carletti</text>
+      </navLabel>
+      <content src="c-100Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u2ab44efd-cb9a-46c1-9815-ac24b57b4dc4" playOrder="15">
+      <navLabel>
+        <text>Sección: El Portal Fantástico</text>
+      </navLabel>
+      <content src="c-100Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u5590ee12-c39f-4390-863d-a85f44a5bd65" playOrder="16">
+      <navLabel>
+        <text>Portal Fantástico: El viejo Vluf</text>
+      </navLabel>
+      <content src="c-100Pag16.htm"/>
+    </navPoint>
+    <navPoint id="ud741daf6-c7eb-4701-923a-a06d7e2341a0" playOrder="17">
+      <navLabel>
+        <text>Correo: Correo 100</text>
+      </navLabel>
+      <content src="c-100Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u3b0f4a11-9edb-41c9-a1f1-a312717e6580" playOrder="18">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-100Pag18.htm"/>
+    </navPoint>
+    <navPoint id="ub8d4d24d-cf7d-448c-9bde-a320b0f5b92e" playOrder="19">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-100Pag19.htm"/>
+    </navPoint>
+    <navPoint id="u2c8cf3ea-110d-4ad0-802e-38f73c5e8125" playOrder="20">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

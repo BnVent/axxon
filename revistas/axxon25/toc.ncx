@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="335cc9af-bf07-4828-be9c-b1c61c237436" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.44.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 25</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="unXdsChtcUOTGU2ZxoFGbU6" playOrder="1">
+      <navLabel>
+        <text>Editorial: Axxón-25 Internacional</text>
+      </navLabel>
+      <content src="c-25Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uXaveEAYwyWt4hq6iMYWhV4" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Los motivos de Medusa</text>
+      </navLabel>
+      <content src="c-25Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uBIGvt8XkyjzQTBPYPKAcd8" playOrder="3">
+      <navLabel>
+        <text>Ficciones: ¡Miren! ¡El pájaro!</text>
+      </navLabel>
+      <content src="c-25Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uTdDaJXR9TE3mCedzSOBGaG" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Caronte</text>
+      </navLabel>
+      <content src="c-25Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uXsfwiLmA3TjXsXIEMVkjuG" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Su amor del tren</text>
+      </navLabel>
+      <content src="c-25Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uXynuxW5eJU6ljVPRRv2IrB" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Un viaje en Crucero</text>
+      </navLabel>
+      <content src="c-25Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ujmEtVYA7X3TG2UmnqNLvm2" playOrder="7">
+      <navLabel>
+        <text>Notas: Perspectiva de la ciencia ficción mexicana</text>
+      </navLabel>
+      <content src="c-25Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ujMjNmeHIoHrB3wxnomaQcB" playOrder="8">
+      <navLabel>
+        <text>Notas: Imágenes y palabras de la ConSur</text>
+      </navLabel>
+      <content src="c-25Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uGbVX4ylT9voWBSBTbdwv49" playOrder="9">
+      <navLabel>
+        <text>Notas: Después de la tormenta</text>
+      </navLabel>
+      <content src="c-25Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uswyfIGkJ9flEpmnIsbez7D" playOrder="10">
+      <navLabel>
+        <text>Correo: Correo 25</text>
+      </navLabel>
+      <content src="c-25Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uFu6Ij9u6hQIs5NaF2GJCYB" playOrder="11">
+      <navLabel>
+        <text>Noticias: Una mirada a la realidad</text>
+      </navLabel>
+      <content src="c-25Pag11.htm"/>
+    </navPoint>
+    <navPoint id="uqlX9luSxmJhdlDgNvj8fd8" playOrder="12">
+      <navLabel>
+        <text>Secciones: Disquisiciones inocuas (5)</text>
+      </navLabel>
+      <content src="c-25Pag12.htm"/>
+    </navPoint>
+    <navPoint id="uGdQNZpHPB63tEe5UwbG9TA" playOrder="13">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-25Pag13.htm"/>
+    </navPoint>
+    <navPoint id="usjaDutJEeHF4meATmanhV4" playOrder="14">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="a423e47e-1649-40c9-bca8-b9327e943146" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 234</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="e347ac29-a28b-4614-ab5a-1a5ea77b0839" playOrder="1">
+      <navLabel>
+        <text>Ficciones: Imágenes</text>
+      </navLabel>
+      <content src="c-234Pag01.htm"/>
+    </navPoint>
+    <navPoint id="60419a45-94fe-4e2c-b4de-7c5b6138e07f" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Noches de Bantian</text>
+      </navLabel>
+      <content src="c-234Pag02.htm"/>
+    </navPoint>
+    <navPoint id="fa7a806f-297b-4243-9a5d-d920ce1fde36" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Costumbre</text>
+      </navLabel>
+      <content src="c-234Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ba7cc40c-29bd-4c48-af95-3b60cc590f39" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Clotilde</text>
+      </navLabel>
+      <content src="c-234Pag04.htm"/>
+    </navPoint>
+    <navPoint id="2784c61b-7f26-45bd-9bfd-b29f02d8e5e9" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El príncipe</text>
+      </navLabel>
+      <content src="c-234Pag05.htm"/>
+    </navPoint>
+    <navPoint id="bfcb81b7-dbfe-4af4-998a-b0b5bf0dd6f0" playOrder="6">
+      <navLabel>
+        <text>Ficciones: El último</text>
+      </navLabel>
+      <content src="c-234Pag06.htm"/>
+    </navPoint>
+    <navPoint id="84ed9e23-9b12-48bd-bdc2-7869e663e5d0" playOrder="7">
+      <navLabel>
+        <text>Opinión: Antonio Montero. El último clásico vivo de la ciencia ficción chilena</text>
+      </navLabel>
+      <content src="c-234Pag07.htm"/>
+    </navPoint>
+    <navPoint id="46fa32c6-a202-45b6-86dc-d65914e4a7e7" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Ha muerto Brownhair</text>
+      </navLabel>
+      <content src="c-234Pag08.htm"/>
+    </navPoint>
+    <navPoint id="703de09f-5c12-45a8-9dd0-8b4d8fee4548" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Para verlos volar</text>
+      </navLabel>
+      <content src="c-234Pag09.htm"/>
+    </navPoint>
+    <navPoint id="c27b8dd3-19a0-4dd8-ab54-0870a936e144" playOrder="10">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="b9c88ae7-d89a-4cf6-b5a2-6186e5944ab1" playOrder="10">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/234/cuento2ilus1.htm"/>
+    </navPoint>
+    <navPoint id="b1da99b1-522e-4263-bdb5-588668d64efa" playOrder="11">
+      <navLabel>
+        <text>OPERACIÓN “OPERACIÓN”</text>
+      </navLabel>
+      <content src="/rev/2010/10/operacion-operacion-daniel-frini/"/>
+    </navPoint>
+    <navPoint id="f941118e-0c5b-4e32-992e-82b102d47794" playOrder="12">
+      <navLabel>
+        <text>[1]</text>
+      </navLabel>
+      <content src="/rev/#nota1"/>
+    </navPoint>
+    <navPoint id="0ff2e481-809c-4772-abe9-8a2c441efaf3" playOrder="13">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/234/cuento1ilus1.htm"/>
+    </navPoint>
+    <navPoint id="1180f26f-d72d-400c-b0ad-3464c32c1359" playOrder="14">
+      <navLabel>
+        <text>[VOLVER]</text>
+      </navLabel>
+      <content src="/rev/#llamada1"/>
+    </navPoint>
+    <navPoint id="d7fc7937-5212-41cd-ae52-dc511b930579" playOrder="15">
+      <navLabel>
+        <text>EL OTRO MESÍAS</text>
+      </navLabel>
+      <content src="/rev/2012/06/el-otro-mesias-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="be8f2515-3345-45a9-b8f2-61731b2751ce" playOrder="16">
+      <navLabel>
+        <text>EL HOMBRE EQUIVOCADO</text>
+      </navLabel>
+      <content src="/rev/2012/04/el-hombre-equivocado-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="c3c1c7a4-b950-4916-a722-1e7b5f367680" playOrder="17">
+      <navLabel>
+        <text>EL UMBRAL EN LA PLAYA</text>
+      </navLabel>
+      <content src="/rev/2012/07/el-umbral-en-la-playa-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="93a87080-5745-42c7-9a0d-44f9c1544e5d" playOrder="18">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/234/cuento3ilus1.htm"/>
+    </navPoint>
+    <navPoint id="793d7d4e-c32e-4354-8400-f6fd8524cfae" playOrder="19">
+      <navLabel>
+        <text>GRAFFITI</text>
+      </navLabel>
+      <content src="/rev/2009/11/ficcion-breve-cincuenta-y-dos-varios-autores/"/>
+    </navPoint>
+    <navPoint id="2e42300a-b2be-448c-8361-3e98867cd457" playOrder="20">
+      <navLabel>
+        <text>LA ORDEN</text>
+      </navLabel>
+      <content src="/rev/2009/11/ficcion-breve-cincuenta-y-tres-varios-autores/#18"/>
+    </navPoint>
+    <navPoint id="ff34c4cb-09c2-4364-8d3c-b4f35f040bf6" playOrder="21">
+      <navLabel>
+        <text>EL MINOTAURO</text>
+      </navLabel>
+      <content src="/rev/2010/01/ficcion-breve-cincuenta-y-cinco-varios-autores/"/>
+    </navPoint>
+    <navPoint id="86d3d849-f17e-4f0d-a142-f27ef7e89d1a" playOrder="22">
+      <navLabel>
+        <text>EL REBELDE</text>
+      </navLabel>
+      <content src="/rev/2010/10/ficcion-breve-cincuenta-y-nueve-varios-autores/"/>
+    </navPoint>
+    <navPoint id="c5c57b54-c72d-40cc-ba66-a609e719d48d" playOrder="23">
+      <navLabel>
+        <text>NÉMESIS</text>
+      </navLabel>
+      <content src="/rev/2012/08/ficcion-breve-sesenta-y-ocho-varios-autores/#8"/>
+    </navPoint>
+    <navPoint id="cd4f22e7-de5d-4ad1-bf8e-8ebdb8221d21" playOrder="24">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/234/cuento4ilus1.htm"/>
+    </navPoint>
+    <navPoint id="bc86bb76-7a92-43c2-bee0-817646143075" playOrder="25">
+      <navLabel>
+        <text>Fernando José Cots Liébanes</text>
+      </navLabel>
+      <content src="/wiki/index.php"/>
+    </navPoint>
+    <navPoint id="d83ceec4-2c41-442e-94ff-a82b76b034d0" playOrder="26">
+      <navLabel>
+        <text>QUILINO</text>
+      </navLabel>
+      <content src="/rev/119/c-119Quilino.htm"/>
+    </navPoint>
+    <navPoint id="8c0e908a-5b62-4170-8719-4306913e27b5" playOrder="27">
+      <navLabel>
+        <text>CARACOLES</text>
+      </navLabel>
+      <content src="/rev/123/c-123Caracoles.htm"/>
+    </navPoint>
+    <navPoint id="f0b0e79e-5966-46e9-8fdb-d6dafcbdc44e" playOrder="28">
+      <navLabel>
+        <text>LA NOCHE DE LA RATA</text>
+      </navLabel>
+      <content src="/rev/137/c-137Cuento1.htm"/>
+    </navPoint>
+    <navPoint id="0aeed974-5797-4483-beb5-4c6c64f79a50" playOrder="29">
+      <navLabel>
+        <text>RECHAZO</text>
+      </navLabel>
+      <content src="/rev/146/c-146Cuento12.htm#4"/>
+    </navPoint>
+    <navPoint id="1b616949-213c-44db-9ee7-7c031b97599b" playOrder="30">
+      <navLabel>
+        <text>OBERTURA PARA DIOSES LOCOS</text>
+      </navLabel>
+      <content src="/rev/147/c-147Cuento9.htm"/>
+    </navPoint>
+    <navPoint id="c4d4a12c-a69b-48c0-93e8-7829e62a37d5" playOrder="31">
+      <navLabel>
+        <text>PROCÓNSUL</text>
+      </navLabel>
+      <content src="/rev/160/c-160cuento10.htm"/>
+    </navPoint>
+    <navPoint id="344cc440-ae42-49ac-80a3-7f2337f54d67" playOrder="32">
+      <navLabel>
+        <text>LA TRAMPA</text>
+      </navLabel>
+      <content src="/rev/166/c-166cuento3.htm"/>
+    </navPoint>
+    <navPoint id="1217f8c8-289d-4af9-8692-38f5d52c4e6f" playOrder="33">
+      <navLabel>
+        <text>SI MARTE FALLA</text>
+      </navLabel>
+      <content src="/rev/177/c-177cuento6.htm"/>
+    </navPoint>
+    <navPoint id="95fa93c2-6ecc-4e6e-a0fb-ddabd0e3f9dc" playOrder="34">
+      <navLabel>
+        <text>LOS INVASORES DEL SÁBADO</text>
+      </navLabel>
+      <content src="/rev/179/c-179cuento1.htm"/>
+    </navPoint>
+    <navPoint id="b295d5df-d7e9-4137-9ca0-a418463389a1" playOrder="35">
+      <navLabel>
+        <text>MADUREZ</text>
+      </navLabel>
+      <content src="/rev/186/c-186cuento4.htm#2"/>
+    </navPoint>
+    <navPoint id="35d5ccd9-b7ed-416b-917b-6a00c98804fd" playOrder="36">
+      <navLabel>
+        <text>RADIO MALDITA</text>
+      </navLabel>
+      <content src="/rev/2010/01/radio-maldita-fernando-jose-cots/"/>
+    </navPoint>
+    <navPoint id="424cbfad-a1a4-45dd-ab86-d189d42203a6" playOrder="37">
+      <navLabel>
+        <text>LOS APESTADOS DE TANIT</text>
+      </navLabel>
+      <content src="/rev/2010/11/los-apestados-de-tanit-fernando-jose-cots/"/>
+    </navPoint>
+    <navPoint id="8d3c762b-f1f6-439b-9bcf-ee931db8df4b" playOrder="38">
+      <navLabel>
+        <text>DONACIANO</text>
+      </navLabel>
+      <content src="/rev/2011/05/donaciano-fernando-jose-cots/"/>
+    </navPoint>
+    <navPoint id="5139a900-c669-463c-8a8e-2c3c3c638377" playOrder="39">
+      <navLabel>
+        <text>CONVOY</text>
+      </navLabel>
+      <content src="/rev/2012/04/convoy-fernando-jose-cots/"/>
+    </navPoint>
+    <navPoint id="2bdfe03d-cb60-4b60-9c32-4c71e4dd425c" playOrder="40">
+      <navLabel>
+        <text>LAS MALAS COPIAS</text>
+      </navLabel>
+      <content src="/rev/192/c-192ensayo1.htm"/>
+    </navPoint>
+    <navPoint id="af25c895-c907-4a52-b092-c0a5a53b74b3" playOrder="41">
+      <navLabel>
+        <text>ECOS Y SILENCIOS</text>
+      </navLabel>
+      <content src="/rev/195/c-195ensayo1.htm"/>
+    </navPoint>
+    <navPoint id="9a68314f-5db8-49de-abf7-2d0f68b7ed8a" playOrder="42">
+      <navLabel>
+        <text>EL GRAN HERMANO Y SUS MODELOS REALES</text>
+      </navLabel>
+      <content src="/rev/199/c-199ensayo1.htm"/>
+    </navPoint>
+    <navPoint id="29de6a0b-cef0-4314-96f2-2d04d8c94726" playOrder="43">
+      <navLabel>
+        <text>EL TRISTE OFICIO DE WINSTON SMITH</text>
+      </navLabel>
+      <content src="/rev/2010/03/el-triste-oficio-de-winston-smith-fernando-jose-cots/"/>
+    </navPoint>
+    <navPoint id="6c844dbc-9f65-4c3d-b06f-52c236db78ac" playOrder="44">
+      <navLabel>
+        <text>LAS GRANDES DUDAS DEL PLANETA ROJO</text>
+      </navLabel>
+      <content src="/rev/2011/08/las-grandes-dudas-del-planeta-rojo-fernando-jose-cots/"/>
+    </navPoint>
+    <navPoint id="ea89db41-3bb5-4cee-9b4e-62f28b1b2da5" playOrder="45">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/234/cuento5ilus1.htm"/>
+    </navPoint>
+    <navPoint id="15bf38f3-b36e-4d7e-b648-5e319a24c160" playOrder="46">
+      <navLabel>
+        <text>VEINTE AÑOS</text>
+      </navLabel>
+      <content src="/rev/2010/01/ficcion-breve-cincuenta-y-cinco-varios-autores/#12"/>
+    </navPoint>
+    <navPoint id="8f1ce2b7-d3e0-496a-a22f-a59b986e7abf" playOrder="47">
+      <navLabel>
+        <text>EL PORTAL DE LAS MANTÍCORAS</text>
+      </navLabel>
+      <content src="/rev/2010/03/ficcion-breve-cincuenta-y-seis-varios-autores/#7"/>
+    </navPoint>
+    <navPoint id="f8a32561-024c-4e63-9510-7087304f7e90" playOrder="48">
+      <navLabel>
+        <text>EL PRINCIPIO DE INCERTIDUMBRE</text>
+      </navLabel>
+      <content src="/rev/2010/09/el-principio-de-incertidumbre-ricardo-gabriel-zanelli/"/>
+    </navPoint>
+    <navPoint id="b7518af0-38b3-42a5-bdd1-bce7544ec54a" playOrder="49">
+      <navLabel>
+        <text>EL MARTINCITO</text>
+      </navLabel>
+      <content src="/rev/2011/04/ficcion-breve-sesenta-y-uno-varios-autores/#10"/>
+    </navPoint>
+  </navMap>
+</ncx>

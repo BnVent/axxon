@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="4a29329d-e6c0-42be-b7d1-04191aebf521" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 169</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ucf50d98d-1ca4-4489-b631-b86d85a121bf" playOrder="1">
+      <navLabel>
+        <text>Editorial: Seré breve</text>
+      </navLabel>
+      <content src="c-169Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ua150976f-d149-4546-ae52-95473ce66b88" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-169Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u48931440-5299-41f2-8d0d-4c570b8e4019" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Convidados del futuro</text>
+      </navLabel>
+      <content src="c-169Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u5e651eb3-0f21-49ad-8e07-d73f44787a8d" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Robopsiquiatra 10.203.911</text>
+      </navLabel>
+      <content src="c-169Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ubbebd08d-3e07-499c-bf0b-9116119b16b1" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Robot</text>
+      </navLabel>
+      <content src="c-169Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uec8c46e4-e72e-4da9-a0a9-50a5e2c4bcad" playOrder="6">
+      <navLabel>
+        <text>Divulgación: Homo irritus</text>
+      </navLabel>
+      <content src="c-169Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ubaf42ebc-0185-4d01-b729-744ec005dd64" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Cuando la basura nos tape</text>
+      </navLabel>
+      <content src="c-169Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uf4b81215-2fce-463e-ab19-aab949af4b03" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Crónica de un viaje inútil</text>
+      </navLabel>
+      <content src="c-169Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u4398f343-5fc5-4dcd-9c6d-d36dbfc54d31" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Conociendo a los Bartletts</text>
+      </navLabel>
+      <content src="c-169Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u023b8a6d-190f-42cb-a6df-24b48bd2518f" playOrder="10">
+      <navLabel>
+        <text>Ficciones: El hombre atómico</text>
+      </navLabel>
+      <content src="c-169Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u3959b6ff-dea9-404a-998b-cdc9756573fe" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (29)</text>
+      </navLabel>
+      <content src="c-169Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u56d663a1-0fff-4b83-855d-6694ffb91017" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Tabula rasa</text>
+      </navLabel>
+      <content src="c-169Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u0cde137a-44ba-49bc-9180-36dfaa989b08" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Polaroid</text>
+      </navLabel>
+      <content src="c-169Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u42295c7b-efaa-4c02-a931-af7dbef03ca5" playOrder="14">
+      <navLabel>
+        <text>Ficciones: Crítica de la razón pura</text>
+      </navLabel>
+      <content src="c-169Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u94498fd5-88c7-4707-949f-d1df42687feb" playOrder="15">
+      <navLabel>
+        <text>Sección: Batiburrillo</text>
+      </navLabel>
+      <content src="c-169Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u5b00072c-4467-4147-9358-816ac22efcc5" playOrder="16">
+      <navLabel>
+        <text>Batiburrillo: Editorial</text>
+      </navLabel>
+      <content src="c-169Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u8f25d45d-a540-4985-9e9a-15cf5a58a2a3" playOrder="17">
+      <navLabel>
+        <text>Batiburrillo: Me la sé lunga</text>
+      </navLabel>
+      <content src="c-169Pag17.htm"/>
+    </navPoint>
+    <navPoint id="ua7300941-eb52-4213-bb40-af4ac06df810" playOrder="18">
+      <navLabel>
+        <text>Batiburrillo: Antiguo grimorio de artes herméticas: Menología</text>
+      </navLabel>
+      <content src="c-169Pag18.htm"/>
+    </navPoint>
+    <navPoint id="ued3b0373-0cb7-4d08-98de-269ad4a751ad" playOrder="19">
+      <navLabel>
+        <text>Batiburrillo: Antiguo grimorio de artes herméticas: Tierrología</text>
+      </navLabel>
+      <content src="c-169Pag19.htm"/>
+    </navPoint>
+    <navPoint id="u6082c015-be35-4994-8ea4-d01bfd559e61" playOrder="20">
+      <navLabel>
+        <text>Ficciones: PAT</text>
+      </navLabel>
+      <content src="c-169Pag20.htm"/>
+    </navPoint>
+    <navPoint id="ub18d9fcb-5ce4-4534-8e7a-74ce78a104dd" playOrder="21">
+      <navLabel>
+        <text>Ficciones: El amante de las estatuas</text>
+      </navLabel>
+      <content src="c-169Pag21.htm"/>
+    </navPoint>
+    <navPoint id="uc1e8f277-7237-401c-8ffc-316cc49e4f18" playOrder="22">
+      <navLabel>
+        <text>Ficciones: Los espectadores</text>
+      </navLabel>
+      <content src="c-169Pag22.htm"/>
+    </navPoint>
+    <navPoint id="ue7289c45-f541-49e7-9c35-5ef2fadb5f2a" playOrder="23">
+      <navLabel>
+        <text>Ficciones: El baile de las víctimas</text>
+      </navLabel>
+      <content src="c-169Pag23.htm"/>
+    </navPoint>
+    <navPoint id="u6dcef741-068c-44c5-b56e-aa09efe68e0e" playOrder="24">
+      <navLabel>
+        <text>Ficciones: Jaque doble</text>
+      </navLabel>
+      <content src="c-169Pag24.htm"/>
+    </navPoint>
+    <navPoint id="u4f7622d2-4ecd-4261-9580-4819c7459a1e" playOrder="25">
+      <navLabel>
+        <text>Ficciones: El mismo río</text>
+      </navLabel>
+      <content src="c-169Pag25.htm"/>
+    </navPoint>
+    <navPoint id="u927f986a-be5e-434a-8d99-afc1d16f5a59" playOrder="26">
+      <navLabel>
+        <text>Ficciones: Brasa 2000</text>
+      </navLabel>
+      <content src="c-169Pag26.htm"/>
+    </navPoint>
+    <navPoint id="u1a797d67-bc08-4657-af75-875fd0ea3fce" playOrder="27">
+      <navLabel>
+        <text>Ensayo: Los futuros argentinos</text>
+      </navLabel>
+      <content src="c-169Pag27.htm"/>
+    </navPoint>
+    <navPoint id="u028a3902-dfe2-45f8-b23c-860a4031a9e6" playOrder="28">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

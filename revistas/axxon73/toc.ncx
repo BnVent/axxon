@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="e6ffaeb7-8f38-45af-a020-8c246ef04fa4" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.27)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 73</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u1ce128dc-39ab-4895-b375-fa270166a48d" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-73Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ub1fcc967-7a65-442c-9e9b-304a5d6f14a1" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 73</text>
+      </navLabel>
+      <content src="c-73Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uf2a8e641-81a1-4475-9572-7d7dc97cf942" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Capullo</text>
+      </navLabel>
+      <content src="c-73Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u1f9b942f-eba4-4739-ad3d-f82927d701ed" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El buen cachorro</text>
+      </navLabel>
+      <content src="c-73Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u4ebb5312-fb41-414c-9e99-be3ec81838fb" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Un millón de alternativas posibles</text>
+      </navLabel>
+      <content src="c-73Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u8cf988e2-bd5e-4820-90ab-c3a64a1d253b" playOrder="6">
+      <navLabel>
+        <text>Ficciones: La flor… y la sangre</text>
+      </navLabel>
+      <content src="c-73Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u0ddcee8f-7647-40a5-8d97-fe7a6d107b73" playOrder="7">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual</text>
+      </navLabel>
+      <content src="c-73Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u88439a4d-71d7-44e2-90a8-ede39a82dcff" playOrder="8">
+      <navLabel>
+        <text>Correo: Correo 73</text>
+      </navLabel>
+      <content src="c-73Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u6e19dfd8-cc60-4f63-8989-dc34b358283d" playOrder="9">
+      <navLabel>
+        <text>Seccion: Una mirada a la realidad</text>
+      </navLabel>
+      <content src="c-73Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uacb81cf0-ef55-4e06-868a-b358d2337364" playOrder="10">
+      <navLabel>
+        <text>Sección: ET AL Virtual</text>
+      </navLabel>
+      <content src="c-73Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uf1a8b09f-f599-43fb-992d-aeaa8872f183" playOrder="11">
+      <navLabel>
+        <text>Sección: Actualidad en informática</text>
+      </navLabel>
+      <content src="c-73Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u18618728-321f-49be-9219-e327006505bd" playOrder="12">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-73Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u0e33a253-9a9a-4e5e-9cf3-fbe95d8de9f3" playOrder="13">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-73Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u2d7e80eb-e3aa-4b16-8402-35fd9cad4bd5" playOrder="14">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

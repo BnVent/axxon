@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="fe2a1d1d-1bd8-4224-ba44-029472829f83" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.38)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 84</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uf7a08980-3002-44bc-8ca7-3fbaf1c8e87f" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-84Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u563aa0c6-fcb9-49cf-a656-577c518e10f5" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 84</text>
+      </navLabel>
+      <content src="c-84Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ua59b7b2c-124c-4af0-bac7-4f4c36c901c0" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Caída mortal</text>
+      </navLabel>
+      <content src="c-84Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ud35964cf-2111-45ee-906a-fa91a1875263" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Solo en Anacron</text>
+      </navLabel>
+      <content src="c-84Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u0a1186ec-6bac-4949-aac2-8fc2a7c00ac4" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Maquinaria</text>
+      </navLabel>
+      <content src="c-84Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uee076a0d-eb66-4b45-8bb0-1c129ee8d53e" playOrder="6">
+      <navLabel>
+        <text>Sección: Tour Macabro</text>
+      </navLabel>
+      <content src="c-84Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u65b3b769-7e0f-46ef-9e77-a11723d02d29" playOrder="7">
+      <navLabel>
+        <text>Letras: Sin mostrar piedad</text>
+      </navLabel>
+      <content src="c-84Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ue9225f2c-d447-438b-8577-dd147ce1b6db" playOrder="8">
+      <navLabel>
+        <text>Galería: Galería</text>
+      </navLabel>
+      <content src="c-84Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u9f498e1b-a79d-4cfb-a199-b7df5b976a18" playOrder="9">
+      <navLabel>
+        <text>Ficciones: El hombre y la víbora</text>
+      </navLabel>
+      <content src="c-84Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u30dcbf3e-085b-45cc-84c5-01fec981d515" playOrder="10">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual</text>
+      </navLabel>
+      <content src="c-84Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uaa88f94c-e341-4114-9c61-227f8746983c" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Pensar como un dinosaurio</text>
+      </navLabel>
+      <content src="c-84Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u1561f443-bce3-4201-83a5-27e2e343a8f0" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Un subterráneo llamado Moebius</text>
+      </navLabel>
+      <content src="c-84Pag12.htm"/>
+    </navPoint>
+    <navPoint id="uffd235ac-c062-41c3-94c8-cf79def19738" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Una victoria de los netizens</text>
+      </navLabel>
+      <content src="c-84Pag13.htm"/>
+    </navPoint>
+    <navPoint id="uab25935e-e7e7-4c8a-a3d2-5f5e1aa35f79" playOrder="14">
+      <navLabel>
+        <text>Nota: Songs in the key of X</text>
+      </navLabel>
+      <content src="c-84Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u4cca26bf-d51e-4070-ab98-08c56078f3af" playOrder="15">
+      <navLabel>
+        <text>Correo: Correo 84</text>
+      </navLabel>
+      <content src="c-84Pag15.htm"/>
+    </navPoint>
+    <navPoint id="udf1f44e0-be06-4aca-ace1-380e8ef82b16" playOrder="16">
+      <navLabel>
+        <text>Sección: INFO Córtex</text>
+      </navLabel>
+      <content src="c-84Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u24b9231b-6441-48a9-987d-693e982ec391" playOrder="38">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-84Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u7901b0fa-457a-4257-addf-ac7444b56c96" playOrder="39">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-84Pag18.htm"/>
+    </navPoint>
+    <navPoint id="uf96f5325-4589-40f2-9ac5-20302a18a391" playOrder="40">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="u1f11d8bb-cf57-4a44-84de-146ba8e9bf24" playOrder="17">
+      <navLabel>
+        <text>PREMIOS</text>
+      </navLabel>
+      <content src="c-84Pag16.htm#premios"/>
+    </navPoint>
+    <navPoint id="u14cfafbd-09e1-454a-966c-c50205eca9e0" playOrder="18">
+      <navLabel>
+        <text>GANADORES DEL HUGO 1996</text>
+      </navLabel>
+      <content src="c-84Pag16.htm#ganadores-del-hugo-1996"/>
+    </navPoint>
+    <navPoint id="u8368bbe9-d9ed-47ac-a0e8-3c53dbb542ff" playOrder="19">
+      <navLabel>
+        <text>PREMIO HUGO RETROSPECTIVO 1946</text>
+      </navLabel>
+      <content src="c-84Pag16.htm#premio-hugo-retrospectivo-1946"/>
+    </navPoint>
+    <navPoint id="ud48695b5-4e34-4e5e-9442-e4ff015f1f31" playOrder="20">
+      <navLabel>
+        <text>PREMIOS CHESLEY 1995</text>
+      </navLabel>
+      <content src="c-84Pag16.htm#premios-chesley-1995"/>
+    </navPoint>
+    <navPoint id="ucb316ab3-f15c-4dfd-8c5f-bed628d1c17e" playOrder="21">
+      <navLabel>
+        <text>CONCURSOS</text>
+      </navLabel>
+      <content src="c-84Pag16.htm#concursos"/>
+    </navPoint>
+    <navPoint id="u8e931652-7c45-47cc-926d-be36d368a1c7" playOrder="22">
+      <navLabel>
+        <text>ARGENTINA</text>
+      </navLabel>
+      <content src="c-84Pag16.htm#argentina"/>
+    </navPoint>
+    <navPoint id="u60fca006-4074-4114-b7d6-17a0c6c7aeed" playOrder="23">
+      <navLabel>
+        <text>MEXICO</text>
+      </navLabel>
+      <content src="c-84Pag16.htm#mexico"/>
+    </navPoint>
+    <navPoint id="u989570bc-3ccf-4d3d-a603-835a7aa0aaf1" playOrder="24">
+      <navLabel>
+        <text>PREMIO INTERNACIONAL DE NOVELA DE CIENCIA FICCION Y FANTASIA “MECYF‘97”</text>
+      </navLabel>
+      <content src="c-84Pag16.htm#premio-internacional-de-novela-de-ciencia-ficcion-y-fantasia-mecyf-97"/>
+    </navPoint>
+    <navPoint id="u26860c61-c79a-4b8c-8a74-59b7081c53a2" playOrder="25">
+      <navLabel>
+        <text>AUTORES</text>
+      </navLabel>
+      <content src="c-84Pag16.htm#autores"/>
+    </navPoint>
+    <navPoint id="u57773906-42e9-4631-8ba2-dec59b52471e" playOrder="26">
+      <navLabel>
+        <text>LIBROS</text>
+      </navLabel>
+      <content src="c-84Pag16.htm#libros"/>
+    </navPoint>
+    <navPoint id="u78d0eca6-64d4-444f-8651-4b3f3f227f03" playOrder="27">
+      <navLabel>
+        <text>REVISTAS</text>
+      </navLabel>
+      <content src="c-84Pag16.htm#revistas"/>
+    </navPoint>
+    <navPoint id="uca545250-f443-454b-8f94-ab79846dca98" playOrder="28">
+      <navLabel>
+        <text>MEDIOS</text>
+      </navLabel>
+      <content src="c-84Pag16.htm#medios"/>
+    </navPoint>
+    <navPoint id="uf3f2498b-6318-4433-8b8f-971ef9c31748" playOrder="29">
+      <navLabel>
+        <text>INFORMATICA</text>
+      </navLabel>
+      <content src="c-84Pag16.htm#informatica"/>
+    </navPoint>
+    <navPoint id="u10586035-124d-4f5a-80de-d68a42e53be0" playOrder="30">
+      <navLabel>
+        <text>TELEVISION</text>
+      </navLabel>
+      <content src="c-84Pag16.htm#television"/>
+    </navPoint>
+    <navPoint id="u535f3d49-9015-4b35-a48d-45441e16876b" playOrder="31">
+      <navLabel>
+        <text>ACTIVIDADES</text>
+      </navLabel>
+      <content src="c-84Pag16.htm#actividades"/>
+    </navPoint>
+    <navPoint id="uc3aa2249-2287-452f-8a9d-fc52f2a8212b" playOrder="32">
+      <navLabel>
+        <text>EUROPA</text>
+      </navLabel>
+      <content src="c-84Pag16.htm#europa"/>
+    </navPoint>
+    <navPoint id="u607b1b60-7385-4a45-b69d-0fadf4136818" playOrder="33">
+      <navLabel>
+        <text>ESTADOS UNIDOS</text>
+      </navLabel>
+      <content src="c-84Pag16.htm#estados-unidos"/>
+    </navPoint>
+    <navPoint id="u942f70c4-eb5f-4f8e-857d-740adf027aeb" playOrder="34">
+      <navLabel>
+        <text>C I N E - V I D E O</text>
+      </navLabel>
+      <content src="c-84Pag16.htm#c-i-n-e-v-i-d-e-o"/>
+    </navPoint>
+    <navPoint id="u93eddf9d-36bf-46a5-94fb-218d5f82f4fc" playOrder="35">
+      <navLabel>
+        <text>CINE</text>
+      </navLabel>
+      <content src="c-84Pag16.htm#cine"/>
+    </navPoint>
+    <navPoint id="u3c01f926-d38e-4540-b6a5-2b1d31ba4c01" playOrder="36">
+      <navLabel>
+        <text>ESTRENOS</text>
+      </navLabel>
+      <content src="c-84Pag16.htm#estrenos"/>
+    </navPoint>
+    <navPoint id="u7d59659f-04bc-4dfc-a283-6f9cf4338b71" playOrder="37">
+      <navLabel>
+        <text>VIDEO</text>
+      </navLabel>
+      <content src="c-84Pag16.htm#video"/>
+    </navPoint>
+  </navMap>
+</ncx>

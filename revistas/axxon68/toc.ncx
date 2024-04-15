@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="01a5b899-2f1d-47b8-9489-106972b4321b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.14.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 68</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u0706f51e-6ad8-4c6f-80d5-1fe846cb22be" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-68Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uad39f9c2-4539-4bbf-aa15-b81c14986f04" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 68</text>
+      </navLabel>
+      <content src="c-68Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ud967a31a-9d76-4db9-9ebb-36ab9aa990d9" playOrder="3">
+      <navLabel>
+        <text>Ficciones: La curva del hombre muerto</text>
+      </navLabel>
+      <content src="c-68Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ud4dabf23-7dc6-4342-af9d-3325d2081b33" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El espiante</text>
+      </navLabel>
+      <content src="c-68Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ufbd65064-2348-4cae-917f-ab40ee0718f3" playOrder="5">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual</text>
+      </navLabel>
+      <content src="c-68Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u8f54eb94-d66e-4306-9cc8-65f33121c16f" playOrder="6">
+      <navLabel>
+        <text>Sección: Tour Macabro</text>
+      </navLabel>
+      <content src="c-68Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uf33e31f5-776b-450b-ab88-b733a557fd4e" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Demasiado limpia</text>
+      </navLabel>
+      <content src="c-68Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u2416d276-8a06-4765-a223-06b95676b628" playOrder="8">
+      <navLabel>
+        <text>Ficciones: La pata del mono</text>
+      </navLabel>
+      <content src="c-68Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ub19897d2-c6b5-4aed-8c7e-b06da049d44d" playOrder="9">
+      <navLabel>
+        <text>Sección: Macabra seccion de libros, cine, videos &amp; etc</text>
+      </navLabel>
+      <content src="c-68Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ua6c11b3c-15fa-4f5e-8d83-bca3140f5560" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Armagedón</text>
+      </navLabel>
+      <content src="c-68Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u51395ea2-694a-4e3c-9866-1131bf437982" playOrder="11">
+      <navLabel>
+        <text>Sección: Tecnología: Genes marchitos</text>
+      </navLabel>
+      <content src="c-68Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u45856875-83f3-4a9f-a58c-cba52b65a4d9" playOrder="12">
+      <navLabel>
+        <text>Sección: Tecnología: Un singular visionario</text>
+      </navLabel>
+      <content src="c-68Pag12.htm"/>
+    </navPoint>
+    <navPoint id="ud84df3e8-386a-4d1f-bd7f-f4ecee4d8228" playOrder="13">
+      <navLabel>
+        <text>Ficciones: La flauta de Bodidharma</text>
+      </navLabel>
+      <content src="c-68Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u8bdfa172-9742-47fc-ac54-3b668923046a" playOrder="14">
+      <navLabel>
+        <text>Correo: Correo 68</text>
+      </navLabel>
+      <content src="c-68Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u875a79d0-2cbe-415f-a915-8b882c62c403" playOrder="15">
+      <navLabel>
+        <text>Ficciones: Ser humanos</text>
+      </navLabel>
+      <content src="c-68Pag15.htm"/>
+    </navPoint>
+    <navPoint id="uf273331d-a848-4028-9853-12357d372d7e" playOrder="16">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad</text>
+      </navLabel>
+      <content src="c-68Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u22398bfa-4e35-4a0c-9343-3732224b52aa" playOrder="17">
+      <navLabel>
+        <text>Sección: ET AL Virtual</text>
+      </navLabel>
+      <content src="c-68Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u76f15129-20d4-461c-82c7-f6b6bd07b360" playOrder="18">
+      <navLabel>
+        <text>Anticipos: Anticipos y resumen</text>
+      </navLabel>
+      <content src="c-68Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u1f2db555-9a34-4610-b4fd-f42a50145681" playOrder="19">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-68Pag19.htm"/>
+    </navPoint>
+    <navPoint id="uc57fdd1b-8f34-40a8-80d3-e8a81d785cd1" playOrder="20">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

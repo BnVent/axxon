@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="5a0192cb-c2b6-4b65-8b91-a67b97d0e9f3" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.41.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 103</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u250ddc1c-df49-4bc2-ac3a-1e817b4da9ab" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-103Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u93fda872-053d-4637-b994-a5a3bd92683e" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 103</text>
+      </navLabel>
+      <content src="c-103Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u7bb16a41-aa43-4913-926e-62d8d7a3c8b5" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El día que hicimos la transición</text>
+      </navLabel>
+      <content src="c-103Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u4ee12459-dd68-4f30-9c21-e6988658f229" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El síndrome de Pinocho</text>
+      </navLabel>
+      <content src="c-103Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ue50a61f3-a0d9-46c0-86dc-52100b4568e8" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Ejércitos</text>
+      </navLabel>
+      <content src="c-103Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uff3a7c96-9743-42f6-a805-e87fe33e1eab" playOrder="6">
+      <navLabel>
+        <text>Sección: Aves raras VI: Martín Brunás</text>
+      </navLabel>
+      <content src="c-103Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u3a14bca7-2330-45ac-8f58-d179db84ee90" playOrder="7">
+      <navLabel>
+        <text>Sección: El rincón de las tinieblas: Paine, el panfletario</text>
+      </navLabel>
+      <content src="c-103Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u959f0bc9-1fc5-4466-8a13-7a09ff4f41d9" playOrder="8">
+      <navLabel>
+        <text>Ensayo: Asesinos de metal</text>
+      </navLabel>
+      <content src="c-103Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ua2b4280c-9c20-4242-8653-60b34e6e65ba" playOrder="9">
+      <navLabel>
+        <text>Ensayo: Del Fandom en España</text>
+      </navLabel>
+      <content src="c-103Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uccdcf8b0-b7e8-46dc-b64d-412e4db1ec0c" playOrder="10">
+      <navLabel>
+        <text>Concursos: Concursos, premios y convocatorias</text>
+      </navLabel>
+      <content src="c-103Pag10.htm"/>
+    </navPoint>
+    <navPoint id="udb34a35f-92c8-40ec-9aba-8ab606b13ca5" playOrder="11">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-103Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ub470ef88-0a3d-4935-aa1a-5d9b67ce6d3d" playOrder="12">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-103Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u121a2888-4bca-471a-96ef-16e842f6a996" playOrder="13">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

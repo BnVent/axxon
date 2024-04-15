@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="44f2e907-92c1-45bb-9559-79be232ad50c" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.18.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 261</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uc22d2020-09a2-4b87-86b7-4f2eb1356f46" playOrder="1">
+      <navLabel>
+        <text>Editorial: Dos libros y una hebra</text>
+      </navLabel>
+      <content src="c-261Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ufeaa549f-6d14-4e98-ad0e-38c85fe6ead9" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Ficciones Breves Nº 75</text>
+      </navLabel>
+      <content src="c-261Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u481b2505-e7aa-4c67-ba59-a46c1499774f" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El baobab de las palabras</text>
+      </navLabel>
+      <content src="c-261Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ud01810b1-bd1a-4c8d-9c2c-c58809a292ca" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El chip</text>
+      </navLabel>
+      <content src="c-261Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ub571e879-ce2c-4a64-bc86-fca353d5f3ef" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Buenafortuna</text>
+      </navLabel>
+      <content src="c-261Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u930d23ff-7c01-43ae-9cad-009fa9518692" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Una canallada</text>
+      </navLabel>
+      <content src="c-261Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u3e9af1c2-1554-4b8a-8441-4cc1a81a5443" playOrder="7">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

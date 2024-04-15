@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="2e7cf0f6-0daa-4a2b-80bb-5a80026a0ff2" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.35.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 147</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u9aab943e-432f-4f58-81aa-5a632ebb579b" playOrder="1">
+      <navLabel>
+        <text>Editorial: Construir</text>
+      </navLabel>
+      <content src="c-147Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u086d8f4e-e176-4983-8c3f-f9dea4c43c64" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxonitas</text>
+      </navLabel>
+      <content src="c-147Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u7e57b17a-61de-4bce-9bdc-cd4518161b79" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Besos de alacrán</text>
+      </navLabel>
+      <content src="c-147Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u65f93b36-e186-458f-b3d8-9ce46fcd94f5" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Presentes ausentes</text>
+      </navLabel>
+      <content src="c-147Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u7e5d5605-8fd2-4da6-aaca-836e5972520d" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Viaje nocturno</text>
+      </navLabel>
+      <content src="c-147Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uf72f65ab-d5af-45f7-a2fa-81c13920b0d3" playOrder="6">
+      <navLabel>
+        <text>Divulgación: Los satélites malditos</text>
+      </navLabel>
+      <content src="c-147Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u29a1c5fd-0106-44dc-b1d4-eacbaa60edbb" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Iniciación</text>
+      </navLabel>
+      <content src="c-147Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u4d5a3773-adb5-4e2f-83f7-5f9aa1099867" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Flor de trueno</text>
+      </navLabel>
+      <content src="c-147Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uf66978d7-13ec-487d-a66c-dc765a159b7e" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Los olvidados de Dios</text>
+      </navLabel>
+      <content src="c-147Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u9c12cb7b-e3e4-4a2f-abbb-280174011c01" playOrder="10">
+      <navLabel>
+        <text>Ficciones: El Cristo atrapado</text>
+      </navLabel>
+      <content src="c-147Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u4f14f132-a302-4eae-a3b6-e8b8df4e5291" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Magna Viperia Morphis</text>
+      </navLabel>
+      <content src="c-147Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u5393c91d-54ee-4853-bc23-6ea58223a1d3" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Obertura para dioses locos</text>
+      </navLabel>
+      <content src="c-147Pag12.htm"/>
+    </navPoint>
+    <navPoint id="ubc3510e8-14af-4693-8b68-b9d881e830f5" playOrder="13">
+      <navLabel>
+        <text>Sección: Anacrónicas</text>
+      </navLabel>
+      <content src="c-147Pag13.htm"/>
+    </navPoint>
+    <navPoint id="ue527a3e9-62c4-411f-aa56-b7810d22d2e5" playOrder="14">
+      <navLabel>
+        <text>Anacrónicas: Romance de lo sucedido</text>
+      </navLabel>
+      <content src="c-147Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u941cfd2c-8806-44cc-a472-7182c5b00cb6" playOrder="15">
+      <navLabel>
+        <text>Anacrónicas: La República Sarmientina</text>
+      </navLabel>
+      <content src="c-147Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u8e5b55e3-97e7-4739-90be-a212f4f0c97d" playOrder="16">
+      <navLabel>
+        <text>Anacrónicas: La yunta ‘e torres (6)</text>
+      </navLabel>
+      <content src="c-147Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u54b02332-f987-4b23-bb74-f3059ad022a1" playOrder="17">
+      <navLabel>
+        <text>Uficción: Ilsa Lund</text>
+      </navLabel>
+      <content src="c-147Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u963422b8-5e90-4357-aaf9-1112ca6e2410" playOrder="18">
+      <navLabel>
+        <text>Ficciones: El Congreso</text>
+      </navLabel>
+      <content src="c-147Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u9f111bcf-f558-46ce-a42f-166ef628da50" playOrder="19">
+      <navLabel>
+        <text>Ficciones: El dios involuntario</text>
+      </navLabel>
+      <content src="c-147Pag19.htm"/>
+    </navPoint>
+    <navPoint id="ue44c5702-3434-4f32-929b-fef033a7561f" playOrder="20">
+      <navLabel>
+        <text>Ficciones: Ficción breve (2)</text>
+      </navLabel>
+      <content src="c-147Pag20.htm"/>
+    </navPoint>
+    <navPoint id="u01ccc750-7feb-4fb4-812b-56dc2e366aaa" playOrder="21">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

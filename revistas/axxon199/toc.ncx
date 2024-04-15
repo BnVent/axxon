@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="b8905f1b-2699-4373-89ce-2481d8e9b053" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.16.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 199</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u4926c0c1-07a7-4410-9796-09ddb4c43fa1" playOrder="1">
+      <navLabel>
+        <text>Editorial: Palabras y mundos</text>
+      </navLabel>
+      <content src="c-199Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u38aca7bb-0c69-4065-8be3-aa4dbf82f288" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-199Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u7b1644dd-7011-4d75-8c43-6bb9d1603471" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El día que Ñorquinco desapareció del mapa</text>
+      </navLabel>
+      <content src="c-199Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ue85502f0-b984-466c-b6af-815e6aee6c0e" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Omnipaedia</text>
+      </navLabel>
+      <content src="c-199Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ue144acaa-aa4c-4a3b-8f9e-d7b00b900913" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El precio de la venganza</text>
+      </navLabel>
+      <content src="c-199Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u69f516a0-4343-4dd5-a95a-26505e57185c" playOrder="6">
+      <navLabel>
+        <text>Divulgación: ¿Estamos solos? (parte 2)</text>
+      </navLabel>
+      <content src="c-199Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u9ac8f4a1-08d9-4bc2-ac78-76793943995b" playOrder="7">
+      <navLabel>
+        <text>Axxóncine: Darren Aronofsky: Una genealogía del fracaso</text>
+      </navLabel>
+      <content src="c-199Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u870aa89a-31d4-40fa-9998-297fac8e3620" playOrder="8">
+      <navLabel>
+        <text>Ensayo: El Gran Hermano y sus modelos reales</text>
+      </navLabel>
+      <content src="c-199Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ub656adb7-2d2e-4cfd-a5b4-b4682f6a861e" playOrder="9">
+      <navLabel>
+        <text>Ensayo: Morfología extraterrestre</text>
+      </navLabel>
+      <content src="c-199Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u4db6c6b2-14de-4eb6-b1c6-cce91e5533fa" playOrder="10">
+      <navLabel>
+        <text>Ensayo: ¿Un homenaje de Philip K.?</text>
+      </navLabel>
+      <content src="c-199Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ua21d063f-0531-4127-8019-755d8bfba835" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (cincuenta)</text>
+      </navLabel>
+      <content src="c-199Pag11.htm"/>
+    </navPoint>
+    <navPoint id="uc6d9a0e2-b35e-49f9-a7b0-452eef93778c" playOrder="12">
+      <navLabel>
+        <text>Clásico: El diablo y Tom Walker</text>
+      </navLabel>
+      <content src="c-199Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u4ecf3f90-563c-4218-9d57-a8921358dc3c" playOrder="13">
+      <navLabel>
+        <text>Clásico: El caos reptante</text>
+      </navLabel>
+      <content src="c-199Pag13.htm"/>
+    </navPoint>
+    <navPoint id="udead7e29-5bc5-4e91-acc0-a1b8e0a91012" playOrder="14">
+      <navLabel>
+        <text>Clásico: El manuscrito de un loco</text>
+      </navLabel>
+      <content src="c-199Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u8cb80104-3edc-4a5b-8dc2-21f6df076da6" playOrder="15">
+      <navLabel>
+        <text>Clásico: Una historia de siete demonios</text>
+      </navLabel>
+      <content src="c-199Pag15.htm"/>
+    </navPoint>
+    <navPoint id="uba82a712-85fb-4363-a858-74febc279f1e" playOrder="16">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

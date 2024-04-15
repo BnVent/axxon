@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <meta name="calibre:timestamp" content="2017-01-23T23:02:50.203000+00:00"/>
+    <dc:creator opf:file-as="Desconocido" opf:role="aut">Eduardo Carletti (editor)</dc:creator>
+    <meta name="calibre:series" content="Axxón"/>
+    <meta name="calibre:series_index" content="280"/>
+    <meta name="cover" content="cover"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">8d41b3d9-229e-4aee-ba62-6616050c3b99</dc:identifier>
+    <dc:language>es</dc:language>
+    <dc:title>Axxón 280</dc:title>
+    <dc:publisher>Ediciones Axxón</dc:publisher>
+  </metadata>
+  <manifest>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="280colucci10ch.jpg" id="added17" media-type="image/jpeg"/>
+    <item href="280colucci11ch.jpg" id="added18" media-type="image/jpeg"/>
+    <item href="280colucci12ch.jpg" id="added19" media-type="image/jpeg"/>
+    <item href="280colucci13ch.jpg" id="added13" media-type="image/jpeg"/>
+    <item href="280colucci1ch.jpg" id="added7" media-type="image/jpeg"/>
+    <item href="280colucci2ch.jpg" id="added8" media-type="image/jpeg"/>
+    <item href="280colucci3ch.jpg" id="added9" media-type="image/jpeg"/>
+    <item href="280colucci4ch.jpg" id="added10" media-type="image/jpeg"/>
+    <item href="280colucci5ch.jpg" id="added11" media-type="image/jpeg"/>
+    <item href="280colucci6ch.jpg" id="added12" media-type="image/jpeg"/>
+    <item href="280colucci7ch.jpg" id="added14" media-type="image/jpeg"/>
+    <item href="280colucci8ch.jpg" id="added15" media-type="image/jpeg"/>
+    <item href="280colucci9ch.jpg" id="added16" media-type="image/jpeg"/>
+    <item href="280cuento1ilus1ch.jpg" id="added5" media-type="image/jpeg"/>
+    <item href="280cuento2ilus1ch.jpg" id="added21" media-type="image/jpeg"/>
+    <item href="280cuento3ilus1ch.jpg" id="added23" media-type="image/jpeg"/>
+    <item href="280editcdjv.jpg" id="added3" media-type="image/jpeg"/>
+    <item href="280nota2_leia_pitocampos.jpg" id="added22" media-type="image/jpeg"/>
+    <item href="axxon.htm" id="html8" media-type="application/xhtml+xml"/>
+    <item href="axxon00.gif" id="added24" media-type="image/gif"/>
+    <item href="axxon280.htm" id="html" media-type="application/xhtml+xml"/>
+    <item href="band-arg.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="band-mex.jpg" id="added20" media-type="image/jpeg"/>
+    <item href="band-uru.jpg" id="added6" media-type="image/jpeg"/>
+    <item href="c-280Pag01.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="c-280Pag02.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="c-280Pag03.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="c-280Pag04.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="c-280Pag05.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="c-280Pag06.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="c-280Pag07.htm" id="html7" media-type="application/xhtml+xml"/>
+    <item href="c-280tapach.jpg" id="added25" media-type="image/jpeg"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="x-epub.png" id="added26" media-type="image/png"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+    <itemref idref="html1"/>
+    <itemref idref="html2"/>
+    <itemref idref="html3"/>
+    <itemref idref="html4"/>
+    <itemref idref="html5"/>
+    <itemref idref="html6"/>
+    <itemref idref="html7"/>
+    <itemref idref="html8"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

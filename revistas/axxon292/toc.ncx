@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="fe89fa99-39c1-4684-81b2-d140383b769f" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.17.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 292</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uCVRWIzflVJglHcOXYRB7G6" playOrder="1">
+      <navLabel>
+        <text>Editorial: Urbanidades</text>
+      </navLabel>
+      <content src="c-292Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uDBO3mgs7FBIlYlF6cn63G2" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Todo está lleno de trank: Dedicatoria, Prólogo</text>
+      </navLabel>
+      <content src="c-292Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uIleYjNSYyR2YxdyuS26iNA" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Todo está lleno de trank: Capítulo 1, Capítulo 2</text>
+      </navLabel>
+      <content src="c-292Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uWDSzZkyeAtQKeklqthKXRH" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Todo está lleno de trank: Capítulo 3, Capítulo 4</text>
+      </navLabel>
+      <content src="c-292Pag04.htm"/>
+    </navPoint>
+    <navPoint id="upDmvPXcLQMAFuSGeMKQTPF" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Todo está lleno de trank: Capítulo 5, Capítulo 6</text>
+      </navLabel>
+      <content src="c-292Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uEjwX8wuUnEO8x8azovdwIE" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Todo está lleno de trank: Capítulo 7, Capítulo 8</text>
+      </navLabel>
+      <content src="c-292Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uEYrx4Ok7KTr3PUlXQZcG4D" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Todo está lleno de trank: Capítulo 9, Capítulo 10</text>
+      </navLabel>
+      <content src="c-292Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uf6rK8FQTcUnablccmwh3pE" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Todo está lleno de trank: Capítulo 11</text>
+      </navLabel>
+      <content src="c-292Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uqXr5gUikl5ALQownQHasY9" playOrder="9">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-292Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ujwdoLyGw6iBj4FWRs5iuzC" playOrder="10">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

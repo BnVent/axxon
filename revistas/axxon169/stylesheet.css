@@ -1,0 +1,611 @@
+.biografia {
+    background: white;
+    background-color: white;
+    color: #a00000;
+    display: block;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 0.83333em;
+    font-weight: bold;
+    text-align: justify;
+    width: 99%;
+    border: #e0e0e0 dotted thin;
+    padding: 0;
+    margin: 0
+    }
+.calibre {
+    background: white;
+    display: block;
+    font-size: 1em;
+    width: 99%;
+    padding: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    background: white;
+    display: block;
+    width: 99%;
+    padding: 0;
+    margin: 0
+    }
+.calibre2 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre3 {
+    display: list-item
+    }
+.calibre4 {
+    font-weight: bold
+    }
+.calibre5 {
+    display: block;
+    padding: 0;
+    margin: 5px 0 0
+    }
+.calibre6 {
+    color: gray;
+    display: block;
+    height: 2px;
+    border: currentColor inset 1px;
+    margin: 0.5em auto
+    }
+.calibre7 {
+    background: white;
+    color: black;
+    display: block;
+    font-size: 1em;
+    width: 99%;
+    padding: 0;
+    margin: 0 5pt
+    }
+.calibre8 {
+    background: white;
+    display: block;
+    width: 99%;
+    border: rgb(128, 192, 192) solid 1px;
+    padding: 0;
+    margin: 0
+    }
+.calibre9 {
+    display: block
+    }
+.calibre10 {
+    font-size: 0.83333em
+    }
+.calibre11 {
+    height: auto;
+    width: auto
+    }
+.calibre12 {
+    display: block;
+    text-align: justify
+    }
+.calibre13 {
+    display: block;
+    text-align: RIGHT;
+    padding: 0;
+    margin: 5px 0 0
+    }
+.calibre14 {
+    background: white;
+    background-color: #d0d8df;
+    color: black;
+    display: block;
+    font-size: 1em;
+    width: 99%;
+    padding: 0;
+    margin: 0 5pt
+    }
+.calibre15 {
+    color: #4060C0;
+    display: block;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0.67em 0
+    }
+.calibre16 {
+    color: #000060;
+    display: block;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+    margin: 0.83em 0
+    }
+.calibre17 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre18 {
+    color: gray;
+    display: block;
+    height: 2px;
+    line-height: 1.2;
+    border: currentColor inset 1px;
+    margin: 0.5em auto
+    }
+.calibre19 {
+    color: #00f;
+    display: block;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0.67em 0
+    }
+.calibre20 {
+    color: #800080;
+    display: block;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0.83em 0
+    }
+.calibre21 {
+    display: block;
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 3em;
+    padding: 2px;
+    margin: 0
+    }
+.calibre22 {
+    font-style: italic
+    }
+.calibre23 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.67em 0
+    }
+.calibre24 {
+    display: block;
+    text-align: Justify;
+    padding: 0;
+    margin: 5px 0 0
+    }
+.calibre25 {
+    display: block;
+    text-align: center
+    }
+.calibre26 {
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.calibre27 {
+    display: table-row;
+    vertical-align: middle
+    }
+.calibre28 {
+    display: table-cell;
+    text-align: center;
+    vertical-align: inherit;
+    padding: 1px
+    }
+.calibre29 {
+    height: 176px;
+    width: 264px
+    }
+.calibre30 {
+    font-family: Verdana
+    }
+.calibre31 {
+    height: 208px;
+    width: 278px
+    }
+.calibre32 {
+    height: 294px;
+    width: 186px
+    }
+.calibre33 {
+    height: 293px;
+    width: 227px
+    }
+.calibre34 {
+    height: 260px;
+    width: 182px
+    }
+.calibre35 {
+    height: 300px;
+    width: 225px
+    }
+.calibre36 {
+    height: 235px;
+    width: 200px
+    }
+.calibre37 {
+    height: 302px;
+    width: 201px
+    }
+.calibre38 {
+    height: 249px;
+    width: 200px
+    }
+.calibre39 {
+    height: 258px;
+    width: 372px
+    }
+.calibre40 {
+    height: 392px;
+    width: 249px
+    }
+.calibre41 {
+    height: 261px;
+    width: 200px
+    }
+.calibre42 {
+    font-size: 0.625em;
+    font-style: normal;
+    line-height: 1.2;
+    text-decoration: none;
+    vertical-align: super
+    }
+.calibre43 {
+    font-size: 1em;
+    line-height: 1.2
+    }
+.calibre44 {
+    line-height: 1.2;
+    text-decoration: none
+    }
+.calibre45 {
+    text-decoration: none
+    }
+.calibre46 {
+    font-family: Arial
+    }
+.calibre47 {
+    color: darkred;
+    font-family: Verdana
+    }
+.calibre48 {
+    font-family: Verdana
+    }
+.calibre49 {
+    height: 13px;
+    width: 20px
+    }
+.calibre50 {
+    display: block;
+    text-align: right
+    }
+.calibre51 {
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+    text-indent: 0
+    }
+.calibre52 {
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: inherit;
+    padding: 1px
+    }
+.calibre53 {
+    height: 200px;
+    width: 600px
+    }
+.calibre54 {
+    height: 149px;
+    width: 200px
+    }
+.calibre55 {
+    height: 80px;
+    width: 200px
+    }
+.calibre56 {
+    float: right;
+    height: 198px;
+    width: 266px
+    }
+.calibre57 {
+    height: 193px;
+    vertical-align: middle;
+    width: 482px
+    }
+.calibre58 {
+    height: 341px;
+    vertical-align: middle;
+    width: 454px
+    }
+.calibre59 {
+    float: left;
+    height: auto;
+    width: auto
+    }
+.calibre60 {
+    float: right;
+    height: auto;
+    width: auto
+    }
+.calibre61 {
+    display: block;
+    text-align: justify;
+    padding: 0;
+    margin: 5px 0 0
+    }
+.calibre62 {
+    display: block;
+    margin: 1em 0
+    }
+.calibre63 {
+    display: block;
+    list-style-type: circle;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0
+    }
+.caption {
+    display: block;
+    font-size: 0.83333em;
+    font-style: italic;
+    font-weight: bold;
+    padding: 0;
+    margin: 5px 0 0
+    }
+.caption1 {
+    display: block;
+    font-size: 0.83333em;
+    font-style: italic;
+    font-weight: bold;
+    text-align: justify;
+    text-indent: 0;
+    padding: 2px;
+    margin: 0
+    }
+.caratula {
+    display: block;
+    text-align: center;
+    width: 100%;
+    padding: 0;
+    margin: 0
+    }
+.cartel {
+    background: inherited;
+    display: block;
+    height: inherited;
+    margin-left: inherited;
+    margin-right: inherited;
+    width: inherited
+    }
+.centrado {
+    display: block;
+    font-size: 1em;
+    text-align: center;
+    text-indent: 0;
+    padding: 2px;
+    margin: 0
+    }
+.colofon {
+    background: white;
+    display: block;
+    text-align: right;
+    text-indent: 0;
+    width: 99%;
+    padding: 0;
+    margin: 0
+    }
+.correo {
+    background: white;
+    background-color: #c0c8d0;
+    display: block;
+    float: center;
+    line-height: 1.2;
+    width: 99%;
+    padding: 0;
+    margin: 0
+    }
+.document {
+    background: white;
+    display: block;
+    line-height: 1.2;
+    width: 99%;
+    padding: 0;
+    margin: 0
+    }
+.fichu {
+    display: block;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 0.83333em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 150%;
+    text-align: justify;
+    padding: 0;
+    margin: 5px 0 0
+    }
+.figure {
+    clear: right;
+    display: block;
+    float: right;
+    margin-left: 1em;
+    margin-right: 2em;
+    text-align: inherit;
+    width: 150
+    }
+.figure1 {
+    clear: right;
+    display: block;
+    float: right;
+    margin-left: 1em;
+    margin-right: 2em;
+    text-align: inherit;
+    width: 200
+    }
+.firma {
+    display: block;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: right;
+    padding: 0;
+    margin: 5px 0 0
+    }
+.indiceautor {
+    display: block;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.83em 0
+    }
+.indicetitulo {
+    color: #406070;
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0.67em 0 0.67em auto
+    }
+.lector {
+    display: block;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 200%;
+    text-align: justify;
+    text-indent: 30pt;
+    padding: 0;
+    margin: 5px 0 0
+    }
+.mensaje {
+    background: white;
+    background-color: #d0d8df;
+    display: block;
+    float: center;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: justify;
+    width: 99%;
+    border-top: black solid 1px;
+    border-bottom: black solid 1px;
+    padding: 0;
+    margin: 0
+    }
+.negritocenter {
+    background-color: #906;
+    color: #FF9;
+    display: block;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 0.83333em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 150%;
+    text-align: center;
+    padding: 0;
+    margin: 5px 0 0
+    }
+.pri {
+    display: block;
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 0;
+    padding: 0;
+    margin: 3em 0 0
+    }
+.pri1 {
+    display: block;
+    text-indent: 0;
+    padding: 0;
+    margin: 2em 0 0
+    }
+.respuesta {
+    background: white;
+    background-color: #d0d8df;
+    color: #000080;
+    display: block;
+    float: center;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    width: 99%;
+    border-top: black solid 1px;
+    border-bottom: black solid 1px;
+    padding: 0;
+    margin: 0
+    }
+.texto {
+    display: block;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 200%;
+    text-align: justify;
+    text-indent: 30pt;
+    padding: 0;
+    margin: 5px 0 0
+    }
+.texto1 {
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 200%;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+    text-indent: 30pt
+    }
+.texto2 {
+    display: block;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 200%;
+    list-style-type: decimal;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: justify;
+    text-indent: 30pt
+    }
+.titulo-edit {
+    color: #007080;
+    display: block;
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0.67em 0
+    }
+.traductor {
+    display: block;
+    font-size: 0.83333em;
+    text-align: justify;
+    text-indent: 0;
+    padding: 2px;
+    margin: 0
+    }
+.pcalibre1:first-letter {
+    font-size: 120%;
+    font-weight: bold
+    }
+.pcalibre:first-letter {
+    font-size: 120%;
+    font-style: italic;
+    font-weight: bold
+    }

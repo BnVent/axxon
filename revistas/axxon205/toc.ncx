@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="b377a7e0-5e55-4c40-8de2-cb09e1b7df09" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.16.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 205</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u99ccfe65-bd2d-44e8-ba6e-8d3cd348715d" playOrder="1">
+      <navLabel>
+        <text>Editorial: 2010: Indiferencia y saturación</text>
+      </navLabel>
+      <content src="c-205Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u7b3d9928-7e39-450e-9bc4-ad956d200b9f" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-205Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ueb6abc12-988b-47d3-99c1-f78e1709eaea" playOrder="3">
+      <navLabel>
+        <text>Axxóncine: Donnie Darko</text>
+      </navLabel>
+      <content src="c-205Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ud57d6c71-edab-485a-bb90-a7a3ba43408e" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Pájaro en la nariz de Buda</text>
+      </navLabel>
+      <content src="c-205Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u72f905cf-dfef-49e1-8d9a-d7115a6f17c4" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Onironauta</text>
+      </navLabel>
+      <content src="c-205Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uc2e00ecb-1a3b-404a-be03-7a2a01cf28bb" playOrder="6">
+      <navLabel>
+        <text>Ficciones: El holocausto del bárbaro</text>
+      </navLabel>
+      <content src="c-205Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u38aa0019-bc44-4dcb-930b-04889737fae8" playOrder="7">
+      <navLabel>
+        <text>Ficciones: El hoyo</text>
+      </navLabel>
+      <content src="c-205Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uf2a4e979-9017-4b4d-97a2-1a5d7306b3c4" playOrder="8">
+      <navLabel>
+        <text>Artículo: El largo camino humano</text>
+      </navLabel>
+      <content src="c-205Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u0407a5d3-50fe-44ee-88ee-aab061039ffc" playOrder="9">
+      <navLabel>
+        <text>Artículo: La superación del creador</text>
+      </navLabel>
+      <content src="c-205Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u9fb11fc2-6db4-4192-92df-7e3a18a38960" playOrder="10">
+      <navLabel>
+        <text>Artículo: El jardín de los castillos regresivos</text>
+      </navLabel>
+      <content src="c-205Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u9108bf3c-d359-4416-99a9-cd39270c532b" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (cincuenta y seis)</text>
+      </navLabel>
+      <content src="c-205Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u529c26a2-f49b-41d0-b8c0-7e40c717b759" playOrder="12">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

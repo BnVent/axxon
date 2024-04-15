@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="12fe4b43-e2de-410d-839e-3f91ce1bc5e8" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.5)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 53</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="666a9800-441f-42c0-a40c-57357ca02da8" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-53Pag01.htm"/>
+    </navPoint>
+    <navPoint id="58fa3040-2696-40d7-b9b1-f965bb5fb938" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 53</text>
+      </navLabel>
+      <content src="c-53Pag02.htm"/>
+    </navPoint>
+    <navPoint id="418069d4-cc05-4456-bf8a-74b0263071d1" playOrder="4">
+      <navLabel>
+        <text>Seccion: El portal fantástico</text>
+      </navLabel>
+      <content src="c-53Pag03.htm"/>
+    </navPoint>
+    <navPoint id="182d95f6-290e-4fe0-b21a-b78a226edc36" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El bosque</text>
+      </navLabel>
+      <content src="c-53Pag04.htm"/>
+    </navPoint>
+    <navPoint id="7069112f-cdc3-408f-8c9a-ce3afac33452" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Las vírgenes y los mejores premios</text>
+      </navLabel>
+      <content src="c-53Pag05.htm"/>
+    </navPoint>
+    <navPoint id="5f1432e2-73a1-406d-a2f6-b547f458ad7d" playOrder="7">
+      <navLabel>
+        <text>Seccion: Crónicas desde la Garrafa Virtual (IV)</text>
+      </navLabel>
+      <content src="c-53Pag06.htm"/>
+    </navPoint>
+    <navPoint id="4288e017-41e0-4e83-8a4b-7972d9c0dd5b" playOrder="8">
+      <navLabel>
+        <text>Correo: Correo 53</text>
+      </navLabel>
+      <content src="c-53Pag07.htm"/>
+    </navPoint>
+    <navPoint id="81d76315-f770-4650-ac20-d75e965b0bf4" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Bill Percebe, el espacial</text>
+      </navLabel>
+      <content src="c-53Pag08.htm"/>
+    </navPoint>
+    <navPoint id="d07fac45-10f3-476b-bc29-46c43d1b66a3" playOrder="10">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-53Pag09.htm"/>
+    </navPoint>
+    <navPoint id="3503050a-b5c4-4600-881d-19cd9d5785f5" playOrder="11">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-53Pag10.htm"/>
+    </navPoint>
+    <navPoint id="7d4b81df-e92e-412c-b4f5-e2c16db9fedc" playOrder="12">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="f8c0f6f5-e475-469e-9b7a-244a0b71fb05" playOrder="3">
+      <navLabel>
+        <text>[*]</text>
+      </navLabel>
+      <content src="c-53Pag02.htm#id2"/>
+    </navPoint>
+  </navMap>
+</ncx>

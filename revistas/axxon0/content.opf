@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Axxón 0</dc:title>
+    <meta name="calibre:timestamp" content="2021-01-26T16:28:43.076718+00:00"/>
+    <dc:language>es</dc:language>
+    <dc:creator opf:file-as="Desconocido" opf:role="aut">Eduardo Carletti (editor)</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">b020cd15-9232-4d29-a18e-7463a1257a2d</dc:identifier>
+    <dc:publisher>Ediciones Axxón</dc:publisher>
+    <meta name="calibre:series" content="Axxón"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="cover" href="cover.jpg" media-type="image/jpeg"/>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html" href="axxon0.htm" media-type="application/xhtml+xml"/>
+    <item id="html1" href="c-0Pag01.htm" media-type="application/xhtml+xml"/>
+    <item id="html2" href="c-0Pag02.htm" media-type="application/xhtml+xml"/>
+    <item id="html3" href="c-0Pag03.htm" media-type="application/xhtml+xml"/>
+    <item id="html4" href="c-0Pag04.htm" media-type="application/xhtml+xml"/>
+    <item id="html5" href="c-0Pag05.htm" media-type="application/xhtml+xml"/>
+    <item id="html6" href="c-0Pag06.htm" media-type="application/xhtml+xml"/>
+    <item id="html7" href="c-0Pag07.htm" media-type="application/xhtml+xml"/>
+    <item id="html8" href="axxon.htm" media-type="application/xhtml+xml"/>
+    <item id="added13" href="axxon00.gif" media-type="image/gif"/>
+    <item id="added9" href="ariel.jpg" media-type="image/jpeg"/>
+    <item id="added7" href="bestiario.jpg" media-type="image/jpeg"/>
+    <item id="added14" href="c-0tapach.jpg" media-type="image/jpeg"/>
+    <item id="added2" href="c-ejc0.jpg" media-type="image/jpeg"/>
+    <item id="added11" href="correo.jpg" media-type="image/jpeg"/>
+    <item id="added3" href="einstein0.jpg" media-type="image/jpeg"/>
+    <item id="added4" href="einstein1.jpg" media-type="image/jpeg"/>
+    <item id="added5" href="einstein2.jpg" media-type="image/jpeg"/>
+    <item id="added6" href="einstein3.jpg" media-type="image/jpeg"/>
+    <item id="added12" href="prox-numero.jpg" media-type="image/jpeg"/>
+    <item id="added15" href="x-epub.png" media-type="image/png"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+    <itemref idref="html1"/>
+    <itemref idref="html2"/>
+    <itemref idref="html3"/>
+    <itemref idref="html4"/>
+    <itemref idref="html5"/>
+    <itemref idref="html6"/>
+    <itemref idref="html7"/>
+    <itemref idref="html8"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="titlepage.xhtml" title="Cover"/>
+  </guide>
+</package>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="da0a6a5a-f171-4826-a1ac-99efe2b087fd" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.16.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 79</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uD4Ix3xY44SP2Pa2uTicrF8" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-79Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uAt7c46zuMT7Rq58GqHCZW5" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 79</text>
+      </navLabel>
+      <content src="c-79Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uPsMWeeBlkSumx94UP2RQW7" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Muerte en el Nilo</text>
+      </navLabel>
+      <content src="c-79Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uCtD4xzJB8rIGtVD3vxuBL2" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El asunto de Seggri</text>
+      </navLabel>
+      <content src="c-79Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uPrBktdd8n4whzB6HSHnXl9" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Té de una taza vacía</text>
+      </navLabel>
+      <content src="c-79Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uEbWNMweFcfVYJxIIlab2f3" playOrder="6">
+      <navLabel>
+        <text>Correo: Correo 79</text>
+      </navLabel>
+      <content src="c-79Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uxrHnSUL9f5xHldqHAC7kF7" playOrder="7">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual</text>
+      </navLabel>
+      <content src="c-79Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uGlW9alxvUaSqMbnRZnxxJF" playOrder="8">
+      <navLabel>
+        <text>Sección: Revista virtual de Informática</text>
+      </navLabel>
+      <content src="c-79Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uRJLcH3iE63SMAPCMOeJ233" playOrder="9">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-79Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uG2TkPOx7N4Wf4sAaYggHd4" playOrder="10">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-79Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ujn8wh3pN2QGBxVcPJkHdyG" playOrder="11">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

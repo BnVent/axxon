@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="80346709-c438-4347-8b8d-5eebf6f45f0b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.12.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 98</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uca8e6273-38bf-4d51-832d-3793bc599811" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-98Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u308d5e60-6e3d-489c-9e56-c118a9cf5494" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 98</text>
+      </navLabel>
+      <content src="c-98Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uf76cb2bf-c25a-4a32-bc99-c662121329c4" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El final de una era</text>
+      </navLabel>
+      <content src="c-98Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uaec84e55-e5b9-4023-b68c-f86d50caef67" playOrder="4">
+      <navLabel>
+        <text>Undernow: A lo bestia, una mirada sobre la oscuridad</text>
+      </navLabel>
+      <content src="c-98Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u6e393013-9b91-4748-aae8-0c1b24cd741c" playOrder="5">
+      <navLabel>
+        <text>Sección: Aves raras: José Altamirano</text>
+      </navLabel>
+      <content src="c-98Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u9de675c7-3b20-433c-bf51-c22f8429119e" playOrder="6">
+      <navLabel>
+        <text>Sección: El portal fantástico</text>
+      </navLabel>
+      <content src="c-98Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uc7b87cd4-4140-436f-9208-b81f31b14d62" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Dame</text>
+      </navLabel>
+      <content src="c-98Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ufd2ee065-e95a-4315-9ace-9904f3781487" playOrder="8">
+      <navLabel>
+        <text>Entrevista: Contactos cercanos con Gustavo -Moebius- Mosquera R.</text>
+      </navLabel>
+      <content src="c-98Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ufcdbfc41-d7c2-43e6-9c32-77682a245e47" playOrder="9">
+      <navLabel>
+        <text>Sección: INFO Córtex</text>
+      </navLabel>
+      <content src="c-98Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u25fafa27-c562-45ea-99eb-24dac7061703" playOrder="10">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-98Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ub003e65d-3c26-49a1-9887-cde3d907352c" playOrder="11">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-98Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u6319be3f-0e0a-4961-804c-d930dcfe20ee" playOrder="12">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

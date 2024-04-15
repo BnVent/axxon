@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="92a6c3bb-0e61-411b-8336-dd5b0b88365c" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.22.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 211</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ufc90bed7-92b5-4686-918b-0c35060528e8" playOrder="1">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (cincuenta y nueve)</text>
+      </navLabel>
+      <content src="c-211Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ue55100d1-fb48-40b8-83ec-9890148e235f" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Conversaciones</text>
+      </navLabel>
+      <content src="c-211Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u2efa1408-f9b8-4f55-9a0d-78bc15d031d2" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Continum Pi</text>
+      </navLabel>
+      <content src="c-211Pag03.htm"/>
+    </navPoint>
+    <navPoint id="udf1b844d-9b74-4b52-93de-d2275d4fd479" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Operación ‘Operación’</text>
+      </navLabel>
+      <content src="c-211Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u4b60c822-e27b-4b84-b6e4-a15fd2810ebe" playOrder="5">
+      <navLabel>
+        <text>Editorial: Editorial</text>
+      </navLabel>
+      <content src="c-211Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ua1bb266d-2322-4508-96e0-392577b8fbf0" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Hermano menor (Introducción y Capítulo 1)</text>
+      </navLabel>
+      <content src="c-211Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uf45af21f-7f08-44a5-9682-3ddb580aab93" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Hermano menor (Capítulo 2)</text>
+      </navLabel>
+      <content src="c-211Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u6edc7395-473a-465c-a31d-e3dd5b47e716" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Hermano menor (Capítulo 3)</text>
+      </navLabel>
+      <content src="c-211Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uae551fb5-9257-4150-ab7a-6fdf8125ac35" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Hermano menor (Capítulo 4)</text>
+      </navLabel>
+      <content src="c-211Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ub7710b39-15ba-4b32-8b39-b52df7ac8e59" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Hermano menor (Capítulo 5)</text>
+      </navLabel>
+      <content src="c-211Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u8e8d2ca2-880f-47c5-9161-2064c9d2c819" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Hermano menor (Capítulo 6)</text>
+      </navLabel>
+      <content src="c-211Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ua6b0c1a8-7665-41b7-8b42-c3227ceb7d6d" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Hermano menor (Capítulo 7)</text>
+      </navLabel>
+      <content src="c-211Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u3b55caa8-67dc-4a23-aeae-74ef36eb74a3" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Hermano menor (Capítulo 8)</text>
+      </navLabel>
+      <content src="c-211Pag13.htm"/>
+    </navPoint>
+    <navPoint id="ubb0b6b09-704b-4e02-a39e-19b055c0e7f6" playOrder="14">
+      <navLabel>
+        <text>Ficciones: Hermano menor (Capítulo 9)</text>
+      </navLabel>
+      <content src="c-211Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u4b0d33f0-0d17-4858-b4e4-8681c5b37f97" playOrder="15">
+      <navLabel>
+        <text>Ficciones: Hermano menor (Capítulo 10)</text>
+      </navLabel>
+      <content src="c-211Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u8c9089b7-ae28-497b-824e-3ff555cf7a09" playOrder="16">
+      <navLabel>
+        <text>Ficciones: Hermano menor (Capítulo 11)</text>
+      </navLabel>
+      <content src="c-211Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u68210d60-11a7-44dc-a1e5-a1359c92e561" playOrder="17">
+      <navLabel>
+        <text>Ficciones: Hermano menor (Capítulo 12)</text>
+      </navLabel>
+      <content src="c-211Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u36259cd0-1ce9-4b9e-86a6-6a723ea124e4" playOrder="18">
+      <navLabel>
+        <text>Ficciones: Hermano menor (Capítulo 13)</text>
+      </navLabel>
+      <content src="c-211Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u656c3249-25f2-4089-ad80-90fc3309cbc2" playOrder="19">
+      <navLabel>
+        <text>Ficciones: Hermano menor (Capítulo 14)</text>
+      </navLabel>
+      <content src="c-211Pag19.htm"/>
+    </navPoint>
+    <navPoint id="ua6f97614-4e13-4ce4-930f-f37e5b35a832" playOrder="20">
+      <navLabel>
+        <text>Ficciones: Hermano menor (Capítulo 15)</text>
+      </navLabel>
+      <content src="c-211Pag20.htm"/>
+    </navPoint>
+    <navPoint id="u7374f17b-da34-44e7-aa02-7ecf017005d7" playOrder="21">
+      <navLabel>
+        <text>Ficciones: Hermano menor (Capítulo 16)</text>
+      </navLabel>
+      <content src="c-211Pag21.htm"/>
+    </navPoint>
+    <navPoint id="u73f053d3-489c-4920-9721-9c733db08078" playOrder="22">
+      <navLabel>
+        <text>Ficciones: Hermano menor (Capítulo 17)</text>
+      </navLabel>
+      <content src="c-211Pag22.htm"/>
+    </navPoint>
+    <navPoint id="u2d442f9a-742b-4a3d-9f87-175f551ca507" playOrder="23">
+      <navLabel>
+        <text>Ficciones: Hermano menor (Capítulo 18)</text>
+      </navLabel>
+      <content src="c-211Pag23.htm"/>
+    </navPoint>
+    <navPoint id="u701df325-9fca-4422-a795-6a061ce62466" playOrder="24">
+      <navLabel>
+        <text>Ficciones: Hermano menor (Capítulo 19)</text>
+      </navLabel>
+      <content src="c-211Pag24.htm"/>
+    </navPoint>
+    <navPoint id="u3d323d4e-5a2d-4e3e-9266-31aa20736526" playOrder="25">
+      <navLabel>
+        <text>Ficciones: Hermano menor (Capítulo 20)</text>
+      </navLabel>
+      <content src="c-211Pag25.htm"/>
+    </navPoint>
+    <navPoint id="u67f05088-ee5b-4376-94a1-924f55d88593" playOrder="26">
+      <navLabel>
+        <text>Ficciones: Hermano menor (Capítulo 21 y Epílogo)</text>
+      </navLabel>
+      <content src="c-211Pag26.htm"/>
+    </navPoint>
+    <navPoint id="u89ac1900-1a36-4cfb-a6b5-00f7a16a0228" playOrder="27">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

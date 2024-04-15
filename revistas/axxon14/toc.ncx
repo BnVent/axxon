@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="0338cdae-c9ea-479c-9348-13fbb6ac66a4" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.37)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 14</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="af969d6f-1d15-4c8a-bf31-c09fff58342e" playOrder="1">
+      <navLabel>
+        <text>Editorial - El éxito de Axxón</text>
+      </navLabel>
+      <content src="c-14Pag01.htm"/>
+    </navPoint>
+    <navPoint id="1f37b442-b04d-49fe-bbce-9ab194fe1c37" playOrder="2">
+      <navLabel>
+        <text>Ficciones - Cuaderno de sobreviviente</text>
+      </navLabel>
+      <content src="c-14Pag02.htm"/>
+    </navPoint>
+    <navPoint id="f9021477-dcd5-43e4-8fc9-292d81c76b3c" playOrder="3">
+      <navLabel>
+        <text>Ficciones - La máquina</text>
+      </navLabel>
+      <content src="c-14Pag03.htm"/>
+    </navPoint>
+    <navPoint id="90660ff8-04ef-49e8-b803-31d986c94acc" playOrder="4">
+      <navLabel>
+        <text>Ficciones - Podemos recordarlo todo para usted</text>
+      </navLabel>
+      <content src="c-14Pag04.htm"/>
+    </navPoint>
+    <navPoint id="3b0a6f0b-8517-44d3-84f9-dfa6c9c1c4c5" playOrder="5">
+      <navLabel>
+        <text>Ensayo - “Idios Kosmos, claves para Philip K. Dick”, capítulo 1</text>
+      </navLabel>
+      <content src="c-14Pag05.htm"/>
+    </navPoint>
+    <navPoint id="bdb44e9e-6697-4f3f-937e-b6a4afc33498" playOrder="45">
+      <navLabel>
+        <text>Ensayo - “Idios Kosmos, claves para Philip K. Dick”, capítulo 2</text>
+      </navLabel>
+      <content src="c-14Pag06.htm"/>
+    </navPoint>
+    <navPoint id="45e2e352-47a5-4fbd-8bff-655e7a254389" playOrder="46">
+      <navLabel>
+        <text>Ensayo - “Idios Kosmos, claves para Philip K. Dick”, capítulo 3</text>
+      </navLabel>
+      <content src="c-14Pag07.htm"/>
+    </navPoint>
+    <navPoint id="555c707a-e0da-4efe-816a-57b9b0201d6d" playOrder="47">
+      <navLabel>
+        <text>Ensayo - “Idios Kosmos, claves para Philip K. Dick”, capítulo 4</text>
+      </navLabel>
+      <content src="c-14Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ffb4433b-6a08-48ef-bda0-bceedd5ebc96" playOrder="48">
+      <navLabel>
+        <text>Correo - Correo Axxón 14</text>
+      </navLabel>
+      <content src="c-14Pag09.htm"/>
+    </navPoint>
+    <navPoint id="cdfce715-8b72-4cd7-973c-4a7b80c6668e" playOrder="49">
+      <navLabel>
+        <text>Equipo - Equipo Axxón</text>
+      </navLabel>
+      <content src="c-14Pag10.htm"/>
+    </navPoint>
+    <navPoint id="7ef70ff9-6b98-4216-a541-60e814c4b2f2" playOrder="50">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="5230ca6f-0779-495b-b829-cd610b411dd0" playOrder="8">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-1"/>
+    </navPoint>
+    <navPoint id="7b8800c5-12df-4cee-b063-5007c62f4b6f" playOrder="9">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-2"/>
+    </navPoint>
+    <navPoint id="696b7f6b-9256-44b5-a0ab-013fa3cf694e" playOrder="10">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-3"/>
+    </navPoint>
+    <navPoint id="4e2af1d5-cf51-435e-b0ca-a692335536d2" playOrder="11">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-4"/>
+    </navPoint>
+    <navPoint id="e88e38b6-106c-448f-b057-7e0749075e0d" playOrder="12">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-5"/>
+    </navPoint>
+    <navPoint id="296c8d52-5c9e-4812-8b0c-c23a45e840c4" playOrder="13">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-6"/>
+    </navPoint>
+    <navPoint id="30dabc4d-0269-49cd-a5b9-f4549711eb6c" playOrder="14">
+      <navLabel>
+        <text>7</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-7"/>
+    </navPoint>
+    <navPoint id="dc79c469-2955-473b-beb5-6e4d19620e44" playOrder="15">
+      <navLabel>
+        <text>8</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-8"/>
+    </navPoint>
+    <navPoint id="2396d987-c1f8-4ca6-a951-693b56ceb09a" playOrder="16">
+      <navLabel>
+        <text>9</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-9"/>
+    </navPoint>
+    <navPoint id="bc67955f-c419-4a6a-8e78-5f58e9f6484e" playOrder="17">
+      <navLabel>
+        <text>10</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-10"/>
+    </navPoint>
+    <navPoint id="a12c786f-b2fa-4dd3-bee0-a211406f714f" playOrder="18">
+      <navLabel>
+        <text>11</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-11"/>
+    </navPoint>
+    <navPoint id="1a8bff43-b2ee-4c70-9ac0-7fe3037cf05c" playOrder="19">
+      <navLabel>
+        <text>12</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-12"/>
+    </navPoint>
+    <navPoint id="ee35fc45-756f-43d7-a7b7-2c703613346b" playOrder="20">
+      <navLabel>
+        <text>13</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-13"/>
+    </navPoint>
+    <navPoint id="279d1a2b-35f7-4885-9b04-78f9b2501634" playOrder="21">
+      <navLabel>
+        <text>14</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-14"/>
+    </navPoint>
+    <navPoint id="ec6b1a3a-e842-42cd-9f21-20bd2ff0b63c" playOrder="22">
+      <navLabel>
+        <text>15</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-15"/>
+    </navPoint>
+    <navPoint id="0866af1a-10e4-4402-8c80-0cdaef55c97a" playOrder="23">
+      <navLabel>
+        <text>16</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-16"/>
+    </navPoint>
+    <navPoint id="88b8d275-93e1-44f3-a48c-a865ef97ea34" playOrder="24">
+      <navLabel>
+        <text>17</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-17"/>
+    </navPoint>
+    <navPoint id="db76500e-06d2-406a-9cd1-560700310ec7" playOrder="25">
+      <navLabel>
+        <text>18</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-18"/>
+    </navPoint>
+    <navPoint id="d2176a93-4a78-4a1f-8bcb-2ccc25597d8e" playOrder="26">
+      <navLabel>
+        <text>19</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-19"/>
+    </navPoint>
+    <navPoint id="c125f8ed-1289-42f3-b8fa-5311be7f3cf1" playOrder="27">
+      <navLabel>
+        <text>20</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-20"/>
+    </navPoint>
+    <navPoint id="7f72b819-45b4-4d17-91fd-8788be6ecb9f" playOrder="28">
+      <navLabel>
+        <text>21</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-21"/>
+    </navPoint>
+    <navPoint id="3942d4e5-ab5a-48ae-a0d9-2783f53d2bc1" playOrder="29">
+      <navLabel>
+        <text>22</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-22"/>
+    </navPoint>
+    <navPoint id="546b4619-8f41-4118-8404-df095dfbb0cc" playOrder="30">
+      <navLabel>
+        <text>23</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-23"/>
+    </navPoint>
+    <navPoint id="229730d8-4acb-47a6-9ab1-6d75e64ac1bb" playOrder="31">
+      <navLabel>
+        <text>24</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-24"/>
+    </navPoint>
+    <navPoint id="ba6aee96-fdd7-44ba-8605-122fec448599" playOrder="32">
+      <navLabel>
+        <text>25</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-25"/>
+    </navPoint>
+    <navPoint id="6e645693-571d-4a78-8385-7858b4a7703d" playOrder="33">
+      <navLabel>
+        <text>26</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-26"/>
+    </navPoint>
+    <navPoint id="25b9db29-bf9d-4851-b0e7-34ddb0604f0b" playOrder="34">
+      <navLabel>
+        <text>27</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-27"/>
+    </navPoint>
+    <navPoint id="fb4578d7-4b85-41a5-b9dd-f161d5eae6d4" playOrder="35">
+      <navLabel>
+        <text>28</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-28"/>
+    </navPoint>
+    <navPoint id="48c88c16-d8fa-40fa-91ea-37d2c276325e" playOrder="36">
+      <navLabel>
+        <text>29</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-29"/>
+    </navPoint>
+    <navPoint id="26aea357-5292-42f7-998f-448341f35219" playOrder="37">
+      <navLabel>
+        <text>30</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-30"/>
+    </navPoint>
+    <navPoint id="115bee50-bef7-4bf0-af4b-2798b6cbe011" playOrder="38">
+      <navLabel>
+        <text>31</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-31"/>
+    </navPoint>
+    <navPoint id="91519217-7dd4-42aa-a8c3-8ecd318889c3" playOrder="39">
+      <navLabel>
+        <text>32</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-32"/>
+    </navPoint>
+    <navPoint id="82c9cb3f-f127-4fb2-86b4-98f60100c3d8" playOrder="40">
+      <navLabel>
+        <text>33</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-33"/>
+    </navPoint>
+    <navPoint id="db6b6862-9e4e-4467-bcfc-51755de59742" playOrder="41">
+      <navLabel>
+        <text>34</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-34"/>
+    </navPoint>
+    <navPoint id="16c78903-f02c-4d28-96a1-d1bd6eafc281" playOrder="42">
+      <navLabel>
+        <text>35</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-35"/>
+    </navPoint>
+    <navPoint id="a12d83a7-7a63-48be-b7bd-5a4acc17d5d3" playOrder="43">
+      <navLabel>
+        <text>36</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-36"/>
+    </navPoint>
+    <navPoint id="9f379bda-f7eb-4136-9757-29086425f9fd" playOrder="44">
+      <navLabel>
+        <text>37</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#ik-1-1-37"/>
+    </navPoint>
+    <navPoint id="2338464d-e3c1-47a4-a05c-ccb151b9619c" playOrder="6">
+      <navLabel>
+        <text>[1]</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#id1"/>
+    </navPoint>
+    <navPoint id="2f811bcb-8854-4800-8dfc-1f1a460bb8a9" playOrder="7">
+      <navLabel>
+        <text>[2]</text>
+      </navLabel>
+      <content src="c-14Pag05.htm#id2"/>
+    </navPoint>
+  </navMap>
+</ncx>

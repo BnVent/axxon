@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="ceb2fe0b-26bd-40d3-b6d6-44e61b3313e8" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.31.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 142</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ubd9a1b82-fc9c-41c2-99e6-eea3eaa75155" playOrder="1">
+      <navLabel>
+        <text>Editorial: La nena creció</text>
+      </navLabel>
+      <content src="c-142Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u96220300-0f41-42ed-b1ed-efb964f55fa1" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-142Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u1550bc1f-e172-4b97-99cb-79ae3ccf3531" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El beso de la valquiria</text>
+      </navLabel>
+      <content src="c-142Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u397b0b21-5c67-4957-b6b0-bbf45083ea2d" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Kaishaku</text>
+      </navLabel>
+      <content src="c-142Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ub5b8d57e-5044-458a-8285-d2fcc3fbb714" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Rave</text>
+      </navLabel>
+      <content src="c-142Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u0d95ef30-7f42-44a0-ac2d-6d799f7de795" playOrder="6">
+      <navLabel>
+        <text>Divulgacion: La inconcebible historia de las brujas, la cistitis y la mecánica celeste</text>
+      </navLabel>
+      <content src="c-142Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u67ea7455-319a-4467-ae96-67e76408f307" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Reality Show</text>
+      </navLabel>
+      <content src="c-142Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u3a272a8c-0042-4bb2-bb10-fac591e89946" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Confesiones de un ebrio</text>
+      </navLabel>
+      <content src="c-142Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u57139b89-d045-42ed-bdab-3b36d18a9d09" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Jezabel</text>
+      </navLabel>
+      <content src="c-142Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u7ba70de0-b11b-443e-9fbd-cb855e08055f" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Charla con un anciano en una plazoleta</text>
+      </navLabel>
+      <content src="c-142Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u7ac80dba-a987-4d6c-ac00-b9e76d3b3dc4" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Maldiciones chinas</text>
+      </navLabel>
+      <content src="c-142Pag11.htm"/>
+    </navPoint>
+    <navPoint id="uba4230e5-3620-4003-9e58-036ad9a35c54" playOrder="12">
+      <navLabel>
+        <text>Sección: Anacrónicas</text>
+      </navLabel>
+      <content src="c-142Pag12.htm"/>
+    </navPoint>
+    <navPoint id="uef356f47-ce9e-4b96-b5c8-61b6f4d43934" playOrder="13">
+      <navLabel>
+        <text>Anacrónicas: Caras Galadon</text>
+      </navLabel>
+      <content src="c-142Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u7e3de4f1-1cc6-481d-8214-254e9fa9874f" playOrder="14">
+      <navLabel>
+        <text>Anacrónicas: Broching: El arte del cuidado y la crianza del broche</text>
+      </navLabel>
+      <content src="c-142Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u4e3d450d-fe09-43c7-bc29-d7e0887596e2" playOrder="15">
+      <navLabel>
+        <text>Anacrónicas: La yunta’e torres (1)</text>
+      </navLabel>
+      <content src="c-142Pag15.htm"/>
+    </navPoint>
+    <navPoint id="ud925e47f-9249-49dc-81e6-2f7dbb28a097" playOrder="16">
+      <navLabel>
+        <text>Ficciones: Obra maestra</text>
+      </navLabel>
+      <content src="c-142Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u55177e2d-43df-43c5-b138-5d33f669e74d" playOrder="17">
+      <navLabel>
+        <text>Ficciones: Elegía al ausente perfecto</text>
+      </navLabel>
+      <content src="c-142Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u07c73dee-dfe7-474f-9842-58491a1d0e26" playOrder="18">
+      <navLabel>
+        <text>Ficciones: Memorias</text>
+      </navLabel>
+      <content src="c-142Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u3524b095-e2e9-4a9b-a00d-cd67ac555a5b" playOrder="19">
+      <navLabel>
+        <text>Ficciones: Paisaje perdido</text>
+      </navLabel>
+      <content src="c-142Pag19.htm"/>
+    </navPoint>
+    <navPoint id="u70307948-b5b2-47e3-8159-3748aa1dbd4b" playOrder="20">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

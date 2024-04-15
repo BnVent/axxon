@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="b9f47bd0-a8d9-42e5-b4ab-b197b5fb72ba" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.4.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 112</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u35f7fee3-64e9-4b3b-9055-d57bb0267f39" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 112</text>
+      </navLabel>
+      <content src="c-112Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uc1842c0a-28c2-4b7f-a4dd-0747322608ff" playOrder="2">
+      <navLabel>
+        <text>Ficciones: 1807</text>
+      </navLabel>
+      <content src="c-112Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u3e019141-93a0-4a79-beba-a2d41ab71489" playOrder="3">
+      <navLabel>
+        <text>Correo: Correo 112</text>
+      </navLabel>
+      <content src="c-112Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u3a1c7a07-beb3-49c0-961e-d821f18c715f" playOrder="4">
+      <navLabel>
+        <text>Homenaje: La larga sombra de Phil Dick</text>
+      </navLabel>
+      <content src="c-112Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u1c23c393-82ee-49e5-8816-8326eb714b26" playOrder="5">
+      <navLabel>
+        <text>Taller: Máquinas y Monos 4</text>
+      </navLabel>
+      <content src="c-112Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u78d76d35-654a-47ce-9c88-8692ff0aa28c" playOrder="6">
+      <navLabel>
+        <text>Ficciones: El mayor poder</text>
+      </navLabel>
+      <content src="c-112Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ua0bda5f9-3730-418e-8d01-64e362870de4" playOrder="7">
+      <navLabel>
+        <text>Sección: Andernow</text>
+      </navLabel>
+      <content src="c-112Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u89cf2aea-0273-4ea8-b762-bb8c7570a4b9" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Más Allá del Sueño: Pieter Kraft</text>
+      </navLabel>
+      <content src="c-112Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u96e26a72-558f-4982-b228-8df1a7158c9f" playOrder="9">
+      <navLabel>
+        <text>Sección: Portal Fantástico: Revista ELFOS</text>
+      </navLabel>
+      <content src="c-112Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uf39ccb6e-7de0-46d1-8aa6-281481b4f401" playOrder="10">
+      <navLabel>
+        <text>Ficciones: La noche que los cocineros desaparecieron</text>
+      </navLabel>
+      <content src="c-112Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u34ae828f-4021-4fa9-9245-de17c3fdd8d7" playOrder="11">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="u383c0ecf-260f-4a8d-a31c-860b549e0654" playOrder="11">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-112iluselmayorpoder.htm"/>
+    </navPoint>
+    <navPoint id="u51b74c3b-650f-4221-b97e-bdd6f46e6e36" playOrder="12">
+      <navLabel>
+        <text>Concurso Axxón, Mundos Diferentes</text>
+      </navLabel>
+      <content src="Concurso2001Res.htm"/>
+    </navPoint>
+    <navPoint id="u29d88f94-026d-4b2e-840d-3212b61ee504" playOrder="13">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-112iluspieterkraft.htm"/>
+    </navPoint>
+    <navPoint id="ue9ea6e54-3278-4bff-9002-de997fe1d39e" playOrder="14">
+      <navLabel>
+        <text>número 6</text>
+      </navLabel>
+      <content src="c-112elfosvi.htm"/>
+    </navPoint>
+    <navPoint id="ud6d43c7e-3b7b-4eed-94df-495a2fab09c9" playOrder="15">
+      <navLabel>
+        <text>número 7</text>
+      </navLabel>
+      <content src="c-112elfosvii.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

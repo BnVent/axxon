@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="2c9e09c7-bc7a-4ec8-b79b-c2197c28fe08" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.39.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 165</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u9ca26559-62e3-482c-ac09-ac515457a96c" playOrder="1">
+      <navLabel>
+        <text>Editorial: Diferencias</text>
+      </navLabel>
+      <content src="c-165Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u1de4caf3-d56c-4310-9ffb-9914abe8d886" playOrder="2">
+      <navLabel>
+        <text>Correo: Correo axxónico</text>
+      </navLabel>
+      <content src="c-165Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u3f2b9de5-760b-411c-936e-0730fb017a8b" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Los colmillos de la serpiente</text>
+      </navLabel>
+      <content src="c-165Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uae45d0b9-5538-42bc-ab0c-3bcd427a189f" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Doble o nada</text>
+      </navLabel>
+      <content src="c-165Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u6c38a7f8-21f5-4655-bef1-f4c6880a0942" playOrder="5">
+      <navLabel>
+        <text>Divulgación: Adiós al amigo - La extinción del Perro Polar Argentino</text>
+      </navLabel>
+      <content src="c-165Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u6b876e03-df80-4875-999b-1701b838405c" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Ficción breve (28)</text>
+      </navLabel>
+      <content src="c-165Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uff47f8df-94f4-481e-9afe-86aa92ba07eb" playOrder="7">
+      <navLabel>
+        <text>Ensayo: Historia de la Ciencia Ficción Uruguaya (2)</text>
+      </navLabel>
+      <content src="c-165Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u43b081c0-74f8-4fd8-9b0d-6154e372b2d1" playOrder="8">
+      <navLabel>
+        <text>Ensayo: La Ciencia Ficción India - Actualidad</text>
+      </navLabel>
+      <content src="c-165Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u16685c60-e009-46e4-9515-c74928a62f6a" playOrder="9">
+      <navLabel>
+        <text>Nota: Una araña y otros artefactos encantadores</text>
+      </navLabel>
+      <content src="c-165Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uc12aea0f-06dd-4078-a569-b0caa2f00e3c" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Este es tu cuerpo</text>
+      </navLabel>
+      <content src="c-165Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ued384bf3-669f-4e13-bc0b-2326adc0c6a0" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Cerrar los ojos</text>
+      </navLabel>
+      <content src="c-165Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u14784483-2a06-4958-a62d-14e30696faca" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Seol</text>
+      </navLabel>
+      <content src="c-165Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u5c300c55-be42-4bd2-a2e1-7bf3cc9b9648" playOrder="13">
+      <navLabel>
+        <text>Ficciones: El número uno</text>
+      </navLabel>
+      <content src="c-165Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u0e8b788e-cd4d-4535-90f9-94543c6ecaf6" playOrder="14">
+      <navLabel>
+        <text>Ensayo: Fahrenheit 451: la novela de la libertad</text>
+      </navLabel>
+      <content src="c-165Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u2257d576-99de-4bd7-92a0-9253cb7521f6" playOrder="15">
+      <navLabel>
+        <text>Ficciones: La muerte del Capitán Futuro</text>
+      </navLabel>
+      <content src="c-165Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u50bc67e6-5edd-4417-924e-e26ec3204f67" playOrder="16">
+      <navLabel>
+        <text>Clásico: La llamada de Cthulhu</text>
+      </navLabel>
+      <content src="c-165Pag16.htm"/>
+    </navPoint>
+    <navPoint id="uc382cb12-80bb-43df-9d6c-6bd28f70408b" playOrder="17">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

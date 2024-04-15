@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Axxón 93</dc:title>
+    <meta name="calibre:timestamp" content="2020-12-26T17:55:58.541699+00:00"/>
+    <dc:language>es</dc:language>
+    <dc:creator opf:file-as="Desconocido" opf:role="aut">Eduardo Carletti (editor)</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">694ba02e-cebb-4ee7-be48-7bfdc169ba6b</dc:identifier>
+    <dc:publisher>Ediciones Axxón</dc:publisher>
+    <meta name="calibre:series" content="Axxón"/>
+    <meta name="calibre:series_index" content="93"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="cover" href="cover.png" media-type="image/png"/>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html" href="axxon93.htm" media-type="application/xhtml+xml"/>
+    <item id="html1" href="c-93Pag01.htm" media-type="application/xhtml+xml"/>
+    <item id="html2" href="c-93Pag02.htm" media-type="application/xhtml+xml"/>
+    <item id="html3" href="c-93Pag03.htm" media-type="application/xhtml+xml"/>
+    <item id="html4" href="c-93Pag04.htm" media-type="application/xhtml+xml"/>
+    <item id="html5" href="c-93Pag05.htm" media-type="application/xhtml+xml"/>
+    <item id="html6" href="c-93Pag06.htm" media-type="application/xhtml+xml"/>
+    <item id="html7" href="c-93Pag07.htm" media-type="application/xhtml+xml"/>
+    <item id="html8" href="c-93Pag08.htm" media-type="application/xhtml+xml"/>
+    <item id="html9" href="c-93Pag09.htm" media-type="application/xhtml+xml"/>
+    <item id="html10" href="c-93Pag10.htm" media-type="application/xhtml+xml"/>
+    <item id="html11" href="c-93Pag11.htm" media-type="application/xhtml+xml"/>
+    <item id="html12" href="c-93Pag12.htm" media-type="application/xhtml+xml"/>
+    <item id="html13" href="axxon.htm" media-type="application/xhtml+xml"/>
+    <item id="added15" href="axxon00.gif" media-type="image/gif"/>
+    <item id="added3" href="axxon93_01.png" media-type="image/png"/>
+    <item id="added4" href="axxon93_02.png" media-type="image/png"/>
+    <item id="added5" href="axxon93_03.png" media-type="image/png"/>
+    <item id="added6" href="axxon93_04.png" media-type="image/png"/>
+    <item id="added7" href="axxon93_05.png" media-type="image/png"/>
+    <item id="added8" href="axxon93_06.png" media-type="image/png"/>
+    <item id="added9" href="axxon93_07.png" media-type="image/png"/>
+    <item id="added10" href="axxon93_08.png" media-type="image/png"/>
+    <item id="added11" href="axxon93_09.png" media-type="image/png"/>
+    <item id="added12" href="axxon93_10.png" media-type="image/png"/>
+    <item id="added13" href="axxon93_11.png" media-type="image/png"/>
+    <item id="added16" href="c-93tapach.png" media-type="image/png"/>
+    <item id="added17" href="x-epub.png" media-type="image/png"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+    <itemref idref="html1"/>
+    <itemref idref="html2"/>
+    <itemref idref="html3"/>
+    <itemref idref="html4"/>
+    <itemref idref="html5"/>
+    <itemref idref="html6"/>
+    <itemref idref="html7"/>
+    <itemref idref="html8"/>
+    <itemref idref="html9"/>
+    <itemref idref="html10"/>
+    <itemref idref="html11"/>
+    <itemref idref="html12"/>
+    <itemref idref="html13"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="titlepage.xhtml" title="Cover"/>
+  </guide>
+</package>

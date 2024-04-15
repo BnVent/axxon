@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="bf8a5594-1522-41bf-a0de-343ddd9f2b86" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.17.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 289</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u7DSd5RatSMknFh28Iwqjy5" playOrder="1">
+      <navLabel>
+        <text>Ficciones: Navegando las cuerdas del acordeón</text>
+      </navLabel>
+      <content src="c-289Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ueMyXlKR9wWrPWy85OXWWyE" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Ritalinización</text>
+      </navLabel>
+      <content src="c-289Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uCOXumtjVjIcInvQGLqSNcE" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Cuento de hadas con ogro</text>
+      </navLabel>
+      <content src="c-289Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uY2jhG5yzOaVn9qEBcuKAIC" playOrder="4">
+      <navLabel>
+        <text>Ensayo: Solaris, la utopía interrumpida</text>
+      </navLabel>
+      <content src="c-289Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u6tcLrr8KLtnpBD9YPhaMq8" playOrder="5">
+      <navLabel>
+        <text>Ensayo: Voto robot</text>
+      </navLabel>
+      <content src="c-289Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ughEcikqNowt8riXDXzdYV2" playOrder="6">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-289Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uTzyqkiggArXIlUf3vMMl87" playOrder="7">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

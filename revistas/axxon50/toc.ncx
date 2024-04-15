@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="5dda5f35-5c1e-42b5-8355-a08a773b95fb" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.2)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 50</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="142c6e3a-ac0b-49f0-868c-2ff5eb6a2692" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-50Pag01.htm"/>
+    </navPoint>
+    <navPoint id="8334c554-4118-4e19-a018-5d31807f25b4" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 50</text>
+      </navLabel>
+      <content src="c-50Pag02.htm"/>
+    </navPoint>
+    <navPoint id="21a7f0e5-1c0a-47af-b0c6-e6a9637d4e79" playOrder="3">
+      <navLabel>
+        <text>Ficciones: A su imagen</text>
+      </navLabel>
+      <content src="c-50Pag03.htm"/>
+    </navPoint>
+    <navPoint id="e4b99b61-3a32-4967-b532-f09c66a13482" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El corazón del bosque</text>
+      </navLabel>
+      <content src="c-50Pag04.htm"/>
+    </navPoint>
+    <navPoint id="64df4249-c93e-4260-a050-6824f54fc88a" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Mañana</text>
+      </navLabel>
+      <content src="c-50Pag05.htm"/>
+    </navPoint>
+    <navPoint id="74d34d6c-a540-49d1-aa46-c1a3c0dcf4f4" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Vuelo natural</text>
+      </navLabel>
+      <content src="c-50Pag06.htm"/>
+    </navPoint>
+    <navPoint id="2f27d651-ae1c-4aec-b77a-a23c0cea8de6" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Romeo tenía a Julieta</text>
+      </navLabel>
+      <content src="c-50Pag07.htm"/>
+    </navPoint>
+    <navPoint id="0412995a-10d3-4b10-ba34-f7507022220c" playOrder="8">
+      <navLabel>
+        <text>Ensayo: Realidades virtuales en el supermercado</text>
+      </navLabel>
+      <content src="c-50Pag08.htm"/>
+    </navPoint>
+    <navPoint id="b4385268-2dfc-4cc6-98bb-36cc6d4a70da" playOrder="9">
+      <navLabel>
+        <text>Sección: Crónicas desde la garrafa virtual (I)</text>
+      </navLabel>
+      <content src="c-50Pag09.htm"/>
+    </navPoint>
+    <navPoint id="0a8f4869-0a82-441d-9fb2-e836816f5dc1" playOrder="10">
+      <navLabel>
+        <text>Correo: Correo 50</text>
+      </navLabel>
+      <content src="c-50Pag10.htm"/>
+    </navPoint>
+    <navPoint id="df9d61bf-d7f7-45f3-89dc-ed82e6959634" playOrder="11">
+      <navLabel>
+        <text>Noticias: Una mirada a la realidad</text>
+      </navLabel>
+      <content src="c-50Pag11.htm"/>
+    </navPoint>
+    <navPoint id="fcfa9f22-3bfa-451d-9e51-24674ca884ec" playOrder="12">
+      <navLabel>
+        <text>Ensayo: Una cf hecha con vino amargo</text>
+      </navLabel>
+      <content src="c-50Pag12.htm"/>
+    </navPoint>
+    <navPoint id="cdcfa49c-4655-4d15-bad3-8811fab3bb8a" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Miss Four</text>
+      </navLabel>
+      <content src="c-50Pag13.htm"/>
+    </navPoint>
+    <navPoint id="60765b11-626b-481c-988d-f6178a240a3a" playOrder="14">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-50Pag14.htm"/>
+    </navPoint>
+    <navPoint id="88f6622e-a22e-4a7a-bd0c-e5f44c38cc18" playOrder="15">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-50Pag15.htm"/>
+    </navPoint>
+    <navPoint id="887d846e-cafe-4d05-9370-59bc931885d6" playOrder="16">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

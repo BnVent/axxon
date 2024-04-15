@@ -1,0 +1,1451 @@
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <title>Axxón 79 - SECCIÓN: - Revista virtual de Informática</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link href="stylesheet.css" rel="stylesheet" type="text/css"/>
+<link href="page_styles.css" rel="stylesheet" type="text/css"/>
+</head>
+  <body class="calibre">
+
+<div id="main" class="calibre1">
+<h1 class="calibre7">Revista virtual de Informática</h1>
+<p class="calibre5"><b class="calibre4">Ricardo M. Forno</b></p><p class="calibre5"></p>
+<div class="calibre1">
+<p class="resumen1">La Revista Virtual de Informática
+que se esconde
+dentro de la panza de Axxón
+es el último reducto de resistencia
+de los informáticos inteligentes</p>
+<div class="pri1" id="lenguaje-ensamblador-8086-8088-parte-7">
+<h2 class="indiceautor">LENGUAJE ENSAMBLADOR 8086/8088 (Parte 7)</h2>
+<p class="calibre8"><strong class="calibre4">Cómo adentrarse en el alma de la PC</strong></p>
+<p class="calibre8">Ing. Ricardo M. Forno</p>
+<div class="pri1" id="instrucciones-de-cadena">
+<h3 class="calibre23">15. INSTRUCCIONES DE CADENA</h3>
+<p class="calibre8">Estas instrucciones, similarmente a las de ciclo, realizan el
+trabajo de varias otras. Su forma de actuar depende del estado de la bandera de dirección (DF). Cuando esta bandera vale
+0, las instrucciones de cadena funcionan hacia direcciones
+crecientes de memoria; cuando vale 1, funcionan hacia direcciones decrecientes.</p>
+<div class="pri1" id="borrar-la-bandera-de-direccion-df">
+<h4 class="calibre24">15.1. Borrar la bandera de dirección (DF)</h4>
+<p class="calibre8">Su código es CLD (Clear Direction Flag). No tiene operandos.
+Pone DF = 0:</p>
+<pre class="literal-block">
+|           cld
+</pre>
+<p class="calibre8">Cuando DF = 0, las instrucciones de cadena funcionan hacia
+direcciones de memoria crecientes.</p>
+</div>
+<div class="pri1" id="poner-la-bandera-de-direccion-df">
+<h4 class="calibre24">15.2. Poner la bandera de dirección (DF)</h4>
+<p class="calibre8">Su código es STD (Set Direction Flag). No tiene operandos.
+Pone DF = 1:</p>
+<pre class="literal-block">
+|           std
+</pre>
+<p class="pcalibre pri">Cuando DF = 1, las instrucciones de cadena funcionan hacia
+direcciones de memoria decrecientes.</p>
+</div>
+<div class="pri1" id="cargar-operando-de-cadena-byte">
+<h4 class="calibre24">15.3. Cargar operando de cadena byte</h4>
+<p class="calibre8">Esta instrucción tiene el código LODSB (Load String Operand
+Byte), y carece de operandos.</p>
+<p class="calibre8">LODSB hace lo siguiente:</p>
+<ol class="upperalpha">
+<li class="calibre3">Carga el registro AL con el valor del byte adonde apunta SI.</li>
+<li class="calibre3">Incrementa o decrementa el registro SI en una unidad, de acuerdo con el valor de DF (lo incrementa si DF = 0, y lo decrementa si DF = 1).</li>
+</ol>
+<p class="calibre8">Por lo tanto, si DF = 0, estos dos fragmentos de programa
+son casi equivalentes:</p>
+<pre class="literal-block">
+|           mov   al, [si]
+|           inc   si
+|
+|           lodsb
+</pre>
+<p class="calibre8">Además del menor requerimiento de espacio y de tiempo, hay
+una diferencia: INC altera las banderas, pero LODSB no lo
+hace.</p>
+<p class="calibre8">Si DF = 1, entonces el equivalente de LODSB es:</p>
+<pre class="literal-block">
+|           mov   al, [si]
+|           dec   si
+</pre>
+</div>
+<div class="pri1" id="cargar-operando-de-cadena-palabra">
+<h4 class="calibre24">15.4. Cargar operando de cadena palabra</h4>
+<p class="calibre8">La instrucción LODSW (Load String Operand Word) es similar a
+LODSB, pero actúa sobre palabras en lugar de bytes. LODSW
+hace lo siguiente:</p>
+<ol class="upperalpha">
+<li class="calibre3">Carga el registro AX con el valor de la palabra adonde apunta SI.</li>
+<li class="calibre3">Incrementa o decrementa el registro SI en 2 unidades, de acuerdo con el valor de DF (lo incrementa si DF = 0, y lo decrementa si DF = 1).</li>
+</ol>
+<p class="calibre8">Por lo tanto, si DF = 0, LODSW equivale a:</p>
+<pre class="literal-block">
+|           mov   ax, [si]
+|           add   si, 2
+</pre>
+<p class="calibre8">Y si DF = 1, LODSW equivale a:</p>
+<pre class="literal-block">
+|           mov   ax, [si]
+|           sub   si, 2
+</pre>
+<p class="calibre8">Pero, a diferencia de ADD o SUB, LODSB no altera las banderas.</p>
+<p class="calibre8">El Ensamblador acepta también el código mnemotécnico LODS,
+que transforma en LODSB o LODSW de acuerdo con el tipo de un
+operando que se agrega a LODS. Por ejemplo:</p>
+<pre class="literal-block">
+|           .DATA
+| Dato     DB     20 DUP (?)
+|           .CODE
+| ................................
+|           lods   Dato
+</pre>
+<p class="pcalibre pri">Aquí el Ensamblador traducirá LODS al código de máquina de
+LODSB, dado que el operando es del tipo byte.</p>
+</div>
+<div class="pri1" id="guardar-operando-de-cadena">
+<h4 class="calibre24">15.5. Guardar operando de cadena</h4>
+<p class="calibre8">Las instrucciones STOSB y STOSW (Store String Operand Byte y
+Store String Operand Word) y su generalización STOS son el
+complemento de LODSB, LODSW y LODS.</p>
+<p class="calibre8">STOSB copia el contenido del registro AL en la ubicación
+de memoria adonde apunta el registro DI. A diferencia de
+todas las instrucciones vistas hasta ahora, que usaban como
+registro de segmento el DS, STOSB usa el registro de segmento
+ES.</p>
+<p class="calibre8">Luego de efectuar la copia, STOSB incrementa o decrementa
+en una unidad el registro DI, de acuerdo con que DF sea 0 o
+1, respectivamente. Esta instrucción no modifica las banderas.</p>
+<p class="calibre8">La instrucción STOSW funciona como STOSB, pero usa el
+registro AX en lugar de AL, y el incremento o decremento de
+DI es de 2 unidades.</p>
+<p class="calibre8">Como LODS, STOS es un código mnemotécnico que el
+Ensamblador traduce al código de máquina de STOSB o STOSW de
+acuerdo con el tipo de un operando que se agrega a STOS.</p>
+<p class="calibre8">La preparación para estas instrucciones es un poco más
+compleja que la necesaria para LODSB y LODSW, pues además de
+dar los valores deseados a DI y a la bandera DF, es necesario
+cargar el registro ES con un valor adecuado. Si suponemos que
+el movimiento se realiza en el mismo segmento de datos,
+podremos copiar DS a ES, lo cual requiere dos instrucciones.
+La preparación y la ejecución de STOSB quedarían entonces de
+manera similar a ésta, donde se trata de llenar una cadena
+con un valor de byte = 17:</p>
+<pre class="literal-block">
+| ; Datos
+|           .DATA
+| Longitud EQU   100
+| Dato     DB   Longitud DUP (?)
+|           .CODE
+| ................................
+| ; Preparación
+|           mov   ax, ds              ; Copiar DS a ES
+|           mov   es, ax
+|           cld                       ; Poner DF = 0
+|           mov   di, OFFSET Dato
+| ................................
+| ; Ejecución
+|           mov   al, 17              ; Byte de relleno
+| Otro:
+|           stosb
+|           cmp   di, OFFSET Dato + Longitud
+|           jb   Otro
+| ................................
+</pre>
+</div>
+<div class="pri1" id="ejercicio-no-19">
+<h4 class="calibre24">15.6. Ejercicio nº 19</h4>
+<p class="calibre8">LODS y STOS (y sus variantes) suelen usarse juntas.
+Intentaremos copiar una cadena de caracteres a otra área de
+memoria. El fin de la cadena está indicado por un carácter
+NULL (valor ASCII 0), que también deberá copiarse. Véase una
+solución en Soluciones.</p>
+</div>
+<div class="pri1" id="carga-de-registros-de-segmento">
+<h4 class="calibre24">15.7. Carga de registros de segmento</h4>
+<p class="calibre8">Si tuviéramos que manejar con LODS y STOS datos separados por
+más de 65.535 bytes, DS y ES no podrían apuntar al mismo
+lugar como en el ejemplo y en el ejercicio precedentes. Aún
+no hemos visto cómo definir áreas de datos tan separadas,
+pero supongamos que las tenemos.</p>
+<p class="calibre8">Veamos con un ejemplo cómo haríamos para cargar ES, lo que
+también nos mostrará otra manera de cargar DS. Copiaremos un
+vector de palabras a otro lugar, esta vez indicando la
+longitud del vector en palabras, y procediendo en sentido
+descendente para mostrar otra forma de hacerlo.</p>
+<pre class="literal-block">
+|           .DATA
+| Longitud EQU   100
+| Origen   DW   Longitud DUP (?)
+| ................................
+| Destino  DW   Longitud DUP (?)     ; En otro segmento
+|      .CODE
+|           mov   ax, SEG Origen      ; Cargar DS
+|           mov   ds, ax
+|           mov   ax, SEG Destino     ; Cargar ES
+|           mov   es, ax
+|           mov   si, OFFSET Origen + Longitud * 2 - 1
+|           mov   di, OFFSET Destino + Longitud * 2 - 1
+|           std                       ; Sentido descendente
+|           mov   cx, Longitud
+| Copiar:
+|           lodsw                     ; Cargar AX
+|           stosw                     ; Guardar AX
+|           loop   Copiar
+| ................................
+</pre>
+<p class="calibre8">Si el contenido de CX hubiera podido ser 0, entonces
+deberíamos haber insertado una instrucción JCXZ antes del
+rótulo Copiar.</p>
+</div>
+<div class="pri1" id="mover-operando-de-cadena">
+<h4 class="calibre24">15.8. Mover operando de cadena</h4>
+<p class="calibre8">La instrucción MOVSB (Move String Operand Byte) puede
+reemplazar al par LODSB / STOSB, y la instrucción MOVSW (Move
+String Operand Word) al par LODSW / STOSW. Asimismo, el
+Ensamblador acepta el código mnemotécnico MOVS, seguido de
+dos operandos, cuyo tipo indicará a cuál de MOVSB o MOVSW
+debe traducirse.</p>
+<p class="calibre8">Estas instrucciones, a diferencia de LODS / STOSB, no usan
+el registro AL ni el AX, sino que los datos pasan
+directamente de un área de memoria a otra. Tampoco modifican
+las banderas.</p>
+<p class="calibre8">Específicamente, lo que hacen MOVSB o MOVSW es:</p>
+<ol class="upperalpha">
+<li class="calibre3">Mueven el byte (o la palabra) ubicado donde señala el par DS:SI al lugar señalado por ES:DI.</li>
+<li class="calibre3">Incrementan SI y DI cada uno en una unidad (o 2 unidades) si DF = 0, y los decrementan si DF = 1.</li>
+</ol>
+<p class="calibre8">La última parte del ejemplo anterior quedaría así con este
+tipo de instrucciones:</p>
+<pre class="literal-block">
+| Copiar:
+|           movsw
+|           loop   Copiar
+</pre>
+<p class="calibre8">También podríamos usar MOVS en el Ejercicio nº 19, cambiando
+la instrucción de comparación:</p>
+<pre class="literal-block">
+| Copiar:
+|           movsb
+|           cmp   BYTE PTR -1 [si], 0   ; Si se llegó al fin
+|           jne   Copiar                ; Si no, seguir
+</pre>
+<p class="calibre8">Puede uno preguntarse para qué están las instrucciones LODS /
+STOS si pueden ser reemplazadas por MOVS. Hay muchos programas que necesitan usarlas en forma separada, y otros que si
+bien las usan juntas, no lo hacen en estricta secuencia.
+Veamos dos ejemplos. En primer lugar, llenar una cadena con
+caracteres “blanco”:</p>
+<pre class="literal-block">
+|           .DATA
+| Longitud EQU   80
+| Cadena   DB   Longitud DUP (?)
+|           .CODE
+| ................................
+|           mov   ax, SEG Cadena      ; Cargar ES
+|           mov   es, ax
+|           cld                       ; Sentido ascendente
+|           mov   di, OFFSET Cadena   ; Inicializar al comienzo
+|           mov   cx, Longitud        ; Inicializar cuenta
+|           mov   al, ' '             ; Cargar blanco
+| Borrar:
+|           stosb                     ; Grabar blanco
+|           loop   Borrar             ; Ciclar CX veces
+| ................................
+</pre>
+<p class="calibre8">Sólo se ha usado STOS.</p>
+<p class="calibre8">En segundo lugar, copiaremos sólo las letras mayúsculas de
+una cadena a otra:</p>
+<pre class="literal-block">
+|           .DATA
+| Longitud EQU   80
+| Origen   DB   Longitud DUP (?)
+| Destino  DB   Longitud DUP (?)
+|      .CODE
+| ................................
+|           mov   ax, SEG Destino     ; Cargar ES
+|           mov   es, ax
+|           cld                       ; Sentido ascendente
+|           mov   si, OFFSET Origen   ; Comienzo de Origen
+|           mov   di, OFFSET Destino  ; Comienzo de Destino
+|           mov   cx, Longitud        ; Inicializar cuenta
+| Ciclar:
+|           lodsb                     ; Cargar carácter en AL
+|           cmp   al, 'A'             ; Ver si está entre A y Z
+|           jb   Saltar
+|           cmp   al, 'Z'
+|           ja   Saltar
+|           stosb                     ; Guardar carácter
+|
+| Saltar:
+|           loop   Ciclar             ; Ciclar
+|           mov   al, ' '             ; Cargar blanco
+| Llenar:                            ; Llenar cola con blancos
+|           cmp   di, OFFSET Destino + Longitud
+|           jae   Fin
+|           stosb                     ; Poner un blanco
+|           jmp   Llenar
+| Fin:
+| ................................
+</pre>
+<p class="calibre8">Hemos usado LODS y STOS, pero separados, de modo que MOVS no
+habría podido sustituirlas.</p>
+<p class="calibre8">La prueba de que las letras sean mayúsculas tal como se
+hace acá es posible sólo porque en la codificación ASCII las
+letras están juntas y en orden alfabético; en la codificación
+EBCDIC (usada en otro tipo de máquinas) esto no sucede, de
+modo que aceptaríamos caracteres extraños.</p>
+<p class="calibre8">15.9. El prefijo REP</p>
+<p class="calibre8">Volvamos al uso típico de las instrucciones MOVS:</p>
+<pre class="literal-block">
+|           mov   ax, SEG Destino     ; Inicialización
+|           mov   es, ax
+|           mov   si, OFFSET Origen
+|           mov   si, OFFSET Destino
+|           cld
+|           mov   cx, Longitud
+| Otro:
+|           movsb                     ; Ejecución
+|           loop   Otro
+</pre>
+<p class="calibre8">Ésta es una situación tan común que se creó un prefijo, REP,
+que ejecuta MOVSB o MOVSW tantas veces como sea el contenido
+de CX, mientras lo va decrementando. Una diferencia con la
+secuencia anterior, sin embargo, es que cuando el contenido
+de CX es 0, la instrucción no se ejecuta. Recordemos que si
+CX = 0, LOOP cicla 65.536 veces, y que por eso suele precederse esta secuencia con JCXZ. Con REP, las últimas instrucciones del ejemplo anterior quedan:</p>
+<pre class="literal-block">
+| Otro:
+|           rep   movsb
+</pre>
+<p class="calibre8">donde se ve que hasta el rótulo Otro puede desaparecer.</p>
+<p class="calibre8">REP ocupa un byte de memoria y afecta sólo a la instrucción que sigue inmediatamente. Sólo actúa con las instrucciones MOVSB, MOVSW, LODSB, LODSW, STOSB, STOSW y otras instrucciones de cadena que veremos luego.</p>
+<p class="calibre8">Usado con LODSB y LODSW, el prefijo REP actúa, pero cuesta
+imaginar una función útil para el mismo, puesto que sólo el
+último byte o palabra cargado queda en AL o AX. En cambio,
+con STOSB y STOSW permite borrar una cadena a un valor dado.
+Por ejemplo:</p>
+<pre class="literal-block">
+|           .DATA
+| Longitud EQU   100
+| Dato     DW   Longitud DUP (?)
+|           .CODE
+| ................................
+|           mov   ax, SEG Dato        ; Cargar ES
+|           mov   es, ax
+|           mov   di, OFFSET Dato     ; Inicializar al comienzo
+|           mov   cx, Longitud        ; Inicializar cuenta
+|           cld      ; Sentido ascendente
+|           mov   ax, 1aefh           ; Borrar a 1aefH
+|           rep   stosw
+| ...............................
+</pre>
+<p class="calibre8">Nótese que la longitud de Dato es de 100 palabras, lo que
+equivale a 200 bytes. En CX se debe cargar 100, no 200, pues
+la instrucción se repite para cada palabra.</p>
+</div>
+<div class="pri1" id="barrer-operando-de-cadena">
+<h4 class="calibre24">15.10. Barrer operando de cadena</h4>
+<p class="calibre8">La instrucción SCASB (Scan String Data Byte) compara el
+contenido del registro AL con el byte direccionado por ES:DI,
+tomando a AL como primer operando, y coloca las banderas de
+acuerdo con el resultado de la comparación, como siempre
+referida al primer operando; luego incrementa o decrementa DI
+en una unidad según que DF sea 0 o 1, respectivamente.</p>
+<p class="calibre8">Sea por ejemplo hallar la primera letra “A” de una cadena:</p>
+<pre class="literal-block">
+|           .DATA
+| Cadena   DB   'ESTA ES UNA PRUEBA'
+| Longitud EQU   $ - Cadena
+|           .CODE
+| ................................
+|           mov   ax, SEG Cadena      ; Cargar ES
+|           mov   es, ax
+|           mov   di, OFFSET Cadena   ; Comienzo de Cadena
+|           mov   al, 'A'             ; Cargar comparando
+|           mov   cx, Longitud        ; Inicializar cuenta
+|           cld                       ; Sentido ascendente
+| Buscar:
+|           scasb                     ; Buscar una A
+|           je   Esta                 ; Si se halló
+|           loop   Buscar
+| Noesta:                            ; No se encontró
+| ................................
+| Esta:                              ; Se encontró
+|           dec   si
+| ................................
+</pre>
+<p class="calibre8">Como SCASB siempre incrementa (o decrementa) DI, independientemente del resultado de la comparación, debe dársele un paso
+atrás a DI si se quiere marcar el lugar donde se halla lo que
+se buscó. En lugar del decremento (o incremento), puede usarse un OFFSET de -1 (o 1) en las instrucciones siguientes. Por
+ejemplo, si se deseara reemplazar la primera “A” por un carácter “1”, el fragmento de programa anterior podría terminar
+así:</p>
+<pre class="literal-block">
+| Esta:                                  ; Se encontró
+|
+|           mov   BYTE PTR -1 [di], '1'   ; Reemplazar
+</pre>
+<p class="calibre8">La instrucción SCASW (Scan String Operand Word) es similar a
+SCASB, pero funciona con palabras en lugar de bytes. El
+registro donde está el primer operando es AX.</p>
+<p class="calibre8">El Ensamblador acepta un código mnemotécnico SCAS general,
+seguido de un operando, cuyo tipo indica si se traducirá al
+código de máquina correspondiente a SCASB o SCASW.</p>
+</div>
+<div class="pri1" id="ejercicio-no-20">
+<h4 class="calibre24">15.11. Ejercicio nº 20</h4>
+<p class="calibre8">Trataremos de hallar en un vector la última palabra que
+contenga un valor mayor que 5000 y reemplazarla por 0. Véase
+una posible solución en Soluciones.</p>
+</div>
+<div class="pri1" id="los-prefijos-repe-y-repne">
+<h4 class="calibre24">15.12. Los prefijos REPE y REPNE</h4>
+<p class="calibre8">Es posible usar el prefijo REP para SCAS, pero esto
+difícilmente resultaría útil, pues la comparación seguiría
+hasta agotar CX antes de que pudiéramos bifurcar por el
+resultado de las comparaciones intermedias.</p>
+<p class="calibre8">La comparación puede detenerse por igual o por distinto;
+para ello existen los prefijos REPE (REPZ es sinónimo) y
+REPNE (REPNZ es sinónimo). REPE repite la instrucción
+mientras el resultado de la comparación sea igual y CX no
+haya llegado a 0. REPNE repite mientras el resultado sea
+distinto y CX no haya llegado a 0.</p>
+<p class="calibre8">Cuando CX = 0, no se efectúa ninguna comparación y las
+banderas quedan como estaban antes de ejecutarse la instrucción.</p>
+<p class="calibre8">Por ejemplo, busquemos el primer carácter “R” en una
+cadena y reemplacémoslo por una “X”:</p>
+<pre class="literal-block">
+|           .DATA
+| Cadena   DB   'ESTA ES UNA PRUEBA'
+| Longitud EQU   $ - Cadena
+|           .CODE
+| ................................
+|           mov   ax, SEG Cadena      ; Cargar ES
+|           mov   es, ax
+|           mov   di, OFFSET Cadena   ; Comienzo de Cadena
+|           mov   al, 'R'             ; Cargar comparando
+|           mov   cx, Longitud        ; Inicializar cuenta
+|           cld                       ; Sentido ascendente
+|           repne   scasb             ; Buscar
+|           je   Esta
+| Noesta:
+| ................................
+| Esta:
+|           mov   BYTE PTR -1 [di], 'X' ; Reemplazar
+| ................................
+</pre>
+<p class="calibre8">Cuando la comparación no se interrumpe por no haber
+satisfecho la condición, lo hace al llegar a 0 el contenido
+de CX. Las banderas quedan como las dejó la última
+comparación.</p>
+</div>
+<div class="pri1" id="ejercicio-no-21">
+<h4 class="calibre24">15.13. Ejercicio nº 21</h4>
+<p class="calibre8">Se trata de encontrar en un vector de palabras la primera
+palabra distinta de 0 y reemplazarla por 0, usando REPE o
+REPNE. Véase el Soluciones para una posible solución.</p>
+</div>
+<div class="pri1" id="comparar-operandos-de-cadena">
+<h4 class="calibre24">15.14. Comparar operandos de cadena</h4>
+<p class="calibre8">La instrucción CMPSB (Compare String Operand Byte) compara
+los bytes en las direcciones apuntadas por DS:SI y ES:DI,
+coloca las banderas de acuerdo con el resultado de la comparación y, de acuerdo con que DF sea 0 o 1, incrementa o
+decrementa en una unidad los registros SI y DI. El resultado
+de la comparación (mayor o menor, por ejemplo) se refiere al
+operando direccionado por DS:SI.</p>
+<p class="calibre8">La instrucción CMPSW (Compare String Operand Word) es
+similar a CMPSB, con la diferencia de que opera sobre palabras y por lo tanto el incremento o decremento es de 2
+unidades.</p>
+<p class="calibre8">El Ensamblador acepta el código mnemotécnico CMPS, seguido
+de dos operandos, cuyo tipo se emplea para determinar si se
+traduce al código de máquina de CMPSB o de CMPSW.</p>
+<p class="calibre8">A estas instrucciones se les puede aplicar los prefijos
+REPE y REPNE. Cuando se usan estos prefijos, la instrucción
+se repite hasta que CX contenga 0 o hasta que deje de cumplirse la condición indicada en el prefijo. Por ejemplo, con
+REPE dejará de cumplirse la condición cuando la comparación
+arroje “distinto”. Si CX contiene 0, no se efectúa comparación alguna y las banderas quedan como estaban antes de la
+instrucción.</p>
+<p class="calibre8">Como ejemplo, compararemos dos cadenas para determinar
+cuál es mayor o menor lexicográficamente (alfabéticamente).
+Esto requiere que la comparación se haga por direcciones
+crecientes.</p>
+<pre class="literal-block">
+|           .DATA
+| Longitud EQU   50
+| Dato1    DB   Longitud DUP (?)
+| Dato2    DB   Longitud DUP (?)
+|           .CODE
+| ................................
+|           mov   ax, SEG Dato2       ; Cargar ES
+|           mov   es, ax
+|           mov   si, OFFSET Dato1    ; Comienzo de Dato1
+|           mov   di, OFFSET Dato2    ; Comienzo de Dato2
+|           mov   cx, Longitud        ; Inicializar cuenta
+|           cld                       ; Sentido ascendente
+|           cmp   al, al              ; Forzar ZF = 1 (Igual)
+|           repe   cmpsb              ; Comparar mientras sea =
+|           jne   Distintos
+| Iguales:
+| ................................
+| Distintos:
+|           ja   Mayor
+| Menor:                             ; Dato1 es menor
+| ................................
+| Mayor:                             ; Dato1 es mayor
+| ................................
+</pre>
+<p class="calibre8">La instrucción cmp al, al merece un comentario especial. En
+este caso no puede suceder, pero si la longitud viniera en CX
+sin conocerse su valor, bien podría ser 0. Como se dijo, en
+tal caso no se efectúa comparación alguna, y las banderas
+quedan como estaban antes de la instrucción. Por lo tanto,
+las bifurcaciones luego de CMPS darían resultados que nada
+tendrían que ver con la comparación. Para evitar esto, debemos forzar las banderas a un valor convenido, antes de ejecutar CMPS. Convengamos que, en el caso de longitud nula, el
+resultado debe ser “igual”. Para forzarlo, pues, ejecutamos
+cmp al, al.</p>
+</div>
+<div class="pri1" id="ejercicio-no-22">
+<h4 class="calibre24">15.15. Ejercicio nº 22</h4>
+<p class="calibre8">Se trata de hallar el mayor valor (sin signo) de una cadena
+de bytes. Véase una posible solución en Soluciones.</p>
+</div>
+</div>
+<div class="pri1" id="multiplicacion-y-division">
+<h3 class="calibre23">16. MULTIPLICACION Y DIVISION</h3>
+<p class="calibre8">Para la suma y la resta se usan las mismas instrucciones sin
+importar si los datos se consideran con signo o si él, pues
+los resultados no varían. En cambio, las instrucciones de
+multiplicación y división que no considerasen esta circunstancia arrojarían resultados incorrectos, por lo que se creó
+un juego de instrucciones para datos sin signo y otro para
+datos con signo.</p>
+<div class="pri1" id="multiplicacion-sin-signo">
+<h4 class="calibre24">16.1. Multiplicación sin signo</h4>
+<p class="calibre8">La instrucción MUL realiza multiplicaciones sin signo, es
+decir, interpretando todos los bits de los operandos y del
+resultado como integrando un número positivo.</p>
+<p class="calibre8">Si Dato corresponde a un operando de tipo byte, entonces</p>
+<pre class="literal-block">
+|           mul   Dato
+</pre>
+<p class="calibre8">multiplica el contenido del byte de Dato por el contenido del
+registro AL. El resultado queda en el registro AX. El contenido previo de AH no tiene influencia.</p>
+<p class="calibre8">Las banderas de desborde (OF) y de acarreo (CF) quedan en
+0 si después de la multiplicación el contenido de AH es 0, es
+decir si el resultado cabe completo en la parte baja, y quedan en 1 en caso contrario.</p>
+<p class="calibre8">El operando de MUL puede ser afectado por un registro base
+y un registro índice. Por ejemplo:</p>
+<pre class="literal-block">
+|           mul   Dato [bx]
+|           mul   Dato + 4 [bx] [si]
+</pre>
+<p class="calibre8">Pero ese operando no puede ser un dato inmediato.</p>
+<p class="calibre8">Veamos un ejemplo de uso:</p>
+<pre class="literal-block">
+|           .DATA
+| Doce     DB   12
+| Result   DW   ?
+|           .CODE
+| ................................
+|           mov   al, 3               ; Multiplicando
+|           mul   Doce
+|           mov   Result, ax
+| ................................
+</pre>
+<p class="calibre8">También es posible (y quizá de uso más frecuente) usar como
+multiplicador el contenido de un registro de 8 bits, por
+ejemplo:</p>
+<pre class="literal-block">
+|           mul   ch
+</pre>
+<p class="calibre8">El cuadrado de un número puede obtenerse con:</p>
+<pre class="literal-block">
+|           mul   al
+</pre>
+<p class="calibre8">El registro AH también puede usarse como multiplicador, sin
+que tenga importancia el hecho de que parte del resultado
+quede en el mismo:</p>
+<pre class="literal-block">
+|           mov   al, 3
+|           mov   ah, 7
+|           mul   ah
+</pre>
+<p class="calibre8">La instrucción MUL tiene también un formato para multiplicar
+operandos de 16 bits. Si Palabra es un operando de tipo
+palabra, entonces</p>
+<pre class="literal-block">
+|           mul   Palabra
+</pre>
+<p class="calibre8">multiplicará el valor (tomado sin signo) almacenado en los 16
+bits de Palabra por el contenido del registro AX. El resultado quedará en el par de registros DX:AX, con la parte superior en DX y la inferior en AX. El contenido previo de DX no
+influye en el resultado.</p>
+<p class="calibre8">Las banderas de desborde (OF) y de acarreo (CF) quedan en
+0 si después de la multiplicación el contenido de DX es 0, y
+quedan en 1 en caso contrario.</p>
+<p class="calibre8">También es posible multiplicar el contenido de un registro
+de 16 bits por el de AX, por ejemplo:</p>
+<pre class="literal-block">
+|           mul   bx
+</pre>
+<p class="calibre8">El cuadrado de un número puede obtenerse con:</p>
+<p class="calibre8">mul   ax</p>
+<p class="calibre8">Y el registro DX puede también usarse como multiplicador:</p>
+<pre class="literal-block">
+|           mov   ax, 3000
+|           mov   dx, 15
+|           mul   dx
+</pre>
+<p class="calibre8">Veamos un ejemplo más completo de multiplicación de palabras:</p>
+<pre class="literal-block">
+|           .DATA
+| Dato1    DW   ?
+| Dato2    DW   ?
+| Result   DD   ?
+|           .CODE
+| ................................
+|           mov   ax, Dato1
+|           mul   Dato2
+|           mov   WORD PTR Result, ax
+|           mov   WORD PTR Result + 2, dx
+| ................................
+</pre>
+<p class="calibre8">Obsérvese que la parte baja del resultado se ha guardado precediendo a la parte alta. Se podría haber hecho a la inversa,
+pero no habríamos respetado las convenciones existentes.
+Estas convenciones se transforman en una exigencia cuando se
+usa un procesador 80386 con operandos de 32 bits.</p>
+</div>
+<div class="pri1" id="multiplicacion-con-signo">
+<h4 class="calibre24">16.2. Multiplicación con signo</h4>
+<p class="calibre8">La instrucción IMUL es en todo similar a MUL. La diferencia
+reside en que toma en cuenta el signo de los operandos para
+obtener el del resultado. Por ejemplo, la multiplicación de
+dos números negativos da un número positivo.</p>
+<p class="calibre8">Desarrollando un poco más esto, veamos qué ocurre con MUL
+y con IMUL si ambos operandos son bytes y contienen FF hexadecimal. MUL consideraría que el valor de ambos es 255, y
+daría 65025, que en hexadecimal es FE01. IMUL, en cambio,
+consideraría que el valor de ambos operandos es -1, y por
+consiguiente daría 1, que en hexadecimal es 0001. Con la suma
+y con la resta no ocurre algo parecido, pues al despreciar el
+acarreo el resultado es el mismo; por ejemplo, FF + FF = FE
+hexadecimal, independientemente de que se lo considere con
+signo o sin él.</p>
+<p class="calibre8">IMUL pone las banderas de desborde (OF) y de acarreo (CF)
+en 0 si la parte alta del resultado consiste en la extensión
+del signo de la parte baja, es decir, si el resultado cabe
+enteramente en la parte baja. De lo contrario, las pone en 1.</p>
+<p class="calibre8">Veamos un ejemplo de multiplicación con signo:</p>
+<pre class="literal-block">
+|           .DATA
+| Dato1    DW   -1510
+| Dato2    DW   -12
+| Result   DW   ?
+|           .CODE
+| ................................
+|           mov   ax, Dato1
+|           imul  Dato2
+|           jo    Exceso
+|           mov   Result, ax
+| ................................
+| Exceso:
+| ................................
+</pre>
+<p class="calibre8">En este caso, se espera que el resultado de la multiplicación
+quepa en una palabra, y por eso se prueba la bandera OF (o la
+CF) para determinar si esto fue así.</p>
+</div>
+<div class="pri1" id="division-sin-signo">
+<h4 class="calibre24">16.3. División sin signo</h4>
+<p class="calibre8">Todas la operaciones de división que veremos son enteras, lo
+cual significa que obtienen un cociente truncado y un resto.
+La instrucción DIV divide operandos de los cuales no considera el signo. Si el divisor (operando explícito de la instrucción) es un byte, DIV divide el contenido del registro AX por
+el divisor. El cociente queda en AL y el resto en AH. El
+divisor puede ser un registro de 8 bits o un byte en memoria
+direccionado por cualquiera de las formas de direccionamiento
+vistas. Por ejemplo:</p>
+<pre class="literal-block">
+|           div   dh
+|           div   Divisor             ; Divisor = byte
+|           div   BYTE PTR [si]
+</pre>
+<p class="calibre8">Si el divisor es una palabra, DIV divide el contenido del par
+de registros DX:AX (parte superior en DX) por el divisor. El
+cociente queda en AX y el resto en DX. El operando explícito
+(divisor) puede ser un registro de propósito general de 16
+bits o una palabra en memoria direccionada por cualquiera de
+las formas de direccionamiento vistas. Por ejemplo:</p>
+<pre class="literal-block">
+|           div   bp
+|           div   Divisor             ; Divisor = palabra
+|           div   WORD PTR 5 [bx] [di]
+</pre>
+<p class="calibre8">El divisor, tanto byte como palabra, no puede ser un dato
+inmediato.</p>
+<p class="calibre8">Si el divisor fuera 0, o el cociente debiera ocupar más de
+un byte siendo el divisor un byte, o más de una palabra siendo el divisor una palabra, se generaría una interrupción 0
+(división por cero) y el programa terminaría abruptamente si
+la rutina de interrupción de división por cero no permitiera
+la recuperación.</p>
+<p class="calibre8">Es posible usar como divisor uno de los registros en los
+que reside el dividendo, pero esto difícilmente tenga utilidad. Por ejemplo:</p>
+<pre class="literal-block">
+|           mov   ah, 0               ; Siempre 0
+|           mov   al, 15              ; Hasta 255
+|           div   al
+| ; Da siempre cociente = 1 y resto = 0
+|           mov   ax, 123h            ; Decimal 291
+|           div   al                  ; Divide por 35
+|           mov   ax, 1234h           ; Decimal 4660
+|           div   ah                  ; Divide por 18
+| ; Provoca siempre una excepción de división por 0
+</pre>
+<p class="calibre8">Como se ve, esto sirve para realizar algunas triquiñuelas,
+pero no es de utilidad general.</p>
+<p class="calibre8">Después de la división, las banderas de estado (OF, CF,
+etc.) quedan indefinidas. Esto no significa que queden en
+cualquier valor, sino que cada fabricante de procesadores es
+libre para dejar las banderas en el estado que quiera, o sea
+que por ejemplo el procesador 8088 del fabricante X las
+dejará en un estado y el del fabricante Y quizá en otro.</p>
+<p class="calibre8">Veamos un ejemplo de DIV tomando una palabra como divisor:</p>
+<pre class="literal-block">
+|           .DATA
+| Divisor  DW   24
+| Total    DW   23710
+| Result   DW   ?
+| Resto    DW   ?
+|           .CODE
+| ................................
+|           mov   ax, Total            ; Cargar dividendo
+|           sub   dx, dx               ; Poner en 0 parte alta
+|           div   Divisor              ; Dividir
+|           mov   Result, ax           ; Guardar cociente
+|           mov   Resto, dx            ; Guardar resto
+| ................................
+</pre>
+<p class="calibre8">Hemos puesto 0 en el registro DX antes de la división, debido
+a que el dividendo ocupa una sola palabra; pero si hubiera
+ocupado dos, sería necesario tener en DX la parte alta del
+dividendo. Nótese que si previamente a la división hemos
+efectuado una multiplicación con operandos del mismo tamaño,
+ya sean bytes o palabras, tendremos los registros preparados
+para la división.</p>
+</div>
+<div class="pri1" id="convertir-palabra-a-doble-palabra">
+<h4 class="calibre24">16.4. Convertir palabra a doble palabra</h4>
+<p class="calibre8">Antes de estudiar la división con signo, veremos una instrucción que la complementa. Su código es CWD (Convert Word
+to Double Word). No tiene operandos.</p>
+<p class="calibre8">Esta instrucción es similar a CBW. Convierte la palabra
+almacenada en AX a una doble palabra en el par DX:AX,
+extendiendo el bit de signo de AX en DX. Las banderas no se
+alteran.</p>
+<p class="calibre8">Se usa principalmente para preparar el dividendo para la
+división con signo.</p>
+</div>
+<div class="pri1" id="division-con-signo">
+<h4 class="calibre24">16.5. División con signo</h4>
+<p class="calibre8">La instrucción IDIV funciona de forma similar a DIV, pero lo
+hace con operandos de los cuales considera el signo. Los
+formatos son similares a los de DIV.</p>
+<p class="calibre8">El cociente sigue la regla algebraica de los signos. El
+resto tiene el signo del dividendo, y la truncación ocurre
+siempre hacia 0, a diferencia de la producida por las instrucciones de desplazamiento hacia la derecha, que ocurre
+hacia menos infinito.</p>
+<p class="calibre8">Si el divisor fuera 0, o el cociente debiera ocupar más de
+un byte siendo el divisor un byte, o más de una palabra siendo el divisor una palabra, se generaría una interrupción 0
+(división por cero) y el programa terminaría abruptamente si
+la rutina de interrupción por división por cero no permitiera
+la recuperación.</p>
+<p class="calibre8">Veamos un ejemplo similar al dado para DIV:</p>
+<pre class="literal-block">
+|           .DATA
+| Divisor  DW   11
+| Total    DW   -1741
+| Result   DW   ?
+| Resto    DW   ?
+|           .CODE
+| ................................
+|           mov   ax, Total           ; Cargar dividendo
+|           cwd                       ; Extender el signo
+|           idiv   Divisor            ; Dividir
+|           mov   Result, ax          ; Guardar cociente
+|           mov   Resto, dx           ; Guardar resto
+| ................................
+</pre>
+<p class="calibre8">En el ejemplo dado para DIV podríamos haber sustituido con
+ventaja sub dx, dx por cwd, siempre y cuando el dividendo no
+superase el valor 32.767, pues de lo contrario su bit superior sería interpretado como signo negativo y cwd habría
+llenado DX con bits 1, lo cual arrojaría un resultado totalmente distinto tras la división (y probablemente una interrupción 0, pues el dividendo sería muy grande).</p>
+</div>
+<div class="pri1" id="ejercicio-no-23">
+<h4 class="calibre24">16.6. Ejercicio nº 23</h4>
+<p class="calibre8">Se trata de escribir una subrutina que tome una palabra en AX
+y devuelva una cadena de 5 posiciones con la representación
+decimal del valor en AX, tomado sin signo. A la entrada de la
+subrutina, el registro DI apunta al área donde se guardará la
+cadena. Escribiremos también un programa de llamada a la
+subrutina, Véase una posible solución en Soluciones.</p>
+</div>
+<div class="pri1" id="multiplicacion-y-division-de-precision-multiple">
+<h4 class="calibre24">16.7. Multiplicación y división de precisión múltiple</h4>
+<p class="calibre8">Para multiplicar y para dividir números de mayor tamaño que
+los que manejan directamente las instrucciones de multiplicación y de división, es necesario escribir subrutinas. Las
+subrutinas de multiplicación son moderadamente complejas y
+usan las instrucciones de multiplicación. En cambio, las
+instrucciones de división son de poca utilidad para las
+subrutinas de división, por lo que es necesario recurrir a
+restas, desplazamientos y rotaciones, lo que vuelve a estas
+subrutinas bastante complejas.</p>
+<p class="calibre8">No veremos dichas subrutinas en este texto, pues exceden
+los propósitos del mismo.</p>
+</div>
+</div>
+<div class="pri1" id="aritmetica-decimal">
+<h3 class="calibre23">17. Aritmética decimal</h3>
+<p class="calibre8">Si bien el procesador 8086 no realiza directamente aritmética
+decimal, tiene instrucciones que la facilitan.</p>
+<p class="calibre8">La aritmética decimal de este procesador es sólo para uso
+humano, pues si por ejemplo se carga en el registro BX un
+número en formato decimal y se pretende usarlo para direccionar memoria, el procesador interpretará los códigos decimales
+como si fueran binarios, y la dirección a la que se apunte no
+será la deseada.</p>
+<div class="pri1" id="notacion-decimal">
+<h4 class="calibre24">17.1. Notación decimal</h4>
+<p class="calibre8">Los números decimales se representan en el formato BCD (Binary Coded Decimal, decimal codificado en binario), en el que
+cada dígito decimal ocupa cuatro bits de un registro o de una
+posición de memoria. La codificación es la siguiente:</p>
+<pre class="literal-block">
+|   Binario   Decimal
+|
+|    0000        0
+|    0001        1
+|    0010        2
+|    0011        3
+|    0100        4
+|    0101        5
+|    0110        6
+|    0111        7
+|    1000        8
+|    1001        9
+</pre>
+<p class="calibre8">Como se ve, esta codificación hace coincidir los dígitos
+decimales con los primeros 10 dígitos hexadecimales. Los
+restantes códigos binarios de 4 bits no representan dígitos
+decimales válidos.</p>
+<p class="calibre8">Los números decimales pueden almacenarse en formato empaquetado o en formato no empaquetado.</p>
+<p class="calibre8">En el formato no empaquetado, cada byte contiene un dígito
+BCD en los 4 bits de orden bajo (nibble inferior), y 0 en los
+4 bits de orden alto (nibble superior). Por lo tanto, en este
+formato un byte tiene valores de 0 a 9. Esto no significa que
+tenga los valores de los caracteres de “0” a “9”; pero es
+posible transformar fácilmente unos en otros. Para transformar bytes de valor 0 a 9 en caracteres de “0” a “9”, úsese la
+instrucción:</p>
+<pre class="literal-block">
+|           or   Dato, 30h
+</pre>
+<p class="calibre8">Y para transformar caracteres de “0” a “9” en bytes de valor
+0 a 9, úsese:</p>
+<pre class="literal-block">
+|           and   Dato, 0fh
+</pre>
+<p class="calibre8">En el formato empaquetado, cada byte contiene dos dígitos
+BCD, el primero (de orden alto) en los 4 bits altos (nibble
+superior) del byte, y el segundo (de orden bajo) en los 4
+bits bajos (nibble inferior) del byte. Por lo tanto, un byte
+con dígitos BCD empaquetados puede representar valores
+decimales desde 00 hasta 99.</p>
+<p class="calibre8">Interesa ver cómo pueden introducirse dígitos codificados
+en BCD como constantes o como operandos inmediatos de las
+instrucciones. Dada la equivalencia entre los dígitos decimales y los primeros 10 hexadecimales, esto puede hacerse
+fácilmente expresando los dígitos BCD como si fueran hexadecimales. En el formato empaquetado, el procedimiento es
+directo. Por ejemplo, para introducir el número decimal
+1.543.214 en el par de registros DX:AX, podemos codificar:</p>
+<pre class="literal-block">
+|           mov   dx, 154h
+|           mov   ax, 3214h
+</pre>
+<p class="calibre8">Estas instrucciones quedan así en la memoria, con los bytes
+de sus operandos invertidos:</p>
+<pre class="literal-block">
+|        BA5401
+|        B81432
+</pre>
+<p class="pcalibre pri">Si quisiéramos definir una doble palabra con ese mismo
+número, también lo logramos con facilidad:</p>
+<pre class="literal-block">
+| Decimal   DD   1543214h
+</pre>
+<p class="calibre8">El Ensamblador se encarga de invertir los bytes en la
+memoria, de modo que en un vuelco de memoria los veríamos
+así:</p>
+<pre class="literal-block">
+|       14325401
+</pre>
+<p class="calibre8">Obsérvese una vez más que el valor de esta constante en el
+formato interno de la computadora no es 1543214 decimal sino
+1543214 hexadecimal, que tiene otro valor decimal que ya
+sabemos cómo calcular. Por lo tanto, las operaciones aritméticas con estos valores no darán los resultados esperados;
+para obtenerlos están las instrucciones de ajuste que veremos
+en este capítulo.</p>
+<p class="calibre8">Para introducir valores BCD en el formato no empaquetado,
+debe precederse cada dígito por un 0. Por ejemplo, para
+introducir el valor decimal 1361 en el par DX:AX, usaríamos:</p>
+<pre class="literal-block">
+|           mov   dx, 0103h
+|           mov   ax, 0601h
+</pre>
+<p class="pcalibre pri">Y para definir una doble palabra con dicho valor:</p>
+<pre class="literal-block">
+| Decimal   DD   01030601h
+</pre>
+<p class="calibre8">la cual quedará en memoria así:</p>
+<pre class="literal-block">
+|          01060301
+</pre>
+</div>
+<div class="pri1" id="suma-decimal-sin-empaquetar">
+<h4 class="calibre24">17.2. Suma decimal sin empaquetar</h4>
+<p class="calibre8">La instrucción AAA (ASCII Adjust after Addition, ajustar a
+ASCII después de la suma) se aplica inmediatamente después de
+una suma cuyos operandos, en su nibble más bajo, tienen
+valores desde 0 a 9; el resultado de la suma debe estar en
+AL. AAA usa la bandera AF y ajusta AL para que contenga el
+resultado decimal correcto. Si la suma produjo un acarreo
+decimal, se incrementa el registro AH, y se ponen en 1 las
+banderas de acarreo (CF) y acarreo auxiliar (AF); de lo
+contrario, el registro AH no cambia y CF y AF se ponen en 0.
+En cualquiera de los casos, el nibble alto de AL queda en 0.
+Esta instrucción no lleva operandos.</p>
+<p class="calibre8">Ejemplo de uso:</p>
+<pre class="literal-block">
+| ; Sumar 8 decimal a 29 decimal
+|           mov   ax, 209h
+|           add   al, 8h
+|           aaa                     ; Resultado 307 en AX
+</pre>
+</div>
+<div class="pri1" id="ejercicio-no-24">
+<h4 class="calibre24">17.3. Ejercicio nº 24</h4>
+<p class="calibre8">Escribiremos una subrutina para sumar dos operandos de dos
+dígitos BCD no empaquetados cada uno. Los operandos se
+encuentran respectivamente en AX y en BX. El resultado
+quedará en AX también en formato BCD no empaquetado. Si el
+resultado excediera de 99, la bandera de acarreo (CF) deberá
+quedar en 1 y el contenido de AX estará indefinido. Véase una
+posible solución en Soluciones.</p>
+</div>
+<div class="pri1" id="resta-decimal-sin-empaquetar">
+<h4 class="calibre24">17.4. Resta decimal sin empaquetar</h4>
+<p class="calibre8">La instrucción AAS (ASCII Adjust after Subtraction, ajustar a
+ASCII después de la resta) se aplica inmediatamente después
+de una resta cuyos operandos, en su nibble más bajo, tienen
+valores desde 0 a 9; el resultado de la resta debe estar en
+AL. AAA usa la bandera AF y ajusta AL para que contenga el
+resultado decimal correcto. Si la resta necesitó un pedido
+decimal, se decrementa el registro AH, y se ponen en 1 las
+banderas de acarreo (CF) y acarreo auxiliar (AF); de lo
+contrario, el registro AH no cambia y CF y AF se ponen en 0.
+En cualquiera de los casos, el nibble alto de AL queda en 0.
+Esta instrucción no lleva operandos.</p>
+<p class="calibre8">Ejemplo de uso:</p>
+<pre class="literal-block">
+| ; Restar 9 decimal de 21 decimal
+|           mov   ax, 201h
+|           sub   al, 9h
+|           aas                       ; Resultado 102 en AX
+</pre>
+</div>
+<div class="pri1" id="ejercicio-no-25">
+<h4 class="calibre24">17.5. Ejercicio nº 25</h4>
+<p class="calibre8">Este ejercicio es en todo similar al anterior. Escribiremos
+una subrutina para restar dos operandos de dos dígitos BCD no
+empaquetados cada uno. Los operandos se encuentran respectivamente en AX y en BX. El resultado quedará en AX también en
+formato BCD no empaquetado. Si el resultado debiera ser
+negativo, la bandera de acarreo (CF) deberá quedar en 1 y el
+contenido de AX estará indefinido. Véase una posible solución
+en Soluciones.</p>
+</div>
+<div class="pri1" id="suma-decimal-empaquetada">
+<h4 class="calibre24">17.6. Suma decimal empaquetada</h4>
+<p class="calibre8">La instrucción DAA (Decimal Adjust AL after Addition, ajustar
+decimal AL después de la suma) se usa inmediatamente después
+de una suma de dos operandos BCD empaquetados que deja el
+resultado en el registro AL. Esta instrucción usa la bandera
+AF y ajusta AL para que contenga el resultado en dos dígitos
+BCD empaquetados. Si hay exceso, CF queda en 1. La
+instrucción no tiene operandos.</p>
+<p class="calibre8">Ejemplo de uso:</p>
+<pre class="literal-block">
+| ; Sumar 19 decimal a 34 decimal
+|           mov   al, 34h
+|           add   al, 19h
+|           daa                        ; Resultado 53h
+</pre>
+<p class="calibre8">Es fácil ver que, sin apoyarse en el estado de AF, DAA no
+podría determinar el resultado decimal correcto. Veamos por
+ejemplo lo que pasa si se suman por un lado 18 y 29 y por
+otro 21 y 20:</p>
+<pre class="literal-block">
+|         18h        21h
+|         29h        20h
+|         ——         ——
+|         41h        41h
+</pre>
+<p class="calibre8">En ambos casos obtenemos 41, pero los resultados correctos
+son 47 y 41 (decimales) respectivamente. La instrucción DAA,
+para obtener el resultado correcto, se basa en que en el
+primer caso AF = 1, y en el segundo AF = 0.</p>
+</div>
+<div class="pri1" id="ejercicio-no-26">
+<h4 class="calibre24">17.7. Ejercicio nº 26</h4>
+<p class="calibre8">Escribiremos una subrutina para sumar dos números, cada uno
+con 4 dígitos BCD empaquetados. Los operandos están en los
+registros AX y BX, respectivamente; el resultado quedará en
+AX. Si el resultado debiera ser mayor que 9999, se devolverá
+CF = 1 y el contenido de AX quedará indefinido. Véase una
+posible solución en Soluciones.</p>
+</div>
+<div class="pri1" id="resta-decimal-empaquetada">
+<h4 class="calibre24">17.8. Resta decimal empaquetada</h4>
+<p class="calibre8">La instrucción DAS (Decimal Adjust AL after Subtraction,
+ajustar decimal AL después de la resta) se usa de manera
+totalmente similar a DAA, con la diferencia de que actúa
+después de la resta en vez de después de la suma. Esta
+instrucción usa la bandera AF y ajusta AL para que contenga
+el resultado en dos dígitos BCD empaquetados. Si el resultado
+debiera ser negativo, CF queda en 1. La instrucción no tiene
+operandos.</p>
+</div>
+<div class="pri1" id="multiplicacion-decimal-sin-empaquetar">
+<h4 class="calibre24">17.9. Multiplicación decimal sin empaquetar</h4>
+<p class="calibre8">La instrucción AAM (ASCII Adjust AX after Multiply, ajustar
+ASCII AX después de la multiplicación) se usa después de una
+multiplicación de dos operandos, cada uno con un dígito BCD
+sin empaquetar. El resultado de la multiplicación queda en
+AX, pero como es menor que 100, está contenido enteramente en
+AL. Esta instrucción divide el contenido de AL por 10,
+dejando el cociente en AH y el resto en AL. Ello significa
+dejar el dígito más significativo en AH y el menos
+significativo en AL. Como se ve, esta instrucción es muy
+parecida a una división por 10, con la diferencia de que el
+cociente y el resto han intercambiado lugares, y que además
+el contenido previo de AH no se toma en cuenta.</p>
+<p class="calibre8">Tras AAM, las banderas OF, AF y CF quedan indefinidas, y
+las restantes banderas de estado toman valores de acuerdo con
+el resultado.</p>
+<p class="calibre8">Ejemplo de uso:</p>
+<pre class="literal-block">
+|           mov   al, 07h
+|           mov   ah, 08h
+|           mul   ah
+|           aam
+| ; Resultado: 05h en AH y 06H en AL.
+</pre>
+</div>
+<div class="pri1" id="ejercicio-no-27">
+<h4 class="calibre24">17.10. Ejercicio nº 27</h4>
+<p class="calibre8">Escribiremos una subrutina para tomar dos caracteres numéricos en AH y AL, multiplicarlos y dejar el resultado, también
+como caracteres numéricos, en AH y AL (parte superior en AH).
+Si hubiera exceso (porque AH o AL no contuvieran caracteres
+numéricos válidos), se dará una indicación de error con
+CF = 1. Véase en Soluciones una posible solución.</p>
+</div>
+<div class="pri1" id="division-decimal-sin-empaquetar">
+<h4 class="calibre24">17.11. División decimal sin empaquetar</h4>
+<p class="calibre8">La instrucción AAD (ASCII Adjust AX before Division, ajustar
+ASCII AX antes de la división) se usa para preparar dos
+dígitos BCD sin empaquetar para una división. Los dígitos BCD
+están en los nibbles de bajo orden de AH (orden alto) y de AL
+(orden bajo). Lo que hace la instrucción es multiplicar el
+contenido de AH por 10 y sumarlo a AL, y luego poner AH en 0,
+con lo que AX contendrá el equivalente binario del número de
+dos dígitos original.</p>
+<p class="calibre8">En realidad, esta instrucción, como cualquier otra de las
+que hemos visto para aritmética decimal, puede usarse para el
+fin que uno desee además del que originalmente se le asigna.
+Por ejemplo, la presente instrucción puede usarse para cargar
+AL o AX con el valor binario de un par de dígitos BCD no
+empaquetados, y usar ese valor en una suma, resta, multiplicación o división.</p>
+<p class="calibre8">Ejemplo de uso:</p>
+<pre class="literal-block">
+|           mov   ax, 0605h           ; Decimal 65
+|           aad                       ; Convertir en binario
+|           mov   cl, 3               ; Cargar divisor
+|           div   cl                  ; AL = 21, AH = 2
+</pre>
+</div>
+<div class="pri1" id="ejercicio-no-28">
+<h4 class="calibre24">17.12. Ejercicio nº 28</h4>
+<p class="calibre8">Escribiremos una subrutina para tomar 4 dígitos BCD sin
+empaquetar en los registros DX:AX y convertirlos a binario en
+el registro AX. Véase una posible solución en Soluciones.</p>
+</div>
+</div>
+<div class="pri1" id="entrada-salida-y-otras-instrucciones-relacionadas">
+<h3 class="calibre23">18. Entrada, salida y otras instrucciones relacionadas</h3>
+<p class="calibre8">El procesador 8086 tiene 65.536 ports (puertas) de entrada y
+salida. Como es lógico, sólo unas pocas de ellas tienen
+asignadas funciones en una PC.</p>
+<p class="calibre8">Algunos de los dispositivos que pueden recibir o transmitir datos a través de las puertas son: el timer (reloj de
+interrupciones), el teclado, los discos, las unidades de
+diskette, la pantalla, la impresora, el mouse (ratón). En
+general, el programador de aplicaciones tiene poco contacto
+con la entrada y salida en forma directa, y la maneja a
+través del BIOS o del Sistema Operativo, pero hay casos en
+que debe recurrir a las operaciones nativas de entrada y
+salida.</p>
+<div class="pri1" id="la-instruccion-in">
+<h4 class="calibre24">18.1. La instrucción IN</h4>
+<p class="calibre8">La instrucción IN (meter) toma ya sea un byte o una palabra
+de una puerta y lo ingresa respectivamente al registro AL o
+al AX. La especificación de la puerta puede ser hecha por un
+dato inmediato de 8 bits (un byte) o por medio del valor de
+una palabra cargada en el registro DX. Por lo tanto, tenemos
+cuatro formatos posibles para IN, como en los siguientes
+ejemplos:</p>
+<pre class="literal-block">
+|           in   al, 12h             ; Byte de puerta 12h a AL
+|           in   ax, 23h             ; Palabra de p. 23h a AX
+|           in   al, dx              ; Byte de puerta en DX a AL
+|           in   ax, dx              ; Palabra de p. en DX a AX
+</pre>
+<p class="calibre8">Si se quiere tener acceso a una puerta desde la 0 hasta la
+255 (FF hexadecimal), se podrá usar indistintamente el
+formato con dato inmediato o por medio de DX; pero si se
+desea ingresar datos desde una puerta con dirección desde 256
+hasta 65.535, será necesario usar el formato con el registro
+DX.</p>
+<p class="calibre8">Las direcciones de las puertas y el tipo de datos que
+entregan pueden obtenerse del manual de referencia técnica de
+la PC que, admitamos, es difícil conseguir.</p>
+</div>
+<div class="pri1" id="la-instruccion-out">
+<h4 class="calibre24">18.2. La instrucción OUT</h4>
+<p class="calibre8">La instrucción OUT (sacar) envía a una puerta especificada ya
+sea un byte o una palabra contenidos respectivamente en AL o
+en AX. Como en IN, la especificación de la puerta puede
+hacerse por medio de un dato inmediato de 8 bits o por medio
+del valor cargado en el registro DX. Los cuatro formatos
+posibles de OUT pueden ser ejemplificados así:</p>
+<pre class="literal-block">
+|           out   17h, al            ; Byte de AL a puerta 17h
+|           out   11h, ax            ; Palabra de AX a p. 11h
+|           out   dx, al             ; Byte de AL a puerta en DX
+|           out   dx, ax             ; Palabra de AX a p. en DX
+</pre>
+<p class="calibre8">Nótese que los operandos de OUT van en orden inverso al de
+IN.</p>
+<p class="calibre8">Las direcciones de las puertas y el tipo de datos que
+aceptan pueden obtenerse del manual de referencia técnica de
+la PC.</p>
+<p class="calibre8">Por ejemplo, una forma de activar el altavoz es ejecutar:</p>
+<pre class="literal-block">
+|           in   al, 61h
+|           or   al, 3
+|           out  61h, al
+</pre>
+<p class="calibre8">La información sobre los diversos dispositivos de entrada y
+salida que pueden conectarse a un procesador no es fácil de
+obtener, pues se encuentra desperdigada por diversas
+publicaciones e informes.</p>
+</div>
+<div class="pri1" id="detencion">
+<h4 class="calibre24">18.3. Detención</h4>
+<p class="calibre8">La instrucción HLT (Halt, detenerse) detiene la ejecución y
+deja al procesador en un estado especial de detención. Una
+interrupción que esté habilitada o una operación de reinicialización (reset) hará reanudar la ejecución. Si se reanuda la
+ejecución por medio de una interrupción, el valor de CS e IP
+que va a la pila apuntará a la instrucción siguiente a HLT.</p>
+<p class="calibre8">Esta instrucción tiene poco uso, y menos aun en programas
+de aplicación.</p>
+</div>
+<div class="pri1" id="espera">
+<h4 class="calibre24">18.4. Espera</h4>
+<p class="calibre8">La instrucción WAIT (esperar) suspende la ejecución de instrucciones hasta que el contacto BUSY# esté inactivo. Como
+dicho contacto en una PC es manejado por el procesador auxiliar 8087 y sucedáneos (en caso de que estén presentes), se
+ve que esta instrucción tiene por objeto esperar que el
+procesador auxiliar termine la tarea que le encomendó el
+8086, para tener acceso a los resultados.</p>
+<p class="calibre8">Dado que en este texto no veremos las instrucciones del
+procesador auxiliar, tampoco trataremos la instrucción WAIT
+en más detalle.</p>
+</div>
+<div class="pri1" id="cierre">
+<h4 class="calibre24">18.5. Cierre</h4>
+<p class="calibre8">LOCK (cerrar) no es una instrucción sino un prefijo (como
+REP, REPE, REPNE). El prefijo LOCK se aplica solamente a la
+instrucción que lo sigue, la cual ocasiona que se active una
+señal LOCK#. Esta señal sirve, en un ambiente de multiprocesamiento (dos o más procesadores trabajando concurrentemente
+sobre la misma memoria), para asegurar que el procesador
+tenga acceso exclusivo a la memoria compartida mientras la
+señal esté activa.</p>
+<p class="calibre8">Este prefijo funciona solamente con las instrucciones
+XCHG, ADD, ADC, SUB, SBB, AND, OR, XOR, NOT, NEG, INC y DEC
+cuando las mismas modifican operandos de memoria. Se generará
+un error de operación si se usa el prefijo LOCK con cualquier
+otra instrucción.</p>
+<p class="calibre8">La instrucción XCHG (con acceso a memoria) siempre activa
+la señal LOCK#, independientemente de que se le anteponga el
+prefijo LOCK.</p>
+<p class="calibre8">La razón de que sean esas instrucciones las que usan LOCK
+es que ellas tienen dos veces acceso al mismo operando de
+memoria: primero para leerlo y luego para grabarlo. Por lo
+tanto, podrían obtenerse resultados indebidos si, en el intervalo entre una y otra parte de la operación, otro procesador modificara la ubicación de memoria.</p>
+</div>
+</div>
+<div class="pri1" id="soluciones">
+<h3 class="calibre23">SOLUCIONES</h3>
+<div class="pri1" id="ejercicio-no-18">
+<h4 class="calibre24">Ejercicio nº 18</h4>
+<pre class="literal-block">
+| ; Subrutina de lectura de una cadena de caracteres
+| ; Entradas:   SI contiene el desplazamiento de comienzo
+| ;             del área de almacenaje
+| ;             CX contiene la longitud máxima del área
+| ; La lectura termina por llegarse a la longitud máxima o
+| ;  por recibir un carácter de control de carro
+| Leer     PROC   near
+|           push   si                 ; Salvar registros
+|           push   cx
+|           push   ax
+|           jcxz   Fin
+| Otro:
+|           mov   ah, 1               ; Función de lectura
+|           int   21h                 ; Llamar al DOS
+|           mov   [si], al            ; Tomar carácter
+|           inc   si                  ; Ir al próximo byte
+|           cmp   al, 13              ; Ver si es CR
+|           loopne   Otro             ; Ciclar
+| Fin:
+|           pop   ax                  ; Restaurar registros
+|           pop   cx
+|           pop   si
+|           ret                       ; Retornar
+</pre>
+<p class="calibre8">LOOPNE vuelve a Otro mientras CX sea distinto de 0 y el
+carácter en AL no sea CR.</p>
+</div>
+<div class="pri1" id="id1">
+<h4 class="calibre24">Ejercicio nº 19</h4>
+<pre class="literal-block">
+| ; Copiar una cadena de caracteres terminada por un NULL
+|           .DATA
+| Origen   DB   'Esta es una cadena', 0
+| Destino  DB   100 DUP (?)
+|           .CODE
+|           mov   ax, @data           ; Apuntar a datos
+|           mov   ds, ax              ; Cargar DS
+|           mov   es, ax              ; Cargar ES
+|           cld                       ; Sentido ascendente
+|           mov   si, OFFSET Origen   ; Comienzo de Origen
+|           mov   di, OFFSET Destino  ; Comienzo de Destino
+| Copiar:
+|           lodsb                     ; Cargar byte en AL
+|           stosb                     ; Ponerlo en memoria
+|           and   al, al              ; Ver si se llegó al fin
+|           jnz   Copiar              ; Si no, seguir
+| ................................
+</pre>
+<p class="calibre8">Podemos observar que si en todo el programa se usan valores
+únicos de ES o de DF, conviene cargarlos al comienzo. Esto no
+es así con SI y DI, pues LODS y STOS, respectivamente, los
+modifican, aparte del uso que se les podría dar en otras
+instrucciones.</p>
+<p class="calibre8">Con esta instrucciones no pueden utilizarse las técnicas
+de movimiento descendente ni de incremento hasta 0, pues SI y
+DI no se cargan con desplazamientos relativos al comienzo de
+cada dato sino con desplazamientos relativos al comienzo del
+segmento de datos, de modo que en general no llegarán al
+valor 0.</p>
+</div>
+<div class="pri1" id="id2">
+<h4 class="calibre24">Ejercicio nº 20</h4>
+<p class="calibre8">En el siguiente fragmento de programa procesamos las palabras
+en forma descendente (porque se pidió la última palabra mayor
+que 5000):</p>
+<pre class="literal-block">
+| ; Reemplazar la última palabra &gt; 5000 por 0
+|           .DATA
+| Longitud EQU   100
+| Dato     DW   Longitud DUP (?)
+|           .CODE
+| ................................
+|           mov   ax, SEG Dato       ; Cargar ES
+|           mov   es, ax
+|           mov   di, OFFSET Dato + Longitud - 2 ; Fin de Dato
+|           mov   ax, 5000           ; Cargar comparando
+|           mov   cx, Longitud       ; Inicializar cuenta
+|           std                      ; Sentido descendente
+| Otro:
+|           scasw                    ; Buscar
+|           jg    Esta               ; Si se halló
+|           loop  Otro               ; Ciclar
+| Noesta:                           ; No se encontró
+| ................................
+| Esta:         ; Se encontró
+|      mov   WORD PTR 2 [di], 0   ; Reemplazarla
+| ................................
+</pre>
+<p class="calibre8">El ajuste es de 2 unidades porque se procesan palabras, y es
+positivo porque el proceso fue en sentido descendente.</p>
+</div>
+<div class="pri1" id="id3">
+<h4 class="calibre24">Ejercicio nº 21</h4>
+<pre class="literal-block">
+| ; Reemplazar la primera palabra distinta de 0 por 0
+|
+|           .DATA
+| Longitud EQU   100
+| Dato     DW   Longitud DUP (?)
+|           .CODE
+| ................................
+|           mov   ax, SEG Dato        ; Cargar ES
+|           mov   es, ax
+|           mov   di, OFFSET Dato     ; Comienzo de Dato
+|           mov   cx, Longitud        ; Inicializar cuenta
+|           cld                       ; Sentido ascendente
+|           mov   ax, 0               ; Cargar comparando
+|           rep   scasw               ; Buscar
+|           jne   Esta
+| Noesta:
+| ................................
+| Esta:
+|           mov   WORD PTR -2 [di], 0 ; Reemplazar
+| ................................
+</pre>
+</div>
+<div class="pri1" id="id4">
+<h4 class="calibre24">Ejercicio nº 22</h4>
+<pre class="literal-block">
+| ; Hallar el mayor valor de un vector de bytes sin signo
+|           .DATA
+| Longitud EQU  80
+| Cadena   DB   Longitud DUP (?)
+| Result   DB   ?
+|           .CODE
+| ................................
+|           mov   ax, SEG Cadena     ; Cargar ES
+|           mov   es, ax
+|           cld                      ; Sentido ascendente
+|           mov   di, OFFSET Cadena  ; Comienzo de Cadena
+|           mov   cx, Longitud       ; Inicializar cuenta
+|           mov   al, 0              ; Mínimo valor sin signo
+|           jcxz  Fin                ; Si fuera Longitud = 0
+| Repetir:
+|           repe  scasb              ; Buscar
+|           jae   Saltear            ; Si no es menor
+|           mov   al, -1 [di]        ; Reemplazar si AL es menor
+| Saltear:
+|           jcxz  Fin                ; Ver si se agotó la cuenta
+|           jmp   Repetir
+| Fin:
+|      mov   Result, al               ; Guardar resultado
+| ................................
+</pre>
+<p class="calibre8">El valor inicial que se da a AL es el menor posible de un
+byte sin signo, para que vaya siendo reemplazado por valores
+mayores encontrados. Si se buscara el byte mayor con signo,
+habría que dar a AL el menor valor posible con signo, que es
+80h o sea -128. Si se buscara el byte menor sin signo, se
+daría a AL el mayor valor posible sin signo, que es ffh o sea
+255. Y si se buscara el byte menor con signo, habría que dar
+a AL el mayor valor posible con signo, que es 7fh o sea 127.
+En este caso no podría suceder (porque hemos puesto en CX el
+valor de una constante que conocemos), pero si la longitud de
+la cadena pudiera ser 0, sería necesario probarla como lo
+hacemos con la primera instrucción jcxz y saltear el proceso.
+En el caso de longitud nula, definimos que el resultado es el
+mínimo valor posible, o sea 0.</p>
+</div>
+<div class="pri1" id="id5">
+<h4 class="calibre24">Ejercicio nº 23</h4>
+<pre class="literal-block">
+| ; Programa de llamada
+|           .MODEL   small
+|           .STACK   100h
+|           .DATA
+| Palabra  DW   ?
+| Cadena   DB   5 DUP (?)
+|          .CODE
+| Prueba   PROC  near
+|           mov   ax, @data           ; Cargar DS
+|           mov   ds, ax
+|           mov   ax, Palabra         ; Cargar parámetros
+|           mov   di, OFFSET Cadena
+|           call   Paldec             ; Llamar a la subrutina
+| Prueba   ENDP
+| ; Traducir una palabra sin signo a decimal
+| Paldec   PROC   near
+|           push   ax                 ; Salvar registros
+|           push   bx
+|           push   cx
+|           push   dx
+|           mov    cx, 10             ; Cargar divisor
+|           mov    bx, 4              ; Desplazamiento de fin
+| Otro:
+|           xor   dx, dx              ; Borrar DX a 0
+|           div   cx                  ; Resto en DX
+|           add   dl, '0'             ; Ajustar código a carácter
+|           mov   [di] [bx], dl       ; Guardar carácter 0 a 9
+|           dec   bx                  ; Ir a posición anterior
+|           jns   Otro                ; Si &gt;= 0
+|           pop   dx                  ; Restaurar registros
+|           pop   cx
+|           pop   bx
+|           pop   ax
+|           ret                       ; Retornar
+| Paldec   ENDP
+|           END   Prueba
+</pre>
+<p class="calibre8">La instrucción jns Otro es válida porque el valor inicial de
+BX no es tan grande como para que su bit de alto orden sea 1,
+tornándolo negativo. Si esto pudiera ocurrir, habría que
+efectuar los cambios que se muestran a continuación:</p>
+<pre class="literal-block">
+|           mov   bx, 5               ; Desplazamiento de fin
+| Otro:
+|           xor   dx, dx              ; Borrar DX a 0
+|           div   cx                  ; Resto en DX
+|           add   dl, '0'             ; Ajustar código a carácter
+|           mov   -1 [di] [bx], dl    ; Guardar carácter 0 a 9
+|           dec   bx                  ; Ir a posición anterior
+|           jnz   Otro                ; Si distinto de 0
+</pre>
+</div>
+<div class="pri1" id="id6">
+<h4 class="calibre24">Ejercicio nº 24</h4>
+<pre class="literal-block">
+| ; Subrutina para sumar dos operandos, cada uno con 2 dígitos
+| ;  BCD no empaquetados
+| ; Entradas     AX: Primer operando
+| ;              BX: Segundo operando
+| ; Resultado:   AX
+| ; Error:       Si el resultado debiera superar 99, CF = 1
+| Sumdec2  PROC  near
+|           push  dx                  ; Salvar registro usado
+|           mov   dl, ah              ; Guardar byte alto
+|           add   al, bl              ; Dígitos de orden bajo
+|           aaa                       ; Ajustar a decimal
+|           xchg   dl, al             ; Recuperar y salvar
+|           adc   al, bh              ; Dígitos de orden alto
+|           aaa                       ; Ajustar a decimal
+| ; Si hay exceso, AAA deja CF = 1
+|           mov   ah, al              ; Ordenar los dígitos
+|           mov   al, dl
+|           pop   dx                  ; Restaurar registro
+|           ret                       ; Retornar
+| Sumdec2   ENDP
+</pre>
+<hr class="docutils"/>
+<p class="calibre8">En la próxima entrega de este manual:</p>
+<p class="pcalibre pri">Sección 19: DISTANCIAS EN MEMORIA</p>
+<p class="calibre8">Sección 20: DIRECTIVAS DE SEGMENTO</p>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="fdbe96a7-72bb-47fb-b59e-cd9cc0150cbb" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.35.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 136</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ucbdd5efe-a3b9-48d3-83a7-f7bd1a364b6d" playOrder="1">
+      <navLabel>
+        <text>Editorial: Un mundo diferente</text>
+      </navLabel>
+      <content src="c-136Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u766a968a-5fa7-4faa-bc57-8eaca908606a" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxonitas</text>
+      </navLabel>
+      <content src="c-136Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u17fd7804-f64d-489c-8431-1c778f955c04" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Hielo</text>
+      </navLabel>
+      <content src="c-136Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u653378e5-2f69-4ea3-9ae0-bec8f232eaf0" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Fabricando la leyenda de Alonso de Moncada</text>
+      </navLabel>
+      <content src="c-136Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u76a0ff3b-71bb-4417-928b-ec7f72a04ee3" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Viaje de vuelta</text>
+      </navLabel>
+      <content src="c-136Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u961531ff-c298-4272-992d-035ed3bd77eb" playOrder="6">
+      <navLabel>
+        <text>Ensayo: Doblemente lunáticos</text>
+      </navLabel>
+      <content src="c-136Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uf2ff9171-372d-42ca-a4ad-db60a4ddf319" playOrder="7">
+      <navLabel>
+        <text>Divulgación: Fotografiando el Génesis</text>
+      </navLabel>
+      <content src="c-136Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u8607c42e-7d56-42f9-99c8-9f1d1a0fdad5" playOrder="8">
+      <navLabel>
+        <text>Sección: Anacrónicas</text>
+      </navLabel>
+      <content src="c-136Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u01ccdc7a-7add-4f3b-8c0e-04db831fc25c" playOrder="9">
+      <navLabel>
+        <text>Anacrónicas: Destino: Venus</text>
+      </navLabel>
+      <content src="c-136Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u2b8e6495-3c5d-467a-8184-fc86f3d03658" playOrder="10">
+      <navLabel>
+        <text>Anacrónicas: En busca del Otis Perdido</text>
+      </navLabel>
+      <content src="c-136Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u6a4974db-dd2e-42a1-8727-60d58d367e6d" playOrder="11">
+      <navLabel>
+        <text>Anacrónicas: El Gaucho de los Anillos (17)</text>
+      </navLabel>
+      <content src="c-136Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u00875ef6-e443-4def-a520-80040c9d932a" playOrder="12">
+      <navLabel>
+        <text>Uficción: La ética de la traición</text>
+      </navLabel>
+      <content src="c-136Pag12.htm"/>
+    </navPoint>
+    <navPoint id="ub20175ce-b5f3-4f3e-ac50-393be1b8e15d" playOrder="13">
+      <navLabel>
+        <text>Portfolio: Galería de arte</text>
+      </navLabel>
+      <content src="c-136Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u1c525c15-52a8-4bff-ab0d-17e5a75b56be" playOrder="14">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

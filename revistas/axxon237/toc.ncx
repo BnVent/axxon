@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="e869e9ef-2746-46ed-8665-0e021b400c5b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.12)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 237</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="cb9e1e6c-080b-47a9-aa12-2a1ed95217cc" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial: Hasta donde la lleves</text>
+      </navLabel>
+      <content src="c-237Pag01.htm"/>
+    </navPoint>
+    <navPoint id="fb8d99d4-4674-4f62-926c-d282b7ec7559" playOrder="2">
+      <navLabel>
+        <text>Entrevista: Entrevista a Antonio Mora Vélez</text>
+      </navLabel>
+      <content src="c-237Pag02.htm"/>
+    </navPoint>
+    <navPoint id="d2cb077b-52e4-40cc-a57e-7677c5d26dc4" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Espíritus y marionetas</text>
+      </navLabel>
+      <content src="c-237Pag03.htm"/>
+    </navPoint>
+    <navPoint id="1b84df85-6cca-428f-8545-58cd9d660be5" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Despojos</text>
+      </navLabel>
+      <content src="c-237Pag04.htm"/>
+    </navPoint>
+    <navPoint id="d7de6d93-76ec-4ccb-b5e0-7288b57ff52a" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Un Armani</text>
+      </navLabel>
+      <content src="c-237Pag05.htm"/>
+    </navPoint>
+    <navPoint id="24112015-1c22-4923-ba5e-cdd3e42e7e66" playOrder="6">
+      <navLabel>
+        <text>Ficciones: El fumigador</text>
+      </navLabel>
+      <content src="c-237Pag06.htm"/>
+    </navPoint>
+    <navPoint id="2bcf3dbc-75f1-424a-9e6a-2b0094549dc6" playOrder="7">
+      <navLabel>
+        <text>Artículo: Los misterios de Hyperion: Un breve viaje a las Tumbas del Tiempo</text>
+      </navLabel>
+      <content src="c-237Pag07.htm"/>
+    </navPoint>
+    <navPoint id="079482ea-1a89-446d-ab33-6e7c402fcb73" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Ralph</text>
+      </navLabel>
+      <content src="c-237Pag08.htm"/>
+    </navPoint>
+    <navPoint id="a029ee53-a6b6-4015-82ac-fdd3ee0b5b2e" playOrder="9">
+      <navLabel>
+        <text>Ficciones: La máquina del tiempo</text>
+      </navLabel>
+      <content src="c-237Pag09.htm"/>
+    </navPoint>
+    <navPoint id="f1d08059-2d6d-4e2b-81db-75f2f1a80b0f" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Alquimia</text>
+      </navLabel>
+      <content src="c-237Pag10.htm"/>
+    </navPoint>
+    <navPoint id="d9afde18-abc5-4b41-b951-d16295581eb1" playOrder="11">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="2c05f0b2-97b1-49ce-8ae7-c84f1ede1fd9" playOrder="11">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/237/entrevista2ilus1.htm"/>
+    </navPoint>
+    <navPoint id="46ead729-75d6-42cc-808b-9be76f9b8691" playOrder="12">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/237/entrevista2ilus2.htm"/>
+    </navPoint>
+    <navPoint id="e5f0c4fa-ce11-4f65-a028-33c4a2a5ca65" playOrder="13">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/237/entrevista2ilus3.htm"/>
+    </navPoint>
+    <navPoint id="9e718769-d80e-4233-baee-172229c3aee9" playOrder="14">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/237/entrevista2ilus4.htm"/>
+    </navPoint>
+    <navPoint id="c8671d0f-0484-458f-a4e5-958578ed3b10" playOrder="15">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/237/cuento3ilus1.htm"/>
+    </navPoint>
+    <navPoint id="a703c149-b020-41ab-8860-1e37b78c1548" playOrder="16">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/237/cuento3ilus2.htm"/>
+    </navPoint>
+    <navPoint id="c21c7318-cc43-4ae9-a63b-f18f4b033544" playOrder="17">
+      <navLabel>
+        <text>TEMPUS FUGIT</text>
+      </navLabel>
+      <content src="/rev/2010/12/tempus-fugit-carlos-perez-jara/"/>
+    </navPoint>
+    <navPoint id="fd9ce028-ca97-4792-9c4e-796e6d4fb445" playOrder="18">
+      <navLabel>
+        <text>LEGADO</text>
+      </navLabel>
+      <content src="/rev/2011/07/legado-carlos-perez-jara/"/>
+    </navPoint>
+    <navPoint id="2549bb34-b023-4781-b4ea-247e6bb5cfed" playOrder="19">
+      <navLabel>
+        <text>AL OTRO LADO DE LA LLANURA</text>
+      </navLabel>
+      <content src="/rev/2011/10/al-otro-lado-de-la-llanura-carlos-perez-jara/"/>
+    </navPoint>
+    <navPoint id="69edf467-3d0a-411d-9381-845a76054b3e" playOrder="20">
+      <navLabel>
+        <text>LA DECIMOTERCERA CLÁUSULA</text>
+      </navLabel>
+      <content src="/rev/2012/01/la-decimotercera-clausula-carlos-perez-jara/"/>
+    </navPoint>
+    <navPoint id="44f55227-90dd-4961-ad2e-f372f8675678" playOrder="21">
+      <navLabel>
+        <text>HIJA DE HELISURPA</text>
+      </navLabel>
+      <content src="/rev/2012/04/hija-de-helisurpa-carlos-perez-jara/"/>
+    </navPoint>
+    <navPoint id="466cc7d3-beb1-4012-baaa-57ed25ffc7b7" playOrder="22">
+      <navLabel>
+        <text>PURGATORIO</text>
+      </navLabel>
+      <content src="/rev/2012/08/purgatorio-carlos-perez-jara/"/>
+    </navPoint>
+    <navPoint id="13858829-353f-49be-9115-9bc269cc8e48" playOrder="23">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/237/cuento4ilus1.htm"/>
+    </navPoint>
+    <navPoint id="b4a080d7-62f2-4980-a8a0-342627e0d3c3" playOrder="24">
+      <navLabel>
+        <text>EL HOMBRE EQUIVOCADO</text>
+      </navLabel>
+      <content src="/rev/2012/04/el-hombre-equivocado-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="2f576cde-e7e8-4ac3-b74b-4e8671402537" playOrder="25">
+      <navLabel>
+        <text>EL OTRO MESÍAS</text>
+      </navLabel>
+      <content src="/rev/2012/06/el-otro-mesias-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="b1bd0058-6494-4860-a670-a520ae305c4d" playOrder="26">
+      <navLabel>
+        <text>NOCHES DE BANTIAN</text>
+      </navLabel>
+      <content src="/rev/2012/09/noches-de-bantian-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="da045214-74e7-4658-8a61-d55b4e862cc3" playOrder="27">
+      <navLabel>
+        <text>LA NOCHE DE TEMPOAL</text>
+      </navLabel>
+      <content src="/rev/2012/10/la-noche-de-tempoal-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="ffcfd033-0b7e-4d9a-bb1d-45f41ba43114" playOrder="28">
+      <navLabel>
+        <text>AHÍ FUERA</text>
+      </navLabel>
+      <content src="/rev/2012/11/ahi-fuera-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="f481d72c-11a4-47a1-a2eb-911df4a29cf1" playOrder="29">
+      <navLabel>
+        <text>LA BÚSQUEDA DE AUSENCIA</text>
+      </navLabel>
+      <content src="/rev/2012/11/la-busqueda-de-ausencia-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="457664b6-e46b-4ad7-945e-53540104f4d2" playOrder="30">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/237/cuento5ilus1.htm"/>
+    </navPoint>
+    <navPoint id="d3505e2d-6025-45ca-83fe-bb0606397d0c" playOrder="31">
+      <navLabel>
+        <text>UNA BATALLA PERSONAL</text>
+      </navLabel>
+      <content src="/rev/2012/02/una-batalla-personal-marilau-sanchez/"/>
+    </navPoint>
+    <navPoint id="47e96f28-5c93-4d6d-9eb3-8b433e9bd1be" playOrder="32">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/237/cuento6ilus1.htm"/>
+    </navPoint>
+    <navPoint id="7f90a6e5-560c-4ff5-b990-84bd6517db8b" playOrder="33">
+      <navLabel>
+        <text>su blog literario</text>
+      </navLabel>
+      <content src="www.adrianlorea.blogspot.com"/>
+    </navPoint>
+    <navPoint id="d7c36c42-1eb2-4b1b-bad5-079cd11c540c" playOrder="34">
+      <navLabel>
+        <text>DÍA DE PRIMAVERA</text>
+      </navLabel>
+      <content src="/rev/2011/04/ficcion-breve-sesenta-y-uno-varios-autores/#6"/>
+    </navPoint>
+    <navPoint id="1dc84cb2-5091-4166-b757-710ee84137a9" playOrder="35">
+      <navLabel>
+        <text>UN NOMBRE APROPIADO</text>
+      </navLabel>
+      <content src="/rev/2011/05/ficcion-breve-sesenta-y-dos-varios-autores/#7"/>
+    </navPoint>
+    <navPoint id="81e186de-e76f-4c6a-9557-ce9099476f92" playOrder="36">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/237/ensayo7ilus1.htm"/>
+    </navPoint>
+    <navPoint id="e662c169-3cf6-4e16-901b-b0ccd0699397" playOrder="37">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/237/ensayo7ilus2.htm"/>
+    </navPoint>
+    <navPoint id="7497060b-f446-4fde-a86c-f6fd85bd5b7c" playOrder="38">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/237/ensayo7ilus4.htm"/>
+    </navPoint>
+    <navPoint id="f4467582-eb9f-4054-9f2b-f0722f0334d4" playOrder="39">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/237/ensayo7ilus5.htm"/>
+    </navPoint>
+    <navPoint id="e9c4eae3-85ad-491b-a013-aa9d9039b55a" playOrder="40">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/237/ensayo7ilus3.htm"/>
+    </navPoint>
+    <navPoint id="bfb802dd-5d4b-4f13-b376-2378140a0957" playOrder="41">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/237/ensayo7ilus6.htm"/>
+    </navPoint>
+    <navPoint id="2d64a010-1e74-4a3f-b6ae-a4ae99cb7b80" playOrder="42">
+      <navLabel>
+        <text>ESCAQUES 3D</text>
+      </navLabel>
+      <content src="/rev/161/c-161cuento11.htm"/>
+    </navPoint>
+    <navPoint id="6a238232-fc97-4b31-bd2d-9eb5e94142cf" playOrder="43">
+      <navLabel>
+        <text>SIMBIÓTICA</text>
+      </navLabel>
+      <content src="/rev/163/c-163cuento16.htm"/>
+    </navPoint>
+    <navPoint id="ab79b060-b2a4-4874-9995-b7a320ecc121" playOrder="44">
+      <navLabel>
+        <text>SOUVENIR</text>
+      </navLabel>
+      <content src="/rev/167/c-167cuento5.htm"/>
+    </navPoint>
+    <navPoint id="b8e3c975-8a52-4257-a28d-feec3c038d0e" playOrder="45">
+      <navLabel>
+        <text>EL HOMBRE INFALIBLE</text>
+      </navLabel>
+      <content src="/rev/174/c-174cuento1.htm"/>
+    </navPoint>
+    <navPoint id="81168ab8-0370-4337-8517-4cb94be423db" playOrder="46">
+      <navLabel>
+        <text>CÁNTICOS PARA LA TIERNA INFANCIA</text>
+      </navLabel>
+      <content src="/rev/184/c-184cuento9.htm"/>
+    </navPoint>
+    <navPoint id="98cdf533-f4c0-46bb-b188-c55fd547e6b0" playOrder="47">
+      <navLabel>
+        <text>AUTOCLONACIÓN REVERSA</text>
+      </navLabel>
+      <content src="/rev/191/c-191cuento4.htm"/>
+    </navPoint>
+    <navPoint id="58879cbf-6ceb-413b-b9d6-18b3998a8248" playOrder="48">
+      <navLabel>
+        <text>EL GUALICHO</text>
+      </navLabel>
+      <content src="/rev/"/>
+    </navPoint>
+    <navPoint id="5bd506fb-dea5-404a-9ea6-65aa88c6e60e" playOrder="49">
+      <navLabel>
+        <text>EL PSICOPOMPO</text>
+      </navLabel>
+      <content src="/rev/2011/06/el-psicopompo-guillermo-vidal/"/>
+    </navPoint>
+  </navMap>
+</ncx>

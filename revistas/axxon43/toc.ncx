@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="9bfa406a-cf7e-4c98-934e-0da5458262a0" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.66)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 43</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="97af741f-30e7-4005-a69f-d5ebdbfe1aaf" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 43</text>
+      </navLabel>
+      <content src="c-43Pag01.htm"/>
+    </navPoint>
+    <navPoint id="f1fa315f-57b7-452b-950f-0bdddb729448" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Mendigos en España (Premios Hugo y Nebula 1992)</text>
+      </navLabel>
+      <content src="c-43Pag02.htm"/>
+    </navPoint>
+    <navPoint id="e2979a1f-5675-4ae8-b5e4-66f28d407ade" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Desde las cenizas (Mención Premio Más Allá 1992)</text>
+      </navLabel>
+      <content src="c-43Pag03.htm"/>
+    </navPoint>
+    <navPoint id="adbd7797-6571-450c-9e36-053eff9e657d" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Ese algo poderoso y oscuro (Mención Premio Más Allá 1992)</text>
+      </navLabel>
+      <content src="c-43Pag04.htm"/>
+    </navPoint>
+    <navPoint id="f4ae5827-5b40-4f47-9832-f5bf66412846" playOrder="5">
+      <navLabel>
+        <text>Ensayo: Las muchas caras del Caballero Oscuro</text>
+      </navLabel>
+      <content src="c-43Pag05.htm"/>
+    </navPoint>
+    <navPoint id="e46c5a79-74c2-48d9-ba45-43bf655061bb" playOrder="6">
+      <navLabel>
+        <text>Correo: Correo 43</text>
+      </navLabel>
+      <content src="c-43Pag06.htm"/>
+    </navPoint>
+    <navPoint id="e12191e8-771a-4b34-a89d-ff3af41aa7ae" playOrder="7">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad</text>
+      </navLabel>
+      <content src="c-43Pag07.htm"/>
+    </navPoint>
+    <navPoint id="9963fdfc-847e-4307-a9d4-1823e813b9c7" playOrder="8">
+      <navLabel>
+        <text>Anticipo: Anticipo</text>
+      </navLabel>
+      <content src="c-43Pag08.htm"/>
+    </navPoint>
+    <navPoint id="e0c86943-22ef-4095-832d-9b8f42f1a568" playOrder="9">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-43Pag09.htm"/>
+    </navPoint>
+    <navPoint id="0c48a720-3766-41a7-a9f3-58da5a35aedf" playOrder="10">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

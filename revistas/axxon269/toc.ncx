@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="b07d2451-f3d5-4058-8166-b9c0470404c8" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.50.1)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 269</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u3YNMhMXKIyVYWRQGpURJZ4" playOrder="1">
+      <navLabel>
+        <text>Editorial: Realidades, ¿alternativas?</text>
+      </navLabel>
+      <content src="c-269Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uAxgFkzxW7bqfZfLQDpcMq7" playOrder="2">
+      <navLabel>
+        <text>Ficciones: La muñeca esqueleto</text>
+      </navLabel>
+      <content src="c-269Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ujHtViTtfmHoVkRe5qPxecG" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Línea de sangre</text>
+      </navLabel>
+      <content src="c-269Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uiUP6nC7vv9VpBq9HOtxpc8" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Desde el refugio</text>
+      </navLabel>
+      <content src="c-269Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u8iw69mKl49uS2cCXK8WACD" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Sombras del futuro</text>
+      </navLabel>
+      <content src="c-269Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uuQA8JHqTiCDOtAkehabxv8" playOrder="6">
+      <navLabel>
+        <text>Ficciones: El robot político</text>
+      </navLabel>
+      <content src="c-269Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u5s5PY3QltUtEx9I7l5GAS8" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Sobre el arte de la reanimación</text>
+      </navLabel>
+      <content src="c-269Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uLWNeWcIasy7DnibEol9zXF" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Evaristo Anselmo</text>
+      </navLabel>
+      <content src="c-269Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uW9DGgfINuYUoldAQRF8uJF" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Diario de los confines</text>
+      </navLabel>
+      <content src="c-269Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uT7cx4uuGNG68OqkKc2PAN4" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Mentes metálicas</text>
+      </navLabel>
+      <content src="c-269Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uglZF3RyFnr36kzywnIE9mA" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Los gatos de la vieja de la vuelta de la esquina</text>
+      </navLabel>
+      <content src="c-269Pag11.htm"/>
+    </navPoint>
+    <navPoint id="uOBWMRvJGxSbojShvMi4LeG" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Los tipitos</text>
+      </navLabel>
+      <content src="c-269Pag12.htm"/>
+    </navPoint>
+    <navPoint id="uiUOiCFfeRlvvTZsnZXvj27" playOrder="13">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-269Pag13.htm"/>
+    </navPoint>
+    <navPoint id="uUihSAdzq4ignReFnJzOZUC" playOrder="14">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

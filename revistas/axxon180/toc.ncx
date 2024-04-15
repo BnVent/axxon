@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="caf3d545-fbe2-46da-9ae3-0fbb9cc5c6b6" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 180</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u1c35ea1c-6c29-4faf-8802-bf05862e8fa8" playOrder="1">
+      <navLabel>
+        <text>Editorial: “Cada salida es una entrada a otro lugar”</text>
+      </navLabel>
+      <content src="c-180Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ud259ccbe-001c-4d4d-b925-837253de0169" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-180Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ua24877f6-035f-4051-8de5-8cd308a82472" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Cuenta Regresiva (II)</text>
+      </navLabel>
+      <content src="c-180Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ucadf46ea-6861-44ea-973d-b0219ff11abb" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Diccionario Aakwail-Terrano</text>
+      </navLabel>
+      <content src="c-180Pag04.htm"/>
+    </navPoint>
+    <navPoint id="udafce8f7-750a-4223-9784-8462e49cb6dc" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El Efecto Tortuga</text>
+      </navLabel>
+      <content src="c-180Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u8519a8d3-92fa-4c23-aecc-a9dd41ccf605" playOrder="6">
+      <navLabel>
+        <text>Divulgación: Dimensión desconocida</text>
+      </navLabel>
+      <content src="c-180Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ubd552e4b-759e-4694-9a25-818f8b4d081a" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Borgeano</text>
+      </navLabel>
+      <content src="c-180Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u25fbcd69-5027-4786-9572-50e54918956f" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Éxtasis</text>
+      </navLabel>
+      <content src="c-180Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u60e70951-5477-4eef-9a68-1b973e44c15a" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (37)</text>
+      </navLabel>
+      <content src="c-180Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u4382b896-4ff6-4f4d-89c4-59693273f17b" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Bumper Sticker y la pirata</text>
+      </navLabel>
+      <content src="c-180Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u28c55ca3-d5eb-4dee-a8ea-5027a717a7c0" playOrder="11">
+      <navLabel>
+        <text>Ficciones: La pequeña diosa</text>
+      </navLabel>
+      <content src="c-180Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u55f6be04-6308-4267-a097-75b995c86f7e" playOrder="12">
+      <navLabel>
+        <text>Ficciones: De otros mundos</text>
+      </navLabel>
+      <content src="c-180Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u4b1b720c-c1a6-4a0d-bda0-404d88af86a0" playOrder="13">
+      <navLabel>
+        <text>Informe: Una voz lúcida en la literatura fantástica hispanoamericana</text>
+      </navLabel>
+      <content src="c-180Pag13.htm"/>
+    </navPoint>
+    <navPoint id="uaef6ec6d-464c-4a42-b904-6145cc434e89" playOrder="14">
+      <navLabel>
+        <text>Informe: Bienvenidos a Vendavalia</text>
+      </navLabel>
+      <content src="c-180Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u85d218d8-e9eb-4003-9176-95647b8d795a" playOrder="15">
+      <navLabel>
+        <text>Axxóncine: La brújula dorada</text>
+      </navLabel>
+      <content src="c-180Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u45ac1dd3-126f-42ed-b660-57be47856066" playOrder="16">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-180Pag16.htm"/>
+    </navPoint>
+    <navPoint id="uc660fd5f-8664-41b7-b20d-96b22f170cd1" playOrder="17">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,443 @@
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <title>Axxón 12 - JUEGOS: - Orquídeas imaginarias vs. hongos simulados</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link href="stylesheet.css" rel="stylesheet" type="text/css"/>
+<link href="page_styles.css" rel="stylesheet" type="text/css"/>
+</head>
+  <body class="calibre">
+
+<div id="main" class="calibre1">
+<h1 class="calibre14">Orquídeas imaginarias vs. hongos simulados</h1>
+<p class="calibre5"><b class="calibre4">Eduardo Abel Giménez</b></p><p class="calibre5"></p>
+<div class="calibre1">
+<blockquote class="calibre15">
+Orquídeas de fantasía y hongos imaginarios luchaban por el territorio. El
+observador humano había montado la experiencia como un juego, pero los
+participantes apostaban allí su supervivencia. Y mientras tanto,
+inesperadamente, confirmaban importantes ideas de la etología, la ciencia del
+comportamiento animal.</blockquote>
+<p class="pcalibre1 pri1">La historia empezó con un encuentro feliz en un ambiente propicio. Quienes se
+encontraron fueron la sección “Juegos de ordenador”, de A. W. Dewdney,
+correspondiente a Investigación y Ciencia Nro. 101 (febrero de 1985), y el libro
+“El gen egoísta”, de Richard Dawkins. El ambiente propicio, mi pasión simultánea
+y poligámica por los temas de ambos textos.</p>
+<p class="calibre5">En su artículo “Tiburones y peces libran una guerra ecológica en el planeta de
+Acua-Tor”, Dewdney describía la simulación por ordenador de un mar habitado por
+dos hipotéticas especies animales. A partir de una distribución inicial
+aleatoria y según ciertas reglas, “los tiburones de Acua-Tor se nutren de los
+peces, que depredan, y de los que parece haber siempre abundante provisión”. La
+intención, claro está, era recreativa. Nadie pretendía que esos peces y esos
+tiburones actuaran como los reales, ni que su observación produjera algún
+principio importante para la Biología.</p>
+<p class="calibre5">Por el contrario, Dawkins construía su libro con ideas sobre la evolución de la
+vida aplicables al mundo real, y se valía de modelos sencillos (con más de un
+elemento común con los de Dewdney) para demostrarlas. Sin embargo, la tesis
+central de Dawkins, “somos máquinas de supervivencia, vehículos autómatas
+programados a ciegas con el fin de preservar las egoístas moléculas conocidas
+con el nombre de genes”), con lo provocativa y convincente que resulta, no fue
+lo que desencadenó los hechos.</p>
+<p class="calibre5">Estos fueron irreprimibles a partir de la descripción, en la obra de Dawkins, de
+un concepto que manejan quienes estudian el comportamiento de los animales: el
+de “estrategia evolutivamente estable”.</p>
+<p class="calibre5">Decía Dawkins: “Una estrategia evolutivamente estable o EEE es definida como una
+estrategia que, si la mayoría de la población la adopta, no puede ser mejorada
+por una estrategia alternativa. (…) Otra manera de expresarlo sería decir que
+la mejor estrategia a seguir por un individuo depende de lo que la mayoría de la
+población esté haciendo. (…) Una vez que se logra una EEE, ésta permanecerá;
+la selección penalizará cualquier desviación respecto de ella”. El concepto,
+propuesto originalmente por Maynard Smith, es difícil de asimilar en un primer
+momento; luego profundizaremos en él lo necesario para comprender su importancia
+decisiva en el comportamiento animal.</p>
+<p class="calibre5">De inmediato se me ocurrió la posibilidad de combinar ambos elementos. En otras
+palabras, de encontrar estrategias evolutivamente estables en los peces y
+tiburones de Dewdney. Si el intento fracasó no fue por culpa de los tiburones,
+sino de la escasa capacidad de mi ordenador, que no alcanzaba para las
+complicaciones del programa requerido. Pero no me rendí; al contrario, me
+dediqué a simplificar las ideas de Dewdney para que “entraran” en mi máquina, y
+así surgieron las “orquídeas” y los “hongos”. Como veremos, mayor simplicidad no
+significó menor interés.</p>
+<div class="pri2" id="orquideas-vs-hongos">
+<h2 class="indiceautor">Orquídeas vs. Hongos</h2>
+<div class="align-right2">
+<img alt="" src="ens01-1.png" class="calibre13"/>
+<p class="caption1"><strong class="calibre4">Figura 1</strong></p>
+</div>
+<p class="pcalibre1 pri1">La fig. 1 muestra una situación típica en el bosque de orquídeas y hongos de mi
+ordenador. El “bosque” es un cuadriculado de 12 X 12, con un total de 144
+casillas. Las orquídeas están representadas por pacíficos ceros, y los hongos
+por agresivos asteriscos. Cada individuo, de cualquiera de las dos especies,
+ocupa una casilla; no pueden reunirse dos o más individuos en una misma casilla.
+Como se ve hay más orquídeas que hongos, pero eso no es algo que yo me haya
+propuesto; es lo que las orquídeas y los hongos tienden a hacer cuando se los
+deja solos.</p>
+<p class="calibre5">Para simular la vida de estas extrañas especies, hacemos que el tiempo
+transcurra a saltos (que a propuesta de Dewdney podemos llamar “cronones”).
+Durante cada cronón inspeccionamos el contenido de todas las casillas,
+determinando dónde hay orquídeas y hongos. Cada orquídea y cada hongo lanzan una
+semilla a una casilla vecina en horizontal o vertical (no en diagonal), elegida
+al azar. (Que los hongos reales no se reproduzcan por semillas sino por esporas
+no debe interesarnos aquí.) Lo que ocurra con la semilla y con el individuo que
+la produjo depende de la especie a que ambos pertenezcan, y también del
+contenido de la casilla vecina elegida:</p>
+<ul class="calibre2">
+<li class="calibre3">Si la semilla es de orquídea y la casilla vecina está vacía, en esa casilla
+aparece una nueva orquídea. Si la casilla vecina está ocupada, la semilla se
+pierde y todo queda igual que antes.</li>
+<li class="calibre3">Si la semilla es un hongo y en la casilla vecina hay una orquídea, la semilla
+parasita a la orquídea, y de inmediato aparece allí un nuevo hongo; de la
+orquídea no quedan rastros. Si la casilla vecina está vacía u ocupada por un
+hongo, la semilla se pierde; además, y esto es importante, también muere el
+hongo que produjo la semilla, quedando en su lugar una casilla vacía.</li>
+</ul>
+<p class="calibre5">En otras palabras, las orquídeas se reproducen ocupando con su descendencia
+casillas vecinas vacías. En cambio, los hongos se reproducen ocupando casillas
+vecinas pobladas por orquídeas. Mientras que las orquídeas no les sucede nada si
+no consiguen reproducirse, los hongos mueren si sus semillas no caen en casillas
+habitadas por orquídeas.</p>
+<p class="calibre5">El contenido de una casilla no se puede modificar dos veces durante un mismo
+cronón. Cuando dicho contenido se modifica una vez, la casilla en cuestión queda
+“congelada” hasta el cronón siguiente (es decir, hasta la siguiente ronda de
+inspecciones); si una semilla de cualquier especie vuelve a caer allí, la
+semilla se pierde, sin otras consecuencias para la orquídea o el hongo que la
+haya producido. De esta manera aseguramos que la “velocidad de cambio” sea la
+misma en todo el bosque.</p>
+<p class="calibre5">El cuadriculado que hace las veces de bosque se supone curvado de tal manera que
+la hilera superior de casillas sea vecina a la hilera inferior, y la columna de
+la izquierda vecina a la columna de la derecha. (Si efectivamente hiciéramos tal
+plegado nos quedaría en forma de anillo, lo que los matemáticos llaman un toro.)</p>
+<p class="calibre5">Al comenzar el experimento, antes de que los cronones empiecen a transcurrir, el
+bosque está completamente cubierto de orquídeas. Es nuestra tarea decidir
+cuántos hongos queremos. Elegido un número, los hongos se distribuyen al azar,
+reemplazando a una orquídea cada uno. Luego agregamos el último toque: la vida.</p>
+<p class="calibre5">¿Qué resultados podemos esperar? ¿Evolucionará la población de
+nuestro bosque de manera aleatoria, sin patrones o limitaciones más o
+menos reconocibles? O, en caso contrario, ¿qué tipo de limitaciones
+encontraremos?</p>
+<p class="calibre5">Después de un tiempo de experimentar, puedo anticipar una respuesta: hay una
+estrategia evolutivamente estable respecto al número de individuos de cada
+especie, que la población adopta casi de inmediato y difícilmente abandona. Para
+ver en qué consiste esa estrategia, y el porqué de su surgimiento casi
+inevitable, debemos tornar menos abstracta la definición de EEE. Volvamos
+entonces al libro de Dawkins, cosa que ya valdría la pena, aunque sólo fuera
+para disfrutar con la elegancia del razonamiento.</p>
+</div>
+<div class="pri2" id="halcones-vs-palomas">
+<h2 class="indiceautor">Halcones vs. Palomas</h2>
+<p class="pcalibre1 pri1">Como si no bastara con la proliferación de formas de vida exótica que hemos
+tenido hasta aquí, incorporaremos otras dos. Son el punto de partida de un
+ejemplo muy ilustrativo de estrategia evolutivamente estable, creado por Maynard
+Smith (quien, recordemos, propuso originalmente la idea de EEE) y recogido por
+Dawkins en su libro.</p>
+<p class="calibre5">La población de una especie animal hipotética cuenta con dos estrategias de
+lucha: la de los “halcones” y la de las “palomas”. Como ocurrió con peces,
+tiburones, orquídeas y hongos, se trata de nombres convencionales que ayudan a
+ver la situación; la diferencia consiste en que esta vez no son propuestos en
+plan de entretener, sino como parte de una seria discusión científica. Dice
+Dawkins: “Todo individuo de nuestra población hipotética está clasificado ya
+como halcón o como paloma. Los halcones lucharán siempre tan dura y
+desenfrenadamente como les sea posible, replegándose sólo cuando se encuentren
+gravemente heridos. Las palomas se limitarán a amenazar de una forma digna y
+convencional, sin dañar jamás a nadie. Si un halcón ataca a una paloma, ésta se
+alejará rápidamente y así no resultará dañada. Si un halcón ataca a otro halcón,
+continuarán la lucha hasta que uno de ellos resulte muerto o gravemente herido.
+Si una paloma se enfrenta a otra paloma nadie saldrá lesionado; se limitarán a
+asumir una postura, una frente a la otra, durante un largo tiempo hasta que una
+de ellas se canse o decida no molestarse más y, por lo tanto, ceda. Por el
+momento, asumiremos que no hay forma de que un individuo pueda saber, por
+adelantado, si un rival determinado es un halcón o una paloma. Sólo lo descubre
+al iniciarse la lucha, y no guarda memoria de pasadas luchas con otros
+individuos por las cuales guiarse.”</p>
+<p class="calibre5">Para medir el resultado de cada lucha, Dawkins asigna puntuaciones:</p>
+<ul class="calibre2">
+<li class="calibre3">Ganar una lucha vale +50 puntos.</li>
+<li class="calibre3">Quedar gravemente herido vale -100 puntos.</li>
+<li class="calibre3">Perder el tiempo en una larga disputa vale -10 puntos.</li>
+</ul>
+<p class="pcalibre1 pri1">Estas puntuaciones tienen significado en términos de supervivencia y propagación
+del comportamiento involucrado. Evidentemente, estará en mejores condiciones de
+sobrevivir y reproducirse cuanto más elevada sea su puntuación, es decir, cuanto
+mejor sea su resultado promedio en las luchas que entable. Los valores son
+arbitrarios; simplemente ayudan a hacer las cuentas con más facilidad que si
+empleáramos variables a las que se pudiera asignar cualquier valor. Lo único que
+importa (aunque Dawkins se haya ahorrado el trabajo de aclararlo) es que “quedar
+herido” signifique mayor penalización que “perder el tiempo”; que los puntos
+restados por “perder el tiempo” no reduzcan a cero los obtenidos por “ganar una
+lucha”; y que “ganar una lucha” no baste para compensar el “quedar herido”.</p>
+<p class="calibre5">Sigue Dawkins: “Lo que nos interesa saber es si los halcones o las palomas
+constituyen una estrategia evolutivamente estable. Si una de ellas es una EEE y
+la otra no lo es, hemos de esperar que la que es una EEE evolucionará. (…) Sin
+embargo, como ahora veremos, ninguna de estas dos estrategias, halcón o paloma,
+podría ser evolutivamente estable por sí sola y, por lo tanto, no deberíamos
+esperar que ninguna de ellas evolucionara”.</p>
+<p class="calibre5">Si la población está enteramente compuesta por palomas, nadie sale herido. El
+ganador de una lucha obtiene +50 puntos, y -10 por perder el tiempo, de manera
+que su resultado neto es de +40. El perdedor obtiene -10 por perder el tiempo, y
+ése es su resultado neto. Si cada paloma gana en su vida tantas luchas como las
+que pierde, su resultado promedio es el promedio de +40 y -10; es decir que a la
+larga, en una población de palomas, cada paloma obtiene +15 puntos por cada
+lucha.</p>
+<p class="calibre5">Dawkins: “Pero supongamos ahora que en la población surge un halcón mutante. Ya
+que él es el único halcón que se encuentra en los alrededores, todas sus luchas
+serán contra una paloma. Los halcones siempre vencen a las palomas, de tal
+manera que él obtiene +50 por cada pelea y éste es su resultado final. Como
+resultado de ello, los genes de los halcones se esparcirán rápidamente a través
+de la población. Producto de esta nueva situación, cada halcón ya no puede
+contar con que cada rival que tenga enfrente será una paloma. Para tomar un
+ejemplo extremo: si los genes de los halcones se esparcieran tan rápidamente que
+toda la población estuviese formada por halcones, todas las peleas serían entre
+halcones. Las cosas serían ahora muy diferentes. Cuando un halcón se enfrenta
+con otro, uno de ellos resulta seriamente herido y obtiene una puntuación de 100, mientras que el ganador logra +50 puntos. Cada halcón, en una población de
+halcones, puede esperar ganar la mitad de sus batallas. Su promedio de puntos
+por pelea se encontraría, por lo tanto, entre +50 y -100, lo que da un resultado
+de -25. Consideremos ahora una sola paloma en una población de halcones.
+Seguramente perderá todas sus peleas, pero, por otra parte, nunca resultará
+dañada. Su promedio de puntos obtenidos será de 0 en una población de halcones,
+mientras que el promedio logrado por un halcón en una población de halcones es
+de -25. Los genes de las palomas, por consiguiente, tenderán a esparcirse a
+través de la población”.</p>
+<p class="calibre5">Tenemos entonces lo que parece una oscilación permanente entre población de
+palomas y población de halcones. Las palomas no pueden evitar que los halcones
+proliferen entre ellas, a pesar de que así se reduzca el beneficio neto de cada
+individuo. Y los halcones, precisamente a causa del castigo que se infringen
+unos a otros, no pueden evitar la proliferación de palomas. Sin embargo, tal
+oscilación no se produciría si la proporción entre halcones y palomas fuera tal
+que todos los individuos tuvieran exactamente el mismo beneficio, sin que
+importara su comportamiento. Si tal proporción se diera, un aumento del número
+de halcones no haría más que empobrecer sus beneficios, y otro tanto ocurriría
+con un aumento del número de palomas.</p>
+<p class="calibre5">¿Cómo calcular esa proporción? Supongamos que en una población hay p palomas y h
+halcones. En esa población, cuando una paloma haya tenido p enfrentamientos con
+otras palomas, es de esperar que también haya sufrido h enfrentamientos con
+halcones. Su resultado final, por lo tanto, será:</p>
+<pre class="literal-block">
+15p + 0h
+</pre>
+<p class="calibre5">ya que 15 y 0 son, respectivamente, sus resultados promedio ante una paloma y un
+halcón. Un halcón, por su parte, tras p enfrentamientos con palomas se habrá
+enfrentado con otros h halcones.</p>
+<p class="calibre5">Su resultado final será:</p>
+<pre class="literal-block">
+50p - 25h
+</pre>
+<p class="pcalibre1 pri1">ya que 50 y -25 son sus resultados promedio ante palomas y halcones.</p>
+<p class="calibre5">Pero nosotros queremos que el beneficio neto de la paloma sea el
+mismo que tiene el halcón. Por lo tanto,</p>
+<pre class="literal-block">
+15p + 0h = 50p - 25h
+</pre>
+<p class="calibre5">Tras algunas modificaciones sencillas de la igualdad, nos queda que:</p>
+<pre class="literal-block">
+ P     5
+——— = ———
+ h     7
+</pre>
+<p class="calibre5">de modo que esa es la proporción ideal: 5 palomas por cada 7 halcones.</p>
+<p class="pcalibre1 pri1">¿Alcanzará una población de halcones y palomas esos valores, o se trata de una
+abstracción sin sentido? La respuesta se puede deducir matemáticamente, pero me
+pareció adecuado “probarlo” con una simulación en mi ordenador. No quedaron
+dudas. Partiendo de una población de 99 palomas y un solo halcón, la proporción
+entre palomas y halcones llegó rápidamente a valores muy próximos al predicho,
+de los cuales no volvió a apartarse significativamente.</p>
+<p class="calibre5">(Una aclaración: la proporción indicada es esencialmente correcta para
+poblaciones muy grandes, pero hicimos trampa. En una población pequeña no
+debemos olvidar el hecho obvio de que una paloma o un halcón no pueden
+enfrentarse a sí mismos. Por lo tanto, si hay p palomas, la paloma que tomemos
+como muestra sólo se habrá enfrentado a p-1 palomas contra h enfrentamientos con
+halcones; simétricamente, un halcón se habrá enfrentado a h-1 halcones tras
+luchar con p palomas. Teniendo esto en cuenta para nuestros cálculos, podemos
+llegar a esta ecuación:</p>
+<pre class="literal-block">
+35p + 40 = 25h
+</pre>
+<p class="calibre5">El lector puede vérselas con ella. Para nuestros fines podríamos haber
+actuado como Dawkins, que no menciona esta cuestión.)</p>
+<p class="calibre5">La consecuencia de todo lo dicho es que una población en la que
+haya 5 palomas por cada 7 halcones no “premia” la proliferación de
+unos ni otros. El alcanzar y mantener tal proporción es, entonces, una
+estrategia evolutivamente estable para la especie.</p>
+<p class="calibre5">Lo interesante del caso es que esa composición no es, por término medio, lo más
+beneficioso para los individuos de la población. Es fácil calcular que así un
+individuo obtiene como promedio un resultado final de 6 puntos y cuarto tras
+cada lucha, beneficio bastante menor que los 15 puntos que obtendría en una
+población enteramente compuesta por palomas. Es decir, que a nuestra hipotética
+especie le “convendría” un acuerdo entre sus individuos para que todos actuaran
+como palomas; así saldrían más beneficiados. Pero, como dice Dawkins, tal
+concentración es propensa “a que se cometan abusos en su seno”. Es un hecho
+cierto que es más beneficioso para todos los miembros el pertenecer a un grupo
+de palomas que a un grupo de EEE. Por desgracia, en los grupos de palomas la
+intromisión de un solo halcón supone un éxito tan rotundo que nada puede evitar
+la evolución de los halcones. La concentración está, por lo tanto, destinada a
+ser disuelta por la traición desde dentro. Una EEE es estable, no porque sea
+especialmente buena para los individuos que en ellas participan, sino
+simplemente porque es inmune a este tipo de traición”.</p>
+<img alt="" class="calibre13" src="ens01-2.png"/>
+<pre class="literal-block">
+ FIGURA 2.b
+
++------------------------------------------------------------------+
+¦EXPERIMENTO                           ¦  A   ¦  B   ¦  C   ¦  D   ¦
++--------------------------------------+------+------+------+------¦
+¦Población inicial de hongos           ¦   1  ¦  10  ¦  20  ¦  50  ¦
+¦Tiempo de observación (cronones)      ¦ 100  ¦ 100  ¦ 100  ¦ 100  ¦
++--------------------------------------+------+------+------+------¦
+¦Población mínima de hongos            ¦  1   ¦  2   ¦  0   ¦  1   ¦
+¦Población máxima de hongos            ¦ 30   ¦ 32   ¦ 44   ¦ 65   ¦
+¦Población promedio de hongos          ¦ 13,6 ¦ 17,3 ¦ 18,0 ¦ 12,8 ¦
++--------------------------------------+------+------+------+------¦
+¦Población mínima de orquídeas         ¦  86  ¦  76  ¦  75  ¦  27  ¦
+¦Población máxima de orquídeas         ¦ 143  ¦ 139  ¦ 133  ¦ 140  ¦
+¦Población promedio de orquídeas       ¦ 114,3¦ 104,9¦ 101,7¦ 112,4¦
++--------------------------------------+------+------+------+------¦
+¦Población total mínima                ¦ 107  ¦  96  ¦  90  ¦  49  ¦
+¦Población total máxima                ¦ 144  ¦ 144  ¦ 144  ¦ 144  ¦
+¦Población total promedio              ¦ 127,9¦ 122,2¦ 119,7¦ 125,2¦
++------------------------------------------------------------------+
+</pre>
+</div>
+<div class="pri2" id="las-experiencias-con-orquideas-y-hongos">
+<h2 class="indiceautor">Las experiencias con orquídeas y hongos</h2>
+<p class="pcalibre1 pri1">Hay grandes diferencias entre el modelo de halcones y palomas y
+el modelo de orquídeas y hongos:</p>
+<ul class="calibre2">
+<li class="calibre3">Cada individuo de la población de halcones y palomas tiene acceso directo y
+aleatorio a cualquier otro individuo, cosa que no sucede con orquídeas y hongos.
+En éstos influyen las variaciones locales de la población, mientras que en el
+caso de halcones y palomas sólo interesa la población global.</li>
+</ul>
+<ul class="calibre2">
+<li class="calibre3">Los halcones pueden sobrevivir sin palomas. Los hongos, por el contrario, no
+pueden sobrevivir sin orquídeas.</li>
+</ul>
+<ul class="calibre2">
+<li class="calibre3">Halcones y palomas reciben puntuaciones abstractas según su desenvolvimiento.
+Orquídeas y hongos son premiados y castigados directamente con la vida o la
+muerte.</li>
+</ul>
+<p class="pcalibre1 pri1">Sin embargo, esas diferencias no impiden que la lucha entre orquídeas y hongos
+los fuerce a adoptar una estrategia evolutivamente estable. El concepto de EEE
+resiste la traslación a ambientes muy diferentes entre sí. La figura 2 muestra
+el resultado de cuatro experimentos sucesivos, con una población inicial de 1,
+10, 20 y 50 hongos respectivamente. A simple vista se descubre la obstinación de
+los hongos por mantener su número entre los 5 y 25 individuos. El número de
+orquídeas varía en consonancia con el número de hongos. La tabla que acompaña a
+la misma figura presenta otros valores de interés para analizar el
+comportamiento de ambas especies.</p>
+<p class="calibre5">El experimento A muestra que, tal como ocurría con halcones y palomas, basta un
+solo hongo en la población inicial para que las orquídeas se vean enormemente
+afectadas. El comportamiento “hongo” recibe grandes beneficios en una población
+de orquídeas. El único hongo tiene tantas orquídeas a su disposición que se
+reproduce a gran velocidad. Pero hay una contrapartida para el éxito inicial de
+los hongos, porque sólo es posible gracias a una disminución del número de
+orquídeas. A menos orquídeas, menos posibilidades de supervivencia de los
+hongos. Por eso, la curva correspondiente a los hongos del experimento A sufre
+una caída vertiginosa desde los aproximadamente quince individuos que hay
+transcurridos cinco cronones hasta los casi cero que quedan transcurridos diez
+cronones.</p>
+<p class="calibre5">El experimento D muestra el caso contrario. Una población inicial de 50 hongos
+encuentra serias dificultades para mantenerse, por el enorme consumo de
+orquídeas que significa. Por lo tanto, la curva desciende de un modo estrepitoso
+y luego se sitúa firmemente en los valores estables.</p>
+<p class="calibre5">Los hongos del experimento C se extinguieron tras 78 cronones. Esto no significa
+una excepción a la regla, sino que el bosque es demasiado reducido. Algunos
+experimentos realizados en un bosque mayor, de 16 X 16 casillas, demostraron que
+en tal bosque es mucho más difícil que los hongos se extingan, porque tienden a
+mantener su número siempre por encima de los 10 individuos. El bosque 12 X 12,
+en cambio, los obliga tantas veces a quedar por debajo de los 5 individuos que
+las probabilidades de extinción son muy reales. Sería interesante que
+disponiendo de un programa rápido algún lector hiciese sus propios experimentos
+en bosques mayores que el mío; en tal caso, me gustaría conocer sus resultados.</p>
+<p class="calibre5">Los experimentos A, B, C y D no fueron elegidos especialmente para su
+presentación en este artículo. Fueron los primeros que realicé en cuanto quedó a
+punto el programa de ordenador capaz de llevarlos a cabo. Experimentos
+posteriores no hicieron más que confirmar los resultados, mientras no modifiqué
+las reglas con que luchaban hongos y orquídeas. Luego se me ocurrió una
+ligerísima variación, que tuvo consecuencias desmedidas.</p>
+<p class="calibre5">Tal como fueron descritas más arriba, las reglas del juego permiten a los hongos
+cierta “protección mutua”. Supongamos que, en el transcurso de un cronón, un
+hongo X envía su semilla a la casilla ocupada por el hongo Y; la semilla no
+germina, y el hongo X muere. Luego si el hongo Y envía su semilla a la casilla
+del hongo X no ocurrirá nada, porque dicha casilla, ya modificada en el
+transcurso del cronón, habrá sido “congelada”. El hongo Y se salvará, gracias a
+la bondad de las reglas.</p>
+<p class="calibre5">Hay otras situaciones en las que un hongo puede salvarse “milagrosamente”: si
+envía su semilla a una casilla vacía, ya inspeccionada y “congelada” por otro
+hongo, o una casilla donde otro hongo acaba de infectar a una orquídea. En
+cualquiera de estos casos, el hongo en cuestión sobrevive hasta el siguiente
+cronón sin haberse reproducido, violando en cierto modo las reglas iniciales.</p>
+<div class="align-right2">
+<img alt="" src="ens01-3.png" class="calibre13"/>
+<p class="caption1"><strong class="calibre4">Figura 3</strong></p>
+</div>
+<p class="pcalibre1 pri1">La figura 3 (pág. 61)  muestra lo que sucedió al modificar esa cuestión. Allí
+repetimos los experimentos A, B, C, y D, pero impidiendo a los hongos sobrevivir
+sin haberse reproducido. Los resultados fueron catastróficos: en ningún caso los
+hongos sobrevivieron más de 45 cronones. Esto demuestra el punto crítico en que
+se encuentran las reglas con que iniciamos la experiencia; la vida de los
+hongos, por decirlo así, pende de un hilo.</p>
+<p class="pcalibre1 pri1">Queda por realizar otro tipo de experiencia, que no llevé a cabo. Al hablar de
+halcones y palomas, Dawkins señala que es indistinto suponer que hay 5 palomas
+cada 7 halcones en una población estable, o que cada individuo de esa población
+actúa como paloma exactamente 5 veces por cada 7 veces que actúa como halcón.
+(De paso, en este último caso se hace innecesaria nuestra aclaración sobre la
+necesidad de descontar el propio individuo del número de halcones o palomas que
+haya en la población; en realidad, basta con sólo 2 individuos, cada uno de los
+cuales alterna aleatoriamente 5 actuaciones como paloma con 7 actuaciones como
+halcón; en cuanto uno de ellos varíe esa proporción, el otro saldrá ganando, de
+modo que la estrategia sigue siendo evolutivamente estable). En nuestro caso,
+habría que descubrir qué ocurre si cada individuo del bosque puede actuar como
+hongo y también como orquídea. Si la proporción de actuaciones de un tipo y de
+otro variara evolutivamente según los resultados obtenidos cronón a cronón,
+sería posible llegar a una situación estable, donde cada individuo actuaría
+alrededor de H veces como hongo por cada O actuaciones como orquídea. ¿Cuáles
+serán entonces los valores de H y O? Si el lector obtiene algún resultado al
+respecto, le agradeceré que me lo haga saber.</p>
+</div>
+<div class="pri2" id="programando-orquideas-y-hongos">
+<h2 class="indiceautor">Programando <em class="calibre16">Orquídeas y Hongos</em></h2>
+<p class="pcalibre1 pri1">Es posible hacer a mano los cálculos de lo que sucede en el bosque de orquídeas
+y hongos, cronón a cronón, pero resultaría extremadamente lento y aburrido. Por
+otra parte, no es realmente difícil escribir un programa de ordenador para hacer
+el mismo trabajo. En dicho programa, el bosque está representado por una matriz
+de dos dimensiones. A cada casilla se le asigna un valor diferente según esté
+ocupada por un hongo, una orquídea o un espacio vacío. Es cómodo que esos
+valores coincidan con los códigos de los caracteres que los representaran en la
+pantalla; utilizando el código ASCII, empleé el valor 32 para el espacio vacío,
+el 79 (correspondiente al caracter “O”) para la orquídea, y el 42
+(correspondiente al caracter “*”) para el hongo.</p>
+<p class="calibre5">En cada cronón se explorará la matriz, casilla por casilla. Cuando aparece un
+hongo o una orquídea, se da un valor aleatorio entre 1 y 4 a una variable para
+determinar la dirección en que será lanzada la “semilla”. De tal modo, si la
+variable en cuestión tiene el valor 1, la semilla irá hacia la casilla situada
+al “norte” de la inspeccionada; si tiene el valor 2, a la casilla situada al
+“este”, etc. Según lo que se encuentre allí, se modificará el valor
+correspondiente en otra matriz auxiliar, donde quedará almacenado hasta que
+concluya el cronón. Una vez hecho todo este trabajo con cada casilla, la matriz
+principal tomará los valores almacenados en la matriz auxiliar, se presentará el
+resultado en la pantalla y, todo empezará otra vez. Para “congelar” una casilla
+y evitar toda modificación ulterior durante el mismo cronón, basta con ponerla a
+0 en la matriz principal, mientras se le da el valor correspondiente a su futuro
+contenido en la matriz auxiliar; así, al volver a tropezar con ella, el programa
+puede fácilmente pasarla por alto.</p>
+<p class="pcalibre1 pri1">Un comentario final. La simulación por ordenador de complejos procesos del mundo
+real es un recurso difundido de la investigación científica. En semejantes
+tareas se utilizan programas inmensos en ordenadores poderosos, algo muy lejano
+para quienes, como yo mismo, sólo disponen de un pequeño ordenador doméstico y
+no conocen otros lenguajes de programación que Basic o Logo, con sus
+limitaciones, particularmente la velocidad (problema que se podría resolver en
+parte programando en Pascal). Sin embargo, aún es bastante lo que se puede hacer
+en estas condiciones; lo comprobé personalmente, experimentando con las
+orquídeas y los hongos. Por supuesto, el asunto no pasó de ser una cuestión
+recreativa, pero llegué a vislumbrar un asomo de lo que siente el investigador
+ante los procesos que estudia. Espero que a los lectores interesados en el tema,
+con acceso a un ordenador, les ocurra lo mismo. Y que aquellos que no tengan una
+máquina hayan encontrado el relato lo bastante sugestivo como para que valiese
+la pena leerlo.</p>
+</div>
+</div>
+
+</div>
+
+</body>
+</html>

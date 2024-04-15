@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="e28de389-f919-4607-91d8-64cb43362950" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.5)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 216</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="0cd9d31b-8634-4e57-8177-4503f5b01df3" playOrder="1">
+      <navLabel>
+        <text>Ficciones - ¡De pie, soldado!</text>
+      </navLabel>
+      <content src="pagina01.htm"/>
+    </navPoint>
+    <navPoint id="e8df2e48-23a1-47e6-a826-f926dabf75c0" playOrder="2">
+      <navLabel>
+        <text>Ficciones - Sangre y arcilla</text>
+      </navLabel>
+      <content src="pagina02.htm"/>
+    </navPoint>
+    <navPoint id="f67af347-fb09-472a-8232-11fe7eb10f59" playOrder="3">
+      <navLabel>
+        <text>Ficciones - El recipiente</text>
+      </navLabel>
+      <content src="pagina03.htm"/>
+    </navPoint>
+    <navPoint id="9392b2c6-a91a-49fc-8a85-8e4f147fec1c" playOrder="4">
+      <navLabel>
+        <text>Ficciones - Reset</text>
+      </navLabel>
+      <content src="pagina04.htm"/>
+    </navPoint>
+    <navPoint id="44fdc162-3022-4467-ad5a-d7c7cddf7d21" playOrder="5">
+      <navLabel>
+        <text>Ficciones - El último hombre</text>
+      </navLabel>
+      <content src="pagina05.htm"/>
+    </navPoint>
+    <navPoint id="7dc4cba5-39cb-421c-958c-82cc77f92f25" playOrder="6">
+      <navLabel>
+        <text>Axxóncine - El aura de Fabián Bielinsky (Borges anduvo por ahí)</text>
+      </navLabel>
+      <content src="pagina06.htm"/>
+    </navPoint>
+    <navPoint id="c08219de-ff81-4372-9d0c-c09a9866b497" playOrder="7">
+      <navLabel>
+        <text>Ficciones - Alíus</text>
+      </navLabel>
+      <content src="pagina07.htm"/>
+    </navPoint>
+    <navPoint id="8474f18f-db7b-4bdf-b38a-ce7793022fe9" playOrder="8">
+      <navLabel>
+        <text>Ficciones - Los conejos cogelones</text>
+      </navLabel>
+      <content src="pagina08.htm"/>
+    </navPoint>
+    <navPoint id="7f414610-528d-4e7e-949e-c0f36c10fcfa" playOrder="9">
+      <navLabel>
+        <text>Ficciones - Siesta</text>
+      </navLabel>
+      <content src="pagina09.htm"/>
+    </navPoint>
+    <navPoint id="be7f882a-c6c7-49e9-9dcc-b517a2624697" playOrder="10">
+      <navLabel>
+        <text>Ficciones - El sacrificio</text>
+      </navLabel>
+      <content src="pagina10.htm"/>
+    </navPoint>
+    <navPoint id="8975da1f-3f48-48f5-bf67-cbe6dbd3f3ad" playOrder="11">
+      <navLabel>
+        <text>Ficciones - Bucólica (con sátiros y ninfas)</text>
+      </navLabel>
+      <content src="pagina11.htm"/>
+    </navPoint>
+    <navPoint id="9b10547f-5b3e-4dc0-ba5d-115cd8821ca7" playOrder="12">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="b5a16432-1f2c-45c7-b8ea-2f69cfd7d568" playOrder="12">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/216/cuento1ilus1.htm"/>
+    </navPoint>
+    <navPoint id="ae0c568a-733b-4d60-959e-270789e7cf61" playOrder="13">
+      <navLabel>
+        <text>MÁQUINA DE SANGRE</text>
+      </navLabel>
+      <content src="/rev/193/c-193cuento10.htm"/>
+    </navPoint>
+    <navPoint id="aa188355-3b32-401b-ae9a-79b3f41cf074" playOrder="14">
+      <navLabel>
+        <text>LA VOZ EN LA PUERTA</text>
+      </navLabel>
+      <content src="/rev/195/c-195cuento4.htm"/>
+    </navPoint>
+    <navPoint id="451c1567-dcd1-4471-96f9-c4d38be1c9a2" playOrder="15">
+      <navLabel>
+        <text>ENTORNOS</text>
+      </navLabel>
+      <content src="/rev/"/>
+    </navPoint>
+    <navPoint id="cd73e905-cb48-4b0b-96fa-e8037eea61c5" playOrder="16">
+      <navLabel>
+        <text>FAST FOOD</text>
+      </navLabel>
+      <content src="/rev/#11"/>
+    </navPoint>
+    <navPoint id="5c844f9e-fcfe-4363-a17a-efa4f908b16b" playOrder="17">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/216/cuento2ilus1.htm"/>
+    </navPoint>
+    <navPoint id="50705339-4b05-459f-ab20-2662475f4372" playOrder="18">
+      <navLabel>
+        <text>INSEGURIDAD</text>
+      </navLabel>
+      <content src="/rev/160/c-160cuento6.htm#5"/>
+    </navPoint>
+    <navPoint id="b6cb29ed-d14c-467d-b49c-815ec5f3c18c" playOrder="19">
+      <navLabel>
+        <text>EL TESTIGO</text>
+      </navLabel>
+      <content src="/rev/161/c-161cuento4.htm"/>
+    </navPoint>
+    <navPoint id="5f760c8c-df0d-47cc-bcfb-415c595cd4a1" playOrder="20">
+      <navLabel>
+        <text>JUEGO DE LUCES</text>
+      </navLabel>
+      <content src="/rev/162/c-162cuento13.htm#1"/>
+    </navPoint>
+    <navPoint id="47472c0a-7d30-49e5-88d6-2058eca56ffd" playOrder="21">
+      <navLabel>
+        <text>LA PRIMERA TENTACIÓN</text>
+      </navLabel>
+      <content src="/rev/168/c-168cuento13.htm"/>
+    </navPoint>
+    <navPoint id="ebbc0a02-a03f-4595-b1fa-ecdd28e84e57" playOrder="22">
+      <navLabel>
+        <text>LAS RELIQUIAS</text>
+      </navLabel>
+      <content src="/rev/169/c-169cuento8.htm#19"/>
+    </navPoint>
+    <navPoint id="0db11860-8c1b-4bfc-9203-0243429949cb" playOrder="23">
+      <navLabel>
+        <text>LA NUEVA REVELACIÓN</text>
+      </navLabel>
+      <content src="/rev/170/c-170cuento8.htm#7"/>
+    </navPoint>
+    <navPoint id="6d19fa6e-9342-4b33-beba-512c0e526805" playOrder="24">
+      <navLabel>
+        <text>LOS CIEGUITOS</text>
+      </navLabel>
+      <content src="/rev/171/c-171cuento11.htm#13"/>
+    </navPoint>
+    <navPoint id="225fe3b6-870e-487d-8063-5ab9b0a9ab1d" playOrder="25">
+      <navLabel>
+        <text>MENSAJES EN EL VIENTO</text>
+      </navLabel>
+      <content src="/rev/177/c-177cuento10.htm"/>
+    </navPoint>
+    <navPoint id="8a681660-e5f7-4135-a478-3d52bff4734a" playOrder="26">
+      <navLabel>
+        <text>AZUL MARINO</text>
+      </navLabel>
+      <content src="/rev/180/c-180cuento1.htm#39"/>
+    </navPoint>
+    <navPoint id="be1a493f-c1b7-4c52-b0d9-832f0fe28f16" playOrder="27">
+      <navLabel>
+        <text>LA PALABRA PRIMERA</text>
+      </navLabel>
+      <content src="/rev/192/c-192cuento5.htm#7"/>
+    </navPoint>
+    <navPoint id="c742bb16-43ba-4da5-a20a-e3a60ff81199" playOrder="28">
+      <navLabel>
+        <text>MOLINOS DE VIENTO</text>
+      </navLabel>
+      <content src="/rev/197/c-197cuento9.htm#7"/>
+    </navPoint>
+    <navPoint id="74b3de2a-7d06-4872-8963-5a9377110f2d" playOrder="29">
+      <navLabel>
+        <text>EXPEDIENTE DE UNO QUE NO EXISTE</text>
+      </navLabel>
+      <content src="/rev/134/c-134Cuento3.htm"/>
+    </navPoint>
+    <navPoint id="2d59f301-0849-4474-af2d-98ae3550abf1" playOrder="30">
+      <navLabel>
+        <text>CERRAR LOS OJOS</text>
+      </navLabel>
+      <content src="/rev/165/c-165cuento5.htm"/>
+    </navPoint>
+    <navPoint id="d7d9292c-d007-42a3-a644-8c9739d98e09" playOrder="31">
+      <navLabel>
+        <text>LA VIDA ES UN SUEÑO RECURRENTE</text>
+      </navLabel>
+      <content src="/rev/190/c-190cuento4.htm"/>
+    </navPoint>
+    <navPoint id="6dbfacec-be58-4e70-aef2-abf74b5a2df0" playOrder="32">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/216/cuento3ilus1.htm"/>
+    </navPoint>
+    <navPoint id="2ff757af-ea66-441f-b9cf-af21e963e8d4" playOrder="33">
+      <navLabel>
+        <text>SUNNY ROSE Y EL VENDEDOR DE ESPEJOS</text>
+      </navLabel>
+      <content src="/rev/178/c-178cuento9.htm"/>
+    </navPoint>
+    <navPoint id="55324259-e086-45ae-82b0-daafd802e7ca" playOrder="34">
+      <navLabel>
+        <text>CARROÑA</text>
+      </navLabel>
+      <content src="/rev/179/c-179cuento7.htm#3"/>
+    </navPoint>
+    <navPoint id="5cd8ab17-1118-4a4b-a449-57f5f8d90b57" playOrder="35">
+      <navLabel>
+        <text>LA JUNGLA MÁS ALLÁ DE LAS ESTRELLAS</text>
+      </navLabel>
+      <content src="/rev/181/c-181cuento9.htm"/>
+    </navPoint>
+    <navPoint id="07403d2d-9da6-409d-9389-f85650a9b18b" playOrder="36">
+      <navLabel>
+        <text>¡ZOMBIE, RESPONDE!, ORDENÓ EL PLASMATRÓN</text>
+      </navLabel>
+      <content src="/rev/191/c-191cuento2.htm"/>
+    </navPoint>
+    <navPoint id="9c8c9daa-9329-4dd1-8a96-117c3f9a3638" playOrder="37">
+      <navLabel>
+        <text>EL NANABOUSH</text>
+      </navLabel>
+      <content src="/rev/195/c-195cuento6.htm"/>
+    </navPoint>
+    <navPoint id="59c1bb51-8457-4a70-9267-afd6662d52cf" playOrder="38">
+      <navLabel>
+        <text>SUPERVIVENCIA</text>
+      </navLabel>
+      <content src="/rev/195/c-195cuento1.htm"/>
+    </navPoint>
+    <navPoint id="b0c411cc-5fee-4082-aceb-63133826c097" playOrder="39">
+      <navLabel>
+        <text>EL AGUJERO</text>
+      </navLabel>
+      <content src="/rev/198/c-198cuento3.htm"/>
+    </navPoint>
+    <navPoint id="3b6c9ee2-83bf-4ca6-906a-5b34f36ef9de" playOrder="40">
+      <navLabel>
+        <text>EL COLOR QUE CAYÓ DEL CIELO</text>
+      </navLabel>
+      <content src="/rev/173/c-173cuento18.htm"/>
+    </navPoint>
+    <navPoint id="add985bd-20cb-4bc1-b186-e4e92b43886e" playOrder="41">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/216/cuento4ilus1.htm"/>
+    </navPoint>
+    <navPoint id="33427136-c10b-48b0-9203-47baa2f01767" playOrder="42">
+      <navLabel>
+        <text>EL LÁNTURA</text>
+      </navLabel>
+      <content src="/rev/167/c-167cuento5.htm#18"/>
+    </navPoint>
+    <navPoint id="12c860cc-16ea-4384-9ce0-3ee8a35bc56a" playOrder="43">
+      <navLabel>
+        <text>EL BRILLO DEL MAL</text>
+      </navLabel>
+      <content src="/rev/168/c-168cuento15.htm"/>
+    </navPoint>
+    <navPoint id="75dd0a60-24e4-4312-8b80-6abcc1f9b9e8" playOrder="44">
+      <navLabel>
+        <text>EL IMPERIO CAOS</text>
+      </navLabel>
+      <content src="/rev/173/c-173cuento16.htm"/>
+    </navPoint>
+    <navPoint id="68ded63f-de1d-4cdc-bfc0-24ef36252d07" playOrder="45">
+      <navLabel>
+        <text>NUEVO COMIENZO</text>
+      </navLabel>
+      <content src="/rev/174/c-174axxcr1.htm"/>
+    </navPoint>
+    <navPoint id="5a499152-59b6-4904-a5f1-cdcca41224c1" playOrder="46">
+      <navLabel>
+        <text>COCHES AZULES</text>
+      </navLabel>
+      <content src="/rev/197/c-197cuento1.htm"/>
+    </navPoint>
+    <navPoint id="be9b9c6f-97c8-40ee-a8b6-afbe0d35e4d3" playOrder="47">
+      <navLabel>
+        <text>LOS NUEVOS DESCUBRIMIENTOS PERDIDOS: LOS HOLOGRAMAS</text>
+      </navLabel>
+      <content src="/rev/199/c-199cuento5.htm#12"/>
+    </navPoint>
+    <navPoint id="1396606f-f41b-4e3c-8aed-cb321357c659" playOrder="48">
+      <navLabel>
+        <text>MEMENTO MORI</text>
+      </navLabel>
+      <content src="/rev/#8"/>
+    </navPoint>
+    <navPoint id="cac3880c-51e5-495c-881a-848623f5fb80" playOrder="49">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/216/cuento5ilus1.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

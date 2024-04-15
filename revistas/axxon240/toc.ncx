@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="5584d196-bff3-4f4f-978f-bdbaebb255f8" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.26)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 240</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u0f01a065-5a67-4943-97ee-5a21d8f6ac1c" playOrder="1">
+      <navLabel>
+        <text>Editorial: El poder de la historia</text>
+      </navLabel>
+      <content src="c-240Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u61c1f136-43ce-43d2-be6f-27416fd6e5a4" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Orilán</text>
+      </navLabel>
+      <content src="c-240Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uee8ace0c-e00b-41d2-b79e-289dcb7a373e" playOrder="3">
+      <navLabel>
+        <text>Entrevista: Entrevista a Laura Ponce</text>
+      </navLabel>
+      <content src="c-240Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ub7dd940a-a075-4822-aeb6-093a2f66dfbe" playOrder="4">
+      <navLabel>
+        <text>Artículo: Sor Juana y la ciencia ficción o las consecuencias de una crítica paranoica</text>
+      </navLabel>
+      <content src="c-240Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u23c8f5c5-7607-4e9f-b7e3-a99e5a8d8c09" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Una muerte en casa</text>
+      </navLabel>
+      <content src="c-240Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u58136cc3-81fa-47c7-9335-6f068a51bf73" playOrder="6">
+      <navLabel>
+        <text>Artículo: Adiós a la Tierra</text>
+      </navLabel>
+      <content src="c-240Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ud43471dc-83a1-4538-b9ae-2f9ba1171f6b" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Ofrenda a las bestias</text>
+      </navLabel>
+      <content src="c-240Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ue97fc78c-8762-4a5a-b2a7-05e0975a44a0" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Carnavales en Venecia</text>
+      </navLabel>
+      <content src="c-240Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u14727edf-303f-4c39-a923-6045aba7a249" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Siempre contigo</text>
+      </navLabel>
+      <content src="c-240Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u16a6235d-d92e-4831-bc62-bd98a5e4f795" playOrder="10">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="814467d3-c399-4f53-b638-921c16a3e808" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.20.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 194</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u8daeb2da-2532-40f8-bda6-c99b56a0ab51" playOrder="1">
+      <navLabel>
+        <text>Editorial: Ese pequeño porcentaje</text>
+      </navLabel>
+      <content src="c-194Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u6292b271-05e7-4532-a54c-1642644843c7" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-194Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u72586ca3-ea0d-4d48-9a9d-1a8c540787c5" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Sobre desayunos y entropías</text>
+      </navLabel>
+      <content src="c-194Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u7a082935-9a5f-476a-a54f-6f09ae7b087c" playOrder="4">
+      <navLabel>
+        <text>Ficciones: La hipocondríaca</text>
+      </navLabel>
+      <content src="c-194Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u62efab03-1feb-4deb-bd46-cebb7a0bf85a" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Las ruinas, la nieve y el viento</text>
+      </navLabel>
+      <content src="c-194Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ud5b5c14f-2cf3-4703-a7d1-2c3244e82f3f" playOrder="6">
+      <navLabel>
+        <text>Ficciones: La gema amarilla</text>
+      </navLabel>
+      <content src="c-194Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ub01ce643-9f8c-407a-81bd-afcbe983c443" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Devenir</text>
+      </navLabel>
+      <content src="c-194Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u795e2b0d-6dcf-4ee0-9a09-b48775b4e357" playOrder="8">
+      <navLabel>
+        <text>Divulgación: Abre tus alas</text>
+      </navLabel>
+      <content src="c-194Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u54b48454-b941-4206-bca4-6c0513a5c402" playOrder="9">
+      <navLabel>
+        <text>Entrevista: Veinticinco años de Cuásar: entrevista a Luis Pestarini</text>
+      </navLabel>
+      <content src="c-194Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u57108c3a-e9f7-4be0-9943-36f46561e425" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Ficción breve (46)</text>
+      </navLabel>
+      <content src="c-194Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u643ab73b-a01c-41e5-936c-e78e240a5366" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Tropezar con la misma piedra</text>
+      </navLabel>
+      <content src="c-194Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u7e1c3d0f-ec54-4805-b7cf-da334b41dd4f" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Paisaje con grupo y mujer</text>
+      </navLabel>
+      <content src="c-194Pag12.htm"/>
+    </navPoint>
+    <navPoint id="uf61f0356-efe1-46ca-a3c0-30faada68c5e" playOrder="13">
+      <navLabel>
+        <text>Ficciones: El libro del Hierofante</text>
+      </navLabel>
+      <content src="c-194Pag13.htm"/>
+    </navPoint>
+    <navPoint id="uee735e84-4b8e-47c3-8acb-67cf61f52624" playOrder="14">
+      <navLabel>
+        <text>Ficciones: El guión</text>
+      </navLabel>
+      <content src="c-194Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u50369d0d-ca7a-47d9-a155-439f4dcaf4ba" playOrder="15">
+      <navLabel>
+        <text>Humor: Don Ramirito: “El sorprendente Spider-Ram (II)”</text>
+      </navLabel>
+      <content src="c-194Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u59238e3d-1092-4409-97b8-f8e674b7921e" playOrder="16">
+      <navLabel>
+        <text>Axxóncine: El curioso caso de Benjamin Button</text>
+      </navLabel>
+      <content src="c-194Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u348082cb-7cb1-4127-9612-3d52ba4f2928" playOrder="17">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-194Pag17.htm"/>
+    </navPoint>
+    <navPoint id="uef537ce7-cde3-4f02-8990-864b6327e071" playOrder="18">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

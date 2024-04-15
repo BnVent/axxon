@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="description" content="Respaldo Web de la mítica revista de Ciencia ficción y fantasía" />
+    <link rel="stylesheet" href="index.css" />
+    <title>AXXÓN - Respaldo Web de la mítica revista de Ciencia ficción y fantasía</title>
+  </head>
+  <body>
+    <div>
+      <div class="background-opacity-layer"></div>
+      <div id="main-layout">
+        <div class="header-container">
+          <div id="banners">
+            <img src="header/media/x-portada.gif" id="portada-principal" alt="" />
+            <img id="header-image" src="header/media/axxon-1-10.jpg" alt="" />
+            <img src="header/media/b-plaxx2.jpg" alt="" />
+          </div>
+
+          <header>
+            <div>
+
+              <h1>Ciencia Ficción</h1>
+
+              <h3>
+                ¡Bienvenidos! Sitio de respaldo de
+                <a href="https://es.wikipedia.org/wiki/Axx%C3%B3n">Axxón</a>,
+                <a href="https://es.wikipedia.org/wiki/Ciencia_ficci%C3%B3n"> Ciencia Ficción </a>
+                en Bits
+              </h3>
+              <h4>
+                Revista de Ciencia Ficción, Fantasía y Horror creada en
+                <span style="color: #fff"> ARG<span style="color: #88aaff">ENT</span>INA </span>
+                <img src="header/media/x-BandArgFlamch.gif" alt="" />
+              </h4>
+              <h6>
+                Ciencia Ficción Argentina . horror . fantasía . literatura . cuentos . novelas . ensayos . noticias . autores .
+                revistas . cine . historieta
+              </h6>
+
+              <div class="header-footer">
+                <span id="current-date"></span>
+              </div>
+            </div>
+
+            <a id="main-link" href="https://axxon.com.ar/" target="_blank">&lt;Enlace al sitio oficial&gt;</a>
+          </header>
+
+          <hr />
+
+          <section id="about-section">
+            <h1>SOBRE AXXÓN</h1>
+            <div class="flex-container">
+              <blockquote>
+                Creada en 1989 por Eduardo J. Carletti y Fernando Bonsembiante, Axxón fue la primera revista editada en soporte
+                informático en habla hispana, destacándose además que se trataba de un programa ejecutable autocontenido,
+                desarrollado independientemente por sus creadores. <br><a href="https://es.wikipedia.org/wiki/Axx%C3%B3n">(Leer artículo completo en Wikipedia)</a>
+              </blockquote>
+              <img src="./wikipedia.svg" alt="">
+            </div>
+          </section>
+          <hr />
+
+          <section id="revistas-seleccion">
+            <h1>CATÁLOGO DE REVISTAS</h1>
+            <div id="search-option">
+              <input id="search-input" type="search" name="" placeholder="Buscar por número de revista" />
+              <button id="search-button" onclick="buscarRevista()">Buscar</button>
+            </div>
+
+            <div id="revistas"></div>
+
+            <div id="revistas-footer">
+              <div class="button" onclick="cargarMasRevistas()">Cargar más</div>
+              <div class="button" onclick="cargarTodasLasRevistas()">VER TODO</div>
+            </div>
+          </section>
+
+          <hr />
+
+          <footer>
+            <h1>Sobre este sitio</h1>
+            Este sitio de respaldo ha sido creado para el libre acceso de los amantes de la CF en general y los seguidores de AXXÓN en particular. El mismo fue diseñado por <a href="https://github.com/bnvent">@bnvent</a> y se encuentra hospedado en GitHub. ♥️
+          </footer>
+        </div>
+      </div>
+      
+    </div>
+    <script src="main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="c374e68d-3512-42f1-a92a-0d62e14b7137" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.14.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 69</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u057b6beb-d762-4cac-b081-4fa8eca30883" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-69Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u670a8565-ecbc-447c-b298-d0ec5ed9b8e4" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 69</text>
+      </navLabel>
+      <content src="c-69Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u79025503-c94c-4c1b-8e2b-200a16d561a3" playOrder="3">
+      <navLabel>
+        <text>Ficciones: ¿Caminarás?</text>
+      </navLabel>
+      <content src="c-69Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u9cdfb09a-0bd8-4b12-97c4-0e02058b2432" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Día del perdón</text>
+      </navLabel>
+      <content src="c-69Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u2d1e988e-dfaf-4582-8843-06c8bc2623ab" playOrder="5">
+      <navLabel>
+        <text>Correo: Correo 69</text>
+      </navLabel>
+      <content src="c-69Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uad832340-306a-42af-a84e-8f3100e6bd13" playOrder="6">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual</text>
+      </navLabel>
+      <content src="c-69Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ub0b5848a-98f9-445d-a127-c7eff9e8cbf6" playOrder="7">
+      <navLabel>
+        <text>Sección: BITS: Mi cerebro es un bruto, pero cuanto lo quiero</text>
+      </navLabel>
+      <content src="c-69Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uf6d94615-75d0-4ebb-ad1f-4ea4ab7e4bdd" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Crías de esturión</text>
+      </navLabel>
+      <content src="c-69Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u0f84a61f-a7fd-4f29-9595-db4f10e64757" playOrder="9">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad</text>
+      </navLabel>
+      <content src="c-69Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u8c871c59-e088-47cc-af27-fcb680fd92d9" playOrder="10">
+      <navLabel>
+        <text>Sección: ET AL Virtual</text>
+      </navLabel>
+      <content src="c-69Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uf76c1ebe-5806-47aa-b18d-b92ddf6d276a" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Rey al reir</text>
+      </navLabel>
+      <content src="c-69Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u2fff0876-c8a0-4bdd-b216-a88230bce539" playOrder="12">
+      <navLabel>
+        <text>Sumario: Sumario</text>
+      </navLabel>
+      <content src="c-69Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u8d996b8a-f312-4c34-b385-a972a92d4325" playOrder="13">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-69Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u01b5bbf6-ed08-44ae-afe5-681df6966421" playOrder="14">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-69Pag14.htm"/>
+    </navPoint>
+    <navPoint id="uf340721c-540e-484e-a916-a5677f245c22" playOrder="15">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

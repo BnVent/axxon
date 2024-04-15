@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="5406d5aa-90b1-48ab-b680-d4537bc68008" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.28)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 74</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u92d0f7b8-8552-4f92-8182-5e7c1c28f33e" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-74Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ua60e1b54-7845-4fe0-bd8f-fc7e5be74ca4" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 74</text>
+      </navLabel>
+      <content src="c-74Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ucd14d718-ea45-407e-b09d-1436a9b1eab7" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Caminos</text>
+      </navLabel>
+      <content src="c-74Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uf30d6347-8c33-4dff-8796-0a33751695c0" playOrder="9">
+      <navLabel>
+        <text>Ficciones: El pequeño guiñol</text>
+      </navLabel>
+      <content src="c-74Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u43934c00-e9e0-491e-8c29-6349f1614ec0" playOrder="10">
+      <navLabel>
+        <text>Ficciones: La señal, la palabra</text>
+      </navLabel>
+      <content src="c-74Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u3aa1c9b2-2e4a-4138-81bb-11e0df757891" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Tocar una estrella</text>
+      </navLabel>
+      <content src="c-74Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ue4f725c8-ea3f-4476-a983-3f62dcc99d5d" playOrder="16">
+      <navLabel>
+        <text>Ficciones: Mansión</text>
+      </navLabel>
+      <content src="c-74Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u9eae167b-bd19-4cf5-96d5-59e3b4cab634" playOrder="17">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual</text>
+      </navLabel>
+      <content src="c-74Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u5855cfa1-e5dd-43f4-8aab-40bd57d7a011" playOrder="18">
+      <navLabel>
+        <text>Correo: Correo 74</text>
+      </navLabel>
+      <content src="c-74Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u345feae5-3f6b-4ca5-b076-74362f7654b6" playOrder="19">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad</text>
+      </navLabel>
+      <content src="c-74Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ubc172f45-51f4-4ad5-bbb6-02f45e0d36b4" playOrder="29">
+      <navLabel>
+        <text>Sección: ET AL Virtual</text>
+      </navLabel>
+      <content src="c-74Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u87460eb5-ba8e-4bf6-9d3e-4951520df895" playOrder="44">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-74Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u94bab29a-1310-4593-9188-3cbff3c15386" playOrder="45">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-74Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u302b7e80-00c2-467c-b45b-344e3bbacbfd" playOrder="46">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="ub5a30cfb-6376-47f2-900f-672f6efcd8d0" playOrder="4">
+      <navLabel>
+        <text>[*]</text>
+      </navLabel>
+      <content src="c-74Pag03.htm#id6"/>
+    </navPoint>
+    <navPoint id="ufa0a58c8-5797-4bc6-ac58-2555b2036b1e" playOrder="5">
+      <navLabel>
+        <text>[†]</text>
+      </navLabel>
+      <content src="c-74Pag03.htm#id7"/>
+    </navPoint>
+    <navPoint id="u75a4e776-3d6d-42b9-b29e-5c6b190b96b0" playOrder="6">
+      <navLabel>
+        <text>[‡]</text>
+      </navLabel>
+      <content src="c-74Pag03.htm#id8"/>
+    </navPoint>
+    <navPoint id="u79584ff6-941d-4bb2-b9fa-dfdd16243f4b" playOrder="7">
+      <navLabel>
+        <text>[§]</text>
+      </navLabel>
+      <content src="c-74Pag03.htm#id9"/>
+    </navPoint>
+    <navPoint id="ua87a96d2-1291-47ef-a25c-d9e2a512ae4b" playOrder="8">
+      <navLabel>
+        <text>[¶]</text>
+      </navLabel>
+      <content src="c-74Pag03.htm#id10"/>
+    </navPoint>
+    <navPoint id="ufb3226be-b666-4680-ab35-5657adfb88f6" playOrder="12">
+      <navLabel>
+        <text>[1]</text>
+      </navLabel>
+      <content src="c-74Pag06.htm#id5"/>
+    </navPoint>
+    <navPoint id="u74576aaa-da52-458a-a27a-2c63de5f60e9" playOrder="13">
+      <navLabel>
+        <text>[2]</text>
+      </navLabel>
+      <content src="c-74Pag06.htm#id6"/>
+    </navPoint>
+    <navPoint id="u67242fec-9b41-4dbd-a1b1-da5881a85bc7" playOrder="14">
+      <navLabel>
+        <text>[3]</text>
+      </navLabel>
+      <content src="c-74Pag06.htm#id7"/>
+    </navPoint>
+    <navPoint id="u559c886e-7380-472f-9ac5-3d4bd1dd6724" playOrder="15">
+      <navLabel>
+        <text>[4]</text>
+      </navLabel>
+      <content src="c-74Pag06.htm#id8"/>
+    </navPoint>
+    <navPoint id="uf218b30b-b829-44b2-b9c5-3700c65a0a34" playOrder="20">
+      <navLabel>
+        <text>CIENCIA FICCION Y SOCIEDAD</text>
+      </navLabel>
+      <content src="c-74Pag10.htm#ciencia-ficcion-y-sociedad"/>
+    </navPoint>
+    <navPoint id="u7d94b46e-521e-4ead-81a7-aa700b5578fa" playOrder="21">
+      <navLabel>
+        <text>ESTRATEGIA PUBLICITARIA DE FIN DE SIGLO</text>
+      </navLabel>
+      <content src="c-74Pag10.htm#estrategia-publicitaria-de-fin-de-siglo"/>
+    </navPoint>
+    <navPoint id="u7940cbd1-3509-4877-83dd-4dc29fc13752" playOrder="22">
+      <navLabel>
+        <text>DESPERTAR DE UN SUEÑO MILENARIO</text>
+      </navLabel>
+      <content src="c-74Pag10.htm#despertar-de-un-sueno-milenario"/>
+    </navPoint>
+    <navPoint id="u67c019b9-1b38-45d2-bfd3-aa9007302b39" playOrder="23">
+      <navLabel>
+        <text>LA CLAVE DE LA VIOLENCIA</text>
+      </navLabel>
+      <content src="c-74Pag10.htm#la-clave-de-la-violencia"/>
+    </navPoint>
+    <navPoint id="uf12144b7-a5ec-414a-a3ce-971cbb6ca9f8" playOrder="24">
+      <navLabel>
+        <text>ESTRATEGIA VIRAL</text>
+      </navLabel>
+      <content src="c-74Pag10.htm#estrategia-viral"/>
+    </navPoint>
+    <navPoint id="u9a5975cd-4164-4e47-b2e6-cca457a482c1" playOrder="25">
+      <navLabel>
+        <text>OBSERVANDO EL UNIVERSO</text>
+      </navLabel>
+      <content src="c-74Pag10.htm#observando-el-universo"/>
+    </navPoint>
+    <navPoint id="ua82773cf-2330-4e9c-ae4d-5bcc7f68d3e0" playOrder="26">
+      <navLabel>
+        <text>CONTROLAR LA COMPUTADORA CON LA MENTE</text>
+      </navLabel>
+      <content src="c-74Pag10.htm#controlar-la-computadora-con-la-mente"/>
+    </navPoint>
+    <navPoint id="u771dec27-ff64-4b91-a25d-5ea4f04ea57c" playOrder="27">
+      <navLabel>
+        <text>SUPERHUMANISMO</text>
+      </navLabel>
+      <content src="c-74Pag10.htm#superhumanismo"/>
+    </navPoint>
+    <navPoint id="u1e7cf776-8d53-4b4d-b857-29f96980b024" playOrder="28">
+      <navLabel>
+        <text>BREVE CRONOLOGIA DE LA ROBOTICA</text>
+      </navLabel>
+      <content src="c-74Pag10.htm#breve-cronologia-de-la-robotica"/>
+    </navPoint>
+    <navPoint id="u852abc7d-eaf5-43d2-8df6-d0bc446f391a" playOrder="30">
+      <navLabel>
+        <text>A C T U A L I D A D E N I N F O R M A T I C A</text>
+      </navLabel>
+      <content src="c-74Pag11.htm#a-c-t-u-a-l-i-d-a-d-e-n-i-n-f-o-r-m-a-t-i-c-a"/>
+    </navPoint>
+    <navPoint id="ufc0d948e-c44f-44ec-a874-f90959581102" playOrder="31">
+      <navLabel>
+        <text>CONTINUAN LOS ERRORES DE INTEL</text>
+      </navLabel>
+      <content src="c-74Pag11.htm#continuan-los-errores-de-intel"/>
+    </navPoint>
+    <navPoint id="u058132bf-4fcb-4856-905f-c169edbf094a" playOrder="32">
+      <navLabel>
+        <text>ASISTENTES INTELIGENTES</text>
+      </navLabel>
+      <content src="c-74Pag11.htm#asistentes-inteligentes"/>
+    </navPoint>
+    <navPoint id="u19fb6f7b-d475-4f87-86ed-4c48c6b5dab2" playOrder="33">
+      <navLabel>
+        <text>COMPUTADORA PARA POBRES</text>
+      </navLabel>
+      <content src="c-74Pag11.htm#computadora-para-pobres"/>
+    </navPoint>
+    <navPoint id="uaf6bf4ca-31b5-4bac-a522-208e15df79af" playOrder="34">
+      <navLabel>
+        <text>UN CASI BUG DE LA 486</text>
+      </navLabel>
+      <content src="c-74Pag11.htm#un-casi-bug-de-la-486"/>
+    </navPoint>
+    <navPoint id="u6788f5d7-bf73-4069-acf1-726dd67eb995" playOrder="35">
+      <navLabel>
+        <text>LENGUAJE ENSAMBLADOR 8086/8088 (Parte 2)</text>
+      </navLabel>
+      <content src="c-74Pag11.htm#lenguaje-ensamblador-8086-8088-parte-2"/>
+    </navPoint>
+    <navPoint id="ubd5c9343-76a8-40d1-b5ac-8d1e07abaf78" playOrder="36">
+      <navLabel>
+        <text>3. EL PROCESADOR 8086/8088</text>
+      </navLabel>
+      <content src="c-74Pag11.htm#el-procesador-8086-8088"/>
+    </navPoint>
+    <navPoint id="u06ac96bb-c45b-4248-acbc-3f377f390c6b" playOrder="37">
+      <navLabel>
+        <text>3.1. Los registros</text>
+      </navLabel>
+      <content src="c-74Pag11.htm#los-registros"/>
+    </navPoint>
+    <navPoint id="u6e0a30ce-b9b2-4267-a68c-77705f83e178" playOrder="38">
+      <navLabel>
+        <text>3.2. La Pila (stack)</text>
+      </navLabel>
+      <content src="c-74Pag11.htm#la-pila-stack"/>
+    </navPoint>
+    <navPoint id="uc5a1d243-f668-4e49-b4f2-0dc08fa10131" playOrder="39">
+      <navLabel>
+        <text>3.3. Interrupciones</text>
+      </navLabel>
+      <content src="c-74Pag11.htm#interrupciones"/>
+    </navPoint>
+    <navPoint id="ue2edfe91-1f88-48a9-8da9-b135e49163fb" playOrder="40">
+      <navLabel>
+        <text>4. SINTAXIS DEL ENSAMBLADOR</text>
+      </navLabel>
+      <content src="c-74Pag11.htm#sintaxis-del-ensamblador"/>
+    </navPoint>
+    <navPoint id="u61f9e6bc-8835-4e9b-9880-c7c68d881827" playOrder="41">
+      <navLabel>
+        <text>5. PROGRAMAS</text>
+      </navLabel>
+      <content src="c-74Pag11.htm#programas"/>
+    </navPoint>
+    <navPoint id="u0a5b2ec1-e161-47ad-8b5b-37df991c2d8f" playOrder="42">
+      <navLabel>
+        <text>5.1. Primer programa</text>
+      </navLabel>
+      <content src="c-74Pag11.htm#primer-programa"/>
+    </navPoint>
+    <navPoint id="u61a1e6c3-9fbc-4f36-87b8-6f1b135758b8" playOrder="43">
+      <navLabel>
+        <text>5.2. Compilación y encadenado</text>
+      </navLabel>
+      <content src="c-74Pag11.htm#compilacion-y-encadenado"/>
+    </navPoint>
+  </navMap>
+</ncx>

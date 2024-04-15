@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="e0c6c65a-1218-4339-9ec2-85d3ec62cedc" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 177</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ua32bbe2d-d253-4442-a4a9-aafd80c37697" playOrder="1">
+      <navLabel>
+        <text>Editorial: Dieciocho…</text>
+      </navLabel>
+      <content src="c-177Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u35ee4054-7461-449a-bb7c-7cb29a2f0f5b" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-177Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ufa08841a-1638-47f0-b129-b249341c06eb" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Fantasmas</text>
+      </navLabel>
+      <content src="c-177Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uf77aa495-99cd-4f85-b03c-d3f7af182ba3" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Deuda temporal</text>
+      </navLabel>
+      <content src="c-177Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u3df35a13-0a53-4fc8-b7cf-5197a5ad5404" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Héroe, La película (novela corta)</text>
+      </navLabel>
+      <content src="c-177Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ud05fb45a-adef-4471-9628-26a70fa3632f" playOrder="6">
+      <navLabel>
+        <text>Divulgación: Sables falsos</text>
+      </navLabel>
+      <content src="c-177Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uad1f3501-4b55-4577-9fb5-6c9f1337a763" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Réquiem para un Citroën</text>
+      </navLabel>
+      <content src="c-177Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uf9902a45-aa17-4fb1-9e9f-8b001b06143b" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Llama desnuda</text>
+      </navLabel>
+      <content src="c-177Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u0730762c-3810-48a8-9cd7-f081f40f89ad" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Si Marte falla…</text>
+      </navLabel>
+      <content src="c-177Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ufac95818-03dc-4dbf-a1ae-bb9ec73f1f74" playOrder="10">
+      <navLabel>
+        <text>Crónica: Reencuentro de personalidades de ACME</text>
+      </navLabel>
+      <content src="c-177Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u573d2e45-6b8e-4fe4-96a9-afb3d42bde15" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Angélica</text>
+      </navLabel>
+      <content src="c-177Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ub61f6b8a-8459-4eea-88e7-3b440a080726" playOrder="12">
+      <navLabel>
+        <text>Ficciones: El mayor poder (II)</text>
+      </navLabel>
+      <content src="c-177Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u7334d117-d19d-4e2e-8cec-3211be6a04b5" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Guantes blancos</text>
+      </navLabel>
+      <content src="c-177Pag13.htm"/>
+    </navPoint>
+    <navPoint id="uca6aa92d-3769-4003-a292-dfc2a0c313d4" playOrder="14">
+      <navLabel>
+        <text>Ficciones: Mensaje en el viento</text>
+      </navLabel>
+      <content src="c-177Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u2a1b2771-b204-4a6d-8446-a9fae2361a0b" playOrder="15">
+      <navLabel>
+        <text>Sección: AnaCrónicas</text>
+      </navLabel>
+      <content src="c-177Pag15.htm"/>
+    </navPoint>
+    <navPoint id="ub07cb6d1-7641-47e5-9c8c-da33ab806c1b" playOrder="16">
+      <navLabel>
+        <text>Anacrónicas: Adelantos exclusivos</text>
+      </navLabel>
+      <content src="c-177Pag16.htm"/>
+    </navPoint>
+    <navPoint id="ud6b15a23-a226-4f3b-8102-c3c05fe4021d" playOrder="17">
+      <navLabel>
+        <text>Anacrónicas: Entrevista paradigmatemática</text>
+      </navLabel>
+      <content src="c-177Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u44380edc-7010-48f1-afbf-80ac5ca7c273" playOrder="18">
+      <navLabel>
+        <text>Anacrónicas: La güelta del patrón (2)</text>
+      </navLabel>
+      <content src="c-177Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u06134039-a23e-474f-bd1c-84b07cf1ecba" playOrder="19">
+      <navLabel>
+        <text>Historia: Axxón: Dieciocho años de grandes hitos</text>
+      </navLabel>
+      <content src="c-177Pag19.htm"/>
+    </navPoint>
+    <navPoint id="u4e39f9c2-9028-4f62-a195-30ad3265ebc8" playOrder="20">
+      <navLabel>
+        <text>Axxóncine: Imperio</text>
+      </navLabel>
+      <content src="c-177Pag20.htm"/>
+    </navPoint>
+    <navPoint id="u32c7a82d-1b37-4f7b-9ac7-ac8e7850de24" playOrder="21">
+      <navLabel>
+        <text>Clásico: El horror de las alturas</text>
+      </navLabel>
+      <content src="c-177Pag21.htm"/>
+    </navPoint>
+    <navPoint id="u2f5cf513-91b0-436c-9d75-520031f1b1db" playOrder="22">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-177Pag22.htm"/>
+    </navPoint>
+    <navPoint id="u166be4dd-07a1-45be-b101-6dcb6bf48dea" playOrder="23">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

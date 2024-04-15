@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="586a7811-8114-4f39-aa04-1beef8f2f500" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.13.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 31</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ustBNQM8COx7iCeulw9eTK6" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 31</text>
+      </navLabel>
+      <content src="c-31Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uaDfnXApd9QlyEqOkBNG8L5" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Los que danzan en la bruma</text>
+      </navLabel>
+      <content src="c-31Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uA4GZqPhqi8ZYAEpqn3Mng3" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Bienvenida a la jaula de los monos</text>
+      </navLabel>
+      <content src="c-31Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ubbHwIjtV2e4KwjqINgzM2G" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Raíz 21 en cierre</text>
+      </navLabel>
+      <content src="c-31Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u7XMHnO56ReSEQ4hRK6mT86" playOrder="5">
+      <navLabel>
+        <text>Ensayo: La ciencia-ficción en la música</text>
+      </navLabel>
+      <content src="c-31Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ubr7IJSjeHbDrCCtyqhtAqG" playOrder="6">
+      <navLabel>
+        <text>Correo: Correo 31</text>
+      </navLabel>
+      <content src="c-31Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uUob23J7Bit8B378d3gWPh2" playOrder="7">
+      <navLabel>
+        <text>Ficciones: El territorio de las sombras</text>
+      </navLabel>
+      <content src="c-31Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ucGm9TG8gdKtljBaj7AJo9D" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Libertad 3 Sur</text>
+      </navLabel>
+      <content src="c-31Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uTxRLA8KI2bDAVYGYYeZOm3" playOrder="9">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad (8)</text>
+      </navLabel>
+      <content src="c-31Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uZOwL4CTLGReCzyDKj7Vd6H" playOrder="10">
+      <navLabel>
+        <text>Bits: Michaelangelo no es un bicho (nosotros tampoco)</text>
+      </navLabel>
+      <content src="c-31Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uVbWyTTxpNQKKD777U4qVFB" playOrder="11">
+      <navLabel>
+        <text>Anticipos: En próximos números de Axxón</text>
+      </navLabel>
+      <content src="c-31Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ukiuL5592bvqPFyhba9TaMA" playOrder="12">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-31Pag12.htm"/>
+    </navPoint>
+    <navPoint id="uMnffYTl6ymdjK3fb4vdfG4" playOrder="13">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

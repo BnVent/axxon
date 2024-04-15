@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="2c3f5fca-e676-4490-8baa-6a175710548a" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.25.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 96</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ucb9f4af7-bf2d-4d27-921b-5dabb8935c8d" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-96Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u22f4ac3c-d0ab-4060-b1b7-c6ea6157a36b" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 96</text>
+      </navLabel>
+      <content src="c-96Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u751de0fc-e6bc-4341-b4f7-35ce03e1499b" playOrder="3">
+      <navLabel>
+        <text>Presentación: Presentación</text>
+      </navLabel>
+      <content src="c-96Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u5fc2e588-017e-44b0-8105-007a4c05fdff" playOrder="4">
+      <navLabel>
+        <text>Libro: La Argentina premonitoria: ficciones y reflexiones sobre El Eternauta, de Hector Germán Oeste</text>
+      </navLabel>
+      <content src="c-96Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ubd0a8030-b8bd-4f6f-a4fe-e1d8b3c45168" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El viejo</text>
+      </navLabel>
+      <content src="c-96Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ua97488b6-9c72-412e-8066-c9935740cfc0" playOrder="6">
+      <navLabel>
+        <text>Libro: La Argentina premonitoria (2)</text>
+      </navLabel>
+      <content src="c-96Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u8e9b7fa5-c34f-4dfa-a759-4960396875ff" playOrder="7">
+      <navLabel>
+        <text>Monografía: La Argentina premonitoria en el Eternauta de Hector Germán Oesterheld</text>
+      </navLabel>
+      <content src="c-96Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u7355e150-230c-4ddb-b1db-a6076da6c280" playOrder="8">
+      <navLabel>
+        <text>Libro: La Argentina premonitoria (3)</text>
+      </navLabel>
+      <content src="c-96Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uce3d8451-68f3-4236-a622-bd6786cca05f" playOrder="9">
+      <navLabel>
+        <text>Guión: El Eternauta: Los Versos más tristes (basado en el personaje de Héctor G. Oesterheld)</text>
+      </navLabel>
+      <content src="c-96Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u34354f76-c28b-4d44-90d6-d31370ae82e1" playOrder="10">
+      <navLabel>
+        <text>Información: Actividad de la Comisión de Homenaje a Héctor G. Oesterheld</text>
+      </navLabel>
+      <content src="c-96Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u3d20cca1-fd54-4e2b-8e31-275299b261a5" playOrder="11">
+      <navLabel>
+        <text>Carta Abierta: El viejo Héctor</text>
+      </navLabel>
+      <content src="c-96Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u576e3dc6-5c36-43ee-8f62-b639dbe7f39b" playOrder="12">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-96Pag12.htm"/>
+    </navPoint>
+    <navPoint id="ucc865d51-8afc-4116-8405-0abbddf03fc1" playOrder="13">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-96Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u38187bc5-f5eb-41d6-8b9f-ffefd3733392" playOrder="14">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="64acb09f-1bb4-48ff-aec4-ee6cf279defc" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.17.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 126</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u572ee8ce-e02e-4a9f-bcb1-6d6ac80f2916" playOrder="1">
+      <navLabel>
+        <text>Editorial: Una mutación</text>
+      </navLabel>
+      <content src="c-126Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ub35e9210-3149-4eaa-a2a7-880ba712a325" playOrder="2">
+      <navLabel>
+        <text>Correo: Correo 126</text>
+      </navLabel>
+      <content src="c-126Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uc56431ae-fa57-4a98-8f96-48f6744a3087" playOrder="3">
+      <navLabel>
+        <text>Portfolio: Galería de Arte</text>
+      </navLabel>
+      <content src="c-126Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ua7af25e2-b700-4982-a68f-add44adec781" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Los gatos más grandes</text>
+      </navLabel>
+      <content src="c-126Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u092555c5-e929-40b9-94fd-42561491db77" playOrder="5">
+      <navLabel>
+        <text>Divulgación: Pandora, gata tortuga</text>
+      </navLabel>
+      <content src="c-126Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ud55e0579-8ae0-4ff3-9b2f-ad6c4a171ab2" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Recuerdos puntuales</text>
+      </navLabel>
+      <content src="c-126Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uc845a6a3-1332-4051-ba84-18a2294e46e9" playOrder="7">
+      <navLabel>
+        <text>Artículo: El sueño de los dioses</text>
+      </navLabel>
+      <content src="c-126Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ucd7d2cbd-d93c-450d-8f4a-94bb5f17ed9b" playOrder="8">
+      <navLabel>
+        <text>Recreaciones: El Gaucho de los Anillos (7)</text>
+      </navLabel>
+      <content src="c-126Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u84cb8b5b-e507-4d49-ab0d-ce7a627618c0" playOrder="9">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

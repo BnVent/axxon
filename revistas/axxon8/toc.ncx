@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="b1385523-5c45-4887-9763-72ba0d646df0" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.44.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 8</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uknR8VL8OxsvcaODGzC62rA" playOrder="1">
+      <navLabel>
+        <text>Editorial: La fiesta de Axxón</text>
+      </navLabel>
+      <content src="c-8Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uLSJFCJ8zzIQQUsi93AGt6B" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Plenipotencia</text>
+      </navLabel>
+      <content src="c-8Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u8c6vz7NJxPF4Th4Uzqhek6" playOrder="3">
+      <navLabel>
+        <text>Ficciones: ¿Dónde estoy?</text>
+      </navLabel>
+      <content src="c-8Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uyfNICrNP2a26OIZQzJ4PX9" playOrder="4">
+      <navLabel>
+        <text>Ficciones: La otra ribera</text>
+      </navLabel>
+      <content src="c-8Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uN6MU6HypmxibfTYsicCqvB" playOrder="5">
+      <navLabel>
+        <text>Sección: Disquisiciones Inocuas</text>
+      </navLabel>
+      <content src="c-8Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ufi3UTbkggpvSKm5NDnyHX2" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Yo, Yo y siempre Yo</text>
+      </navLabel>
+      <content src="c-8Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uZbZT5Xtk54mlBt2WV9vvOG" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Uno de mis giros</text>
+      </navLabel>
+      <content src="c-8Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uMELeLOVCiSDwQL6vPbuwRH" playOrder="8">
+      <navLabel>
+        <text>Ensayo: Highlander II: ¿El futuro de Buenos Aires?</text>
+      </navLabel>
+      <content src="c-8Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uhkN54BHboQzBMKV7kSKnSD" playOrder="9">
+      <navLabel>
+        <text>Miscelánea: Agradecimientos</text>
+      </navLabel>
+      <content src="c-8Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uaOilEI9lbmQREzRgEpddzB" playOrder="10">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-8Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u4FoCZgNPXXaHNdKDzuswH6" playOrder="11">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

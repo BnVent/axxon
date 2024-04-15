@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="d080d997-836b-478a-9fc4-c33ae0b02739" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.14.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 67</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u855a2ed5-568a-440c-9769-0b36d947e7e9" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 67</text>
+      </navLabel>
+      <content src="c-67Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ud73ceae5-1a8e-4fb7-b780-3661bc8f654d" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Atrapando ovejas en la red interactiva</text>
+      </navLabel>
+      <content src="c-67Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ub3720c7b-a587-4a87-88e1-edc28ae08798" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Ardilla</text>
+      </navLabel>
+      <content src="c-67Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uff13da5d-1525-40a6-a338-08e3fc6ce467" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El hombre que conoce a todo el mundo</text>
+      </navLabel>
+      <content src="c-67Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ue003deb2-497d-4640-9386-6b4080910ac2" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Tiempo de cambios (guión radiofónico)</text>
+      </navLabel>
+      <content src="c-67Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u52376d17-00c1-41b5-b7c0-da40df31857a" playOrder="6">
+      <navLabel>
+        <text>Dossier: Sergio Gaut vel Hartman: Biografía, Bibliografía y Entrevista</text>
+      </navLabel>
+      <content src="c-67Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uaa81e48e-173f-4d53-b3fc-e38675d8cbcd" playOrder="7">
+      <navLabel>
+        <text>Ficciones: El moribundo y Lencia</text>
+      </navLabel>
+      <content src="c-67Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ue8729b30-6fc9-4b97-9ef2-2ec4a894218a" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Hacia abajo</text>
+      </navLabel>
+      <content src="c-67Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u350db28c-a11d-4dd4-ade3-7b2ba7a4f2a9" playOrder="9">
+      <navLabel>
+        <text>Ficciones: El deudor</text>
+      </navLabel>
+      <content src="c-67Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u85753c6f-9236-402f-8a65-6256f05945b5" playOrder="10">
+      <navLabel>
+        <text>Sección: El portal fantástico</text>
+      </navLabel>
+      <content src="c-67Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u2c3093dd-f593-4913-8014-36e30e3092ee" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Helena por Azzrhinn</text>
+      </navLabel>
+      <content src="c-67Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u517b97d7-7cd9-4f54-82c9-5b7df4adf686" playOrder="12">
+      <navLabel>
+        <text>Sección: Tour macabro</text>
+      </navLabel>
+      <content src="c-67Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u580a98f3-5f1e-4d67-baad-ec46439716b7" playOrder="13">
+      <navLabel>
+        <text>Ficciones: El Gregory de Gladys</text>
+      </navLabel>
+      <content src="c-67Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u5c9f6495-514b-4fe3-9a51-c5b0185b6c1e" playOrder="14">
+      <navLabel>
+        <text>Secciones: Crónicas desde la garrafa virtual (XVII)</text>
+      </navLabel>
+      <content src="c-67Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u8edf2b58-6a88-4443-8ca7-ece3a4af6b9b" playOrder="15">
+      <navLabel>
+        <text>Correo: Correo 67</text>
+      </navLabel>
+      <content src="c-67Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u67063441-cec6-435f-bd58-4dcee54e07b4" playOrder="16">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad</text>
+      </navLabel>
+      <content src="c-67Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u9da1135c-eb04-45aa-aa5f-9adf4a89fb81" playOrder="17">
+      <navLabel>
+        <text>Sección: ET AL Virtual (11)</text>
+      </navLabel>
+      <content src="c-67Pag17.htm"/>
+    </navPoint>
+    <navPoint id="ucb20adbc-5f86-4bc0-b99c-f7296838dbcf" playOrder="18">
+      <navLabel>
+        <text>Sección: Bits</text>
+      </navLabel>
+      <content src="c-67Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u29799272-52b1-441f-b0ca-1715f9aeeaa0" playOrder="19">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-67Pag19.htm"/>
+    </navPoint>
+    <navPoint id="u6dd43375-bf62-40a6-8995-082e55c82db3" playOrder="20">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-67Pag20.htm"/>
+    </navPoint>
+    <navPoint id="u42919434-4312-49c5-b1c0-2899f35090bd" playOrder="21">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

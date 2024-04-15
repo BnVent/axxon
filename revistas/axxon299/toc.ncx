@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta name="dtb:uid" content="37378455-53d7-400f-961e-84c4134d93a1"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (5.25.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Axxón 299</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uEOxk3NgwMEWakzDZ7ihuqF" playOrder="1">
+      <navLabel>
+        <text>Editorial: Pasito a pasito</text>
+      </navLabel>
+      <content src="c-299Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ucUX2gACKQURZIwVkL2eWo7" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Paciente externo</text>
+      </navLabel>
+      <content src="c-299Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uDIw9nfguuMgKE6YzMGJN8D" playOrder="3">
+      <navLabel>
+        <text>Ficciones: ¿Es acaso una perla?</text>
+      </navLabel>
+      <content src="c-299Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uj9w7LsXWm3LyL7sSXPVrcF" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Hasta que llegue una luz roja</text>
+      </navLabel>
+      <content src="c-299Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uMR4yHY6uj6eoKd7lXCQvpC" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El sueño de Kirot</text>
+      </navLabel>
+      <content src="c-299Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uOO7rU6w44XcjjlXbgBZUm6" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Nuestra safeword is Miau</text>
+      </navLabel>
+      <content src="c-299Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u6jcI8mzuktpmhgOTo6z3f7" playOrder="7">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-299Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ufbkvhhxLUj35OVcmOGuHH7" playOrder="8">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

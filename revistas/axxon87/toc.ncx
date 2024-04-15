@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="d7bcbf4a-da7b-4697-898b-8171f14bcfa8" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.42)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 87</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u00b5244e-77f1-48b3-b785-51dc8b3cd2c6" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-87Pag01.htm"/>
+    </navPoint>
+    <navPoint id="udcce7909-6be0-4501-a0ab-89f80a5f914b" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 86</text>
+      </navLabel>
+      <content src="c-87Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ue94eb2ca-bdcc-487b-b022-15fe0597f887" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El secreto de los gatos</text>
+      </navLabel>
+      <content src="c-87Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u480b3e6e-8d6a-4f8d-88f9-5cd6e775342b" playOrder="4">
+      <navLabel>
+        <text>Sección: El Taller de Melquíades - Presentación</text>
+      </navLabel>
+      <content src="c-87Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ue668692a-4651-4464-8cca-b42574cf6df4" playOrder="5">
+      <navLabel>
+        <text>Ficciones: En la pradera</text>
+      </navLabel>
+      <content src="c-87Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uea3bced8-630b-4e52-9ec8-484188a989f7" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Paraisos Artificiales, S.A.</text>
+      </navLabel>
+      <content src="c-87Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uf86f53dc-61eb-4467-8577-16aa2f53eb7c" playOrder="7">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual</text>
+      </navLabel>
+      <content src="c-87Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u9e1db852-c37a-46c2-9afa-b141bc2aaa16" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Un besito</text>
+      </navLabel>
+      <content src="c-87Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u069bbbdf-83ed-4afe-9432-e74a4d5eb49d" playOrder="9">
+      <navLabel>
+        <text>Ficciones: El sueño de Hal</text>
+      </navLabel>
+      <content src="c-87Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u3ca58d1f-898b-4bac-880a-4d1d1519c646" playOrder="10">
+      <navLabel>
+        <text>Sección: Tour Macabro</text>
+      </navLabel>
+      <content src="c-87Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uafb84d15-232e-4b66-807d-01f8ee863311" playOrder="11">
+      <navLabel>
+        <text>Ficciones: La extraña muerte de mi amigo el cadáver</text>
+      </navLabel>
+      <content src="c-87Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ufc82f948-a3a9-4ec1-9825-2ed49e4f56c8" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Frankenstein bastardo</text>
+      </navLabel>
+      <content src="c-87Pag12.htm"/>
+    </navPoint>
+    <navPoint id="ub6c54fcb-5925-4d07-aaa9-922ce7299b88" playOrder="13">
+      <navLabel>
+        <text>Correo: Correo 87</text>
+      </navLabel>
+      <content src="c-87Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u68c8b0a7-afdf-4078-b30b-ab0c1dea3b9d" playOrder="14">
+      <navLabel>
+        <text>Sección: La doble hélice</text>
+      </navLabel>
+      <content src="c-87Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u1c32d922-8e54-4435-bc57-4ea7a7db51cb" playOrder="19">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-87Pag15.htm"/>
+    </navPoint>
+    <navPoint id="ue477dc4e-c975-43b2-8e48-2411d108616c" playOrder="20">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-87Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u69708d30-18f1-483b-8190-a055c2006dd1" playOrder="21">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="ue0eff3fb-1667-4c34-bc28-1991d8f0f7a8" playOrder="15">
+      <navLabel>
+        <text>[1]</text>
+      </navLabel>
+      <content src="c-87Pag14.htm#id5"/>
+    </navPoint>
+    <navPoint id="u9a4cabdb-c681-4696-9bab-aba32f4830d0" playOrder="16">
+      <navLabel>
+        <text>[2]</text>
+      </navLabel>
+      <content src="c-87Pag14.htm#id6"/>
+    </navPoint>
+    <navPoint id="uff0dc40f-89b8-4cdf-84df-95a6eca3225d" playOrder="17">
+      <navLabel>
+        <text>[3]</text>
+      </navLabel>
+      <content src="c-87Pag14.htm#id7"/>
+    </navPoint>
+    <navPoint id="u26983300-f48e-41e4-a71f-6c76b5a8edea" playOrder="18">
+      <navLabel>
+        <text>[4]</text>
+      </navLabel>
+      <content src="c-87Pag14.htm#id8"/>
+    </navPoint>
+  </navMap>
+</ncx>

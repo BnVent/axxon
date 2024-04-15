@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="2b1316e6-3435-4cc2-8d2a-b32820560956" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.25)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 223</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="e935b364-0c9b-4404-970d-d867eb418d2c" playOrder="1">
+      <navLabel>
+        <text>Ficciones - Nuestra Señora de los Donores</text>
+      </navLabel>
+      <content src="c-223Pag01.htm"/>
+    </navPoint>
+    <navPoint id="01837bdd-92af-4324-b03b-d21f73cf2b3f" playOrder="2">
+      <navLabel>
+        <text>Ficciones - Charlas en el purgatorio</text>
+      </navLabel>
+      <content src="c-223Pag02.htm"/>
+    </navPoint>
+    <navPoint id="371dc8d5-4106-44b2-8943-d81fac0237eb" playOrder="3">
+      <navLabel>
+        <text>Ficciones - Escenas de la presidencia</text>
+      </navLabel>
+      <content src="c-223Pag03.htm"/>
+    </navPoint>
+    <navPoint id="81345734-9b05-4258-ade8-0d5bf489968d" playOrder="4">
+      <navLabel>
+        <text>Ficciones - J</text>
+      </navLabel>
+      <content src="c-223Pag04.htm"/>
+    </navPoint>
+    <navPoint id="73477cb2-3e87-45de-be6b-9571a805e345" playOrder="5">
+      <navLabel>
+        <text>Ficciones - Los jardines de Heian</text>
+      </navLabel>
+      <content src="c-223Pag05.htm"/>
+    </navPoint>
+    <navPoint id="7dafce1a-b49b-45a6-ab74-1a5a9d3f89d6" playOrder="6">
+      <navLabel>
+        <text>Ficciones - La sociedad de los Ovos</text>
+      </navLabel>
+      <content src="c-223Pag06.htm"/>
+    </navPoint>
+    <navPoint id="64a41a8c-d7e8-4b1b-90c4-85f7567f3561" playOrder="7">
+      <navLabel>
+        <text>Ficciones - Al otro lado de la llanura</text>
+      </navLabel>
+      <content src="c-223Pag07.htm"/>
+    </navPoint>
+    <navPoint id="5261921a-0ba7-46dd-abc5-72e075ba51dd" playOrder="8">
+      <navLabel>
+        <text>Ficciones - Selección natural</text>
+      </navLabel>
+      <content src="c-223Pag08.htm"/>
+    </navPoint>
+    <navPoint id="f3e2a560-f303-4cbe-9fdd-2c47aa6dde6f" playOrder="9">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="35312491-2635-431b-9262-2f9acf646012" playOrder="9">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/223/cuento1ilus1.htm"/>
+    </navPoint>
+    <navPoint id="1ab88710-163d-426c-abd8-461b4a17ebba" playOrder="10">
+      <navLabel>
+        <text>PAREJA PERFECTA</text>
+      </navLabel>
+      <content src="/rev/"/>
+    </navPoint>
+    <navPoint id="8e6a2420-f29a-4aab-969c-08437278a6aa" playOrder="11">
+      <navLabel>
+        <text>NO ME MIREN</text>
+      </navLabel>
+      <content src="/rev/154/c-154cuento4.htm"/>
+    </navPoint>
+    <navPoint id="b497f2b0-ce9d-41b4-98b9-4e0d5dc8b376" playOrder="12">
+      <navLabel>
+        <text>LA PICAZÓN</text>
+      </navLabel>
+      <content src="/rev/153/c-153cuento9.htm#7"/>
+    </navPoint>
+    <navPoint id="ecd7a0bd-7e40-44a7-9f9f-5ee5dcdf663e" playOrder="13">
+      <navLabel>
+        <text>SIN NOMBRE</text>
+      </navLabel>
+      <content src="/rev/146/c-146Cuento1.htm"/>
+    </navPoint>
+    <navPoint id="1825b756-f61a-4d2b-aa61-a59687a2e40d" playOrder="14">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/223/cuento2ilus1.htm"/>
+    </navPoint>
+    <navPoint id="b79212e0-9237-44f1-ab84-283c683f72ea" playOrder="15">
+      <navLabel>
+        <text>FANTASMAS INCOMPRENDIDOS</text>
+      </navLabel>
+      <content src="/rev/#4"/>
+    </navPoint>
+    <navPoint id="f9390304-a44a-481e-a05f-eed8d9900783" playOrder="16">
+      <navLabel>
+        <text>MARIO Y EL GATO</text>
+      </navLabel>
+      <content src="/rev/#11"/>
+    </navPoint>
+    <navPoint id="6063cc14-6d70-4f0c-8e08-aaefcc0c5888" playOrder="17">
+      <navLabel>
+        <text>LOS LOCOS</text>
+      </navLabel>
+      <content src="/rev/#13"/>
+    </navPoint>
+    <navPoint id="b80714b6-57df-4d91-869b-b8304560c061" playOrder="18">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/223/cuento3ilus1.htm"/>
+    </navPoint>
+    <navPoint id="d3e07617-0870-46d4-a06c-57903de9d6bc" playOrder="19">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/223/cuento3ilus2.htm"/>
+    </navPoint>
+    <navPoint id="82d50bb6-ebe0-49d6-a019-4d8170cfa8bb" playOrder="20">
+      <navLabel>
+        <text>TERCO</text>
+      </navLabel>
+      <content src="/rev/198/c-198cuento6.htm#10"/>
+    </navPoint>
+    <navPoint id="acb991fb-269c-4d93-85dc-e10ef68042b9" playOrder="21">
+      <navLabel>
+        <text>PUDO SER</text>
+      </navLabel>
+      <content src="/rev/199/c-199cuento5.htm#11"/>
+    </navPoint>
+    <navPoint id="4fbfc0cc-4ac3-4790-a055-6c1fb9cc2d0f" playOrder="22">
+      <navLabel>
+        <text>MÍNIMA EPOPEYA</text>
+      </navLabel>
+      <content src="/rev/#2"/>
+    </navPoint>
+    <navPoint id="e538e0fb-c27d-422b-93fc-d777dd30371d" playOrder="23">
+      <navLabel>
+        <text>INVASIÓN</text>
+      </navLabel>
+      <content src="/rev/#8"/>
+    </navPoint>
+    <navPoint id="17f3bdb2-1b04-48eb-87da-29a8f135d4a1" playOrder="24">
+      <navLabel>
+        <text>PIONEROS DEL ESPACIO</text>
+      </navLabel>
+      <content src="/rev/#3"/>
+    </navPoint>
+    <navPoint id="6cc08e0d-22d1-484b-b5cc-6fc83184d021" playOrder="25">
+      <navLabel>
+        <text>MALDITOS</text>
+      </navLabel>
+      <content src="/rev/#5"/>
+    </navPoint>
+    <navPoint id="04aa1f99-f384-4faf-9343-bf394c70c49c" playOrder="26">
+      <navLabel>
+        <text>LA VACA NO ES UNA VACA</text>
+      </navLabel>
+      <content src="/rev/198/c-198cuento7.htm"/>
+    </navPoint>
+    <navPoint id="13c17f1a-7e58-4779-aa1f-00e0ac36e573" playOrder="27">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/223/cuento4ilus1.htm"/>
+    </navPoint>
+    <navPoint id="e7f0cc6a-375a-48bc-af15-42d69877c21d" playOrder="28">
+      <navLabel>
+        <text>EL LÁNTURA</text>
+      </navLabel>
+      <content src="/rev/167/c-167cuento5.htm#18"/>
+    </navPoint>
+    <navPoint id="ab1bbc7b-ea71-4660-9d25-7c35c360cf23" playOrder="29">
+      <navLabel>
+        <text>EL BRILLO DEL MAL</text>
+      </navLabel>
+      <content src="/rev/168/c-168cuento15.htm"/>
+    </navPoint>
+    <navPoint id="0cf116cf-e3c8-49a6-b3b4-91217a93acd9" playOrder="30">
+      <navLabel>
+        <text>EL IMPERIO CAOS</text>
+      </navLabel>
+      <content src="/rev/173/c-173cuento16.htm"/>
+    </navPoint>
+    <navPoint id="0fc412a2-3800-4093-b669-998ebd7b6825" playOrder="31">
+      <navLabel>
+        <text>NUEVO COMIENZO</text>
+      </navLabel>
+      <content src="/rev/174/c-174axxcr1.htm#24"/>
+    </navPoint>
+    <navPoint id="6257759a-8fc4-4c19-9808-22ef9c1d6253" playOrder="32">
+      <navLabel>
+        <text>COCHES AZULES</text>
+      </navLabel>
+      <content src="/rev/197/c-197cuento1.htm"/>
+    </navPoint>
+    <navPoint id="cd383975-a5c1-4247-90b9-38cdedb74b3f" playOrder="33">
+      <navLabel>
+        <text>LOS NUEVOS DESCUBRIMIENTOS PERDIDOS: LOS HOLOGRAMAS</text>
+      </navLabel>
+      <content src="/rev/199/c-199cuento5.htm#12"/>
+    </navPoint>
+    <navPoint id="170e9428-835e-403f-8daa-f9b95a4ebecd" playOrder="34">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/223/cuento5ilus1.htm"/>
+    </navPoint>
+    <navPoint id="e3f9dc38-d6af-4274-a462-672ba7cdbca0" playOrder="35">
+      <navLabel>
+        <text>EL ENIGMA HUMANO 1921514915</text>
+      </navLabel>
+      <content src="/rev/#10"/>
+    </navPoint>
+    <navPoint id="4e810e5d-8f4f-4908-b120-021bae3207f4" playOrder="36">
+      <navLabel>
+        <text>VERGÜENZA</text>
+      </navLabel>
+      <content src="/rev/#9"/>
+    </navPoint>
+    <navPoint id="efc92a70-306b-46d7-afb8-7dd394cab4c6" playOrder="37">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/223/cuento6ilus1.htm"/>
+    </navPoint>
+    <navPoint id="12f4b32c-191d-4cf1-b359-6359c518e5c4" playOrder="38">
+      <navLabel>
+        <text>CABEZA CABLEADA</text>
+      </navLabel>
+      <content src="/rev/182/c-182cuento7.htm"/>
+    </navPoint>
+    <navPoint id="70bcb780-6ba3-4a9e-8664-83315df8388a" playOrder="39">
+      <navLabel>
+        <text>ZETA, EL POETA DE LAS CON-SOLAS</text>
+      </navLabel>
+      <content src="/rev/197/c-197cuento5.htm"/>
+    </navPoint>
+    <navPoint id="c6c5892c-7f70-4954-81ea-a7b5c1562dc1" playOrder="40">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/223/cuento7ilus1.htm"/>
+    </navPoint>
+    <navPoint id="8d70cd1e-d459-46b4-b94c-7d55994ab657" playOrder="41">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/223/cuento8ilus1.htm"/>
+    </navPoint>
+    <navPoint id="fb084558-3ccf-4dff-9c40-60233a02d0cd" playOrder="42">
+      <navLabel>
+        <text>LA HÉLICE</text>
+      </navLabel>
+      <content src="/rev/166/c-166cuento8.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

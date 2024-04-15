@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="a0c82f6d-d021-4ab7-8bdd-25040b48a1b9" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.12)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 57</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="17f56588-5033-4f1e-a346-dd552b14dc39" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-57Pag01.htm"/>
+    </navPoint>
+    <navPoint id="a3cbb055-3b70-41da-b813-525a2a878dd0" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 57</text>
+      </navLabel>
+      <content src="c-57Pag02.htm"/>
+    </navPoint>
+    <navPoint id="de89d324-5966-4933-9775-d1305fa746a5" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Cruzado</text>
+      </navLabel>
+      <content src="c-57Pag03.htm"/>
+    </navPoint>
+    <navPoint id="3ce833e3-4ed6-4378-85d1-875ab6da8987" playOrder="4">
+      <navLabel>
+        <text>Sección: Tour Macabro</text>
+      </navLabel>
+      <content src="c-57Pag04.htm"/>
+    </navPoint>
+    <navPoint id="c3c5a497-572e-4d3d-8e66-b31586dc07a0" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El monte de las ánimas</text>
+      </navLabel>
+      <content src="c-57Pag05.htm"/>
+    </navPoint>
+    <navPoint id="4316af43-0194-4c31-955e-814aa5ad9522" playOrder="6">
+      <navLabel>
+        <text>Nota: Revistas cyberpunk</text>
+      </navLabel>
+      <content src="c-57Pag06.htm"/>
+    </navPoint>
+    <navPoint id="a2498e3e-8d25-42a9-89ed-8a0f22bb4e65" playOrder="7">
+      <navLabel>
+        <text>Sección: El Portal Fantástico (5)</text>
+      </navLabel>
+      <content src="c-57Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ddd81cea-dc7c-4055-8ecf-0e7f476c940c" playOrder="8">
+      <navLabel>
+        <text>Ficciones: El amor es un numero imaginario</text>
+      </navLabel>
+      <content src="c-57Pag08.htm"/>
+    </navPoint>
+    <navPoint id="7ff85a8e-e23c-4998-88b7-17b21ef06718" playOrder="9">
+      <navLabel>
+        <text>Sección: La aventura es la aventura (Jornada III)</text>
+      </navLabel>
+      <content src="c-57Pag09.htm"/>
+    </navPoint>
+    <navPoint id="9b7552f7-b596-4834-9ccc-8b21c3646fdc" playOrder="10">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual (VIII)</text>
+      </navLabel>
+      <content src="c-57Pag10.htm"/>
+    </navPoint>
+    <navPoint id="b453e11b-0bec-4aa8-a663-f74eda51ac51" playOrder="11">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad (30)</text>
+      </navLabel>
+      <content src="c-57Pag11.htm"/>
+    </navPoint>
+    <navPoint id="e18565e6-dcd7-4e0c-8b55-6649183a3a34" playOrder="13">
+      <navLabel>
+        <text>Sección: ET AL Virtual (nº 1) Información sobre CF</text>
+      </navLabel>
+      <content src="c-57Pag12.htm"/>
+    </navPoint>
+    <navPoint id="0f60a461-df1d-45db-9a28-7a58addf6216" playOrder="47">
+      <navLabel>
+        <text>Correo: Correo 57</text>
+      </navLabel>
+      <content src="c-57Pag13.htm"/>
+    </navPoint>
+    <navPoint id="e7dc63eb-bd01-4dc7-a213-18403067a569" playOrder="48">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-57Pag14.htm"/>
+    </navPoint>
+    <navPoint id="2fcc6bb0-56cb-4d25-9b74-1bd12c039acb" playOrder="49">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-57Pag15.htm"/>
+    </navPoint>
+    <navPoint id="8086789c-5700-40a0-91e3-548fb13de3d3" playOrder="50">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="7e8c750c-5dc3-4f58-aca4-2b4a43210f45" playOrder="12">
+      <navLabel>
+        <text>[1]</text>
+      </navLabel>
+      <content src="c-57Pag11.htm#id2"/>
+    </navPoint>
+    <navPoint id="93c98106-8c21-480d-b3b2-89dec081462f" playOrder="14">
+      <navLabel>
+        <text>Premio Nebula 2 EE.UU.</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#premio-nebula-2-ee-uu"/>
+    </navPoint>
+    <navPoint id="dbf7ae58-5e6b-49f3-b624-5e05ecd33a26" playOrder="15">
+      <navLabel>
+        <text>Premio Hugo 2 EE.UU.</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#premio-hugo-2-ee-uu"/>
+    </navPoint>
+    <navPoint id="c0175807-50e4-4fc2-9cee-ff1eb15992e1" playOrder="16">
+      <navLabel>
+        <text>Premio Philip K. Dick 2 EE.UU.</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#premio-philip-k-dick-2-ee-uu"/>
+    </navPoint>
+    <navPoint id="e9a5e628-03e9-458d-9f57-fd93492e6fae" playOrder="17">
+      <navLabel>
+        <text>Premio BSFA 5 GRAN BRETAÑA</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#premio-bsfa-5-gran-bretana"/>
+    </navPoint>
+    <navPoint id="064330c4-ff1b-4bc7-9a9a-836e148b50f7" playOrder="18">
+      <navLabel>
+        <text>Premio Bram Stoker 2 EE.UU.</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#premio-bram-stoker-2-ee-uu"/>
+    </navPoint>
+    <navPoint id="179279a2-cbbb-47c1-aca9-b1eb3997d8d3" playOrder="19">
+      <navLabel>
+        <text>Premio Arthur C. Clarke 5 GRAN BRETAÑA</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#premio-arthur-c-clarke-5-gran-bretana"/>
+    </navPoint>
+    <navPoint id="37e3b78a-cf1b-476d-aedd-d04fc3f25907" playOrder="20">
+      <navLabel>
+        <text>Premio UPC 6 ESPAÑA</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#premio-upc-6-espana"/>
+    </navPoint>
+    <navPoint id="701992e0-b28d-478a-bcd4-332e5c704bf5" playOrder="21">
+      <navLabel>
+        <text>Grand Prix de l’Imaginaire 7 FRANCIA</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#grand-prix-de-l-imaginaire-7-francia"/>
+    </navPoint>
+    <navPoint id="759c36bd-0164-4d36-99b3-b94b998b65bb" playOrder="22">
+      <navLabel>
+        <text>Premio Ditmar 8 AUSTRALIA</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#premio-ditmar-8-australia"/>
+    </navPoint>
+    <navPoint id="8ee9b7c6-69ae-440e-9800-9e52ab5d3a28" playOrder="23">
+      <navLabel>
+        <text>AUTORES - Cápsulas</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#autores-capsulas"/>
+    </navPoint>
+    <navPoint id="fc36e98e-eb1b-4baf-a438-c29ebebf5587" playOrder="24">
+      <navLabel>
+        <text>LIBROS</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#libros"/>
+    </navPoint>
+    <navPoint id="d5404b47-f4d3-4a9c-9afa-ddad7ec0a642" playOrder="25">
+      <navLabel>
+        <text>Los libros del año 2 EE.UU.</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#los-libros-del-ano-2-ee-uu"/>
+    </navPoint>
+    <navPoint id="71724a5c-7e1e-4984-9d3a-595de3022520" playOrder="26">
+      <navLabel>
+        <text>Ultimos libros del género publicados en la Argentina 1</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#ultimos-libros-del-genero-publicados-en-la-argentina-1"/>
+    </navPoint>
+    <navPoint id="1645b0b8-0eaa-43d0-a348-cc1ce660ff53" playOrder="27">
+      <navLabel>
+        <text>Novedades Bibliográficas 2 EE.UU.</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#novedades-bibliograficas-2-ee-uu"/>
+    </navPoint>
+    <navPoint id="d7e2435b-6e3d-40ed-b001-cb36620a51c2" playOrder="28">
+      <navLabel>
+        <text>REVISTAS</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#revistas"/>
+    </navPoint>
+    <navPoint id="2982659a-1066-415e-a3c5-f052cd42e583" playOrder="29">
+      <navLabel>
+        <text>Nuevo número de Galileo 1 ARGENTINA</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#nuevo-numero-de-galileo-1-argentina"/>
+    </navPoint>
+    <navPoint id="10bf8cef-77b1-4652-9687-ac89dcc3b5d4" playOrder="30">
+      <navLabel>
+        <text>Neuromante Inc., nueva revista de CF 1 ARGENTINA</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#neuromante-inc-nueva-revista-de-cf-1-argentina"/>
+    </navPoint>
+    <navPoint id="5d68fe9a-9e0a-4378-9140-4115d5eab382" playOrder="31">
+      <navLabel>
+        <text>REVISTAS - ULTIMO MOMENTO</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#revistas-ultimo-momento"/>
+    </navPoint>
+    <navPoint id="13f6e587-8bf3-4b58-a8d1-20418d6dabda" playOrder="32">
+      <navLabel>
+        <text>Amazing a punto de desaparecer 2 EE.UU</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#amazing-a-punto-de-desaparecer-2-ee-uu"/>
+    </navPoint>
+    <navPoint id="88079026-f465-4105-8987-fc6680fcb333" playOrder="33">
+      <navLabel>
+        <text>Galaxy vuelve 2 EE.UU.</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#galaxy-vuelve-2-ee-uu"/>
+    </navPoint>
+    <navPoint id="4d6e53f5-4fa2-4a08-a190-566400f18f66" playOrder="34">
+      <navLabel>
+        <text>Realms of Fantasy 2 EE.UU.</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#realms-of-fantasy-2-ee-uu"/>
+    </navPoint>
+    <navPoint id="bc3c9df3-c57d-46ef-84fc-91a279b0ceae" playOrder="35">
+      <navLabel>
+        <text>Weird Tales cambia de nombre 2 EE.UU.</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#weird-tales-cambia-de-nombre-2-ee-uu"/>
+    </navPoint>
+    <navPoint id="792c1b81-a4dc-4b98-8a02-7b0f3322ed69" playOrder="36">
+      <navLabel>
+        <text>CINE</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#cine"/>
+    </navPoint>
+    <navPoint id="43e47372-2d19-4cff-9702-f9eae3902c7a" playOrder="37">
+      <navLabel>
+        <text>Gibson en el cine</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#gibson-en-el-cine"/>
+    </navPoint>
+    <navPoint id="2c9d3aa9-22d7-4a1e-833e-68c29c62c5c8" playOrder="38">
+      <navLabel>
+        <text>Kubrick vuelve a hacer CF</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#kubrick-vuelve-a-hacer-cf"/>
+    </navPoint>
+    <navPoint id="f68cca56-9b68-46e1-abec-4566702f74bb" playOrder="39">
+      <navLabel>
+        <text>Lucas prepara más Star Wars</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#lucas-prepara-mas-star-wars"/>
+    </navPoint>
+    <navPoint id="90732308-3acd-4600-b9d9-665ace149a5a" playOrder="40">
+      <navLabel>
+        <text>MUERTES</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#muertes"/>
+    </navPoint>
+    <navPoint id="425e81fd-a8d1-4727-99b6-fd4f8855ee5e" playOrder="41">
+      <navLabel>
+        <text>Murió Raymond Z. Gallum (1911-1994)</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#murio-raymond-z-gallum-1911-1994"/>
+    </navPoint>
+    <navPoint id="b933425d-ad20-4086-bd24-3f50a372007b" playOrder="42">
+      <navLabel>
+        <text>Murió Raymond F. Jones (1915-1994)</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#murio-raymond-f-jones-1915-1994"/>
+    </navPoint>
+    <navPoint id="43a747bb-0c41-41d5-b26d-3acac79e667a" playOrder="43">
+      <navLabel>
+        <text>Murió el escritor de fantasía Russell Kirk (1918-1994)</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#murio-el-escritor-de-fantasia-russell-kirk-1918-1994"/>
+    </navPoint>
+    <navPoint id="f8d668fb-bafa-459f-a4f3-7c86a4ed407f" playOrder="44">
+      <navLabel>
+        <text>Murió el coautor de Illuminatus, Robert Shea (1933-1994)</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#murio-el-coautor-de-illuminatus-robert-shea-1933-1994"/>
+    </navPoint>
+    <navPoint id="07050b71-9236-43c9-916c-4654f8e1ac57" playOrder="45">
+      <navLabel>
+        <text>CONCURSOS</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#concursos"/>
+    </navPoint>
+    <navPoint id="424e4dc9-dfc5-4b21-9684-078b73660c08" playOrder="46">
+      <navLabel>
+        <text>Concurso L. Ron Hubbard’s Writers of the Future 2 EE.UU.</text>
+      </navLabel>
+      <content src="c-57Pag12.htm#concurso-l-ron-hubbard-s-writers-of-the-future-2-ee-uu"/>
+    </navPoint>
+  </navMap>
+</ncx>

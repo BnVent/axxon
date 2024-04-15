@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="ea462419-5154-4da7-a104-0acd2dee235c" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.41.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 191</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ub1908e78-9d69-4701-b992-686b139dae45" playOrder="1">
+      <navLabel>
+        <text>Editorial: La batalla por la inclusión cultural</text>
+      </navLabel>
+      <content src="c-191Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u0c358ffc-e6b0-40c0-a750-12bcbd52f899" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-191Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u9bbed223-4835-483a-9b44-4fbb114be88a" playOrder="3">
+      <navLabel>
+        <text>Ficciones: L.</text>
+      </navLabel>
+      <content src="c-191Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ud733c158-600c-4f6a-938f-e12d68611b08" playOrder="4">
+      <navLabel>
+        <text>Ficciones: ¡Zombie, responde!, ordenó el Plasmatrón</text>
+      </navLabel>
+      <content src="c-191Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ua22563f6-c6f8-4fd8-b385-61b60aeae05a" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El viaje del Capitán Fernando García González</text>
+      </navLabel>
+      <content src="c-191Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ud23f4b05-d572-4cc8-856d-b6a58ffa9de4" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Autoclonación reversa</text>
+      </navLabel>
+      <content src="c-191Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uf3ff7fd8-6f02-49da-a3c8-7b0684646842" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Yusty</text>
+      </navLabel>
+      <content src="c-191Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u0d3aec26-4f0d-4a2d-af4e-0d7bdfa633f4" playOrder="8">
+      <navLabel>
+        <text>Divulgación: Los Antiguos</text>
+      </navLabel>
+      <content src="c-191Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u32e5aac3-0b1f-40ba-835f-de2d1d9a1369" playOrder="9">
+      <navLabel>
+        <text>Humor: Don Ramirito, “Horror: llegaron los zombies”</text>
+      </navLabel>
+      <content src="c-191Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ub31a4a4d-6d8f-4716-9be9-5d1f79362ffa" playOrder="10">
+      <navLabel>
+        <text>Axxóncine: Navigator (The Navigator: A Medieval Odyssey)</text>
+      </navLabel>
+      <content src="c-191Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u0d6d0528-fbc3-40d2-80e0-0dea269a78a4" playOrder="11">
+      <navLabel>
+        <text>Ficciones: En el cuarto de al lado</text>
+      </navLabel>
+      <content src="c-191Pag11.htm"/>
+    </navPoint>
+    <navPoint id="udde2b58c-fda5-4ebf-bdbb-b6842f512654" playOrder="12">
+      <navLabel>
+        <text>Ficciones: El fin de la antigua raza</text>
+      </navLabel>
+      <content src="c-191Pag12.htm"/>
+    </navPoint>
+    <navPoint id="ube1c89f2-6a3b-4fb1-a9fd-c2bdca3a9fe6" playOrder="13">
+      <navLabel>
+        <text>Ficciones: El reñidero</text>
+      </navLabel>
+      <content src="c-191Pag13.htm"/>
+    </navPoint>
+    <navPoint id="ua4bb9e15-57a6-46a1-b6f0-f9a00becb96c" playOrder="14">
+      <navLabel>
+        <text>Ficciones: El hombre más allá del teléfono</text>
+      </navLabel>
+      <content src="c-191Pag14.htm"/>
+    </navPoint>
+    <navPoint id="ue82e6d1d-1bf2-4058-b13c-34f8b6c39693" playOrder="15">
+      <navLabel>
+        <text>Ficciones: Objetivo principal</text>
+      </navLabel>
+      <content src="c-191Pag15.htm"/>
+    </navPoint>
+    <navPoint id="udb052e1a-36df-420e-ae74-983106479020" playOrder="16">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-191Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u398fd4c7-4e7c-4c1e-ac6d-5417a75c16f8" playOrder="17">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

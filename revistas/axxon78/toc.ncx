@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="dd17ab22-c072-4e5b-8104-936632af050f" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.31)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 78</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ucee6bedc-487c-437f-99f6-f6d69908be35" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 78</text>
+      </navLabel>
+      <content src="c-78Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u402ce522-8bf1-40e3-a3db-e603a4b86b03" playOrder="2">
+      <navLabel>
+        <text>Ficciones: El miedo a la oscuridad</text>
+      </navLabel>
+      <content src="c-78Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u58143031-9669-4f55-93dc-87c08dfabfa5" playOrder="3">
+      <navLabel>
+        <text>Ficciones: La era de Acuario</text>
+      </navLabel>
+      <content src="c-78Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ue18f764b-f271-49f7-8a9c-fcc2b27de1ea" playOrder="4">
+      <navLabel>
+        <text>Ficciones: La ciudad de los ojos</text>
+      </navLabel>
+      <content src="c-78Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ud9e48fd1-2f6c-49fe-9c0c-56b7606476ad" playOrder="5">
+      <navLabel>
+        <text>Entrevista: Autoentrevista</text>
+      </navLabel>
+      <content src="c-78Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ude7bd9f3-ee57-48b4-846d-769bc32dc016" playOrder="6">
+      <navLabel>
+        <text>Dossier: Dossier</text>
+      </navLabel>
+      <content src="c-78Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uc1bd02ea-59f3-4bb4-a394-3dfd86e801c2" playOrder="7">
+      <navLabel>
+        <text>Entrevista: Entrevista con Carlos Gardini</text>
+      </navLabel>
+      <content src="c-78Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ueeb0875e-9ec6-440f-99b6-92f4731a0c94" playOrder="8">
+      <navLabel>
+        <text>Ficciones: La fortaleza de la soledad</text>
+      </navLabel>
+      <content src="c-78Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u8000fa9d-ef34-45b3-b0d8-3eb5cf8e0368" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Hawksville</text>
+      </navLabel>
+      <content src="c-78Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ub17fb56c-1b6d-474c-b688-639e730b04e4" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Venecia en llamas</text>
+      </navLabel>
+      <content src="c-78Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u69fdfcf7-dcae-4ea7-affa-e7cbcb691f05" playOrder="11">
+      <navLabel>
+        <text>Sección: El Portal Fantástico</text>
+      </navLabel>
+      <content src="c-78Pag11.htm"/>
+    </navPoint>
+    <navPoint id="uc752d803-c2c7-478d-a46a-614a7cb37889" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Nunca de día</text>
+      </navLabel>
+      <content src="c-78Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u3af996a3-7334-468c-99c6-835cd4e78c4f" playOrder="13">
+      <navLabel>
+        <text>Correo: Correo 78</text>
+      </navLabel>
+      <content src="c-78Pag13.htm"/>
+    </navPoint>
+    <navPoint id="ua923a974-f114-46f5-a8c2-d20cbf176551" playOrder="14">
+      <navLabel>
+        <text>Sección: Informática: Ensamblador 8086/88 (parte 6)</text>
+      </navLabel>
+      <content src="c-78Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u2d8af065-7738-4539-81b2-91a5925a89fd" playOrder="15">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-78Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u6396af11-5aae-4242-acd1-5bc5c197cbf8" playOrder="16">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-78Pag16.htm"/>
+    </navPoint>
+    <navPoint id="ucf367e52-3e35-40c9-b3b0-c6681c854f75" playOrder="17">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

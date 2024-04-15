@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <title>Axxón 62 - SECCIÓN: - Informática: Memorias Caché</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link href="stylesheet.css" rel="stylesheet" type="text/css"/>
+<link href="page_styles.css" rel="stylesheet" type="text/css"/>
+</head>
+  <body class="calibre">
+
+<div id="main" class="calibre1">
+<h1 class="calibre7">Informática: Memorias Caché</h1>
+<p class="calibre5"><b class="calibre4">Eduardo J. Carletti</b></p><p class="calibre5"></p>
+<div class="calibre1">
+<!-- # :maxLineLen=120:folding=explicit:mode=rest:wrap=soft:collapseFolds=1:encoding=windows-1252: -->
+<img alt="" src="ax-informatica.png" class="calibre15"/>
+<div class="resumen3">
+<p class="calibre31">La memoria caché es un elemento importante
+dentro de nuestra computadora.</p>
+<p class="calibre31">Una encuesta informal entre mis amigos
+me ha demostrado que la mayoría no tiene
+la menor idea de qué es ni para qué sirve.
+Intento aquí dejar en claro el concepto.</p>
+</div>
+<!-- :: -->
+<p class="pcalibre pri">Cuando uno se debe decidir por una u otra computadora,
+y esto más aún en el mundo de las PC IBM y compatibles,
+se presentan gran cantidad de dudas sobre qué es lo que nos
+están ofreciendo. Hoy en día casi todo el mundo se entera rápidamente de que existen diferentes tipos de procesadores
+centrales (CPU’s, del inglés Central Processing Unit), como
+el 8088, el 80286, el 80386 y, últimamente, el 80486, y de
+que el número más avanzado indica un progreso en el diseño y
+por lo tanto mayor capacidad de procesamiento. Otro parámetro
+que se explicita y mide es la cantidad de memoria central, o
+RAM, que oscila entre los 640 Kb (el Kb —Kilobyte— es una
+unidad que expresa 1024 bytes o posiciones de memoria) o 1 Mb
+(Mb —Megabyte— representa 1024x1024 bytes) hasta 32/64 Mb.
+En este caso, cualquiera se informa con facilidad de que a
+mayor memoria mayor capacidad para mantener datos y programas
+en ella. Un tercer elemento, quizá uno de los primeros que
+nombra el vendedor por ser bastante importante, es la velocidad de procesamiento, indicada por los megahertz (MHZ, millones de ciclos por segundo) del reloj de sistema (que, atención, no se debe confundir con el reloj que lleva la hora y
+el día en la máquina, que es otra cosa). Este último valor,
+queda claro para el futuro comprador, está en relación directa con la velocidad a que puede hacer las cosas una computadora. Las últimas opciones tienen que ver con los elementos
+de entrada y salida, tales como el tipo de plaqueta gráfica y
+monitor, la presencia o no de “ports” (no hay una traducción
+correcta y aceptada en castellano para estos elementos, pero
+se puede interpretar que la palabra es “puertas” o “puertos”,
+ya que a través de ellos entran o salen los datos a y desde
+la computadora), mouse (o “ratón”), impresora, disco rígido,
+tipo de diskettera y posibilidad de una segunda unidad de
+diskette, etcétera, y cualquiera interpreta que todo esto se
+refiere más a necesidades concretas de uso (color o no, impresión o no, manejo de punteros en la pantalla con el mouse
+o no, etcétera).</p>
+<p class="calibre5">Hasta aquí todo bien. Pero un comprador un poco más inquisitivo, o un usuario un poco más entendido que cambia de
+equipo, de pronto se encuentra con ciertas “inconsistencias”
+o “misterios” que debe dilucidar para su tranquilidad espiritual. ¿Por qué hay procesadores (el 80386 de marca AMD es un
+ejemplo) que, siendo de la misma velocidad de reloj y supuestamente de la misma arquitectura, ya que son reemplazables
+directamente, son más eficientes y veloces? ¿Por qué hay unidades de disco que funcionan mucho más rápido con ciertos
+controladores?</p>
+<p class="calibre5">Aparecen aquí teniendo una gran importancia ciertos elementos un tanto misteriosos para el no entendido, como es el
+caso del que nos interesa en esta nota, la memoria CACHE.</p>
+<p class="calibre5">No vamos a entrar directamente a hablar de la caché sin
+ver un poco de la estructura general de una PC. La mayoría de
+las computadoras personales se basan en el modelo de Von Neumann (que fue un pionero de la computación), ideado hace décadas. Este esquema se compone de un procesador central (CPU)
+que se comunica con la memoria principal y el subsistema de
+entrada/salida (I/O) por medio de un bus de datos y de direcciones (la palabra “bus” tampoco tiene traducción directa y
+significa algo así como “grupo de líneas de señal”), más líneas de control. La memoria principal (RAM) es una memoria de
+tipo volátil, lo cual significa dos cosas esenciales: se
+puede tanto leer como escribir en ella y sus datos permanecen
+allí mientras la máquina esté encendida, pero se pierden al
+apagarla. Esta memoria será la que contendrá el programa que
+ejecuta el CPU y los datos mientras se los está procesando.
+El subsistema de I/O se compone de todos aquellos elementos
+opcionales que mencionábamos más arriba, más aquellos que son
+propios del sistema (e imprescindibles) tales como el teclado, una diskettera al menos y el parlante o “speaker”. Esta
+parte de la máquina se ocupa del almacenamiento permanente de
+los programas y/o datos (mediante unidades de  almacenamiento
+como discos, cintas, etc.) y también de la comunicación con
+el usuario (mediante teclado, pantalla, impresoras, etcétera.)</p>
+<p class="calibre5">Los elementos que componen la arquitectura de la computadora deben amoldarse a la velocidad de reloj del CPU. En
+general —y en la práctica— pocos elementos de entrada/salida pueden seguir la velocidad del procesador central. En algunos de ellos esto no es tan importante. La velocidad máxima
+de un teclado está relacionada íntimamente con la velocidad a
+que se puede ingresar sus datos tipeando, y jamás estará en
+el orden de los megahertz (ni siquiera si el teclado lo opera
+Supermán, por un problema de limitaciones físicas), por lo
+tanto su velocidad, mientras se mantenga dentro de los parámetros aceptables, no es crítica. Otros elementos tienen su
+límite principalmente en los movimientos involucrados en su
+operación: una impresora puede imprimir más o menos rápido,
+pero nunca un millón o más de caracteres por segundo, de modo
+que en una de estas máquinas importará más a qué velocidad
+puede “agarrar” los datos que le envía el CPU que la velocidad a que los “usa” (imprime). Una impresora puede “agarrar”
+datos más rápido que lo que los usa porque tiene una memoria
+interna, llamada comunmente “buffer”. Esa memoria no es nada
+especial, es una RAM tal como la del CPU, incluso puede ser
+mucho menos rápida, pero ayuda a acelerar enormemente el trabajo, ya que permite liberar más rápido a la unidad central
+de proceso de la tarea de enviarle datos a la impresora. La
+cuestión es, simplemente, que los datos pasan por un intermediario (el “buffer” y sus circuitos de manejo), cuya única
+razón de ser es que puede “agarrar” los datos mucho más rápido que lo que podría esa misma máquina si los debiera ir
+tomando uno por uno mientras los va imprimiendo. Y con esto
+nos acercamos (atención, sólo nos acercamos) al concepto de
+lo que es una memoria caché.</p>
+<p class="calibre5">Pero hay elementos de la máquina que sí son importantes en
+el momento de comunicarse con el CPU. Un caso es, en usos en
+los que es muy intensivo el manejo de imágenes, la plaqueta
+gráfica; por eso hay “aceleradores de video”, que no son más
+que plaquetas gráficas especialmente diseñadas para que el
+movimiento de datos sea mucho más veloz (la plaqueta gráfica
+es, principalmente, para el CPU, una gran memoria, y lo valioso de estas plaquetas es la velocidad de sus memorias). El
+disco rígido se vuelve importante en aplicaciones tales como
+los grandes bancos de datos, en los que el programa debe buscar datos continuamente en el disco. Dado que el disco tiene
+limitaciones físicas de movimiento de sus partes (tanto las
+disketteras como los discos rígidos de PC tienen cabezales
+móviles), lo mecánico es muy importante, pero, una vez lograda la máxima sofisticación en lo mecánico, se debe apelar
+al ingenio. Si un programa, por ejemplo, está leyendo datos
+de un disco y entretanto los va procesando, sería interesante
+que el controlador fuera capaz de “prever” que el CPU le va a
+pedir el siguiente dato y lo fuera leyendo desde la superficie magnética hacia una memoria interna, mucho más rápida,
+entretanto el CPU procesa el anterior. Por supuesto que si
+los datos son leídos en una secuencia azarosa, es decir,
+desde diferentes lugares del disco, este sistema no sirve,
+pero ocurre que en general los programas leen datos en forma
+secuencial mucho más seguido e intensivamente que en forma
+azarosa (esto se afirma en base a datos estadísticos; no hay
+que olvidar que el programa que se ejecuta, por ejemplo, proviene del disco, y que sus datos no son más que una larga
+serie de instrucciones ubicadas una tras otra. Lo mismo se
+aplica a los archivos gráficos, a los registros de bancos de
+datos, a los archivos de procesadores de texto… y a muchos
+otros más). Esta capacidad de previsión es ni nada más ni
+nada menos que el concepto de caché. Los controladores con
+caché, cuando reciben un pedido de lectura, leen el dato pedido, lo entregan al CPU (en realidad lo ponen en la memoria
+para que el CPU los use desde allí, y luego le “avisan” a
+éste que están allí), y luego, por cuenta propia, leen varios
+datos más ubicados a continuación del primero hacia su memoria interna. Cuando el CPU hace su segundo —o siguiente-pedido, el controlador se fija si lo solicitado coincide con
+lo que ya tiene en su memoria, y si es así lo entrega de
+inmediato, muchísimo más rápido por cierto desde el punto de
+vista del CPU y del sistema. Luego se pone a leer más para
+ocupar el hueco que ha vaciado en su memoria interna. Estadísticamente, y dado a la forma normal de organizar los datos
+en largas hileras, la mayoría de las veces existe una coincidencia entre lo que tienen preparado el controlador en su caché y lo que pide el procesador, y el promedio final de velocidad de comunicación mejora grande y visiblemente. A esta
+coincidencia se le llama “hit” (acierto) en el argot del
+mundo de las caché, y la cantidad de “hits” de un sistema de
+estos, medida contra los desaciertos, llamados “misses” (fallos), dirá mucho sobre la capacidad de los que diseñaron la
+estrategia del sistema caché en cuestión.</p>
+<p class="calibre5">Pero no todo termina aquí. Uno de los problemas que surgen
+en el diseño de una computadora es que el desarrollo de los
+integrados de CPU avanza mucho más rápido que el de integrados de memoria. Por otra parte, el CPU es uno solo, pero la
+memoria está compuesta de varios integrados, por lo cual el
+precio de éstos incide mucho en el precio de la máquina. Supongamos que el CPU de una computadora es un INTEL 80486 con
+un reloj de 50 MHz (50 millones de ciclos por segundo). El
+ciclo de reloj de esta máquina es entonces de 20 nseg (este
+valor se calcula dividiendo 1 por cincuenta millones; la unidad nseg, o nanosegundo, equivale a una milmillonésima de segundo). Si deseamos que todo ocurra a esa velocidad, el procesador necesitará comunicarse con la memoria RAM para acceder a sus datos con un tiempo de acceso cercano a este valor.
+La tecnología actual provee memorias de esta velocidad, pero
+son extremadamente caras. Se usan, en cambio, memorias más
+estándar, de un tiempo de acceso, en las más rápidas, de unos
+60 a 70 nseg. El CPU, que es más veloz, debe indefectiblemente esperar uno o más ciclos de reloj sin hacer absolutamente
+nada, hasta que obtiene el dato que buscaba en la memoria. Si
+se aplica el mismo concepto del controlador de disco, se
+podría poner una controlador de memoria capaz de reconocer
+las direcciones de los datos que se le van pidiendo y hacer
+una “prelectura” de los datos siguientes de la memoria “lenta” y ponerlos en una memoria mucho más pequeña pero mucho
+más rápida. Cuando el CPU pide el siguiente dato, si lo tiene
+en esta memoria rápida, la caché, el controlador de memoria
+lo entrega de inmediato, a velocidad de CPU, y luego, mientras el CPU lo usa en sus procesos internos, busca el o los
+siguientes datos en la memoria principal, o memoria del
+sistema, más lenta. En este tipo de configuración, donde los
+tiempos son muchísimo menores que los implicados en un controlador de disco, la frecuencia de las coincidencias y la
+estrategia del controlador de memoria en la prelectura tienen
+muchísima importancia. Por eso se presentan diferencias en
+los rendimientos de integrados aparentemente idénticos hecho
+por distintos fabricantes, ya que se pueden usar diferentes
+algoritmos de decisión y diferentes mecanismos de búsqueda de
+coincidencias, y éstos inciden en el rendimiento promedio
+final.</p>
+<p class="calibre5">La memoria caché está ubicada entre el procesador central
+y la memoria RAM del sistema. La caché, a su vez puede estar
+formada por una caché primaria, interna al procesador, y una
+caché secundaria, exterior al procesador. Los sistemas 486
+son así, el CPU i80486 posee una caché interna de 8 KBytes y
+una caché externa de hasta 256 KBytes (eso depende del fabricante de la placa de la computadora). Por lo general, las
+caché internas son de un tamaño reducido (la memoria ocupa
+mucho espacio dentro de un integrado), pero resultan, dada su
+velocidad idéntica a la del procesador, de muy alta performance.</p>
+<p class="calibre5">La memoria caché difiere de la memoria RAM en varios aspectos: velocidad, tamaño, organización interna y costo. Como
+decíamos antes, la principal diferencia entre el tipo de integrados que se usa en la memoria central y la memoria caché
+es su velocidad y su precio. Esto define, en la práctica, que
+el tamaño máximo de la caché se limite a lo que permite el
+bolsillo y los precios de competencia en el mercado, pero en
+realidad, como veremos un poco más adelante, no es necesario
+que la caché sea mucho más grande que lo que es hoy en la
+realidad, ya que a partir de cierto tamaño la eficiencia no
+aumenta. En cuanto a la velocidad, podemos decir que la misma
+debe ser tal que permita al CPU la transferencia de palabras
+sin ninguna espera. Veremos cómo se logra conseguir una alta
+performance en el acceso de datos de memoria RAM, gracias a
+la organización interna del caché.</p>
+<p class="calibre5">Los caché funcionan en base al principio de que un programa (y por ende el CPU) tiende a acceder lugares de memoria
+ubicados en la proximidad del acceso anterior (localidad
+<em class="calibre13">espacial</em>) y también a repetir las accedidas recientemente
+(localidad <em class="calibre13">temporal</em>). Si se estudian las instrucciones de un
+programa, se observa que en general una instrucción está seguida por otra instrucción ubicada a continuación de la primera. La excepción la constituyen las instrucciones de salto
+(jump), que rompen la secuencia. Pero este tipo de instrucciones son sólo entre un 20 y un 30% del total de instrucciones de un programa típico.</p>
+<p class="calibre5">En base a este principio el controlador de la caché almacena varios <em class="calibre13">bloques</em> de posiciones contiguas de memoria. La
+operación básica del sistema de caché es, entonces (repetimos
+para mayor claridad): Cuando el CPU necesita acceder una
+cierta palabra de memoria, primero busca en la caché; si el
+dato se encuentra allí, la palabra es transferida rápidamente
+al procesador: hubo un hit (o coincidencia) de la caché. Si
+por el contrario la palabra direccionada no se encontraba en
+la caché (miss), lo que debe hacer el sistema es leer el dato
+desde la memoria principal, entregarlo al procesador, y luego
+leer el bloque completo de datos que contiene la palabra referenciada. Se observa entonces aquí una primera dificultad
+en el diseño: si la caché ya se encuentra llena ¿dónde se debería guardar ese nuevo bloque de palabras? Evidentemente, se
+debe desalojar antes un bloque de la caché. Aparece ahora una
+nueva complicación: ¿cuál de todos los bloques debe ser desalojado? Si se elige un bloque de palabras que pueda ser solicitado en el futuro cercano, indudablemente se habrá realizado una mala elección. Otras complicaciones que surgen en el
+diseño de la caché son: la elección del tamaño de ese bloque
+de palabras, la forma de actualizar el contenido de memoria
+cuando se realizó una escritura sobre la caché, la forma en
+que se carga inicialmente la caché, etcétera. A continuación
+se verá cómo interactúan estos elementos en el diseño de las
+memorias caché.</p>
+<p class="calibre5">Se mencionó que para diseñar un sistema de caché de deben
+considerar varios parámetros. Esto hace que la implementación
+de un sistema de caché que brinde una alta performance sea
+todo un desafío para los diseñadores de computadoras. El objetivo principal de la caché es reducir el tiempo de acceso
+promedio de memoria RAM a un valor muy próximo al tiempo de
+acceso promedio de la caché. De esta forma, aún cuando la memoria RAM no tenga la velocidad necesaria para acompañar al
+CPU en sus transferencias de datos, el conjunto caché-RAM resultará lo suficientemente rápido para responderle velozmente
+al procesador en sus peticiones de datos. Obviamente, este
+objetivo se puede cumplir haciendo que la mayoría de las referencias a palabras por parte del CPU sean satisfechas por
+la caché. O dicho de otra manera la meta del diseño de la
+caché es hacer que el número de “hits” sea máximo.</p>
+<p class="calibre5">En la caché se almacenan tanto las palabras de datos de
+memoria como sus direcciones correspondientes. Estas palabras
+están agrupadas en bloques que se llaman “páginas de caché”.
+En realidad la dirección almacenada en la caché es la dirección del <em class="calibre13">bloque</em> de datos correspondientes. La operación de la
+caché es la siguiente: el CPU entrega una dirección, se compara la parte relevante de esta dirección con las direcciones
+almacenadas en la caché. Esta comparación, inevitablemente,
+se debe hacer en forma <em class="calibre13">simultánea</em>, para no retrasar la búsqueda, por lo que para almacenar las direcciones se utiliza
+un esquema que se llama “memoria asociativa”. Si existe una
+coincidencia, tenemos un “hit”, por lo que la caché direcciona ahora la palabra correspondiente que se encuentra en su
+interior y la entrega al CPU. Si, en cambio, la dirección no
+se encuentra almacenado en la caché, se tiene un “miss”, de
+modo que la caché inicia un ciclo de lectura de un <em class="calibre13">bloque</em>
+completo de palabras que contiene (entre otras) la palabra
+seleccionada.</p>
+<p class="calibre5">Cuando se produce un “miss” y la caché se encuentra llena
+se debe seleccionar un bloque para desalojar, para dejar lugar libre y almacenar el nuevo bloque. Existen diversos algoritmos para seleccionar este bloque. El más simple de todos
+es el denominado FIFO (<em class="calibre13">F</em>irst <em class="calibre13">I</em>n <em class="calibre13">F</em>irst <em class="calibre13">O</em>ut o, en castellano,
+El Primero en Entrar es el Primero en Salir). Según este esquema, el bloque seleccionado para ser desalojado es el que
+<em class="calibre13">estuvo</em> por mayor tiempo ocupando la caché. Otro algoritmo de
+mayor eficiencia en cuanto al número de “hits” que se producen al usarlo es el denominado LRU (<em class="calibre13">L</em>east <em class="calibre13">R</em>ecently <em class="calibre13">U</em>sed, o El
+Menos Usado Ultimamente), que selecciona como bloque para ser
+reemplazado es el que no ha sido <em class="calibre13">referenciado</em> por un tiempo
+mayor (que no necesariamente es el más antiguo). En efecto,
+de todos los bloques almacenados en la caché, éste es el que
+tiene una menor probabilidad de una nueva referencia, al
+menos en el futuro cercano.</p>
+<p class="calibre5">Otro problema que se debe resolver en el diseño de una
+caché es que cuando una palabra que se encontraba en la caché
+fue <em class="calibre13">modificada</em> mediante una escritura, el contenido de la
+caché va a ser diferente al de la memoria principal, ya que
+hubo un “hit” y por lo tanto no se accedió a la RAM principal. Esto puede crear, bajo ciertas condiciones, inconsistencia en los datos. Por ejemplo, si el bloque dentro de la caché que contenía la palabra modificada es desalojado sin haberse hecho el correspondiente ajuste en RAM, la modificación
+que se hizo sobre la palabra en cuestión se ha perdido, produciendo la mencionada inconsistencia de datos.</p>
+<p class="calibre5">Existen dos técnicas para evitar este problema. Una de
+ellas, denominada <em class="calibre13">contra-escritura</em> (write-back), copia el
+contenido del bloque a la RAM principal cuando el mismo es
+desalojado por otro bloque, si alguna de las palabras que
+contiene ha sido modificada. El problema de este esquema aparece en sistemas de varios procesadores, en donde cada procesador puede poseer una caché. Aquí habrá potenciales inconsistencias de datos entre las diferentes cachés y la memoria
+principal (que es única y compartida por los diferentes procesadores), ya que la modificación definitiva de la palabra
+en memoria se ve reflejada sólo cuando el bloque que la contenía se ve reemplazado por otro.</p>
+<p class="calibre5">Un esquema alternativo es realizar la escritura de la palabra modificada tanto en la caché como en memoria. De esta
+forma la inconsistencia de datos entre la caché y la memoria
+no puede aparecer nunca. Este método se denomina de <em class="calibre13">escritura</em>
+<em class="calibre13">directa</em> (write-through) y es utilizado en la mayoría de las
+computadoras con procesadores múltiples que trabajan en paralelo. La desventaja evidente de esta técnica de actualización
+de memoria es que cada vez que se hace una escritura de una
+palabra en la caché se la debe hacer también en la RAM, bajando la performance total del sistema. Por fortuna, las
+operaciones de escritura son sólo una pequeña fracción, de
+aproximadamente 10% del total de las operaciones, por lo que
+el detrimento en la performance no es tan grande.</p>
+<p class="calibre5">Existen técnicas más elaboradas que las mencionadas. Por
+ejemplo una variación de la técnica de escritura directa, denominada <em class="calibre13">escritura directa con buffer</em>, escribe la palabra modificada en la caché y en un buffer (de muy alta velocidad) y
+aprovecha el momento en que el CPU no esté realizando ninguna
+operación con la memoria para escribir el buffer en memoria
+principal.</p>
+<p class="calibre5">Uno de los puntos críticos en el diseño de una caché es
+adoptar el tamaño global de la misma y también de los bloques
+de datos (páginas de la caché). Si se mide el número de
+“hits” que se obtienen a medida que se aumenta el tamaño de
+la caché, se observa que crece rápidamente al principio, pero
+luego de un cierto tamaño los “hits” no aumentan, sino que
+permanecen relativamente constantes. Esto significa que no
+necesariamente se ha de producir un mejor rendimiento general
+del sistema de memoria al usar una caché extremadamente
+grande. Por el contrario, las tareas de administración de la
+caché, que dependen mucho del tamaño de la misma, pueden ser
+tan arduas que terminen, al fin, disminuyendo la performance
+general. Es común que una caché de un tamaño de 128 KBytes
+ofrezca una performance igual que la que ofrece una caché de
+tamaño superior (256 KBytes o más).</p>
+<p class="calibre5">Hay otros factores que tienen tanta o mayor importancia
+que el tamaño en juego cuando se busca optimizar la caché. Un
+ejemplo es el tamaño de la página. Una caché con página de 64
+bytes trabaja mucho más eficientemente que una que posea páginas de 4 bytes, ya que, de acuerdo al principio de funcionamiento de estos sistemas, las referencias que se harán en
+el futuro cercano estarán con mayor probabilidad en el mismo
+bloque.</p>
+<p class="calibre5">Otro elemento de gran importancia en el rendimiento global
+de una caché es la forma de acceso a las páginas. El esquema
+asociativo puro, de no muy frecuente implementación por su
+alto costo, es el que ofrece un máximo de performance. Por
+esta razón algunas computadoras de bajo costo, que quizá emplean cachés de un gran tamaño, no ofrecen una mejor performance que computadoras de mayor calidad. Normalmente las primeras utilizan técnicas de actualización de memoria opuesto
+al asociativo puro, y técnicas de reemplazo de páginas del
+tipo FIFO. En sistemas mejor diseñados se utilizan esquemas
+de escritura directa con buffer, mapeo asociativo por grupos
+(normalmente de tamaño 4) y técnicas de reemplazo LRU.</p>
+<p class="calibre5">En la literatura que trata sobre la arquitectura de las
+computadoras se define la “relación de aciertos” (hit ratio)
+como el cociente entre el número de aciertos (hits) y el número total de referencias (aciertos más fallos). Normalmente,
+la razón de acierto en una caché bien diseñada debe ser superior al 99%. Las memorias asociativas (direccionables por su
+contenido) son de un costo muy elevado, por lo que en general
+no son utilizadas de un modo del todo puro por las cachés comerciales. Lo que normalmente se hace es utilizar técnicas de
+mapeado de direcciones del tipo <em class="calibre13">asociativo por conjunto</em>, que
+no describiremos aquí para no entrar en tanto detalle superfluo en una nota puramente informativa.</p>
+<p class="calibre5">Las caché también se utilizan en la práctica en sistemas
+con Acceso Directo a Memoria (DMA), es decir en la mayoría de
+las computadoras de hoy en día. Un dispositivo que use un
+sistema de caché —por ejemplo un disco— puede acelerar
+mucho, como dijimos antes, su velocidad de operación.</p>
+</div>
+
+</div>
+
+</body>
+</html>

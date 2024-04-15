@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="542adacd-e8ad-412d-abf6-78d4061828b3" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.54)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 230</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="bdf1ea6c-2ab7-4c28-a366-ddc2eddbfa3a" playOrder="1">
+      <navLabel>
+        <text>Presentación - Pablo Dobrinin: apuntes biográficos</text>
+      </navLabel>
+      <content src="c-230Pag01.htm"/>
+    </navPoint>
+    <navPoint id="3130dc14-1a47-47f4-84e6-1efa71274f5c" playOrder="2">
+      <navLabel>
+        <text>Ficciones - Los árboles de Isaac Levitan</text>
+      </navLabel>
+      <content src="c-230Pag02.htm"/>
+    </navPoint>
+    <navPoint id="692d8f81-4d3f-41ef-a65b-e791d5b2d2a8" playOrder="3">
+      <navLabel>
+        <text>Ficciones - La Visión del Paraíso</text>
+      </navLabel>
+      <content src="c-230Pag03.htm"/>
+    </navPoint>
+    <navPoint id="94273e42-6f9b-4fa2-9b08-497845e465ad" playOrder="4">
+      <navLabel>
+        <text>Opinión - Escritores y artistas</text>
+      </navLabel>
+      <content src="c-230Pag04.htm"/>
+    </navPoint>
+    <navPoint id="3e17df40-d360-4229-90e4-0d8939a33f8b" playOrder="5">
+      <navLabel>
+        <text>Ficciones - La venganza de los niños</text>
+      </navLabel>
+      <content src="c-230Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ca8e54f9-1a4b-4236-b5fe-5ea51ec318cf" playOrder="6">
+      <navLabel>
+        <text>Ficciones - El regreso de los pájaros</text>
+      </navLabel>
+      <content src="c-230Pag06.htm"/>
+    </navPoint>
+    <navPoint id="9cc07514-b8e0-4c7e-8f7a-9e4752caef47" playOrder="7">
+      <navLabel>
+        <text>Entrevista - Entrevista a Pablo Dobrinin</text>
+      </navLabel>
+      <content src="c-230Pag07.htm"/>
+    </navPoint>
+    <navPoint id="2b085fef-f360-48b7-b36c-afd5736d4c17" playOrder="8">
+      <navLabel>
+        <text>Ficciones - Los Hijos del Viento</text>
+      </navLabel>
+      <content src="c-230Pag08.htm"/>
+    </navPoint>
+    <navPoint id="d3d3d019-3035-47fc-8290-039ccbe6d5a0" playOrder="9">
+      <navLabel>
+        <text>Ficciones - Luces del Sur</text>
+      </navLabel>
+      <content src="c-230Pag09.htm"/>
+    </navPoint>
+    <navPoint id="aa4b0d0b-3c2b-4954-842b-244f1358ec33" playOrder="10">
+      <navLabel>
+        <text>Ensayo - Sexo bizarro</text>
+      </navLabel>
+      <content src="c-230Pag10.htm"/>
+    </navPoint>
+    <navPoint id="385c621d-18f4-4d99-b6fc-e70ecb452989" playOrder="13">
+      <navLabel>
+        <text>Ficciones - Colores Peligrosos (parte 1)</text>
+      </navLabel>
+      <content src="c-230Pag11.htm"/>
+    </navPoint>
+    <navPoint id="5f56fc7a-28bf-4438-a033-2094bd82b552" playOrder="14">
+      <navLabel>
+        <text>Ficciones - Colores Peligrosos (parte 2)</text>
+      </navLabel>
+      <content src="c-230Pag12.htm"/>
+    </navPoint>
+    <navPoint id="5589ccc7-35dd-4dfd-b9dc-ac44a8c28160" playOrder="15">
+      <navLabel>
+        <text>Ensayo - Tres experiencias en la noche abierta</text>
+      </navLabel>
+      <content src="c-230Pag13.htm"/>
+    </navPoint>
+    <navPoint id="45619774-f568-4ec6-9a5c-847f8e16bc93" playOrder="16">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="3856e3f5-ddda-424d-83ed-bffd8f80bf28" playOrder="14">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/230/cuento2ilus1.htm"/>
+    </navPoint>
+    <navPoint id="7b0ed67d-ebd4-44e4-9e11-a32a45ca3b54" playOrder="15">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/230/cuento3ilus1.htm"/>
+    </navPoint>
+    <navPoint id="7a9e0fc5-1486-4739-adde-54839001ef2a" playOrder="16">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/230/cuento5ilus1.htm"/>
+    </navPoint>
+    <navPoint id="ed146a0b-8b01-41cd-bd48-bd4fb7023175" playOrder="17">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/230/cuento6ilus1.htm"/>
+    </navPoint>
+    <navPoint id="e2d9e840-e938-496a-9d99-f5ff6ffabf04" playOrder="18">
+      <navLabel>
+        <text>y en Axxón</text>
+      </navLabel>
+      <content src="/rev/169/c-169cuento8.htm#4"/>
+    </navPoint>
+    <navPoint id="e7026d88-d8da-4f56-bf64-3c963393bdf6" playOrder="19">
+      <navLabel>
+        <text>“Los festejos del Fin del Mundo”</text>
+      </navLabel>
+      <content src="/rev/164/c-164cuento6.htm"/>
+    </navPoint>
+    <navPoint id="be1066ea-75af-415b-936d-3536f7084b92" playOrder="20">
+      <navLabel>
+        <text>“El Regreso del Capitán Rayo”</text>
+      </navLabel>
+      <content src="/rev/161/c-161cuento7.htm"/>
+    </navPoint>
+    <navPoint id="b4ee7f1f-4e48-49b2-8216-a2841b839b3d" playOrder="21">
+      <navLabel>
+        <text>“La Visión del Paraíso”</text>
+      </navLabel>
+      <content src="/rev/2012/05/la-vision-del-paraiso-pablo-dobrinin/"/>
+    </navPoint>
+    <navPoint id="cb6ad70b-859d-4bb5-8f51-b254a61e4eb0" playOrder="22">
+      <navLabel>
+        <text>“La venganza de los Niños”</text>
+      </navLabel>
+      <content src="/rev/"/>
+    </navPoint>
+    <navPoint id="71750351-1054-4c96-a6d9-2a6d9e3a97fa" playOrder="23">
+      <navLabel>
+        <text>“Blue”</text>
+      </navLabel>
+      <content src="/rev/2011/09/Blue-pablo-dobrinin/"/>
+    </navPoint>
+    <navPoint id="3f7ff227-a98d-4904-ae18-75f5bdfd2806" playOrder="24">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/230/cuento8ilus1.htm"/>
+    </navPoint>
+    <navPoint id="0b6e814c-032f-4ddb-a231-3ec690824170" playOrder="25">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/230/cuento9ilus1.htm"/>
+    </navPoint>
+    <navPoint id="67c46aa6-cd88-4c25-9e88-373f685b27cf" playOrder="26">
+      <navLabel>
+        <text>Blue</text>
+      </navLabel>
+      <content src="/rev/2011/09/blue-pablo-dobrinin/"/>
+    </navPoint>
+    <navPoint id="af251112-307c-4a6f-952e-20ba97af97c9" playOrder="12">
+      <navLabel>
+        <text>[1]</text>
+      </navLabel>
+      <content src="c-230Pag10.htm#nota1"/>
+    </navPoint>
+    <navPoint id="81a17a81-57ee-405e-aa14-d94e286049b3" playOrder="11">
+      <navLabel>
+        <text>[VOLVER]</text>
+      </navLabel>
+      <content src="c-230Pag10.htm#llamada1"/>
+    </navPoint>
+    <navPoint id="3e2bd6c5-d88e-48f8-b1b4-99662abb4750" playOrder="29">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/230/cuento11ilus1.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

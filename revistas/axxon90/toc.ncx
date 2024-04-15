@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="21a9a37f-c46d-4d86-bd42-abdea61b7725" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 90</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u3c177707-7ea6-4c48-8d1c-a89cf183c5ce" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 90</text>
+      </navLabel>
+      <content src="c-90Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ubde6c0d9-6e5c-4061-a8d3-59f7600be20f" playOrder="2">
+      <navLabel>
+        <text>Ficciones: El círculo roto</text>
+      </navLabel>
+      <content src="c-90Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u91ddc5c4-c692-43c7-92be-8be8bd4eb975" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Alfombras de Wang</text>
+      </navLabel>
+      <content src="c-90Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u8c920a4b-90f5-485d-8d96-63887e26694b" playOrder="4">
+      <navLabel>
+        <text>Sección: Tour Macabro: Presentación</text>
+      </navLabel>
+      <content src="c-90Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u65126c2a-efbf-4f5d-a624-c99b42b6f9d3" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Volvió una noche</text>
+      </navLabel>
+      <content src="c-90Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u355af243-137d-44a3-a14c-b968bde876fd" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Cuerpos perdidos</text>
+      </navLabel>
+      <content src="c-90Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u024103b8-a82e-4021-93b5-c4025ac0a9c1" playOrder="7">
+      <navLabel>
+        <text>Galería: Galería de arte</text>
+      </navLabel>
+      <content src="c-90Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u811f6b38-b6cf-4e7f-b34b-2ff36ace3b65" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Por siempre Gabriola</text>
+      </navLabel>
+      <content src="c-90Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u0e53c3e7-011d-4213-8942-09bc17458076" playOrder="9">
+      <navLabel>
+        <text>Ficciones: La evasión</text>
+      </navLabel>
+      <content src="c-90Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u94a93b53-7b34-445f-8aef-e26ed8ac80e1" playOrder="10">
+      <navLabel>
+        <text>Ensayo: El libro, el mito y las fobias</text>
+      </navLabel>
+      <content src="c-90Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u3b49b4ef-7941-4c98-8c9b-9483f06dcc6e" playOrder="11">
+      <navLabel>
+        <text>Sección: Tecno Núcleo</text>
+      </navLabel>
+      <content src="c-90Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u91461c86-b769-4bdf-a6b0-38037e7c7dc3" playOrder="22">
+      <navLabel>
+        <text>Nota: ¿El libro de arena?… no, de silicio</text>
+      </navLabel>
+      <content src="c-90Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u17162ac7-6918-404e-8b83-62f222c22a3b" playOrder="23">
+      <navLabel>
+        <text>Sección: INFO Córtex</text>
+      </navLabel>
+      <content src="c-90Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u356b1d79-76fe-43e2-a9fd-fa3194bd3918" playOrder="24">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-90Pag14.htm"/>
+    </navPoint>
+    <navPoint id="ud6b71cc6-f14c-4cae-8087-b49f2a58228b" playOrder="25">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-90Pag15.htm"/>
+    </navPoint>
+    <navPoint id="ub147bfa2-23e6-4d73-99b1-4e6e440c0b65" playOrder="26">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="u807793d4-27c6-46c9-9189-a6e087bebef4" playOrder="12">
+      <navLabel>
+        <text>LUNA DE MIEL EN EL ESPACIO</text>
+      </navLabel>
+      <content src="c-90Pag11.htm#luna-de-miel-en-el-espacio"/>
+    </navPoint>
+    <navPoint id="u54290b79-0c0c-4064-aaf1-4b051da868a9" playOrder="13">
+      <navLabel>
+        <text>MICROTECNOLOGIA</text>
+      </navLabel>
+      <content src="c-90Pag11.htm#microtecnologia"/>
+    </navPoint>
+    <navPoint id="u7c7e6735-3026-4d03-88f1-9dd3fb390e53" playOrder="14">
+      <navLabel>
+        <text>EL FIN DE LA INTIMIDAD</text>
+      </navLabel>
+      <content src="c-90Pag11.htm#el-fin-de-la-intimidad"/>
+    </navPoint>
+    <navPoint id="u12ba330b-2fdf-4178-82de-63701107bb47" playOrder="15">
+      <navLabel>
+        <text>CONEXIONES NEURALES</text>
+      </navLabel>
+      <content src="c-90Pag11.htm#conexiones-neurales"/>
+    </navPoint>
+    <navPoint id="uf56438a7-c93a-40a0-bd9e-bf47c04c8862" playOrder="16">
+      <navLabel>
+        <text>INTERFASES QUE YA SE PUEDEN COMPRAR</text>
+      </navLabel>
+      <content src="c-90Pag11.htm#interfases-que-ya-se-pueden-comprar"/>
+    </navPoint>
+    <navPoint id="ubdbcc0e2-d63c-435a-aa4b-bc2542e1dae7" playOrder="17">
+      <navLabel>
+        <text>EL PROYECTO GUTEMBERG</text>
+      </navLabel>
+      <content src="c-90Pag11.htm#el-proyecto-gutemberg"/>
+    </navPoint>
+    <navPoint id="u058fb43b-48d4-40c0-9f9f-fb0adaf4f108" playOrder="18">
+      <navLabel>
+        <text>EL PROMETEO MODERNO, UN ALQUIMISTA</text>
+      </navLabel>
+      <content src="c-90Pag11.htm#el-prometeo-moderno-un-alquimista"/>
+    </navPoint>
+    <navPoint id="uf4b01421-2b03-41c6-8d5d-6bb7daae20d4" playOrder="19">
+      <navLabel>
+        <text>HOMBRE VERSUS MAQUINA</text>
+      </navLabel>
+      <content src="c-90Pag11.htm#hombre-versus-maquina"/>
+    </navPoint>
+    <navPoint id="u746c801b-d421-478f-99a8-00c4efaa3ac2" playOrder="20">
+      <navLabel>
+        <text>TODOS TUS SECRETOS EN UN BANCO DE DATOS</text>
+      </navLabel>
+      <content src="c-90Pag11.htm#todos-tus-secretos-en-un-banco-de-datos"/>
+    </navPoint>
+    <navPoint id="u0ee4be59-87d3-49f8-9126-ec4f496c5ce4" playOrder="21">
+      <navLabel>
+        <text>FUNERAL EN EL ESPACIO</text>
+      </navLabel>
+      <content src="c-90Pag11.htm#funeral-en-el-espacio"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="58290089-25b2-414f-ac18-10de2253401e" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.19.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 19</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ua23947b5-2513-4c0c-a5cc-c6752f5c5330" playOrder="1">
+      <navLabel>
+        <text>Advertencia: Sobre la versión móvil</text>
+      </navLabel>
+      <content src="c-19Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u0380b25a-19ce-4a78-8bf7-c385a19a1ac4" playOrder="2">
+      <navLabel>
+        <text>Editorial: Axxón y la Feria</text>
+      </navLabel>
+      <content src="c-19Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u25df3436-727c-49f7-968b-733ccdcd1fb9" playOrder="3">
+      <navLabel>
+        <text>Anticipos: En el próximo número…</text>
+      </navLabel>
+      <content src="c-19Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u1f492334-565e-439b-840a-989755c31924" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Duc In Altum</text>
+      </navLabel>
+      <content src="c-19Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ueebe2cd0-f410-4e5f-a7ad-13ccece60079" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Kyrie</text>
+      </navLabel>
+      <content src="c-19Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ube80c4de-3527-483f-96bb-ce818ecd5790" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Notas sobre la percepción de diferencias imaginarias</text>
+      </navLabel>
+      <content src="c-19Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u95037c18-55dc-4a31-a9a4-2cb450be8c32" playOrder="7">
+      <navLabel>
+        <text>Notas: Pasado, presente y futuro de la IA</text>
+      </navLabel>
+      <content src="c-19Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u170bcff6-3d59-4f3c-9f3e-882ea772c039" playOrder="8">
+      <navLabel>
+        <text>Bestiario: Los faros del fin del universo</text>
+      </navLabel>
+      <content src="c-19Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u50ac267a-3a3a-423e-bc07-875d3720ee0e" playOrder="9">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad</text>
+      </navLabel>
+      <content src="c-19Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uf684be49-d009-434e-9347-1e0cc4180f31" playOrder="10">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-19Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u4b4fa0ff-e6e8-463f-92a7-decf32dd3256" playOrder="11">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

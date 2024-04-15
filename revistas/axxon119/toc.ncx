@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="4e2ecb03-63c7-43cc-a49b-c4ec35396739" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.9.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 119</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u70e191bd-eed0-4bbd-b8b3-a86cc9634dcd" playOrder="1">
+      <navLabel>
+        <text>Editorial: Axxón 119</text>
+      </navLabel>
+      <content src="c-119Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ua70b3c11-7189-40e6-873a-772192de2afe" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Quilino (novela corta)</text>
+      </navLabel>
+      <content src="c-119Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u3deb4a3d-c5ea-44ec-81ea-3288907cf9cf" playOrder="3">
+      <navLabel>
+        <text>Correo: Correo 119</text>
+      </navLabel>
+      <content src="c-119Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u50628214-1af3-4adf-a86f-a00c82938932" playOrder="4">
+      <navLabel>
+        <text>Divulgación: ¿De dónde salió el Bobby?</text>
+      </navLabel>
+      <content src="c-119Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u12e16376-1bf8-48fc-b456-c73115480e4e" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El Diablo en la burbuja</text>
+      </navLabel>
+      <content src="c-119Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uc6119dea-ff76-409e-bf53-367bbd5a7c30" playOrder="6">
+      <navLabel>
+        <text>Portfolio: Portfolio</text>
+      </navLabel>
+      <content src="c-119Pag06.htm"/>
+    </navPoint>
+    <navPoint id="udeadeebc-3b5f-4fa0-8155-f02648f0a80a" playOrder="7">
+      <navLabel>
+        <text>Sección: Andernow</text>
+      </navLabel>
+      <content src="c-119Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u1c8b98c3-d5ef-4c42-a6bd-f2ff50479164" playOrder="8">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="u208f2334-79f4-4d1a-a368-2feb93a31487" playOrder="8">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119quilinoilus.htm"/>
+    </navPoint>
+    <navPoint id="u71900f20-392d-4e0b-86a3-29bea1097e8d" playOrder="9">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119gal01.htm"/>
+    </navPoint>
+    <navPoint id="u09bbb473-0f48-49b1-a8e9-7da002e99b95" playOrder="10">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119gal05.htm"/>
+    </navPoint>
+    <navPoint id="ub4afac89-cc32-4e98-be8f-6b304e89b0f1" playOrder="11">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119gal07.htm"/>
+    </navPoint>
+    <navPoint id="uf5cfe2df-b150-47d6-800d-f05eff08af96" playOrder="12">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119gal03.htm"/>
+    </navPoint>
+    <navPoint id="u65784af9-b9e4-47ca-a663-e421e6c8364c" playOrder="13">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119gal04.htm"/>
+    </navPoint>
+    <navPoint id="u30c82734-3aee-41e1-b412-7c970354379e" playOrder="14">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119gal06.htm"/>
+    </navPoint>
+    <navPoint id="u6dfe01ea-8d14-4c61-97b4-c162703f1443" playOrder="15">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119gal02.htm"/>
+    </navPoint>
+    <navPoint id="u633631d5-e08c-4aa6-a39a-b86c9583738c" playOrder="16">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119gal08.htm"/>
+    </navPoint>
+    <navPoint id="uc944a59f-3c97-47de-b44d-e95e8ab5b372" playOrder="17">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto01.jpg"/>
+    </navPoint>
+    <navPoint id="u35c1f0e4-ed00-42f4-a301-55f44df73ac8" playOrder="18">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto02.jpg"/>
+    </navPoint>
+    <navPoint id="u9384dfd9-d97e-4d36-aa62-aa6d10bb5b11" playOrder="19">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto03.jpg"/>
+    </navPoint>
+    <navPoint id="ua146b14e-cf59-4e8d-9ba1-912cab7182dc" playOrder="20">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto04.jpg"/>
+    </navPoint>
+    <navPoint id="ua482c39c-6496-4c06-a6e5-f51debfcfadd" playOrder="21">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto05.jpg"/>
+    </navPoint>
+    <navPoint id="u226988c9-f904-4409-a659-8c916cb29671" playOrder="22">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto06.jpg"/>
+    </navPoint>
+    <navPoint id="u6ee9be93-1a30-48d0-9960-9e64d64b46ee" playOrder="23">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto11.jpg"/>
+    </navPoint>
+    <navPoint id="u098e5f14-53d9-4b52-993a-4fab3e419125" playOrder="24">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto13.jpg"/>
+    </navPoint>
+    <navPoint id="u20ef8989-04c9-4884-8141-e189347b66f3" playOrder="25">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto14.jpg"/>
+    </navPoint>
+    <navPoint id="u52fe75cd-e7a7-4381-991f-3ac0ea602499" playOrder="26">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto15.jpg"/>
+    </navPoint>
+    <navPoint id="u61dff04d-4153-4809-99ba-cbee7de99cdb" playOrder="27">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto16.jpg"/>
+    </navPoint>
+    <navPoint id="ua807c219-4692-4f92-a0a7-3205845e5d93" playOrder="28">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto17.jpg"/>
+    </navPoint>
+    <navPoint id="u87a807f6-6736-42c5-a792-b6ee0a85e1bb" playOrder="29">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto18.jpg"/>
+    </navPoint>
+    <navPoint id="u9613ce14-98cd-44ad-986c-aaa8943aba6d" playOrder="30">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto19.jpg"/>
+    </navPoint>
+    <navPoint id="uffe627be-98ff-406b-918f-fcfc956a2c8c" playOrder="31">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto20.jpg"/>
+    </navPoint>
+    <navPoint id="u25d8af9e-df02-41f0-ac82-1c26cfaae8fb" playOrder="32">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto21.jpg"/>
+    </navPoint>
+    <navPoint id="u1f887e01-d891-4dcb-8bb1-03d306c8a4eb" playOrder="33">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto22.jpg"/>
+    </navPoint>
+    <navPoint id="u8a104e95-3afc-44db-9ac9-66143b7a6bda" playOrder="34">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto23.jpg"/>
+    </navPoint>
+    <navPoint id="u090aec43-b669-4828-8382-b8d0c04e1035" playOrder="35">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto24.jpg"/>
+    </navPoint>
+    <navPoint id="ub5794d66-ee28-4592-b55e-7dc4329c0515" playOrder="36">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto25.jpg"/>
+    </navPoint>
+    <navPoint id="uc6ffed5e-e7a9-44cd-948e-05ee1c4b2eb0" playOrder="37">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto26.jpg"/>
+    </navPoint>
+    <navPoint id="u25769fd0-1c1e-481d-a8c1-815fc3643425" playOrder="38">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto27.jpg"/>
+    </navPoint>
+    <navPoint id="ue8d14bc7-2a5c-4e55-8d5a-26deba1de1db" playOrder="39">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto28.jpg"/>
+    </navPoint>
+    <navPoint id="u122d39e1-e01c-4ffb-b17f-cb4e53bab42b" playOrder="40">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto29.jpg"/>
+    </navPoint>
+    <navPoint id="ude8a7caa-cf34-489c-8bf1-e501fdf8e982" playOrder="41">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto30.jpg"/>
+    </navPoint>
+    <navPoint id="ue4a6fbd7-9776-4458-872f-221c5fdc6868" playOrder="42">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto31.jpg"/>
+    </navPoint>
+    <navPoint id="u19af78bc-920f-4445-8fac-3fe87681ccb3" playOrder="43">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto32.jpg"/>
+    </navPoint>
+    <navPoint id="ud54f2959-5254-4bcf-8169-8e89895344ee" playOrder="44">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto33.jpg"/>
+    </navPoint>
+    <navPoint id="u75e0c91e-d82d-454f-b774-547088ffc7a8" playOrder="45">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto34.jpg"/>
+    </navPoint>
+    <navPoint id="ub032e8ea-c57e-414f-bcd9-a00002eb3acd" playOrder="46">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto35.jpg"/>
+    </navPoint>
+    <navPoint id="ub01e2829-fa32-4130-abd4-6f97b09d9ed1" playOrder="47">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto36.jpg"/>
+    </navPoint>
+    <navPoint id="u4cf61a9b-1e87-4e69-b759-b42a5206458d" playOrder="48">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto37.jpg"/>
+    </navPoint>
+    <navPoint id="u4755c29f-eea3-4251-a620-aa250cdbdb08" playOrder="49">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-119anderfoto38.jpg"/>
+    </navPoint>
+  </navMap>
+</ncx>

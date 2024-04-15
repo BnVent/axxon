@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="22c9a2d5-e0c9-4457-be49-8c84ed497945" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.45.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 266</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uL8dgBQvlOJU7scdZHcy9dG" playOrder="1">
+      <navLabel>
+        <text>Editorial: Ese horizonte inalcanzable</text>
+      </navLabel>
+      <content src="c-266Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uM9p7RnVbSMKaemWVQuNPhG" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Un tramo de carretera de dos carriles de ancho</text>
+      </navLabel>
+      <content src="c-266Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u3VEZxYrhOe5ek2LJ6req24" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Buscando inspiración</text>
+      </navLabel>
+      <content src="c-266Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uAOs4wlNodh6PK6ww3Vax45" playOrder="4">
+      <navLabel>
+        <text>Entrevista: Entrevista a Editorial PelosDePunta</text>
+      </navLabel>
+      <content src="c-266Pag04.htm"/>
+    </navPoint>
+    <navPoint id="unhwXR3TcShOkcLeyqkxBL2" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Ruido Blanco</text>
+      </navLabel>
+      <content src="c-266Pag05.htm"/>
+    </navPoint>
+    <navPoint id="upOt4WO5G3tKJT22QsqJEjG" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Pobre infeliz</text>
+      </navLabel>
+      <content src="c-266Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u3ijnYoU8K2zJpPvptwdlEB" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Malditos</text>
+      </navLabel>
+      <content src="c-266Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u64PFtJRgUYs3Jp8Fu3hTfF" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (setenta y ocho)</text>
+      </navLabel>
+      <content src="c-266Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u2hIEy6AWqEgnuVi78QraRF" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Scel</text>
+      </navLabel>
+      <content src="c-266Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uFkFf9MuAWgvbpJY6zwTChF" playOrder="10">
+      <navLabel>
+        <text>Ficciones: El primer turno con la Clementina</text>
+      </navLabel>
+      <content src="c-266Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uubFgXOCxaU4mHcCltwAIzD" playOrder="11">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-266Pag11.htm"/>
+    </navPoint>
+    <navPoint id="uykIAZieIxS6ShweGZqVW75" playOrder="12">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

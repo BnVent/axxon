@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="a1cf6ab6-7dfb-492d-b09a-f93e90de9a29" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.12)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 59</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="30227fe4-a752-4bdb-ae2e-2dbbcf8e38d7" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-59Pag01.htm"/>
+    </navPoint>
+    <navPoint id="4af93e66-afda-44d3-b2fa-b808caf15527" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 59</text>
+      </navLabel>
+      <content src="c-59Pag02.htm"/>
+    </navPoint>
+    <navPoint id="c11e0cad-eefa-49e3-b453-dc69c9ef5427" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Grandulón</text>
+      </navLabel>
+      <content src="c-59Pag03.htm"/>
+    </navPoint>
+    <navPoint id="918d6506-2e04-49a2-b9d0-058e9e5846bc" playOrder="4">
+      <navLabel>
+        <text>Ensayo: Diez años después</text>
+      </navLabel>
+      <content src="c-59Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ebdd749b-1428-4268-b35f-ff8daf0f6ec2" playOrder="5">
+      <navLabel>
+        <text>Sección: La verdad barata (1)</text>
+      </navLabel>
+      <content src="c-59Pag05.htm"/>
+    </navPoint>
+    <navPoint id="bee312eb-82dc-4a30-aec3-77b510e8cbe4" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Veinte evocaciones</text>
+      </navLabel>
+      <content src="c-59Pag06.htm"/>
+    </navPoint>
+    <navPoint id="594a390f-5828-4d97-939d-7f161b06f753" playOrder="7">
+      <navLabel>
+        <text>Seccion: Tour Macabro (7)</text>
+      </navLabel>
+      <content src="c-59Pag07.htm"/>
+    </navPoint>
+    <navPoint id="280048d8-5b21-4445-b401-e6fa7bc709fe" playOrder="8">
+      <navLabel>
+        <text>Ficciones: El método de la respiración</text>
+      </navLabel>
+      <content src="c-59Pag08.htm"/>
+    </navPoint>
+    <navPoint id="5986b5a4-5c20-4497-9c71-5b17012951b1" playOrder="9">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad (32)</text>
+      </navLabel>
+      <content src="c-59Pag09.htm"/>
+    </navPoint>
+    <navPoint id="de16a272-085f-463f-85b1-fc0b9d2fb1f6" playOrder="10">
+      <navLabel>
+        <text>Correo: Correo 59</text>
+      </navLabel>
+      <content src="c-59Pag10.htm"/>
+    </navPoint>
+    <navPoint id="2241bf1e-9674-407f-bd02-b962caf34eb7" playOrder="11">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual (X)</text>
+      </navLabel>
+      <content src="c-59Pag11.htm"/>
+    </navPoint>
+    <navPoint id="081c0e72-a459-4930-9446-6887c49cd22a" playOrder="12">
+      <navLabel>
+        <text>Sección: ET AL Virtual (3), Información sobre CF</text>
+      </navLabel>
+      <content src="c-59Pag12.htm"/>
+    </navPoint>
+    <navPoint id="2c4214d5-879a-4954-8cc7-b725b4c40da5" playOrder="48">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-59Pag13.htm"/>
+    </navPoint>
+    <navPoint id="a77970b6-1948-4cb5-8cca-f9549c6a5551" playOrder="49">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-59Pag14.htm"/>
+    </navPoint>
+    <navPoint id="8980a283-1f68-4973-8c3d-ed6944ae0730" playOrder="50">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="08fb3649-0c51-4255-b23b-2376485d8cdb" playOrder="13">
+      <navLabel>
+        <text>PREMIOS</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#premios"/>
+    </navPoint>
+    <navPoint id="dc98f8ca-21c5-456b-b59e-65f4a560bc11" playOrder="14">
+      <navLabel>
+        <text>Premio John W. Campbell Memorial</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#premio-john-w-campbell-memorial"/>
+    </navPoint>
+    <navPoint id="cc3a6e2a-cd96-4113-8ca0-138e1d51607c" playOrder="15">
+      <navLabel>
+        <text>Premio Theodore Sturgeon</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#premio-theodore-sturgeon"/>
+    </navPoint>
+    <navPoint id="c3fb83b0-dc85-43ac-9e1f-94b5f9275917" playOrder="16">
+      <navLabel>
+        <text>AUTORES</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#autores"/>
+    </navPoint>
+    <navPoint id="b9a689d7-4876-48c2-a456-b8fec3e566ce" playOrder="17">
+      <navLabel>
+        <text>Moorcock a Estados Unidos</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#moorcock-a-estados-unidos"/>
+    </navPoint>
+    <navPoint id="3598cd45-1cda-4232-b49c-652d7f579a3e" playOrder="18">
+      <navLabel>
+        <text>LIBROS</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#libros"/>
+    </navPoint>
+    <navPoint id="d5e723ba-3773-4064-b37b-3933ba3760bd" playOrder="19">
+      <navLabel>
+        <text>Novedades bibliográficas en Argentina</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#novedades-bibliograficas-en-argentina"/>
+    </navPoint>
+    <navPoint id="7cd0e6ac-9287-4a21-b9c5-c3176399f7c1" playOrder="20">
+      <navLabel>
+        <text>Presentación de dos libros</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#presentacion-de-dos-libros"/>
+    </navPoint>
+    <navPoint id="251ae9d2-054a-4b0d-a8c2-c2bd3e440727" playOrder="21">
+      <navLabel>
+        <text>Principales novedades bibliográficas en inglés</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#principales-novedades-bibliograficas-en-ingles"/>
+    </navPoint>
+    <navPoint id="e6700911-401c-401b-a73e-66123a4c8e28" playOrder="22">
+      <navLabel>
+        <text>REVISTAS</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#revistas"/>
+    </navPoint>
+    <navPoint id="5bbab843-7b24-4141-9dcd-b0c47e84f8e1" playOrder="23">
+      <navLabel>
+        <text>Salió el primer número de Neuromante Inc.</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#salio-el-primer-numero-de-neuromante-inc"/>
+    </navPoint>
+    <navPoint id="8f722f82-f1d1-450b-9c55-de23a1aac38c" playOrder="24">
+      <navLabel>
+        <text>Revistas recibidas</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#revistas-recibidas"/>
+    </navPoint>
+    <navPoint id="21a10126-ac37-4d33-a9b4-6503e7b755c0" playOrder="25">
+      <navLabel>
+        <text>CINE</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#cine"/>
+    </navPoint>
+    <navPoint id="3fe3ba02-2d83-46b6-ba5e-bd071d369ff0" playOrder="26">
+      <navLabel>
+        <text>Borges en cine</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#borges-en-cine"/>
+    </navPoint>
+    <navPoint id="26266087-5a9d-4bfd-bf3a-38e246fb20eb" playOrder="27">
+      <navLabel>
+        <text>Subiela vuelve al género</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#subiela-vuelve-al-genero"/>
+    </navPoint>
+    <navPoint id="1c16a0b7-00f1-4194-9cac-b8be619e38be" playOrder="28">
+      <navLabel>
+        <text>Bioy Casares en el cine</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#bioy-casares-en-el-cine"/>
+    </navPoint>
+    <navPoint id="c09773c2-2199-485d-acc8-c49aa66a7b56" playOrder="29">
+      <navLabel>
+        <text>Blade Runner tiene sus ecos</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#blade-runner-tiene-sus-ecos"/>
+    </navPoint>
+    <navPoint id="cc174816-6f2b-4012-b824-81a4cea1f22a" playOrder="30">
+      <navLabel>
+        <text>Asterix al cine</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#asterix-al-cine"/>
+    </navPoint>
+    <navPoint id="edeb19c5-bd54-46fd-a738-7cbdbf1b5cc7" playOrder="31">
+      <navLabel>
+        <text>Nueva versión cinematográfica de Fahrenheit 451</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#nueva-version-cinematografica-de-fahrenheit-451"/>
+    </navPoint>
+    <navPoint id="1f4bbe26-3b3b-4983-b325-56aa7c87f217" playOrder="32">
+      <navLabel>
+        <text>Estrenos</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#estrenos"/>
+    </navPoint>
+    <navPoint id="7b5c778f-faf2-4ab0-bd42-828fdd75259d" playOrder="33">
+      <navLabel>
+        <text>Ciclo de Cine de Terror</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#ciclo-de-cine-de-terror"/>
+    </navPoint>
+    <navPoint id="634de6db-563a-4489-8109-1cca10053f3f" playOrder="34">
+      <navLabel>
+        <text>Varias sobre cine</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#varias-sobre-cine"/>
+    </navPoint>
+    <navPoint id="171429e6-344b-44d3-a955-0b1eff13e6c8" playOrder="35">
+      <navLabel>
+        <text>VIDEO</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#video"/>
+    </navPoint>
+    <navPoint id="7f277850-9348-4765-89b9-2f7509dc7fc3" playOrder="36">
+      <navLabel>
+        <text>MUERTES</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#muertes"/>
+    </navPoint>
+    <navPoint id="b42586c0-18a8-4008-84ce-31f8dd70fe77" playOrder="37">
+      <navLabel>
+        <text>Murió Peter Cushing</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#murio-peter-cushing"/>
+    </navPoint>
+    <navPoint id="91fa14e3-51e2-4fea-bbb2-269a06f9dfb9" playOrder="38">
+      <navLabel>
+        <text>Muere un escritor alemán</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#muere-un-escritor-aleman"/>
+    </navPoint>
+    <navPoint id="d4598a59-3414-4d6a-994f-60052deb5245" playOrder="39">
+      <navLabel>
+        <text>VARIOS</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#varios"/>
+    </navPoint>
+    <navPoint id="ca55bf8b-a66a-47d7-80b1-73f9d55ef282" playOrder="40">
+      <navLabel>
+        <text>Los Hugo y Nebula en CD-ROM</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#los-hugo-y-nebula-en-cd-rom"/>
+    </navPoint>
+    <navPoint id="4d02db63-60da-4c11-b260-827f04f7363f" playOrder="41">
+      <navLabel>
+        <text>La Biblia en Klingon</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#la-biblia-en-klingon"/>
+    </navPoint>
+    <navPoint id="b66b38eb-eb46-4ba4-964f-8dacbd744c8b" playOrder="42">
+      <navLabel>
+        <text>CONCURSOS</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#concursos"/>
+    </navPoint>
+    <navPoint id="76cd3e01-1135-4a25-96ea-b3fe536dc50f" playOrder="43">
+      <navLabel>
+        <text>IV Premio Pablo Rido (Antiguo Aznar) de Narrativa Fantástica</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#iv-premio-pablo-rido-antiguo-aznar-de-narrativa-fantastica"/>
+    </navPoint>
+    <navPoint id="c2fd4915-e018-44c1-be7f-40b768be944f" playOrder="44">
+      <navLabel>
+        <text>Primer Certamen de Narrativa Fantástica Cronos</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#primer-certamen-de-narrativa-fantastica-cronos"/>
+    </navPoint>
+    <navPoint id="dd1059d6-2a9f-4537-a436-2283cef5a438" playOrder="45">
+      <navLabel>
+        <text>I Concurso de Cuentos Ambientados en la Tierra Media</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#i-concurso-de-cuentos-ambientados-en-la-tierra-media"/>
+    </navPoint>
+    <navPoint id="29dfbc86-d9d8-4bb8-9f2c-0e67344cfb8e" playOrder="46">
+      <navLabel>
+        <text>Otros Concursos</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#otros-concursos"/>
+    </navPoint>
+    <navPoint id="5325a23f-532f-4567-af6d-eb9181c61772" playOrder="47">
+      <navLabel>
+        <text>Concurso de Cuento Breve de la Biblioteca Pública Raúl Entraigas.</text>
+      </navLabel>
+      <content src="c-59Pag12.htm#concurso-de-cuento-breve-de-la-biblioteca-publica-raul-entraigas"/>
+    </navPoint>
+  </navMap>
+</ncx>

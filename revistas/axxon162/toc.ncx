@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="cabd1dd3-4a8f-4096-a0c1-39b07fa4d22d" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 162</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u2d6aa777-75cb-442d-8894-882a91923042" playOrder="1">
+      <navLabel>
+        <text>Editorial: La guerra y la paz</text>
+      </navLabel>
+      <content src="c-162Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u3ac29073-51b8-43bd-962a-0e54ea5f3663" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-162Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u97871f24-b7b5-444f-9c0f-48cdd6f9b731" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Príncipe de los espíritus</text>
+      </navLabel>
+      <content src="c-162Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u115c0075-9034-482b-8422-960243295a1b" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Ol’ Fairies Bar</text>
+      </navLabel>
+      <content src="c-162Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u4abe73cc-85ba-4d19-b845-7e81f0afc472" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El embajador de Culmar 6</text>
+      </navLabel>
+      <content src="c-162Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ucc4cf951-b097-4529-86a9-02a7c079f372" playOrder="6">
+      <navLabel>
+        <text>Ficciones: (No alimenten a la) ostra</text>
+      </navLabel>
+      <content src="c-162Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u395bce1b-3f57-4c5a-b2fa-ca99081a6231" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Su seguro servidor</text>
+      </navLabel>
+      <content src="c-162Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uc80c750a-c8e6-4e44-adba-24c9c3d9e410" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Llanto por un astronauta</text>
+      </navLabel>
+      <content src="c-162Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u444c149d-bc56-48d3-bd8d-e694f047356c" playOrder="9">
+      <navLabel>
+        <text>Ficciones: La herencia de Brettini</text>
+      </navLabel>
+      <content src="c-162Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ue7a54bf0-3637-4de3-a4ce-e2d9c41faccb" playOrder="10">
+      <navLabel>
+        <text>Divulgacion: ¡Dale cuerda!</text>
+      </navLabel>
+      <content src="c-162Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u249580a6-101f-4127-9791-12f8b4bda5a4" playOrder="11">
+      <navLabel>
+        <text>Ficciones: La bala</text>
+      </navLabel>
+      <content src="c-162Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ub9361ba4-ed56-4905-b6db-579b1df68e93" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Romance del pájaro y la flecha</text>
+      </navLabel>
+      <content src="c-162Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u8c1781fa-41d1-4a15-8f66-fadc18e376d1" playOrder="13">
+      <navLabel>
+        <text>Ficciones: ¡Maldita suegra!</text>
+      </navLabel>
+      <content src="c-162Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u53c3c805-3bb5-42ad-9f3a-d27c15ab194b" playOrder="14">
+      <navLabel>
+        <text>Sección: Especial Mike Resnick</text>
+      </navLabel>
+      <content src="c-162Pag14.htm"/>
+    </navPoint>
+    <navPoint id="ud6ffb7b5-6528-4c9e-a2aa-25961ba4c991" playOrder="15">
+      <navLabel>
+        <text>Ficciones: Dios y el Sr. Slatterman</text>
+      </navLabel>
+      <content src="c-162Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u60a0aa3d-5159-418a-9940-8ddd1dad8233" playOrder="16">
+      <navLabel>
+        <text>Ficciones: El último perro</text>
+      </navLabel>
+      <content src="c-162Pag16.htm"/>
+    </navPoint>
+    <navPoint id="ubf46cbc8-8ebc-4335-9775-07cc4ec4cac2" playOrder="17">
+      <navLabel>
+        <text>Entrevista: Axxón entrevista a Mike Resnick</text>
+      </navLabel>
+      <content src="c-162Pag17.htm"/>
+    </navPoint>
+    <navPoint id="uec1df5c1-ef41-4efc-9f67-4ee94c7bd4f4" playOrder="18">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (26)</text>
+      </navLabel>
+      <content src="c-162Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u5acb14b2-1e33-4aba-853a-bb8cb407ca3a" playOrder="19">
+      <navLabel>
+        <text>Ficciones: Horacio Kalibang o los autómatas</text>
+      </navLabel>
+      <content src="c-162Pag19.htm"/>
+    </navPoint>
+    <navPoint id="ucd752159-0dcc-4f2b-8392-e9c85452a54f" playOrder="20">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,284 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  background: url(./space-background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: Verdana, Arial, sans-serif;
+}
+
+.background-opacity-layer{
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(to bottom, transparent, #0a136b);
+  opacity: 0.75;
+  z-index: -1;
+}
+
+#header-container{
+  margin: 1rem 0;
+}
+
+#portada-principal{
+  height: 6rem;
+  margin-bottom: 1rem;
+}
+
+.resized-title{
+  font-size: 1rem;
+  color: #FFF;
+  vertical-align: middle;
+}
+
+header{
+  color: #c0c0f8;
+  text-align: center;
+}
+
+.header-footer{
+  display: flex;
+  gap: 3rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.social-media-container{
+  display: flex;
+  gap: 1rem;
+}
+
+.social-media-container img{
+  width: 2rem;
+  height: auto;
+  object-fit: contain;
+  background-color: #FFF;
+  border-radius: 6px;
+  padding: 0.25rem;
+  box-sizing: border-box;
+}
+
+header a{
+  text-decoration: none;
+}
+
+#banners{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+header a:visited{
+  color: #FFF;
+}
+
+#main-link{
+  display: block;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 2rem auto;
+  font-family: sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+  margin: 1rem 0;
+}
+
+#header-image{
+  width: 8rem;
+  height: 6rem;
+  object-fit: contain;
+}
+
+#main-layout{
+  padding: 3rem 4rem;
+  box-sizing: border-box;
+  border-radius: 4px;
+  justify-self: center;
+  align-self: center;
+  margin: 0 15vw;
+  width: 70vw;
+  background-color: #0a136b;
+}
+
+hr{
+  margin: 1rem 0;
+  border: none;
+  background-color: #0000a0;
+  width: 100%;
+  height: 1rem;
+  border-radius: 12px;
+}
+
+#current-date{
+  color: #80ffa0;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+section, footer{
+  color: #FFF;
+}
+
+section h1{
+  text-transform: uppercase;
+  color: #FFF;
+}
+
+footer{
+  line-height: 150%;
+}
+
+footer a{
+  color: #FFF;
+}
+
+#about-section blockquote{
+  line-height: 2rem;
+  border-left: 10px solid blue;
+  padding-left: 1.5rem;
+  margin-left: 3rem;
+  font-family: Verdana;
+}
+
+#about-section img{
+  width: 12rem;
+  height: auto;
+}
+
+#about-section .flex-container{
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+#about-section a, #about-section a:visited{
+  color: #FFF;
+  font-weight: bold;
+}
+
+#revistas-seleccion #revistas{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+    grid-auto-rows: 18rem;
+    gap: 2rem;
+    margin: 1rem 0;
+}
+
+#revistas-seleccion #revistas img{
+  display: block;
+  margin: auto;
+  object-fit: contain !important;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+#revistas-seleccion h1{
+    color: #FFF;
+}
+
+#revistas-seleccion span{
+    color: yellow;
+    font-size: 0.75rem;
+}
+
+#revistas-seleccion input{
+    padding: 0.5rem;
+    width: 13rem;
+    border-radius: 6px;
+}
+
+#revistas-seleccion button {
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+}
+
+#search-option{
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+#revistas-footer{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  gap: 1rem;
+}
+
+#revistas-footer .button{
+  text-transform: uppercase;
+  color: #FFF;
+  font-weight: bold;
+  font-size: 1.25rem;
+  padding: 2rem;
+  width: 50%;
+  box-sizing: border-box;
+  text-align: center;
+  background-color: #030b50;
+  border: 1px solid #FFF;
+}
+
+@media (max-width: 1200px) {
+  #main-layout{
+    width: 100vw;
+    margin: auto;
+    padding: 1rem 2rem;
+  }
+
+  #banners{
+    flex-flow: wrap;
+  }
+
+  #about-section .flex-container{
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  #about-section blockquote{
+    margin: 0;
+  }
+
+  #revistas-seleccion #revistas{
+    grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));
+    grid-auto-rows: 12rem;
+    margin: 1rem 0;
+  }
+
+  #revistas-seleccion .button {
+    font-size: 1rem;
+    padding: auto 0.25rem;
+    width: auto;
+  }
+}
+
+@media (max-width: 360px) {
+  #revistas-seleccion #revistas{
+    grid-template-columns: 1fr;
+    grid-auto-rows: 1fr;
+  }
+
+  #search-option{
+    flex-direction: column;
+  }
+
+  #search-option button, #search-option input{
+    width: 100%;
+  }
+
+  #revistas-footer{
+    flex-direction: column;
+  }
+
+  #revistas-footer .button{
+    width: 100%;
+  }
+}

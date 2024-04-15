@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="521cb7df-42fc-4cff-9b32-5e629969c89e" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.21.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 250</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uac52a372-c3bc-411d-ba1e-70cd653804f5" playOrder="1">
+      <navLabel>
+        <text>Editorial: Tiempo loco</text>
+      </navLabel>
+      <content src="c-250Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u303ddf8f-091e-437b-a2a5-448fb3686c9d" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Un faquir de Esnapur</text>
+      </navLabel>
+      <content src="c-250Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u5ff0f0ea-b664-43e5-8b7f-d2b19d1c73d5" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Desayuno punk</text>
+      </navLabel>
+      <content src="c-250Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uda877983-8985-446a-91c0-3e5de109e1e1" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Chunga Maya, terror de las Antillas</text>
+      </navLabel>
+      <content src="c-250Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ucda633c6-6ef3-4b47-be7a-9fdb80d6c06a" playOrder="5">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

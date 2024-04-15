@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="5ab2655c-0a3a-4fec-b9e5-76476219ba15" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.35)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 81</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u50ccfb9e-b1be-42cc-b0b7-cd6673c4f34a" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-81Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u673c51db-2a48-4110-a623-68ce150ba966" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 81</text>
+      </navLabel>
+      <content src="c-81Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uad8ab3f0-1d35-400f-b4e6-276a32061c74" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Cuestión de horas</text>
+      </navLabel>
+      <content src="c-81Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u3d328c72-415b-4ac9-b81f-aa0b8d760f1c" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Fábula con máscaras</text>
+      </navLabel>
+      <content src="c-81Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u46730376-36f6-4bff-8e28-4b5da483720b" playOrder="5">
+      <navLabel>
+        <text>Ficciones: &lt;&lt;&lt; REW &lt;&lt;&lt;</text>
+      </navLabel>
+      <content src="c-81Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u2dbbf69a-d89d-4428-8e59-f1bca958ef5e" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Encubridor</text>
+      </navLabel>
+      <content src="c-81Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u16567896-b8f1-4b0f-b506-60030cf0db33" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Doctor</text>
+      </navLabel>
+      <content src="c-81Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u34dce2d7-a819-4db7-a888-db066248b6f9" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Antionan</text>
+      </navLabel>
+      <content src="c-81Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u2e6688cf-8cba-4753-9b95-ca60a5b2188a" playOrder="9">
+      <navLabel>
+        <text>Ficciones: La ciudad y los gatos</text>
+      </navLabel>
+      <content src="c-81Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u02537098-2dea-428b-8625-0e95a82b2872" playOrder="10">
+      <navLabel>
+        <text>Ficciones: El comienzo</text>
+      </navLabel>
+      <content src="c-81Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uae42d193-41eb-4e72-824a-17ebfa2654a5" playOrder="11">
+      <navLabel>
+        <text>Nota: Los borg existen… y son uruguayos</text>
+      </navLabel>
+      <content src="c-81Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u5aa0daa9-11ee-48b3-845c-d2adc6fbd7f3" playOrder="12">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual</text>
+      </navLabel>
+      <content src="c-81Pag12.htm"/>
+    </navPoint>
+    <navPoint id="ud4310746-df69-4cea-9230-96bce8be5887" playOrder="13">
+      <navLabel>
+        <text>Nota: Metrópolis multimedios</text>
+      </navLabel>
+      <content src="c-81Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u2ac87fbc-a386-4c79-bcbc-daaf935b15e2" playOrder="14">
+      <navLabel>
+        <text>Correo: Correo 81</text>
+      </navLabel>
+      <content src="c-81Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u778b24bc-1533-40a8-ae34-8735e9343a5c" playOrder="15">
+      <navLabel>
+        <text>Sección: Revista virtual de informática</text>
+      </navLabel>
+      <content src="c-81Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u4b51da9a-d2ee-4114-86b9-86235caf35fe" playOrder="21">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-81Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u3b76d5b8-8d40-4058-9d3b-ff39ca2f8987" playOrder="22">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-81Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u2ffe782f-761e-4fcb-a9ac-ff9fefaffe71" playOrder="23">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="uae1424e6-9d5e-4cf9-8b7d-eef10302a3e4" playOrder="16">
+      <navLabel>
+        <text>El humor en la computación</text>
+      </navLabel>
+      <content src="c-81Pag15.htm#el-humor-en-la-computacion"/>
+    </navPoint>
+    <navPoint id="u0b1821a4-75a9-495a-ae07-084ef4903a7a" playOrder="17">
+      <navLabel>
+        <text>¿Es Windows un virus?</text>
+      </navLabel>
+      <content src="c-81Pag15.htm#es-windows-un-virus"/>
+    </navPoint>
+    <navPoint id="ua36049c8-f0ff-462e-95b5-2db422d4bd86" playOrder="18">
+      <navLabel>
+        <text>Transcripción de “Los Episodios Perdidos de Viaje a las Estrellas”</text>
+      </navLabel>
+      <content src="c-81Pag15.htm#transcripcion-de-los-episodios-perdidos-de-viaje-a-las-estrellas"/>
+    </navPoint>
+    <navPoint id="uead48ae5-803f-44b8-a557-29ad2102197d" playOrder="19">
+      <navLabel>
+        <text>Códigos de Error Windows</text>
+      </navLabel>
+      <content src="c-81Pag15.htm#codigos-de-error-windows"/>
+    </navPoint>
+    <navPoint id="u0691cb1d-e31c-44b2-9153-b1a563d45425" playOrder="20">
+      <navLabel>
+        <text>LENGUAJE ENSAMBLADOR 8086/8088 (Parte 9)</text>
+      </navLabel>
+      <content src="c-81Pag15.htm#lenguaje-ensamblador-8086-8088-parte-9"/>
+    </navPoint>
+  </navMap>
+</ncx>

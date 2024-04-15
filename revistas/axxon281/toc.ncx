@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="09aaf20c-03cf-4e69-99f3-adca922cd04a" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.85.1)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 281</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uJmtsOKbR3fXgbb76ZtsWf4" playOrder="1">
+      <navLabel>
+        <text>Editorial: De Memoria y Deseo</text>
+      </navLabel>
+      <content src="c-281Pag01.htm"/>
+    </navPoint>
+    <navPoint id="utHpMriXZNvEXxTRLCwFSOB" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Sidgrid</text>
+      </navLabel>
+      <content src="c-281Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uVHESTtFsndYlxpliTUgqxE" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Strass de estrellas</text>
+      </navLabel>
+      <content src="c-281Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uJHSTmBe8njBrjcDrWYOBFF" playOrder="4">
+      <navLabel>
+        <text>Ficciones: La novia de Lugosi</text>
+      </navLabel>
+      <content src="c-281Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uyjsknczHENrY7j7wO8bPd9" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Último adiós en Dulce Ofelia</text>
+      </navLabel>
+      <content src="c-281Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u74gG6Ww9tjCiU4xWxSUByA" playOrder="6">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-281Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uHWd3QxBOI7ynsQx7hGQfMA" playOrder="7">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="c4da46c9-06f4-4957-95c3-2d17601d22b4" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.17.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 286</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uzeUwKYvcQEhqKE3t7kQ5HE" playOrder="1">
+      <navLabel>
+        <text>Editorial: McLecturas</text>
+      </navLabel>
+      <content src="c-286Pag01.htm"/>
+    </navPoint>
+    <navPoint id="urHh5GgyhtK3n3LpxHBD3k5" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Morgellons</text>
+      </navLabel>
+      <content src="c-286Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uwzbMgjyGjuAlQxrpw6POmC" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El rostro en la oscuridad</text>
+      </navLabel>
+      <content src="c-286Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uCYVQYtN5CRGLzsj6BbEKWA" playOrder="4">
+      <navLabel>
+        <text>Ficciones: L’incantatore</text>
+      </navLabel>
+      <content src="c-286Pag04.htm"/>
+    </navPoint>
+    <navPoint id="umcbfbMGgaAJ3kTkqTzXba4" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Julia otra vez</text>
+      </navLabel>
+      <content src="c-286Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uhfPOlOm64nFSNti77yxSF8" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Memoria histórica</text>
+      </navLabel>
+      <content src="c-286Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uiAEErMl4EzEglbBj3gC7E8" playOrder="7">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-286Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ua55SrWJTWBgtd5ElV2OmyG" playOrder="8">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

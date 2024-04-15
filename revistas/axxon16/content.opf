@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Ediciones Axxón</dc:publisher>
+    <meta name="calibre:series_index" content="16"/>
+    <dc:language>es</dc:language>
+    <dc:creator opf:file-as="Desconocido" opf:role="aut">Eduardo Carletti (editor)</dc:creator>
+    <meta name="calibre:timestamp" content="2012-03-16T14:52:57.968000+00:00"/>
+    <dc:title>Axxón 16</dc:title>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:series" content="Axxón"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">e3b80414-4a3d-4e66-a172-00591a3a50c8</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="axxon-16_006.png" id="added10" media-type="image/png"/>
+    <item href="axxon-16_007.png" id="added11" media-type="image/png"/>
+    <item href="axxon-16_008.png" id="added12" media-type="image/png"/>
+    <item href="axxon-16_009.png" id="added13" media-type="image/png"/>
+    <item href="axxon-16_010.png" id="added14" media-type="image/png"/>
+    <item href="axxon-16_011.png" id="added15" media-type="image/png"/>
+    <item href="axxon-16_012.png" id="added16" media-type="image/png"/>
+    <item href="axxon-16_013.png" id="added17" media-type="image/png"/>
+    <item href="axxon-16_014.png" id="added18" media-type="image/png"/>
+    <item href="axxon-16_015.png" id="added19" media-type="image/png"/>
+    <item href="axxon-16_016.png" id="added20" media-type="image/png"/>
+    <item href="axxon.htm" id="html10" media-type="application/xhtml+xml"/>
+    <item href="axxon00.gif" id="added21" media-type="image/gif"/>
+    <item href="axxon16.htm" id="html" media-type="application/xhtml+xml"/>
+    <item href="c-16Pag01.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="c-16Pag02.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="c-16Pag03.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="c-16Pag04.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="c-16Pag05.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="c-16Pag06.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="c-16Pag07.htm" id="html7" media-type="application/xhtml+xml"/>
+    <item href="c-16Pag08.htm" id="html8" media-type="application/xhtml+xml"/>
+    <item href="c-16Pag09.htm" id="html9" media-type="application/xhtml+xml"/>
+    <item href="c-16tapach.jpg" id="added22" media-type="image/jpeg"/>
+    <item href="c-ejc0.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="pag02_001.png" id="added4" media-type="image/png"/>
+    <item href="pag03_001.png" id="added5" media-type="image/png"/>
+    <item href="pag03_002.png" id="added6" media-type="image/png"/>
+    <item href="pag05_001.png" id="added7" media-type="image/png"/>
+    <item href="pag06_001.png" id="added8" media-type="image/png"/>
+    <item href="pag07_001.png" id="added9" media-type="image/png"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="x-epub.png" id="added23" media-type="image/png"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+    <itemref idref="html1"/>
+    <itemref idref="html2"/>
+    <itemref idref="html3"/>
+    <itemref idref="html4"/>
+    <itemref idref="html5"/>
+    <itemref idref="html6"/>
+    <itemref idref="html7"/>
+    <itemref idref="html8"/>
+    <itemref idref="html9"/>
+    <itemref idref="html10"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

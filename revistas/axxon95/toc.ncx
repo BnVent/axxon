@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="645fb2d4-7500-40a0-9969-2f38c244fc5c" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.15.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 95</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u8bd9f5de-6b13-4823-9d78-6fa2d4dd3774" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-95Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u5a7614c6-d0eb-40c4-8be4-d302dff43322" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 95</text>
+      </navLabel>
+      <content src="c-95Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uf2e288db-af65-45bb-8526-1db0ee6fe6e6" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Alto abismo</text>
+      </navLabel>
+      <content src="c-95Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ud887bc47-9e6d-46e2-8dc1-668ed19bdd55" playOrder="4">
+      <navLabel>
+        <text>Sección: El Portal Fantástico</text>
+      </navLabel>
+      <content src="c-95Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u4007837f-5b81-407b-80a0-4e550379a878" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Mañana perdida</text>
+      </navLabel>
+      <content src="c-95Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u6e0aa9e0-5860-4f31-be20-262920355b17" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Bosquedad</text>
+      </navLabel>
+      <content src="c-95Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u0b486df5-81f3-4762-acba-813e55bcf7be" playOrder="7">
+      <navLabel>
+        <text>Sección: INFO Córtex</text>
+      </navLabel>
+      <content src="c-95Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u0ead1cf2-6248-4d24-acab-61494484b3c2" playOrder="8">
+      <navLabel>
+        <text>Sección: El rincón de las tinieblas</text>
+      </navLabel>
+      <content src="c-95Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uea43906f-3ea5-4b15-bbed-b1d1513444b6" playOrder="9">
+      <navLabel>
+        <text>Sección: Tour Macabro</text>
+      </navLabel>
+      <content src="c-95Pag09.htm"/>
+    </navPoint>
+    <navPoint id="udffa9363-9fc0-48a0-b1c6-0d23baf49e66" playOrder="10">
+      <navLabel>
+        <text>Ficciones: La leyenda de Sam Chaparrel (El relato de Zeke)</text>
+      </navLabel>
+      <content src="c-95Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ua00aa830-3584-4830-9275-f7aad5aa5b65" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Una noche poco tranquila</text>
+      </navLabel>
+      <content src="c-95Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u46bf55c6-9c65-4bea-9724-f888678de01f" playOrder="12">
+      <navLabel>
+        <text>Galería: Galería de arte</text>
+      </navLabel>
+      <content src="c-95Pag12.htm"/>
+    </navPoint>
+    <navPoint id="ue6f9058b-23d4-4f67-872d-51c7e4060d82" playOrder="13">
+      <navLabel>
+        <text>Letras: Letras macabras</text>
+      </navLabel>
+      <content src="c-95Pag13.htm"/>
+    </navPoint>
+    <navPoint id="ud92c0be5-0fad-4554-9fdc-ca404b2d7de1" playOrder="14">
+      <navLabel>
+        <text>Correo: Correo 95</text>
+      </navLabel>
+      <content src="c-95Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u0b3e3a53-690b-454c-bdf3-318942b32fc6" playOrder="15">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-95Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u1c70ba65-7429-443a-8708-8ad3b51aee09" playOrder="16">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-95Pag16.htm"/>
+    </navPoint>
+    <navPoint id="ube704bed-19ec-4368-b0b9-0f3b41594faa" playOrder="17">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

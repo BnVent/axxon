@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="6a704e21-006b-489c-9a2b-7c9d5d914ff2" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.8.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 91</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u177b8df5-79fb-43c0-9ec1-1a42291ef14e" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-91Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ud7ca6624-7e72-4d3c-8fae-3108e6f08c78" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 91</text>
+      </navLabel>
+      <content src="c-91Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u08c53295-9723-422b-901f-aee3476dcfe5" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Y tu firma al pie de la página</text>
+      </navLabel>
+      <content src="c-91Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ufd43c685-49d4-4ba0-ae66-38f4bb9b0a48" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Clásico de amor</text>
+      </navLabel>
+      <content src="c-91Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ue0ee5e7c-e3c8-4fa7-b825-bf33ced085bc" playOrder="5">
+      <navLabel>
+        <text>Sección: Xanadú</text>
+      </navLabel>
+      <content src="c-91Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uee3adb01-d295-4834-8360-f3ec3d00e767" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Kubla Khan</text>
+      </navLabel>
+      <content src="c-91Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u30de4de8-9a8b-4c32-a233-77ee681ae542" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Memorias de un hombre (invisible)</text>
+      </navLabel>
+      <content src="c-91Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u450808db-1a19-4bad-bdc4-36f314f606eb" playOrder="8">
+      <navLabel>
+        <text>Ficciones: La barca</text>
+      </navLabel>
+      <content src="c-91Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u783ae854-f189-4ce8-b3fa-86da99b044ad" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Estación imposible</text>
+      </navLabel>
+      <content src="c-91Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u57a684ed-f13a-43e5-9edd-030d88f8d9af" playOrder="10">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual</text>
+      </navLabel>
+      <content src="c-91Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ua0d27c36-f513-4c5a-83da-97d28a1338aa" playOrder="11">
+      <navLabel>
+        <text>Sección: Tour Macabro: Presentación</text>
+      </navLabel>
+      <content src="c-91Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u91af8ea4-2f7e-4251-980c-6c379152fb18" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Los fantasmas del Roxy</text>
+      </navLabel>
+      <content src="c-91Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u3ff05e64-04d7-45aa-b9c4-1880ef4b3895" playOrder="13">
+      <navLabel>
+        <text>Ficciones: La REMY-4207</text>
+      </navLabel>
+      <content src="c-91Pag13.htm"/>
+    </navPoint>
+    <navPoint id="uc686b12c-cdd5-44d8-a9fd-85607b26cc64" playOrder="14">
+      <navLabel>
+        <text>Galería: Galería de arte</text>
+      </navLabel>
+      <content src="c-91Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u1545c275-2766-43bc-af64-ceabee4ed497" playOrder="15">
+      <navLabel>
+        <text>Ficciones: El silencio</text>
+      </navLabel>
+      <content src="c-91Pag15.htm"/>
+    </navPoint>
+    <navPoint id="uce34c07b-e3d1-42d6-9c5d-17fd9f26a8a9" playOrder="16">
+      <navLabel>
+        <text>Ficciones: Poemas</text>
+      </navLabel>
+      <content src="c-91Pag16.htm"/>
+    </navPoint>
+    <navPoint id="ufdb09435-fc79-4ced-be70-b89647cda8c2" playOrder="17">
+      <navLabel>
+        <text>Ficciones: El andrajoso</text>
+      </navLabel>
+      <content src="c-91Pag17.htm"/>
+    </navPoint>
+    <navPoint id="ufcaaba02-1087-422a-a141-7a3e3e5ea8f7" playOrder="18">
+      <navLabel>
+        <text>Sección: La doble hélice</text>
+      </navLabel>
+      <content src="c-91Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u2bdc5b16-8df5-47f5-b557-9fa2927549d5" playOrder="19">
+      <navLabel>
+        <text>Sección: INFO Córtex</text>
+      </navLabel>
+      <content src="c-91Pag19.htm"/>
+    </navPoint>
+    <navPoint id="u25f1b334-d980-4db8-9b38-c34bccbb80a6" playOrder="48">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-91Pag20.htm"/>
+    </navPoint>
+    <navPoint id="u9f146f64-4957-45b8-a1a4-8129607b882a" playOrder="49">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-91Pag21.htm"/>
+    </navPoint>
+    <navPoint id="u784c5ed0-8545-4984-916b-0687a767b636" playOrder="50">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="u9b796237-9a24-4753-a6e8-b3e4853d4e6a" playOrder="20">
+      <navLabel>
+        <text>P R E M I O S</text>
+      </navLabel>
+      <content src="c-91Pag19.htm#p-r-e-m-i-o-s"/>
+    </navPoint>
+    <navPoint id="ue7f679e7-28b8-45fc-8ed0-0e29ce18ab9a" playOrder="21">
+      <navLabel>
+        <text>CARLOS GARDINI: GANADOR DEL PREMIO UPC A NOVELA CORTA DE CF</text>
+      </navLabel>
+      <content src="c-91Pag19.htm#carlos-gardini-ganador-del-premio-upc-a-novela-corta-de-cf"/>
+    </navPoint>
+    <navPoint id="udadab37d-366f-4067-b056-a13c4da421b7" playOrder="22">
+      <navLabel>
+        <text>C O N C U R S O S</text>
+      </navLabel>
+      <content src="c-91Pag19.htm#c-o-n-c-u-r-s-o-s"/>
+    </navPoint>
+    <navPoint id="ub8b1db6b-0861-4031-95bc-7e48147ef071" playOrder="23">
+      <navLabel>
+        <text>IX CERTAMEN LITERARIO ALBERTO MAGNO DE CF DE LA UNIVERSIDAD DEL PAIS VASCO EUSKAL HERRIKO UNIBERTSIT</text>
+      </navLabel>
+      <content src="c-91Pag19.htm#ix-certamen-literario-alberto-magno-de-cf-de-la-universidad-del-pais-vasco-euskal-herriko-unibertsitatea"/>
+    </navPoint>
+    <navPoint id="u7efa9ae3-c595-4755-87b1-046136d739fb" playOrder="24">
+      <navLabel>
+        <text>Premios LA NACION 1997 Cuento</text>
+      </navLabel>
+      <content src="c-91Pag19.htm#premios-la-nacion-1997-cuento"/>
+    </navPoint>
+    <navPoint id="u132e7faa-5f98-4875-9939-8063e4099819" playOrder="25">
+      <navLabel>
+        <text>VII premio Pablo Rido convocado por la Tertulia de Literatura Fantástica de Madrid</text>
+      </navLabel>
+      <content src="c-91Pag19.htm#titrido"/>
+    </navPoint>
+    <navPoint id="uff6da08a-bbf7-4713-af95-e73545680383" playOrder="26">
+      <navLabel>
+        <text>Fondo para Ediciones</text>
+      </navLabel>
+      <content src="c-91Pag19.htm#fondo-para-ediciones"/>
+    </navPoint>
+    <navPoint id="udd7fd3e4-3d73-4b57-9dc4-e5c80a61ceca" playOrder="27">
+      <navLabel>
+        <text>Premio Planeta 1997 a Novela</text>
+      </navLabel>
+      <content src="c-91Pag19.htm#premio-planeta-1997-a-novela"/>
+    </navPoint>
+    <navPoint id="u229ea21a-caf0-4a40-a753-527f30d04931" playOrder="28">
+      <navLabel>
+        <text>Concurso de Poesía de la Red Literaria.</text>
+      </navLabel>
+      <content src="c-91Pag19.htm#concurso-de-poesia-de-la-red-literaria"/>
+    </navPoint>
+    <navPoint id="u01055165-401b-46e4-ab10-18630e8686e0" playOrder="29">
+      <navLabel>
+        <text>Concurso “Sueños de Futuro” de poesía y cuento corto del Centro de Artes y Letras de San Telmo.</text>
+      </navLabel>
+      <content src="c-91Pag19.htm#titsdf"/>
+    </navPoint>
+    <navPoint id="uabed77bd-c820-457e-95b1-39730bba52fc" playOrder="30">
+      <navLabel>
+        <text>3er. Concurso nacional de cuento y poesía Pedro Miguel Obligado del Complejo Cultural Maitén, de Lan</text>
+      </navLabel>
+      <content src="c-91Pag19.htm#titpmo"/>
+    </navPoint>
+    <navPoint id="u75388cb3-9cb8-4e4a-b3ee-9eed1ff55826" playOrder="31">
+      <navLabel>
+        <text>Quinto Concurso Nacionald e Poesía Tandil 1997</text>
+      </navLabel>
+      <content src="c-91Pag19.htm#quinto-concurso-nacionald-e-poesia-tandil-1997"/>
+    </navPoint>
+    <navPoint id="ue1e62da2-c1ca-49bc-9927-a22119b13d7c" playOrder="32">
+      <navLabel>
+        <text>Concurso de cuentos “Avon con la mujer en las Letras”.</text>
+      </navLabel>
+      <content src="c-91Pag19.htm#concurso-de-cuentos-avon-con-la-mujer-en-las-letras"/>
+    </navPoint>
+    <navPoint id="ub01a768a-61e2-46e1-9a64-d3a0d5a8dbe8" playOrder="33">
+      <navLabel>
+        <text>Concursos del Centro de Difusión Cultural “Metrópolis”</text>
+      </navLabel>
+      <content src="c-91Pag19.htm#concursos-del-centro-de-difusion-cultural-metropolis"/>
+    </navPoint>
+    <navPoint id="u910d4c92-4ae6-4f05-9e38-c5a50b2deb4e" playOrder="34">
+      <navLabel>
+        <text>Concurso de Poesía y Cuento 1997 (Salta)</text>
+      </navLabel>
+      <content src="c-91Pag19.htm#concurso-de-poesia-y-cuento-1997-salta"/>
+    </navPoint>
+    <navPoint id="ue24bd330-4c56-4b03-9061-9b9b015f0213" playOrder="35">
+      <navLabel>
+        <text>Concurso de Cuento Breve 1997 (Biblioteca Popular Las Toninas)</text>
+      </navLabel>
+      <content src="c-91Pag19.htm#concurso-de-cuento-breve-1997-biblioteca-popular-las-toninas"/>
+    </navPoint>
+    <navPoint id="u028606d7-9368-4e34-91ff-2e8cc498e5dd" playOrder="36">
+      <navLabel>
+        <text>Lazos Cooperativos</text>
+      </navLabel>
+      <content src="c-91Pag19.htm#lazos-cooperativos"/>
+    </navPoint>
+    <navPoint id="uf5db0a4b-848e-448d-9788-484ceba6275c" playOrder="37">
+      <navLabel>
+        <text>Poesías para sentir y soñar</text>
+      </navLabel>
+      <content src="c-91Pag19.htm#poesias-para-sentir-y-sonar"/>
+    </navPoint>
+    <navPoint id="u878fef71-c5b8-4cd5-9e98-370b387fa4c5" playOrder="38">
+      <navLabel>
+        <text>Alicia Gallegos Editora</text>
+      </navLabel>
+      <content src="c-91Pag19.htm#alicia-gallegos-editora"/>
+    </navPoint>
+    <navPoint id="u4df6fb4a-f02c-4565-a57e-bed5be43b29c" playOrder="39">
+      <navLabel>
+        <text>Radio Universidad Popular de la Boca</text>
+      </navLabel>
+      <content src="c-91Pag19.htm#radio-universidad-popular-de-la-boca"/>
+    </navPoint>
+    <navPoint id="u0eb6218a-39fd-4f4d-8cfe-757d24fccb5d" playOrder="40">
+      <navLabel>
+        <text>VI Concurso Literario Leopoldo Marechal de Cuento y Poesía</text>
+      </navLabel>
+      <content src="c-91Pag19.htm#titlm"/>
+    </navPoint>
+    <navPoint id="u929a1180-9497-4ca6-9679-cfa7b69ecb97" playOrder="41">
+      <navLabel>
+        <text>Primeros certámenes de poesía “Antonio Nelson Romera” y de narrativa, “Francisco Castañeda Guerrero”</text>
+      </navLabel>
+      <content src="c-91Pag19.htm#edea"/>
+    </navPoint>
+    <navPoint id="ued2e1c00-602c-4caa-b46a-611a7e9d67c5" playOrder="42">
+      <navLabel>
+        <text>A U T O R E S</text>
+      </navLabel>
+      <content src="c-91Pag19.htm#a-u-t-o-r-e-s"/>
+    </navPoint>
+    <navPoint id="u64874295-1529-48f7-a633-44fb95d4132f" playOrder="43">
+      <navLabel>
+        <text>Homenaje a Héctor G. Oesterheld - 40 años de la primera aparición del eternauta</text>
+      </navLabel>
+      <content src="c-91Pag19.htm#eter"/>
+    </navPoint>
+    <navPoint id="u53abd7a3-e4d3-4e14-b844-9c76107668cd" playOrder="44">
+      <navLabel>
+        <text>ADOLFO BIOY CASARES</text>
+      </navLabel>
+      <content src="c-91Pag19.htm#adolfo-bioy-casares"/>
+    </navPoint>
+    <navPoint id="u328519a4-07e1-4acc-b5d6-76c71323d921" playOrder="45">
+      <navLabel>
+        <text>A C T I V I D A D E S</text>
+      </navLabel>
+      <content src="c-91Pag19.htm#a-c-t-i-v-i-d-a-d-e-s"/>
+    </navPoint>
+    <navPoint id="u060ce27f-b6e5-48e4-95c0-8abffdd94a97" playOrder="46">
+      <navLabel>
+        <text>SETIEMBRE DE 1997 1RA CONVENCION URUGUAYA DE CF Y F</text>
+      </navLabel>
+      <content src="c-91Pag19.htm#setiembre-de-1997-1ra-convencion-uruguaya-de-cf-y-f"/>
+    </navPoint>
+    <navPoint id="u5ee8b063-835c-4f31-9a10-418039c89ca7" playOrder="47">
+      <navLabel>
+        <text>R E V I S T A S</text>
+      </navLabel>
+      <content src="c-91Pag19.htm#r-e-v-i-s-t-a-s"/>
+    </navPoint>
+  </navMap>
+</ncx>

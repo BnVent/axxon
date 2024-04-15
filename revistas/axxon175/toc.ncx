@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="0580f103-71f0-41d7-9880-f2f08d4d3575" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 175</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ue39db6d6-c520-4612-9d00-5f2c1d9753cf" playOrder="1">
+      <navLabel>
+        <text>Editorial: Credibilidad hoy</text>
+      </navLabel>
+      <content src="c-175Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u9876adea-9502-4aa7-96b1-f7c251e8a286" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-175Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u98459105-bef6-467c-a72f-b9beba8b2349" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Linaje</text>
+      </navLabel>
+      <content src="c-175Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ueda0be4d-8096-4821-a0d3-c840ccfabd51" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El rostro de Gaya</text>
+      </navLabel>
+      <content src="c-175Pag04.htm"/>
+    </navPoint>
+    <navPoint id="udc287b68-dfa9-46a4-b061-088179507d37" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Comer con el pico y batir las alas hasta que haya máquinas en el cielo</text>
+      </navLabel>
+      <content src="c-175Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u3f902b7a-87b5-4e0f-a973-c5921b44a2c9" playOrder="6">
+      <navLabel>
+        <text>Axxóncine: The Host</text>
+      </navLabel>
+      <content src="c-175Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uadaa7feb-f4bf-4f86-8bb1-6ef83643ce2a" playOrder="7">
+      <navLabel>
+        <text>Axxóncine: Harry Potter y la Orden del Fénix</text>
+      </navLabel>
+      <content src="c-175Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u5f175390-f54d-4a5b-b307-dad5eacab597" playOrder="8">
+      <navLabel>
+        <text>Divulgación: ¡Obedece, cuásar!</text>
+      </navLabel>
+      <content src="c-175Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ucc1f0d8f-5204-4481-8dc5-f5fa1b878ab3" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Las ruinas de Dartrum</text>
+      </navLabel>
+      <content src="c-175Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u5e61f397-1b21-4d06-830f-ed98c934a261" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Los lobos de Umbría</text>
+      </navLabel>
+      <content src="c-175Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u17ea7c54-d165-4f8b-8c1e-9997f5ca4847" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (33)</text>
+      </navLabel>
+      <content src="c-175Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ufea62428-48aa-4422-964b-39d187b04448" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Esa profunda soledad</text>
+      </navLabel>
+      <content src="c-175Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u08a0730a-96f6-459c-b7af-69330b2a7686" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Lobo</text>
+      </navLabel>
+      <content src="c-175Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u791ca542-ab7f-4a42-a576-1bee52633620" playOrder="14">
+      <navLabel>
+        <text>Ficciones: Personalidades</text>
+      </navLabel>
+      <content src="c-175Pag14.htm"/>
+    </navPoint>
+    <navPoint id="uf37c35f1-22c3-4500-8b01-eb4fcca7ed12" playOrder="15">
+      <navLabel>
+        <text>Ensayo: ¿Ciencia en la ficción o ficción en la Ciencia?</text>
+      </navLabel>
+      <content src="c-175Pag15.htm"/>
+    </navPoint>
+    <navPoint id="uc1c9a208-c075-44fa-b557-cd31508d8453" playOrder="16">
+      <navLabel>
+        <text>Clásico: El vampiro</text>
+      </navLabel>
+      <content src="c-175Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u0166b42e-a89d-4316-be7b-4a40c2bd3176" playOrder="17">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-175Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u514e3897-4d69-4280-b365-a71c308f1cd9" playOrder="18">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

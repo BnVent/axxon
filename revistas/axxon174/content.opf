@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:identifier id="uuid_id" opf:scheme="uuid">772dee96-dd14-4d77-8de2-890aeaf0ebb5</dc:identifier>
+    <meta name="calibre:timestamp" content="2015-10-06T17:11:26.691000+00:00"/>
+    <dc:language>es</dc:language>
+    <dc:title>Axxón 174</dc:title>
+    <dc:publisher>Ediciones Axxón</dc:publisher>
+    <dc:creator opf:file-as="Desconocido" opf:role="aut">Eduardo Carletti (editor)</dc:creator>
+    <meta name="calibre:series_index" content="174"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:series" content="Axxón"/>
+  </metadata>
+  <manifest>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="axxon.htm" id="html26" media-type="application/xhtml+xml"/>
+    <item href="axxon00.gif" id="added47" media-type="image/gif"/>
+    <item href="axxon174.htm" id="html" media-type="application/xhtml+xml"/>
+    <item href="c-174Pag01.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="c-174Pag02.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="c-174Pag03.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="c-174Pag04.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="c-174Pag05.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="c-174Pag06.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="c-174Pag07.htm" id="html7" media-type="application/xhtml+xml"/>
+    <item href="c-174Pag08.htm" id="html8" media-type="application/xhtml+xml"/>
+    <item href="c-174Pag09.htm" id="html9" media-type="application/xhtml+xml"/>
+    <item href="c-174Pag10.htm" id="html10" media-type="application/xhtml+xml"/>
+    <item href="c-174Pag11.htm" id="html11" media-type="application/xhtml+xml"/>
+    <item href="c-174Pag12.htm" id="html12" media-type="application/xhtml+xml"/>
+    <item href="c-174Pag13.htm" id="html13" media-type="application/xhtml+xml"/>
+    <item href="c-174Pag14.htm" id="html14" media-type="application/xhtml+xml"/>
+    <item href="c-174Pag15.htm" id="html15" media-type="application/xhtml+xml"/>
+    <item href="c-174Pag16.htm" id="html16" media-type="application/xhtml+xml"/>
+    <item href="c-174Pag17.htm" id="html17" media-type="application/xhtml+xml"/>
+    <item href="c-174Pag18.htm" id="html18" media-type="application/xhtml+xml"/>
+    <item href="c-174Pag19.htm" id="html19" media-type="application/xhtml+xml"/>
+    <item href="c-174Pag20.htm" id="html20" media-type="application/xhtml+xml"/>
+    <item href="c-174Pag21.htm" id="html21" media-type="application/xhtml+xml"/>
+    <item href="c-174Pag22.htm" id="html22" media-type="application/xhtml+xml"/>
+    <item href="c-174Pag23.htm" id="html23" media-type="application/xhtml+xml"/>
+    <item href="c-174Pag24.htm" id="html24" media-type="application/xhtml+xml"/>
+    <item href="c-174Pag25.htm" id="html25" media-type="application/xhtml+xml"/>
+    <item href="c-174axxcine1ilus1ch.jpg" id="added8" media-type="image/jpeg"/>
+    <item href="c-174axxcine1ilus2ch.jpg" id="added9" media-type="image/jpeg"/>
+    <item href="c-174cuento17ilus1ch.jpg" id="added43" media-type="image/jpeg"/>
+    <item href="c-174cuento17ilus2ch.jpg" id="added44" media-type="image/jpeg"/>
+    <item href="c-174cuento17ilus3ch.jpg" id="added45" media-type="image/jpeg"/>
+    <item href="c-174cuento18ilus1ch.jpg" id="added46" media-type="image/jpeg"/>
+    <item href="c-174cuento1ilus1ch.jpg" id="added5" media-type="image/jpeg"/>
+    <item href="c-174cuento1ilus2ch.jpg" id="added6" media-type="image/jpeg"/>
+    <item href="c-174div113.jpg" id="added11" media-type="image/jpeg"/>
+    <item href="c-174div114.jpg" id="added12" media-type="image/jpeg"/>
+    <item href="c-174div115.jpg" id="added13" media-type="image/jpeg"/>
+    <item href="c-174div116.jpg" id="added14" media-type="image/jpeg"/>
+    <item href="c-174div117.jpg" id="added15" media-type="image/jpeg"/>
+    <item href="c-174div118.jpg" id="added16" media-type="image/jpeg"/>
+    <item href="c-174div119.jpg" id="added17" media-type="image/jpeg"/>
+    <item href="c-174div120.jpg" id="added18" media-type="image/jpeg"/>
+    <item href="c-174div121.jpg" id="added19" media-type="image/jpeg"/>
+    <item href="c-174div122.jpg" id="added20" media-type="image/jpeg"/>
+    <item href="c-174div123.jpg" id="added21" media-type="image/jpeg"/>
+    <item href="c-174div124.jpg" id="added22" media-type="image/jpeg"/>
+    <item href="c-174div125.jpg" id="added23" media-type="image/jpeg"/>
+    <item href="c-174div126.jpg" id="added24" media-type="image/jpeg"/>
+    <item href="c-174div127.jpg" id="added10" media-type="image/jpeg"/>
+    <item href="c-174ensayo1-1.jpg" id="added25" media-type="image/jpeg"/>
+    <item href="c-174ensayo1-2.jpg" id="added26" media-type="image/jpeg"/>
+    <item href="c-174ensayo1-3.jpg" id="added27" media-type="image/jpeg"/>
+    <item href="c-174ensayo1-4.jpg" id="added28" media-type="image/jpeg"/>
+    <item href="c-174ensayo1-5.jpg" id="added29" media-type="image/jpeg"/>
+    <item href="c-174ensayo1-6.jpg" id="added30" media-type="image/jpeg"/>
+    <item href="c-174ensayo1-7.jpg" id="added31" media-type="image/jpeg"/>
+    <item href="c-174tapach.jpg" id="added48" media-type="image/jpeg"/>
+    <item href="c-axxcinelogo.gif" id="added7" media-type="image/gif"/>
+    <item href="c-ejc2.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="tn_01.jpg" id="added41" media-type="image/jpeg"/>
+    <item href="tn_02.jpg" id="added42" media-type="image/jpeg"/>
+    <item href="tn_04.jpg" id="added33" media-type="image/jpeg"/>
+    <item href="tn_05.jpg" id="added34" media-type="image/jpeg"/>
+    <item href="tn_06.jpg" id="added36" media-type="image/jpeg"/>
+    <item href="tn_07.jpg" id="added38" media-type="image/jpeg"/>
+    <item href="tn_08.jpg" id="added39" media-type="image/jpeg"/>
+    <item href="tn_09.jpg" id="added37" media-type="image/jpeg"/>
+    <item href="tn_10.jpg" id="added35" media-type="image/jpeg"/>
+    <item href="tn_11.jpg" id="added32" media-type="image/jpeg"/>
+    <item href="tn_12.jpg" id="added40" media-type="image/jpeg"/>
+    <item href="x-epub.png" id="added49" media-type="image/png"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+    <itemref idref="html1"/>
+    <itemref idref="html2"/>
+    <itemref idref="html3"/>
+    <itemref idref="html4"/>
+    <itemref idref="html5"/>
+    <itemref idref="html6"/>
+    <itemref idref="html7"/>
+    <itemref idref="html8"/>
+    <itemref idref="html9"/>
+    <itemref idref="html10"/>
+    <itemref idref="html11"/>
+    <itemref idref="html12"/>
+    <itemref idref="html13"/>
+    <itemref idref="html14"/>
+    <itemref idref="html15"/>
+    <itemref idref="html16"/>
+    <itemref idref="html17"/>
+    <itemref idref="html18"/>
+    <itemref idref="html19"/>
+    <itemref idref="html20"/>
+    <itemref idref="html21"/>
+    <itemref idref="html22"/>
+    <itemref idref="html23"/>
+    <itemref idref="html24"/>
+    <itemref idref="html25"/>
+    <itemref idref="html26"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

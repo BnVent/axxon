@@ -1,0 +1,780 @@
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <title>Axxón 26 - ENSAYO: - Computadoras que escriben ciencia ficción</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link href="stylesheet.css" type="text/css" rel="stylesheet"/>
+<link href="page_styles.css" type="text/css" rel="stylesheet"/>
+</head>
+  <body class="calibre">
+
+<div id="main" class="calibre1">
+<h1 class="calibre7">Computadoras que escriben ciencia ficción</h1>
+<p class="calibre2"><b class="calibre8">Ariel Arbiser</b></p><p class="calibre2"></p>
+<div class="document" id="prologo">
+<h1 class="title">Prólogo</h1>
+<div class="line-block">
+<div class="line">DISAPPEARING WAR</div>
+<div class="line"><br class="line"/></div>
+<div class="line">Beauty … seeing sky</div>
+<div class="line">Oh, thinking trip as lost far,</div>
+<div class="line">Disappearing war in sea</div>
+<div class="line">Wherever serving, running soldier</div>
+<div class="line"><br class="line"/></div>
+<div class="line">Never again</div>
+<div class="line">Strength is around</div>
+<div class="line">Whoever coming, ship lifting</div>
+<div class="line"><br class="line"/></div>
+<div class="line">Disappearing war</div>
+<div class="line">Ego is forward</div>
+<div class="line">Maybe point swearing</div>
+<div class="line">Please, eyes,</div>
+<div class="line">Can be my ship vanishing?</div>
+<div class="line"><br class="line"/></div>
+<div class="line">Oh my ground!</div>
+<div class="line">Disappearing war!</div>
+</div>
+<p class="calibre2">(escrito por una PC-386)</p>
+<div class="line" id="introduccion">
+<h2 class="indiceautor">INTRODUCCION</h2>
+<p class="calibre2">El escribir prosa y poesía es un
+proceso intelectual y creativo del
+ser humano que difícilmente pueda
+llegar a simularse o automatizarse totalmente mediante el uso de
+computadoras. El problema principal en la creación de cuentos, novelas, relatos, surge de la necesidad de contar con una gran base de
+conocimientos que de alguna forma
+emule aspectos de eventos e interacciones entre objetos del mundo
+real, o del mundo de ficción que
+se intenta describir, además del
+manejo de restricciones semánticas y demás cuestiones. Pero… ¿y
+si dejamos que, aunque sea por una
+vez, una computadora nos ayude, o
+nos tire ideas, o algo así? No estaría tan mal… ¿no?
+Sabido es que aún se está muy
+lejos de la máquina que escriba
+novelas originales completas. Una
+de las principales dificultades radica en el hecho de que en principio es difícil situarse en el punto
+medio del compromiso variedad y
+coherencia o adecuación semántica.
+En efecto, si se pretende un sistema que genere descripciones y
+eventos muy variados, se corre el
+peligro de generar incoherencias
+que un escritor humano no haría,
+mientras que si se desea por sobre
+todo evitar este tipo de inconsistencias semánticas (y hasta a veces sintácticas) entonces es muy
+probable que se sacrifique la gran
+variedad de relatos, historias e
+ideas posibles y deseables, hasta
+el punto en que quien desarrolle el
+sistema conocerá de antemano en
+gran medida los resultados que se
+obtendrán. Creemos que es un problema difícil encontrar ese punto
+medio. Por eso queda definido de
+alguna manera (bastante vaga, caramba), en el conjunto de todos
+los posibles generadores de texto
+ficticio, un rango de posibilidades, desde mínima variedad-máxima coherencia semántica hasta
+máxima variedad-mínima coherencia semántica.</p>
+</div>
+<div class="line" id="que-las-hay-las-hay">
+<h2 class="indiceautor">QUE LAS HAY, LAS HAY</h2>
+<p class="calibre2">Existen posibilidades en generación automatizada de texto tipo
+prosa o poesía (en inglés, castellano, etc.) con el fin de lograr
+escritores automatizados de cuentos o poemas. Es claro que los generadores de cuentos, poemas o
+simplemente ideas deberán producir textos producidos con un proceso aleatorio pero sintáctica y semánticamente válidos y con numerosas restricciones semánticas,
+además de contar con un vocabulario razonable en un subconjunto del
+idioma a usarse. Importa fundamentalmente la capacidad para
+crear ideas o historias nuevas
+combinando elementos conocidos
+elegidos de antemano. De ese tema
+trata este artículo.
+Si bien es siempre compleja la
+tarea de producir ideas y transcribirlas en lenguaje natural para
+cualquier tipo de literatura, de
+alguna manera el campo de la CF y
+fantasía resulta algo más atractivo de tratar si notamos que numerosas relaciones entre objetos y
+eventos que en el mundo real no se
+producen, aquí sí llegan a darse
+(por ejemplo, diálogo entre plantas, viajes en el tiempo, transformaciones entre objetos, seres
+que mueren y reviven, viajes a
+velocidades imposibles, y demás
+chauchas que Ud. lector debe estar
+acostumbrado a saborear). De esta
+manera, no son necesarias muchas
+de las restricciones semánticas
+que operan en un mundo más real.
+Esta consideración parece ser necesaria pues de esta manera podemos
+ampliar el rango mínima variedad-máxima coherencia semántica
+hasta máxima variedad-mínima
+coherencia semántica y en consecuencia podemos experimentar con
+un conjunto mayor de posibilidades.
+En el contexto de la CF y fantasía la poesía puede ser importante
+puesto que constituye un sub género
+en sí, además de motivar ciertas
+ideas en cuanto a producción de relatos, cuentos o novelas, películas, etc. A continuación exhibiremos un primer ejemplo muy sencillo, y luego diferentes modelos
+a los que se da lugar en generación
+de prosa y poesía. Con uno de los
+modelos, el llamado modelo enlazado generador de eventos/gramática aleatoria, mostraremos los resultados obtenidos: poemas escritos por un programa de computadora. Por último observamos una
+aplicación hacia entrenamiento de
+la creatividad en escritores de CF
+humanos… ¡allá vamos!</p>
+</div>
+<div class="line" id="que-ejemplo">
+<h2 class="indiceautor">¡QUÉ EJEMPLO!</h2>
+<p class="calibre2">El siguiente programa en BASIC,
+de autor desconocido pero modificado en varias oportunidades por
+otros autores, data del libro “Basic Computer Games” (editado por
+D. H. Ahl, Creative Computing
+Press, New Jersey, 1978, qué embromar, fue un best seller entre
+los libros de juegos para microcomputadoras a fines de los años
+70). Este miniprogramita tiene la
+particularidad de ser uno de los
+más sencillos y primeros conocidos que producen versos aleatorios,
+que resultan a veces con y a veces
+sin sentido. Usa 20 frases en 4
+grupos de 5 frases cada uno y cicla
+a través de ellos en orden, inserta
+comas entre las frases con probabilidad 19%, indentacion con probabilidad 22% y comienza nuevas estrofas con probabilidad 18%, pero
+por lo menos una vez cada 20 frases. Así de simple. Claro, pueden
+variarse a voluntad las frases o
+agregarse más en cada grupo. Si Ud
+tiene su computadora a mano (eso
+espero) ahí va el asunto:</p>
+<pre class="code">
+10 I=0
+90 ON I GOTO 100, 101, 102, 103, 104
+100 PRINT "Midnight Dreary"; : GOTO 210
+101 PRINT "Fiery eyes"; : GOTO 210
+102 PRINT "Bird or Fiend"; : GOTO 210
+103 PRINT "Thing of Evil"; : GOTO 210
+104 PRINT "Prophet"; : GOTO 210
+110 ON I GOTO 111, 112, 112, 113, 114, 115
+111 PRINT "Beguilling Me"; : U = 2: GOTO 210
+112 PRINT "Thrilled Me"; : GOTO 210
+113 PRINT "Still Sitting…"; : GOTO 212
+114 PRINT "Never Flitting"; : U = 2: GOTO 210
+115 PRINT "Burned"; : GOTO 210
+120 ON I GOTO 121, 122, 123, 124, 125
+121 PRINT "And My Soul"; : GOTO 210
+122 PRINT "Darkness There"; : GOTO 210
+123 PRINT "Shall Be Lifted"; : GOTO 210
+124 PRINT "Quoth The Raven"; : GOTO 210
+125 IF U = 0 THEN GOTO 210
+126 PRINT "Sign Of Parting"; : GOTO 210
+130 ON I GOTO 131, 132, 133, 134, 135
+131 PRINT "Nothing More"; : GOTO 210
+132 PRINT "Yet Again"; : GOTO 210
+133 PRINT "Slowly Creeping"; : GOTO 210
+134 PRINT "...Evermore"; : GOTO 210
+135 PRINT "Nevermore";
+210 IF U = 0 OR RND &gt; .19 THEN GOTO 212
+211 PRINT ","; : U = 2
+212 IF RND &gt; .65 THEN 214
+213 PRINT " "; : U = U + 1: GOTO 215
+214 PRINT : U = 0
+215 I = INT(5 * RND) + 1
+220 J = J + 1: K = K + 1
+230 IF U &gt; 0 OR INT(J / 2) &lt;&gt; J / 2 THEN 240
+235 PRINT "     ";
+240 ON J GOTO 90, 110, 120, 130, 250
+250 J = 0: PRINT : IF K &gt; 20 THEN 270
+260 GOTO 215
+270 PRINT : U = 0: K = 0: GOTO 110
+</pre>
+</div>
+<div class="line" id="a-las-corridas">
+<h2 class="indiceautor">A LAS CORRIDAS</h2>
+<p class="calibre2">Haciendo andar el programa anterior, obtuvimos:</p>
+<div class="line-block">
+<div class="line">Midnight Dreary</div>
+<div class="line">Fiery eyes Still Sitting…</div>
+<div class="line">Darkness There Yet Again</div>
+<div class="line"><br class="line"/></div>
+<div class="line">Fiery eyes Beguilling Me And My Soul Yet Again</div>
+<div class="line">Prophet Thrilled Me, Quoth The Raven</div>
+<div class="line">…Evermore</div>
+<div class="line"><br class="line"/></div>
+<div class="line">Fiery eyes Never Flitting, Darkness There …Evermore</div>
+<div class="line">Prophet</div>
+<div class="line">Still Sitting…</div>
+<div class="line">And My Soul</div>
+<div class="line">Nevermore</div>
+<div class="line"><br class="line"/></div>
+<div class="line">Nothing More</div>
+<div class="line">Thing of Evil,</div>
+<div class="line">Never Flitting Sign Of Parting</div>
+<div class="line">…Evermore</div>
+<div class="line">Bird or Fiend, Thrilled Me And My Soul,</div>
+<div class="line">Nevermore</div>
+</div>
+</div>
+<div class="line" id="nevermore">
+<h2 class="indiceautor">NEVERMORE</h2>
+<p class="calibre2">El grave problema que tiene esta cosa es que los textos, dado el
+esquema fijo y lo limitado del
+vocabulario, son siempre “parecidos” o “giran alrededor de lo mismo”. Aunque pueda arreglarse aumentando el vocabulario, este sistema no consigue otra cosa sino el
+divague reiterativo sin mucha
+coherencia semántica. Hubo otros
+programas de juguete como este
+que adolescían defectos parecidos.</p>
+</div>
+<div class="line" id="ideas-para-generar-ideas">
+<h2 class="indiceautor">IDEAS PARA GENERAR IDEAS</h2>
+<p class="calibre2">Existen en esta metodología varios modelos diferentes de generación de textos ficticios (introducidos por el autor en “Hacia modelos de generacion automática de
+lenguaje natural”, anales USUARIA
+91, Bs. As., julio 1991). Aquí describimos sólo métodos basados en
+gramáticas y conocimiento externo
+del mundo. Con el permiso del
+lector procederemos a una quizá no
+muy detallada descripción de estos
+métodos, para lo cual le rogamos
+que haga uso de sus conocimientos
+sobre linguística aplicada o sintaxis formal, o en su defecto que
+agilice su imaginación.</p>
+<p class="calibre2">El modelo generador de eventos/gramática aleatoria consiste
+en tener un generador de eventos
+que tenga como subordinadas a gramáticas de oraciones bien formadas según cada uno de estos eventos. ¿Qué es un generador de eventos? Nada más que un módulo que
+va sacando datos que representan
+eventos o sucesos que se van produciendo. Por ejemplo, “nace Menganovich”, “despega el Apollo 37”.
+Esos eventos o descripciones se
+utilizarán, previa adaptación, al
+generar las frases del cuento. ¿Y
+qué es una gramática? En alguna
+forma, un conjunto de reglas que
+me permiten producir, a partir de
+una especificación de cómo son las
+oraciones válidas en mi idioma,
+oraciones propiamente dichas.
+Aquí, pues, el procedimiento principal es un generador de eventos,
+el cual llama a procedimientos
+que generan oraciones relacionadas
+semánticamente con cada uno de
+estos. Cada evento individual tiene
+asociada una o más reglas gramaticales posibles e incluso oraciones formadas, de ser producidas
+sólo en el momento en que el
+evento se produzca. Los eventos
+pueden darse también en paralelo,
+pero la salida de descripciones se
+hace en forma secuencial. Este
+método achica la variedad pero
+agranda la coherencia semántica.</p>
+<p class="calibre2">En oposición al anterior, en el
+esquema gramática aleatoria/generador de eventos se tiene una gramática madre que controla a generadores de eventos subordinados a
+ella. Cada generador de eventos
+será activado cada vez que se aplique una regla determinada de la
+gramática. Así aparentemente se
+agranda la variedad pero se achica
+la coherencia semántica.</p>
+<p class="calibre2">El modelo de gramática con
+restricciones sintáctico-semánticas propone que a cada regla gramatical se agregue un conjunto de
+restricciones en cuanto a que habrá
+otras reglas que deberán ser disparadas y otras que no podrán ser
+disparadas a continuación. Es el
+típico caso de la muerte o desaparición física de un personaje, la
+cual implica que a continuación no
+se obtengan eventos que sólo puedan
+ocurrir si el personaje vive o sigue presente.</p>
+<p class="calibre2">También pueden usarse combinaciones de los modelos anteriores.
+Por ejemplo, un modelo enlazado
+generador de eventos/gramática
+aleatoria, en el cual se combinan
+los dos primeros métodos en el
+sentido de que hay eventos que producen el disparo de reglas gramaticales, y reglas que al dispararse
+ocasionan otros eventos, y así sucesivamente hasta un nivel arbitrariamente grande. Asimismo
+puede utilizarse una combinación
+de dichos modelos que al mismo
+tiempo tenga la posibilidad de
+preguntar a veces al usuario o asesor acerca de tal o cual restricción o evento a incluir en una
+producción.</p>
+</div>
+<div class="line" id="esquemas-quiero">
+<h2 class="indiceautor">ESQUEMAS QUIERO</h2>
+<p class="calibre2">Existen esquemas concretos que
+pueden usarse para producir poesía
+aleatoria que nos pareció más o
+menos legible (la poesía, no el
+esquema). A continuación veremos
+un esqueleto de algoritmo para generación de poesía. Se basa en una
+gramática que describe oraciones
+sintácticamente válidas en un lenguaje humano como castellano o
+inglés, y, además, realiza elecciones aleatorias que dependen de
+un conjunto de condiciones globales
+que a su vez pueden ir cambiando a
+medida en que se genera el texto.
+Por eso es que se dice que este
+esquema responde al modelo enlazado generación de eventos/gramática aleatoria.</p>
+</div>
+<div class="line" id="proteccion-al-lector">
+<h2 class="indiceautor">PROTECCION AL LECTOR</h2>
+<p class="calibre2">Aquí comienza el horario reservado a los programadores. Señores
+lectores, la permanencia de los
+principiantes o no crédulos frente
+a la pantalla de AXXON queda bajo
+la exclusiva responsabilidad de ustedes mismos.</p>
+</div>
+<div class="line" id="listo-el-listado">
+<h2 class="indiceautor">¿LISTO EL LISTADO?</h2>
+<p class="calibre2">Lo veremos en una notación tipo C,
+si es que gustan de ese lenguaje
+de programación:</p>
+<div class="line-block">
+<div class="line">/**** Esquema de algoritmo para generación de poesía aleatoria ****/</div>
+<div class="line">generar poema - procedimiento ()</div>
+<div class="line"><br class="line"/></div>
+<div class="line">/* inicialización */</div>
+<div class="line-block1">
+<div class="line">definir nombres;</div>
+<div class="line">definir objetos;</div>
+<div class="line">definir lugares;</div>
+<div class="line">seleccionar nombres;</div>
+<div class="line">seleccionar objetos;</div>
+<div class="line">seleccionar lugares;</div>
+<div class="line">seleccionar o armar reglas esquemas posibles de líneas R;</div>
+<div class="line"><br class="line"/></div>
+<div class="line">definir p=probabilidad de inicio de nueva estrofa;</div>
+<div class="line">inicializar G ( = condiciones globales del entorno);</div>
+<div class="line"><br class="line"/></div>
+</div>
+<div class="line">/* generar nombre del poema */</div>
+<div class="line-block1">
+<div class="line">armar esquema gramatical para nombre;</div>
+<div class="line">producir nombre e imprimir;</div>
+<div class="line"><br class="line"/></div>
+</div>
+<div class="line">/* armar estrofas */</div>
+<div class="line-block1">
+<div class="line">seleccionar nro de versos;</div>
+<div class="line">para cada línea;</div>
+<div class="line-block1">
+<div class="line">elegir E = un esquema de líneas entre los existentes;</div>
+<div class="line-block1">
+<div class="line">para cada espacio a ser llenado con un nombre en E</div>
+<div class="line-block1">
+<div class="line">elegir N = uno de los nombres seleccionados;</div>
+<div class="line-block1">
+<div class="line">llenar el espacio con N;</div>
+</div>
+</div>
+<div class="line">}</div>
+<div class="line">para cada espacio a ser llenado con un objeto en E</div>
+<div class="line-block1">
+<div class="line">elegir O = uno de los objetos seleccionados;</div>
+<div class="line-block1">
+<div class="line">llenar el espacio con O;</div>
+</div>
+</div>
+<div class="line">}</div>
+<div class="line">para cada espacio a ser llenado con un lugar en E</div>
+<div class="line-block1">
+<div class="line">elegir L = uno de los lugares seleccionados;</div>
+<div class="line-block1">
+<div class="line">llenar el espacio con L;</div>
+</div>
+</div>
+<div class="line">}</div>
+<div class="line-block1">
+<div class="line">/* las selecciones pueden depender de G */</div>
+</div>
+<div class="line">reescribir esquema E en palabras terminales T según R;</div>
+<div class="line">imprimir línea T;</div>
+<div class="line">acciones adicionales y eventualmente modificar G;</div>
+<div class="line">if (condición de posibilidad de inicio de nueva estrofa==verdadero)</div>
+<div class="line-block1">
+<div class="line">con probabilidad p, comenzar nueva estrofa;</div>
+</div>
+</div>
+<div class="line">}</div>
+</div>
+</div>
+<div class="line">}</div>
+</div>
+<p class="calibre2">La selección de (¡pocos!) nombres, objetos, lugares y/o ideas al
+principio evita el divague incoherente. Se comprobó empíricamente
+que de no hacerse esto puede darse
+lugar a menciones o relaciones de
+elementos o individuos que usualmente no posean relación (en dos
+palabras, delirium totalis).</p>
+<p class="calibre2">La selección de la regla gramatical de R a disparar en cada momento puede en principio ser aleatoria, o bien depender del conjunto
+G de condiciones globales vigentes
+en dicho momento.</p>
+<p class="calibre2">Las acciones adicionales tienen
+el objetivo de permitir mayor expresividad y que a su vez la variedad no quite coherencia. En estas
+acciones y en las condiciones estará codificado el conocimiento externo del mundo.</p>
+<p class="calibre2">El fin de este esqueleto de algoritmo es proveer una manera
+posible de escribir poesía aleatoria por computadora. No se afirma
+que los seres humanos sigan necesariamente esta línea. De más
+está decir que durante la ejecución
+de este procedimiento en una computadora, muchas operaciones podrían reemplazarse por entradas o
+sugerencias del usuario. Por ejemplo, puede ser éste quien arme la
+gramática, indique algunas acciones adicionales, modifique las
+condiciones globales, la condición
+de terminación, decir cuáles serán
+los nombres de los personajes,
+cuáles seran los objetos a usarse,
+etc. Quedan por tanto abiertas varias posibilidades, y, de este modo puede hacerse uso de la creatividad de aquél. ¿La tendrá? (¡Ahí
+te quiero ver!).</p>
+</div>
+<div class="line" id="el-ejemplo-educa">
+<h2 class="indiceautor">EL EJEMPLO EDUCA</h2>
+<p class="calibre2">Para obtener los ejemplos que
+se dan a continuación se experimentó con un prototipo basado en
+un esquema parecido. Con ese fin,
+se implementó un generador de
+textos regido por una gramática de
+contexto libre con factores aleatorios asociados a las reglas, utilizando un subconjunto del inglés con
+un vocabulario y expresiones limitadas ligadas a temas del espacio
+y misterio. En el trabajo original
+se ha elegido inglés no por tendencia a extranjerizarnos ni por desprecio hacia lo nacional o autóctono, sino porque resulta más sencillo su manejo y generación debido
+a que hay menos variedad sintáctica en cuanto a género y número
+respecto del castellano, de manera
+que aquí se reproducen algunos poemas en inglés obtenidos con mi
+programa (seamos francos: a un
+pobre extranjero que no june en lo
+más mínimo ninguno de los dos
+idiomas y que tampoco maneje
+ninguna lengua anglosajona ni latina, creo que le resultaría más
+fácil aprender el English que el
+criollo, reconozcámoslo). So,
+let’s begin:</p>
+<div class="line-block">
+<div class="line">DRIVING TO DARKNESS</div>
+<div class="line"><br class="line"/></div>
+<div class="line">Force is forward</div>
+<div class="line">Force is force</div>
+<div class="line"><br class="line"/></div>
+<div class="line">Force  looking here</div>
+<div class="line">Whoever quothing , the pointing history</div>
+<div class="line">The force  parting here</div>
+<div class="line">Love, golden history</div>
+<div class="line">For the poor song ,  bird</div>
+<div class="line">Can be, burning heaven  ?</div>
+<div class="line">Is it starting eyes  ?</div>
+<div class="line">Driving to  darkness</div>
+<div class="line">Merely, its sky burning</div>
+<div class="line">Always small trip</div>
+<div class="line"><br class="line"/></div>
+<div class="line">Whatever thrilling , her heaven vanishing</div>
+<div class="line"><br class="line"/></div>
+<div class="line">Merely, lost eyes</div>
+<div class="line">Come on, … threatening view</div>
+<div class="line"><br class="line"/></div>
+<div class="line">Maybe the trip</div>
+<div class="line">Thru the insipid mind , passing darkness</div>
+<div class="line">A force  loving there</div>
+<div class="line">With the lovely mind , very blue dreaming history</div>
+<div class="line">Swearing and saying</div>
+<div class="line">Midnight serious skin coming  lovely thing</div>
+<div class="line">Wherever beguiling , my sky</div>
+<div class="line">Is it  view ?</div>
+<div class="line">Lost view</div>
+<div class="line">Always looking side</div>
+<div class="line">Come on, … a midnight going sky</div>
+<div class="line">Serious view  … although  golden parting</div>
+<div class="line">Flitting Driving to  darkness</div>
+<div class="line">To the red skin , silly ground</div>
+<div class="line">Is it  going side and song ?</div>
+<div class="line">Is it a insipid bird ?</div>
+<div class="line">Can be,  blue loading thing ?</div>
+</div>
+<div class="line-block">
+<div class="line">LIFE ‘S SPACE</div>
+<div class="line"><br class="line"/></div>
+<div class="line">Maybe  parting thing</div>
+<div class="line">Whoever marking ,  insipid dealing darkness</div>
+<div class="line">Merely, my golden ship</div>
+<div class="line">Oh, a flitting thing, sshh…</div>
+<div class="line">Life  is peace</div>
+<div class="line"><br class="line"/></div>
+<div class="line">Always our darkness</div>
+<div class="line">Oh  thing !</div>
+<div class="line">Duty  is on here</div>
+<div class="line">Sometimes serious flitting mind ah!</div>
+<div class="line">Loving , burning and stalling</div>
+<div class="line">Life ‘s space  for space</div>
+<div class="line"><br class="line"/></div>
+<div class="line">At the lost ship , enormous disappearing mark</div>
+<div class="line">Passing and flitting</div>
+<div class="line">Whoever swearing , good mind</div>
+<div class="line">Maybe  green point</div>
+<div class="line"><br class="line"/></div>
+<div class="line">Life ‘s space</div>
+<div class="line">Midnight the heaven</div>
+<div class="line">Midnight a ground</div>
+<div class="line">Life ‘s space  thru space</div>
+</div>
+<div class="line-block">
+<div class="line">MIND OVER MOON</div>
+<div class="line"><br class="line"/></div>
+<div class="line">Burning , going and swearing</div>
+<div class="line"><br class="line"/></div>
+<div class="line">Sometimes sacred scaring view</div>
+<div class="line">Mind  scaring here</div>
+<div class="line">Sometimes a serious scaring mind</div>
+<div class="line">Blue flitting</div>
+<div class="line"><br class="line"/></div>
+<div class="line">For the golden side , white history but lovely sky</div>
+<div class="line">Whoever pointing , my red thrilling</div>
+<div class="line"><br class="line"/></div>
+<div class="line">Seeing Mind  over Moon</div>
+<div class="line"><br class="line"/></div>
+<div class="line">Is it their lost thing ?</div>
+<div class="line">Mind  over Moon  with Moon</div>
+<div class="line">Whatever thinking , insipid stalling mind</div>
+<div class="line"><br class="line"/></div>
+<div class="line">Oh, appearing mind</div>
+<div class="line">Sometimes lost trip ah!</div>
+<div class="line">Come on, … his dreary disappearing</div>
+<div class="line">Is it my dear thrilling ?</div>
+<div class="line"><br class="line"/></div>
+<div class="line">Dealing mind over Moon,</div>
+<div class="line">Scaring mind over Moon</div>
+<div class="line">Is it  midnight thinking eyes ?</div>
+<div class="line">Midnight his voyage looking</div>
+</div>
+<p class="calibre2">Que signifiquen algo o no, sólo
+mandinga lo sabe. A veces aparecen
+cosas con sentido, y a veces niet.
+Pero justamente ahí hay un motivo
+más para el entretenimiento, que
+es en parte el objetivo de la CF.
+Incluso está la posibilidad de encontrarle sentido a algo que de
+primera parece no tenerlo.</p>
+</div>
+<div class="line" id="y-la-rima">
+<h2 class="indiceautor">¿Y LA RIMA?</h2>
+<p class="calibre2">Respecto de la generación de
+poesía con rima y métrica, diremos únicamente que si se desea
+rima asonante o consonante pueden
+adoptarse estos mismos procedimientos con modificaciones. Una
+posibilidad es al principio del algoritmo decidir qué tipo de rima
+y estructura se usará (por ej A-BA-B, A-B-C-A, etc, donde igual letra implica rima de los versos
+correspondientes). Entonces se
+reemplazan las elecciones determinísticas por elecciones no determinísticas (las cuales pueden
+involucrar búsquedas en árboles de
+posibilidades) que obtengan datos
+que conformen un verso con métrica y/o rima adecuada. Existen pues
+formas de extender los alcances de
+estos sistemas para obtener rimas, métrica adecuada, e incluso
+cambios en el ritmo. Naturalmente, ya todo se vuelve más compliqueti (¿o qué se pensaban?).</p>
+</div>
+<div class="line" id="otros-mundos">
+<h2 class="indiceautor">OTROS MUNDOS</h2>
+<p class="calibre2">Para el lector informado, diremos que otras posibilidades de
+trabajo futuro son extender el
+mundo a representar, así como los
+modelos a usar, e incluso de tal
+forma que aquellos parámetros que
+puedan ser esenciales para obtener
+mejores resultados se ajusten de
+forma automática de acuerdo a un
+proceso de inteligencia artificial
+que permita que el sistema aprenda en base a experiencias anteriores, especialmente guiado por un
+usuario. Por ejemplo, que aprenda
+secuencias de eventos o restricciones semánticas claves o usuales en
+base a resultados negativos. También resulta interesante que el
+mismo sistema sea capaz de decidir inteligentemente qué modelos
+usar según el tema o idea en que
+se proponga escribir. Del autor hay
+un trabajo al respecto en el que se
+dan otros modelos y esquemas en
+los que basarse.</p>
+</div>
+<div class="line" id="aplique">
+<h2 class="indiceautor">APLIQUE</h2>
+<p class="calibre2">Dentro de las aplicaciones figuran el aspecto educativo, léase
+entrenamiento y test de creatividad hacia el ser humano, en el
+sentido de que pueden así generarse
+cuentos, y poemas (posiblemente
+incompletos), o simplemente
+ideas que podrán ser verificadas,
+continuadas o modificadas por escritores humanos con total libertad. También se espera para el
+futuro producir herramientas para
+creación de textos o relatos asistida por computadora.</p>
+<p class="calibre2">Para una primera aproximación,
+resulta interesante que la computadora genere un esqueleto o poema
+incompleto con espacios vacíos a
+llenar por el usuario, ya sean estos palabras, líneas o estrofas
+enteras. Incluso que la computadora proponga un trozo inicial que
+sea luego continuado por el usuario
+resulta una posibilidad muy atractiva. (¿Nunca jugaron al cuento colectivo? Cada jugador ve el último
+renglón, escrito por el jugador
+anterior, y escribe la continuación
+a su manera, para luego pasar el
+papel al siguiente y así sucesivamente. El resultado final suele
+ser muy gracioso… para algunos.
+Cuando con unos amigos lo jugábamos lo llamábamos el “porno-grama”. Adivinen por qué.)</p>
+</div>
+<div class="line" id="tarea-para-el-hogar">
+<h2 class="indiceautor">TAREA PARA EL HOGAR</h2>
+<p class="calibre2">A manera de ejercicio al lectoescritor (es decir, a aquellos lectores de AXXON que además sean
+escritores de CF) le propongo que
+continúe a su manera y termine
+los siguientes inicios de cuentos.
+Si consiguen escribir alguno que
+les parezca bueno y original, please mándenlo pues lo veremos y
+publicaremos si nos gusta (¿¿que
+cuál es el premio?? ¡nuestro
+aplauso y reconocimiento!)</p>
+<p class="calibre2">1) Peter tomó su gran bolso de
+mano y dijo a su mujer:</p>
+<p class="calibre2">—Cindy, quiero que cuides a los
+niños durante el próximo milenio.</p>
+<p class="calibre2">…</p>
+<p class="calibre2">2) A Karl le interesaban mucho las
+pantallas traslúcidas. Eso hasta
+que se encontró una en plena
+avenida Warnes.</p>
+<p class="calibre2">…</p>
+<p class="calibre2">3) …</p>
+<p class="calibre2">Súbitamente, todo lo que estaba
+en mi habitación empezó a subir
+hacia el techo. Incluso yo, que
+estaba leyendo el Herald (no sé si
+el de hoy o el de ayer, pero eso no
+interesa). De pronto recordé…</p>
+<p class="calibre2">4) Cuando la gran puerta roja se
+abrió todos vimos lo mismo: tres
+ancianos, de corta estatura y un
+poco desarreglados, que, sin
+percatarse del hecho, escuchaban
+animosamente en un raro artefacto
+un viejo disco sonoro del siglo
+pasado.</p>
+<p class="calibre2">…</p>
+<p class="calibre2">5) La TV ya lo había anunciado. En
+la tierra era diferente que acá. El
+flagelo de la alfacrucitermia era
+ya incombatible y nuestra única
+esperanza era viajar a ese planeta
+avanzado…</p>
+<p class="calibre2">6) Mi nave dio tres vueltas a
+ultravelocidad y se detuvo por
+completo. En el scaneador había
+una X. Por la ventana se veía un
+remolino majestuoso con un hueco
+en el medio.</p>
+<p class="calibre2">…</p>
+</div>
+<div class="line" id="homework">
+<h2 class="indiceautor">HOMEWORK</h2>
+<p class="pri">Y a aquellos lecto-escritores
+que le den duro al inglés, ahí van,
+por qué no, cachos de computer-generated-poetry para que se diviertan completándolos. ¡Suerte!</p>
+<div class="line-block">
+<div class="line">(1)</div>
+<div class="line">Merely, seeing darkness</div>
+<div class="line">Vanishing on sky,</div>
+<div class="line">golden appearing thing</div>
+<div class="line">…</div>
+<div class="line"><br class="line"/></div>
+<div class="line">(2)</div>
+<div class="line">Whatever looking, very red eyes</div>
+<div class="line">Running and stalling</div>
+<div class="line">Looking Sun parting</div>
+<div class="line">Going bird is human,</div>
+<div class="line">…</div>
+<div class="line"><br class="line"/></div>
+<div class="line">Running Sun parting</div>
+<div class="line">Please, stalling sky</div>
+<div class="line">…</div>
+<div class="line"><br class="line"/></div>
+<div class="line">(3)</div>
+<div class="line">Golden human starting my lovely skin</div>
+<div class="line">…</div>
+</div>
+</div>
+<div class="line" id="epilogo">
+<h2 class="indiceautor">EPILOGO</h2>
+<p class="calibre2">El problema principal en la generación de texto en prosa y poesía
+surge de la necesidad de contar con
+una gran base de conocimientos que
+emule aspectos de eventos e interacciones entre objetos del mundo
+real, o del mundo de ficción que
+se intenta representar.</p>
+<p class="calibre2">Podrá ser necesario y posible
+extender estos modelos, así como
+adoptar otros nuevos o mejorarlos.
+No se afirma que se pueda lograr
+el mejor ni más original escritor
+automático de poemas o cuentos,
+pero es probable que investigaciones futuras puedan partir de esta
+aproximación.</p>
+<p class="calibre2">Se espera para el futuro que se
+produzcan herramientas de software
+para creación de textos o relatos
+asistida por computadora, introduciendo así las computadoras para
+el desarrollo y entrenamiento de
+la creatividad. Por otra parte, de
+este modo puede llegarse a la generación de nuevas ideas, elemento
+necesario para toda tarea creativa.
+El conocido Douglas R. Hofstadter
+(que no es uno de los viajeros del
+túnel del tiempo sino el autor durante décadas de célebres artículos
+de divulgación en Scientific American) dice en su libro “Metamagical Themas” (New York, 1985; cap
+11) que el experimentar con textos
+sin sentido aparente permite en
+muchos casos explorar nuevas posibilidades, o combinar viejas ideas
+de un modo nuevo, lo cual ayuda a
+la creación humana en el terreno
+de la ficción.</p>
+<p class="calibre2">Pero claro, ahí el que tiene la
+palabra es de nuevo el ser humano.
+Permitámonos pues ayudarnos por
+herramientas eficientes, y pongamos lo mejor de nuestra creatividad para que la tarea resulte buena. Hasta ahora, que yo sepa, no
+hubo nadie que dijera escribir un
+cuento o ensayo de esa manera.
+Siempre hay una primera vez,
+siempre.</p>
+</div>
+<div class="line" id="moraleja">
+<h2 class="indiceautor">MORALEJA</h2>
+<p class="calibre2">Es claro que comparadas con el
+potencial creativo de muchos seres
+humanos (no digo todos, jajaja)
+las computadoras son aún herramientas que apoyan y facilitan estas tareas, y difícilmente puedan
+sustituir totalmente a aquellos
+hasta el momento. Esto se debe a
+que los procesos de invención implican creación o combinación de
+muchas ideas anteriores de una
+manera delicada y equilibrada,
+usando conocimiento sintáctico,
+semántico y pragmático, y específico del mundo que se representa, la dificultad de su modelización y la necesidad de manejar
+restricciones, sentido común y
+metaconocimiento (conocimiento
+acerca del conocimiento, uuff,
+¡cómo costó decir todo eso!). Sin
+embargo, los esquemas dados tienen como fin proveer modelos iniciales que deberán ser estudiados.
+A los efectos de simular la invención de texto ficticio en lenguaje
+natural parecen adecuadas técnicas
+como éstas, pero queda todavía un
+largo camino por recorrer para poder decidir cuál o cuáles métodos
+son los más prometedores, si es
+que los hay.</p>
+</div>
+<div class="line" id="polemica-en-el-bar">
+<h2 class="indiceautor">POLEMICA EN EL BAR</h2>
+<p class="calibre2">Queda pues abierta la discusión
+y se reciben gustosamente las opiniones de los lectores que deseen
+manifestarlas. Unas cuantas armadas de podridas se producirán cuando alguno agarre y se pregunte de
+quién corchos serán los derechos de
+autor de los cuentos escritos por
+una computadora (puede ser que ni
+el mismo autor del programa se
+espere obtener algún cuento o idea
+que aparezca). ¿Y si la compu escribe una parte y el flaco el resto? ¿Quién puede resolver estas
+dudas?</p>
+<p class="calibre2">De paso, ¿conocen algún cuento
+de CF que trate acerca de una computadora o robot que escribe cuentos, novelas, o lo que sea? Si no,
+¿qué esperan para escribir USTEDES
+alguno? (Métanle, que quizá pronto
+deje de ser CF… ¡jojojo!)</p>
+<p class="calibre2">Entiendan que no pretendo quitarle el trabajo a ningún escritor.
+Sólo quisiera proponer a mi computadora para tal cargo. ¿La aceptarán? Quizá hasta sea mejor que
+yo para eso.</p>
+<p class="derecha">Ariel Arbiser, Set-Oct 1991</p>
+</div>
+</div>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta name="dtb:uid" content="694ba02e-cebb-4ee7-be48-7bfdc169ba6b"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (5.7.1)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Axxón 93</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="urzCVUT2GAJBJkQXdabmWcF" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-93Pag01.htm"/>
+    </navPoint>
+    <navPoint id="unBczsPxRh3iXfNkip8iypG" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 121</text>
+      </navLabel>
+      <content src="c-93Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ugVpl9z2p5Uj522boIItR26" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Lavado en seco</text>
+      </navLabel>
+      <content src="c-93Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uZOtO3W57o4xYo6PxQ8uOsF" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Camino de retorno</text>
+      </navLabel>
+      <content src="c-93Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uhG4PsaUo3AaHNraAKzpsm9" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Barco en la nieve</text>
+      </navLabel>
+      <content src="c-93Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uhCd7KVWRniaWkKkYiUPyp4" playOrder="6">
+      <navLabel>
+        <text>Ficciones: El nombre escondido</text>
+      </navLabel>
+      <content src="c-93Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uxi3YHXfyCBys2dika6mzt5" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Sueños de futuro</text>
+      </navLabel>
+      <content src="c-93Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uqx5feiIMBWoFkGQYSMppv2" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Hackers</text>
+      </navLabel>
+      <content src="c-93Pag08.htm"/>
+    </navPoint>
+    <navPoint id="upKnYJIvM28B739gSMsRTGC" playOrder="9">
+      <navLabel>
+        <text>Sección: El rincón de las tinieblas</text>
+      </navLabel>
+      <content src="c-93Pag09.htm"/>
+    </navPoint>
+    <navPoint id="umYUGfnDhuddPNxJDnJuoIH" playOrder="10">
+      <navLabel>
+        <text>Correo: Correo 93</text>
+      </navLabel>
+      <content src="c-93Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uTW6SmJlJeBuDajSQw8BtZF" playOrder="11">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-93Pag11.htm"/>
+    </navPoint>
+    <navPoint id="un5u48yQHWZ49W2CFfppyR9" playOrder="12">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-93Pag12.htm"/>
+    </navPoint>
+    <navPoint id="uZTrJg5s54lomBkQQkpIIgD" playOrder="13">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

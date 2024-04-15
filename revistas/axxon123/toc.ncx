@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="7bdb178f-4c8b-475c-9b8c-851136bff2ed" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.14.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 123</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u2e822eb9-d068-4862-909f-90da910d2a08" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 123</text>
+      </navLabel>
+      <content src="c-123Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u6b98c275-6be2-4cf9-ba06-c062b941a0f5" playOrder="2">
+      <navLabel>
+        <text>Ficciones: La guerra de las cuatro en punto</text>
+      </navLabel>
+      <content src="c-123Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u8875aed1-2c95-4f9f-a692-bac4caed2ab5" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Caracoles</text>
+      </navLabel>
+      <content src="c-123Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u86404bec-1e53-4336-8a82-ab8602a9fb5f" playOrder="4">
+      <navLabel>
+        <text>Divulgación: Cuando nuestro sistema inmune decide destruirnos</text>
+      </navLabel>
+      <content src="c-123Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u6fef379b-7269-442f-a25b-9ed833c86f22" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Indiferencia</text>
+      </navLabel>
+      <content src="c-123Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ud385f74b-56a6-4eb2-9ac3-49393c70263c" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Disfraz</text>
+      </navLabel>
+      <content src="c-123Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ub95b357e-c1e4-47e4-9731-5e0ca5df45ff" playOrder="7">
+      <navLabel>
+        <text>Recreaciones: El Gaucho de los Anillos (4)</text>
+      </navLabel>
+      <content src="c-123Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ud8fcfed5-823c-4c0b-a476-513552cc09d8" playOrder="8">
+      <navLabel>
+        <text>Sección: Andernow</text>
+      </navLabel>
+      <content src="c-123Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u727de1f4-6f1e-4d26-a082-af25f9d09e9c" playOrder="9">
+      <navLabel>
+        <text>Sección: Americander</text>
+      </navLabel>
+      <content src="c-123Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u6fe13137-bfac-4fe7-846a-011e737ac206" playOrder="10">
+      <navLabel>
+        <text>Americander: Teatro de revistas</text>
+      </navLabel>
+      <content src="c-123Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ubcf34587-1825-43c5-b159-6e28d5906040" playOrder="11">
+      <navLabel>
+        <text>Americander: Juegomanía</text>
+      </navLabel>
+      <content src="c-123Pag11.htm"/>
+    </navPoint>
+    <navPoint id="uef06f60d-3a60-4d35-932e-ecc54fcd09fb" playOrder="12">
+      <navLabel>
+        <text>Americander: Vayamos por partes, Frankie</text>
+      </navLabel>
+      <content src="c-123Pag12.htm"/>
+    </navPoint>
+    <navPoint id="udff2b262-1b45-447f-9452-c9cc4642855d" playOrder="13">
+      <navLabel>
+        <text>Americander: La luna de hueso</text>
+      </navLabel>
+      <content src="c-123Pag13.htm"/>
+    </navPoint>
+    <navPoint id="uaf81b293-111e-40e8-ae3a-dbce5a2e98d5" playOrder="14">
+      <navLabel>
+        <text>Americander: La luna de papel</text>
+      </navLabel>
+      <content src="c-123Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u1816708c-cbec-46df-b668-067afb75fadc" playOrder="15">
+      <navLabel>
+        <text>Americander: La luna de miel</text>
+      </navLabel>
+      <content src="c-123Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u833c0a7f-5b3a-450a-bc29-e80e08608a8b" playOrder="16">
+      <navLabel>
+        <text>Americander: Hechizo de luna</text>
+      </navLabel>
+      <content src="c-123Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u05f547e7-ea7e-4809-b229-f0f2bdcba732" playOrder="17">
+      <navLabel>
+        <text>Americander: El laboratorio del Doctor Elephant</text>
+      </navLabel>
+      <content src="c-123Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u59ac8e7a-b2e7-4970-9944-04e3ed6e5f64" playOrder="18">
+      <navLabel>
+        <text>Americander: La cuarta pared</text>
+      </navLabel>
+      <content src="c-123Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u50c24fc1-b317-43d0-b602-e6f11c8f1ce8" playOrder="19">
+      <navLabel>
+        <text>Americander: La brocha</text>
+      </navLabel>
+      <content src="c-123Pag19.htm"/>
+    </navPoint>
+    <navPoint id="ub53f753a-5d7b-4da4-b153-49c96fb84e35" playOrder="20">
+      <navLabel>
+        <text>Americander: El boliche</text>
+      </navLabel>
+      <content src="c-123Pag20.htm"/>
+    </navPoint>
+    <navPoint id="u7ff1961d-1f13-4628-93a0-717729a9a718" playOrder="21">
+      <navLabel>
+        <text>Americander: Gran concurso gran: La persistencia del maestro zen</text>
+      </navLabel>
+      <content src="c-123Pag21.htm"/>
+    </navPoint>
+    <navPoint id="ubdc9980b-c164-4172-8a5c-814bde4bbbca" playOrder="22">
+      <navLabel>
+        <text>Sección: Eurander</text>
+      </navLabel>
+      <content src="c-123Pag22.htm"/>
+    </navPoint>
+    <navPoint id="ub7fe88c0-8838-4e80-b407-0b3d3bc9b93f" playOrder="23">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

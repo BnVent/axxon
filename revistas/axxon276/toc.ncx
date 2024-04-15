@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="a1830956-325c-4364-9b85-2641862b07cc" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.66.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 276</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="unYPmOeAtySuyi4bZxXXQn8" playOrder="1">
+      <navLabel>
+        <text>Editorial: Axxón, ¡Go!</text>
+      </navLabel>
+      <content src="c-276Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uAkbonS3EASIy4SySv3zMAF" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Blank 235</text>
+      </navLabel>
+      <content src="c-276Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u6S8BpXwMotuv6dJgiJ8TJA" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (ochenta)</text>
+      </navLabel>
+      <content src="c-276Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uFdh5J8PHfDBgMNqfLEVe84" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Presagios</text>
+      </navLabel>
+      <content src="c-276Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uZDkbrPLcx9FEfX8yKfRzgD" playOrder="5">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

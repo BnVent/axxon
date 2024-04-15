@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="7e046534-31ca-4515-989f-8903cac031ee" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.73.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 277</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uvMo2RXZkF3Ufd5hdLCrdp7" playOrder="1">
+      <navLabel>
+        <text>Editorial: Permanencia</text>
+      </navLabel>
+      <content src="c-277Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ughkB5lIDfz7lbBMKUJVRK8" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Un jardín en Nueva Kybartai</text>
+      </navLabel>
+      <content src="c-277Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ujNMoJlc5erubs4Qvhq5lsC" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El apostadero</text>
+      </navLabel>
+      <content src="c-277Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uVGi9Ow7ouWP6XigxezEsJ8" playOrder="4">
+      <navLabel>
+        <text>Ficciones: La isla de barro</text>
+      </navLabel>
+      <content src="c-277Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uCbSRWE8Af36mxNHBUHPd63" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Deimos</text>
+      </navLabel>
+      <content src="c-277Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uUsiGPErOXVaDRwNMswUFr6" playOrder="6">
+      <navLabel>
+        <text>Ficciones: El ventilador</text>
+      </navLabel>
+      <content src="c-277Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uLtHg9RjwIsZedNSNivpGm3" playOrder="7">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-277Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uXEXeMNmUAPDKFkDRZcfTaE" playOrder="8">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta name="dtb:uid" content="b020cd15-9232-4d29-a18e-7463a1257a2d"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (5.10.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Axxón 0</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uohMeI5jD64mMbtsndkIMO2" playOrder="1">
+      <navLabel>
+        <text>Editorial: Y sí</text>
+      </navLabel>
+      <content src="c-0Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u9lZRyl9Dfg7VJOn22nUu42" playOrder="2">
+      <navLabel>
+        <text>Semi-Ficción: Conversación con el cerebro de Einstein</text>
+      </navLabel>
+      <content src="c-0Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uezOAFskBJ3IpIdPyaADbdA" playOrder="3">
+      <navLabel>
+        <text>Bestiario: El descubrimiento del Nulitrón</text>
+      </navLabel>
+      <content src="c-0Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u2qDGpDDLGvcXsdaTbQsW64" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Nada</text>
+      </navLabel>
+      <content src="c-0Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ujwGlDolbck2cWvukXgzoIB" playOrder="5">
+      <navLabel>
+        <text>Correo: Correo 0</text>
+      </navLabel>
+      <content src="c-0Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uYgSqSRsw4ZAPtzroFrZ56D" playOrder="6">
+      <navLabel>
+        <text>Ficciones: MCVI A.S. (Mil ciento seis años Antes de Susi)</text>
+      </navLabel>
+      <content src="c-0Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uwuompIEYqkq6ZyofV5oFm4" playOrder="7">
+      <navLabel>
+        <text>Anticipos: En el próximo número</text>
+      </navLabel>
+      <content src="c-0Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uJiIxtAQY6aWclYrD8mcyT2" playOrder="8">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

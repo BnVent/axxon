@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Ediciones Axxón</dc:publisher>
+    <meta name="calibre:series_index" content="70"/>
+    <dc:language>es</dc:language>
+    <dc:creator opf:file-as="Desconocido" opf:role="aut">Eduardo Carletti (editor)</dc:creator>
+    <meta name="calibre:timestamp" content="2013-12-13T11:48:10.464000+00:00"/>
+    <dc:title>Axxón 70</dc:title>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:series" content="Axxón"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">7bad595c-f724-412a-8519-5bd0fed548ba</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="cover.png" id="cover" media-type="image/png"/>
+    <item href="ax-portalfantastico.png" id="added8" media-type="image/png"/>
+    <item href="ax-tourmacabro.png" id="added12" media-type="image/png"/>
+    <item href="ax-ventanacyberpunk.png" id="added4" media-type="image/png"/>
+    <item href="axxon-70_001.png" id="added5" media-type="image/png"/>
+    <item href="axxon-70_002.png" id="added6" media-type="image/png"/>
+    <item href="axxon-70_003.png" id="added7" media-type="image/png"/>
+    <item href="axxon-70_004.png" id="added9" media-type="image/png"/>
+    <item href="axxon-70_005.png" id="added10" media-type="image/png"/>
+    <item href="axxon-70_006.png" id="added11" media-type="image/png"/>
+    <item href="axxon-70_007.png" id="added13" media-type="image/png"/>
+    <item href="axxon-70_008.png" id="added14" media-type="image/png"/>
+    <item href="axxon-70_009.png" id="added15" media-type="image/png"/>
+    <item href="axxon-70_011.png" id="added16" media-type="image/png"/>
+    <item href="axxon-70_012.png" id="added17" media-type="image/png"/>
+    <item href="axxon-70_013.png" id="added18" media-type="image/png"/>
+    <item href="axxon-70_015.png" id="added19" media-type="image/png"/>
+    <item href="axxon-70_016.png" id="added20" media-type="image/png"/>
+    <item href="axxon-70_017.png" id="added21" media-type="image/png"/>
+    <item href="axxon-70_018.png" id="added22" media-type="image/png"/>
+    <item href="axxon-70_019.png" id="added23" media-type="image/png"/>
+    <item href="axxon-70_020.png" id="added24" media-type="image/png"/>
+    <item href="axxon-70_021.png" id="added25" media-type="image/png"/>
+    <item href="axxon-70_022.png" id="added26" media-type="image/png"/>
+    <item href="axxon-70_023.png" id="added27" media-type="image/png"/>
+    <item href="axxon-70_024.png" id="added28" media-type="image/png"/>
+    <item href="axxon-70_025.png" id="added29" media-type="image/png"/>
+    <item href="axxon-70_026.png" id="added30" media-type="image/png"/>
+    <item href="axxon-70_027.png" id="added31" media-type="image/png"/>
+    <item href="axxon-70_028.png" id="added33" media-type="image/png"/>
+    <item href="axxon.htm" id="html16" media-type="application/xhtml+xml"/>
+    <item href="axxon00.gif" id="added34" media-type="image/gif"/>
+    <item href="axxon70.htm" id="html" media-type="application/xhtml+xml"/>
+    <item href="c-70Pag01.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="c-70Pag02.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="c-70Pag03.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="c-70Pag04.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="c-70Pag05.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="c-70Pag06.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="c-70Pag07.htm" id="html7" media-type="application/xhtml+xml"/>
+    <item href="c-70Pag08.htm" id="html8" media-type="application/xhtml+xml"/>
+    <item href="c-70Pag09.htm" id="html9" media-type="application/xhtml+xml"/>
+    <item href="c-70Pag10.htm" id="html10" media-type="application/xhtml+xml"/>
+    <item href="c-70Pag11.htm" id="html11" media-type="application/xhtml+xml"/>
+    <item href="c-70Pag12.htm" id="html12" media-type="application/xhtml+xml"/>
+    <item href="c-70Pag13.htm" id="html13" media-type="application/xhtml+xml"/>
+    <item href="c-70Pag14.htm" id="html14" media-type="application/xhtml+xml"/>
+    <item href="c-70Pag15.htm" id="html15" media-type="application/xhtml+xml"/>
+    <item href="c-70tapach.png" id="added35" media-type="image/png"/>
+    <item href="c-ejc0.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="x-epub.png" id="added36" media-type="image/png"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+    <itemref idref="html1"/>
+    <itemref idref="html2"/>
+    <itemref idref="html3"/>
+    <itemref idref="html4"/>
+    <itemref idref="html5"/>
+    <itemref idref="html6"/>
+    <itemref idref="html7"/>
+    <itemref idref="html8"/>
+    <itemref idref="html9"/>
+    <itemref idref="html10"/>
+    <itemref idref="html11"/>
+    <itemref idref="html12"/>
+    <itemref idref="html13"/>
+    <itemref idref="html14"/>
+    <itemref idref="html15"/>
+    <itemref idref="html16"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

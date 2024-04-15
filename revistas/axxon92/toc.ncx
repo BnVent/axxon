@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="fe6e3d1a-a48b-47cb-80bc-c528a734847f" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.9.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 92</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u2bf2e75f-9fd1-405c-9f82-795c6c03ee85" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-92Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u666cd9c0-398c-406b-8089-29f9efd2e794" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 92</text>
+      </navLabel>
+      <content src="c-92Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uea5c640d-17a7-44c1-b32b-1c8fd3ae3323" playOrder="3">
+      <navLabel>
+        <text>Ficciones: La edad de oro</text>
+      </navLabel>
+      <content src="c-92Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ua568c67b-422b-4d6c-82aa-536a7f42da1c" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Máscaras</text>
+      </navLabel>
+      <content src="c-92Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uc4a585e2-2279-4837-9c85-ad4447a3624f" playOrder="5">
+      <navLabel>
+        <text>Sección: Máquinas y Monos</text>
+      </navLabel>
+      <content src="c-92Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u16e25b77-9342-4b12-90b7-7cd07a917a4e" playOrder="7">
+      <navLabel>
+        <text>Ficciones: El cobrador</text>
+      </navLabel>
+      <content src="c-92Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uc1782fe1-3d17-478d-8b30-6c4f2632ca9f" playOrder="8">
+      <navLabel>
+        <text>Sección: Xanadú</text>
+      </navLabel>
+      <content src="c-92Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u01f8b114-8d10-4eaa-a58e-0090a55d1ded" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Una visión memorable</text>
+      </navLabel>
+      <content src="c-92Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u4e19561b-3ce4-40b1-abe1-cab9af39f42f" playOrder="10">
+      <navLabel>
+        <text>Ficciones: El barro del cabalista</text>
+      </navLabel>
+      <content src="c-92Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uc1848de9-e5f2-4ce3-9913-6140de7768b5" playOrder="11">
+      <navLabel>
+        <text>Sección: Tour Macabro</text>
+      </navLabel>
+      <content src="c-92Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u9219f992-6e85-41d9-a66b-ad9a8550fabd" playOrder="12">
+      <navLabel>
+        <text>Letras: Letras de canciones</text>
+      </navLabel>
+      <content src="c-92Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u563bfa10-be52-4bef-a601-2471941f9ada" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Scanner Junke</text>
+      </navLabel>
+      <content src="c-92Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u25445253-b1f8-4a19-9b97-b9cc2864a6da" playOrder="14">
+      <navLabel>
+        <text>Galería: Galería de arte</text>
+      </navLabel>
+      <content src="c-92Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u5942adde-3b15-4dcb-beb0-897d81d1dc9c" playOrder="15">
+      <navLabel>
+        <text>Ficciones: Derroche de pensamientos</text>
+      </navLabel>
+      <content src="c-92Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u5d01c2bd-76c3-40fa-a421-50754304d3db" playOrder="16">
+      <navLabel>
+        <text>Ficciones: Cthulhu</text>
+      </navLabel>
+      <content src="c-92Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u5d0da29a-72cc-4d55-8a35-dd183366e3c9" playOrder="17">
+      <navLabel>
+        <text>Ficciones: El parque</text>
+      </navLabel>
+      <content src="c-92Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u3807d4d9-54e4-497d-8be6-8e3b96304223" playOrder="18">
+      <navLabel>
+        <text>Sección: El rincón de las tinieblas</text>
+      </navLabel>
+      <content src="c-92Pag17.htm"/>
+    </navPoint>
+    <navPoint id="uee257495-084b-4776-ac23-70901663d99d" playOrder="19">
+      <navLabel>
+        <text>Correo: Correo 120</text>
+      </navLabel>
+      <content src="c-92Pag18.htm"/>
+    </navPoint>
+    <navPoint id="ubcf2a518-850b-495b-8f77-096c01ff0b1a" playOrder="20">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-92Pag19.htm"/>
+    </navPoint>
+    <navPoint id="u5ac4a197-3f87-488c-98a4-05636a419115" playOrder="21">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-92Pag20.htm"/>
+    </navPoint>
+    <navPoint id="uc7a55f0c-e490-4239-b721-28ba6be0e31e" playOrder="22">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="ub097da89-cee7-4ca1-9e5c-020ee92ae5d1" playOrder="6">
+      <navLabel>
+        <text>[1]</text>
+      </navLabel>
+      <content src="c-92Pag05.htm#tilde"/>
+    </navPoint>
+  </navMap>
+</ncx>

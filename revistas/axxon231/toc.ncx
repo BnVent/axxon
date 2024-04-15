@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="5451e6a4-83de-4fd4-b496-6f9090905ac6" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.57)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 231</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="c17a524e-5b79-4151-881b-92fadd38cf1e" playOrder="1">
+      <navLabel>
+        <text>Ficciones - Soporta poco la penumbra</text>
+      </navLabel>
+      <content src="c-231Pag01.htm"/>
+    </navPoint>
+    <navPoint id="d06bfaa9-f062-4f38-83bd-f8becbf8937c" playOrder="2">
+      <navLabel>
+        <text>Ficciones - El Dios-Arena</text>
+      </navLabel>
+      <content src="c-231Pag02.htm"/>
+    </navPoint>
+    <navPoint id="6b51af10-fefb-4f8d-9106-a49d3df2a21b" playOrder="3">
+      <navLabel>
+        <text>Ficciones - Estigma</text>
+      </navLabel>
+      <content src="c-231Pag03.htm"/>
+    </navPoint>
+    <navPoint id="72eca1ce-4ae7-47f5-80af-7cf28bd7769d" playOrder="4">
+      <navLabel>
+        <text>Ficciones - El otro mesías</text>
+      </navLabel>
+      <content src="c-231Pag04.htm"/>
+    </navPoint>
+    <navPoint id="5d23e0d1-db66-40f8-af5e-3317f5e81c27" playOrder="5">
+      <navLabel>
+        <text>Homenaje - Ray Bradbury (1920 - 2012)</text>
+      </navLabel>
+      <content src="c-231Pag05.htm"/>
+    </navPoint>
+    <navPoint id="cf49cead-4fd3-435d-bdef-1017ca32a2b0" playOrder="6">
+      <navLabel>
+        <text>Ficciones - La fila</text>
+      </navLabel>
+      <content src="c-231Pag06.htm"/>
+    </navPoint>
+    <navPoint id="29e8c1b5-8acd-436b-afec-a3fe7e04a4ff" playOrder="7">
+      <navLabel>
+        <text>Ficciones - Hagiógrafo</text>
+      </navLabel>
+      <content src="c-231Pag07.htm"/>
+    </navPoint>
+    <navPoint id="0d878be1-b040-4645-9e4f-29f9db2d3fa3" playOrder="8">
+      <navLabel>
+        <text>Artículo - Ray Bradbury</text>
+      </navLabel>
+      <content src="c-231Pag08.htm"/>
+    </navPoint>
+    <navPoint id="8d81796e-9d7f-4474-8ef7-939f2d736341" playOrder="9">
+      <navLabel>
+        <text>Ficciones - Ficción Breve (sesenta y siete)</text>
+      </navLabel>
+      <content src="c-231Pag09.htm"/>
+    </navPoint>
+    <navPoint id="a6ede764-7182-437d-89ef-42c92b3eedd6" playOrder="10">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="459528ea-5d8b-4f3c-91ae-2cad0dddeb41" playOrder="10">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/231/cuento1ilus1.htm"/>
+    </navPoint>
+    <navPoint id="2647ae24-d26c-4b3b-aed1-067a61404a6b" playOrder="11">
+      <navLabel>
+        <text>EL PEZ POR LA BOCA</text>
+      </navLabel>
+      <content src="/rev/"/>
+    </navPoint>
+    <navPoint id="0345c8e0-7ee0-46ad-a2cb-d6f2b4854926" playOrder="12">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/231/cuento2ilus1.htm"/>
+    </navPoint>
+    <navPoint id="8793b338-693d-4f9c-9501-04f994ea86a4" playOrder="13">
+      <navLabel>
+        <text>CARRETERA A PARÍS</text>
+      </navLabel>
+      <content src="/rev/2011/04/carretera-a-paris-raelana-dsagan/"/>
+    </navPoint>
+    <navPoint id="f354cbb5-3406-4be6-88db-c10993306330" playOrder="14">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/231/cuento3ilus1.htm"/>
+    </navPoint>
+    <navPoint id="2370ad6c-efed-4916-a0bc-f1ede4e0dd52" playOrder="15">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/231/cuento4ilus1.htm"/>
+    </navPoint>
+    <navPoint id="99250f24-2527-476d-a514-d149b02e325b" playOrder="16">
+      <navLabel>
+        <text>EL SEGUNDO ALIENTO DEL FÉNIX</text>
+      </navLabel>
+      <content src="/rev/2012/03/ficcion-breve-sesenta-y-seis-varios-autores/#9"/>
+    </navPoint>
+    <navPoint id="3f64ce7f-42fe-40e8-bd63-1aa58df85029" playOrder="17">
+      <navLabel>
+        <text>INSTRUCCIONES PARA COLGAR UN CUADRO</text>
+      </navLabel>
+      <content src="/rev/2012/03/ficcion-breve-sesenta-y-seis-varios-autores/#10"/>
+    </navPoint>
+    <navPoint id="71e2cf09-272d-4035-8a52-c4959bce6517" playOrder="18">
+      <navLabel>
+        <text>EL HOMBRE EQUIVOCADO</text>
+      </navLabel>
+      <content src="/rev/2012/04/el-hombre-equivocado-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="6346f9b9-0648-4f80-a49d-94ec2a62e3bf" playOrder="19">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/231/nota5ilus1.htm"/>
+    </navPoint>
+    <navPoint id="426141ba-b3ce-4ebd-8376-d97e3c17d49a" playOrder="20">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/231/cuento6ilus1.htm"/>
+    </navPoint>
+    <navPoint id="0a4a3676-6a5f-4e49-b282-1731ce7cf6de" playOrder="21">
+      <navLabel>
+        <text>CIENCIA-FICCIÓN: UN GÉNERO DE LIBERTAD QUE ADMITE TODAS LAS TENDENCIAS</text>
+      </navLabel>
+      <content src="/rev/182/c-182ensayo2.htm"/>
+    </navPoint>
+    <navPoint id="607736e4-144e-4678-80cc-f5f405cf16d2" playOrder="22">
+      <navLabel>
+        <text>CUANDO EL MAÑANA LLAMA A TU CASA</text>
+      </navLabel>
+      <content src="/rev/2012/01/cuando-el-manana-llama-a-tu-casa-luis-cermeno/"/>
+    </navPoint>
+    <navPoint id="c0126ac0-f349-4ecc-9adf-71bc8ad70528" playOrder="23">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/231/cuento7ilus1.htm"/>
+    </navPoint>
+    <navPoint id="3100d7d0-c8c3-4b86-aa2b-705e13ef7f39" playOrder="24">
+      <navLabel>
+        <text>LA RESIDENCIA</text>
+      </navLabel>
+      <content src="/rev/181/c-181cuento8.htm"/>
+    </navPoint>
+    <navPoint id="112a4f03-30d7-446b-80e6-e87c7e934bcb" playOrder="25">
+      <navLabel>
+        <text>CARTA A IVÁN</text>
+      </navLabel>
+      <content src="/rev/190/c-190cuento2.htm"/>
+    </navPoint>
+    <navPoint id="5f8f05d5-5f52-4d71-8582-b86d1b4d0824" playOrder="26">
+      <navLabel>
+        <text>CONFESIÓN</text>
+      </navLabel>
+      <content src="/rev/198/c-198cuento6.htm#6"/>
+    </navPoint>
+    <navPoint id="51a5365c-4477-4b52-b44c-600a31979160" playOrder="27">
+      <navLabel>
+        <text>NOME Y YO</text>
+      </navLabel>
+      <content src="/rev/199/c-199cuento5.htm#14"/>
+    </navPoint>
+    <navPoint id="23d8f74c-8b50-46e7-867c-55013a715a19" playOrder="28">
+      <navLabel>
+        <text>VERGÜENZA</text>
+      </navLabel>
+      <content src="/rev/#9"/>
+    </navPoint>
+    <navPoint id="0fdc8b13-7e51-434c-b345-9b24c15f45be" playOrder="29">
+      <navLabel>
+        <text>TRISTEZA</text>
+      </navLabel>
+      <content src="/rev/#1"/>
+    </navPoint>
+    <navPoint id="6eb34e43-73e6-41ac-bbad-d82a45d1f4b8" playOrder="30">
+      <navLabel>
+        <text>VIVIR A DIARIO</text>
+      </navLabel>
+      <content src="/rev/124/c-124CuentoViviraDiario.htm"/>
+    </navPoint>
+    <navPoint id="90a2c582-e103-43ac-8102-b5ef467250e4" playOrder="31">
+      <navLabel>
+        <text>CIERTO TUFO A PODRIDO</text>
+      </navLabel>
+      <content src="/rev/133/c-133Cuento2.htm"/>
+    </navPoint>
+    <navPoint id="5aeca812-0906-4133-a03b-6e97d245e370" playOrder="32">
+      <navLabel>
+        <text>LA BÚSQUEDA DE LA VERDAD</text>
+      </navLabel>
+      <content src="/rev/145/c-145Cuento4.htm"/>
+    </navPoint>
+    <navPoint id="94fa9d47-b37d-49c9-9490-3e06582e7ef2" playOrder="33">
+      <navLabel>
+        <text>AUTOESTOP</text>
+      </navLabel>
+      <content src="/rev/147/c-147Cuento12.htm#3"/>
+    </navPoint>
+    <navPoint id="2ed25c11-5bd1-49a7-a0af-8c946dbd4fa4" playOrder="34">
+      <navLabel>
+        <text>UNA DE DOS</text>
+      </navLabel>
+      <content src="/rev/149/c-149Cuento10.htm#2"/>
+    </navPoint>
+    <navPoint id="ec9c0330-48cc-401d-ba3c-e0c6f8702eb6" playOrder="35">
+      <navLabel>
+        <text>DESDE LA JAULA</text>
+      </navLabel>
+      <content src="/rev/151/c-151cuento2.htm"/>
+    </navPoint>
+    <navPoint id="372a3b4d-731e-4571-9137-f53f5cde6134" playOrder="36">
+      <navLabel>
+        <text>ALIMENTO PARA PERROS</text>
+      </navLabel>
+      <content src="/rev/156/c-156cuento5.htm"/>
+    </navPoint>
+    <navPoint id="01b58c92-2191-4721-ab5c-bded262dbaa8" playOrder="37">
+      <navLabel>
+        <text>LA TRIPLE MUERTE DE MOFFO MÖNNLY</text>
+      </navLabel>
+      <content src="/rev/163/c-163cuento12.htm"/>
+    </navPoint>
+    <navPoint id="cfcdbe18-7338-4400-99fe-9765633bfd3d" playOrder="38">
+      <navLabel>
+        <text>TIEMPO (DE) REVELADO</text>
+      </navLabel>
+      <content src="/rev/157/c-157cuento7.htm"/>
+    </navPoint>
+    <navPoint id="a8a65446-2ca7-4a16-bcf4-44ab46cb08ab" playOrder="39">
+      <navLabel>
+        <text>ESPORA</text>
+      </navLabel>
+      <content src="/rev/140/c-140Cuento4.htm"/>
+    </navPoint>
+    <navPoint id="ec5f1f93-d7d6-4223-8adc-553b2645d739" playOrder="40">
+      <navLabel>
+        <text>MATRYOSHKA</text>
+      </navLabel>
+      <content src="/rev/188/c-188cuento3.htm"/>
+    </navPoint>
+    <navPoint id="2bdc2826-557b-4721-a03c-8f923ffd3a4c" playOrder="41">
+      <navLabel>
+        <text>Los caminantes del cielo</text>
+      </navLabel>
+      <content src="/rev/105/c-105Cuento3.htm"/>
+    </navPoint>
+    <navPoint id="d8cd35d8-8d99-48f5-b262-e77abe53ef96" playOrder="42">
+      <navLabel>
+        <text>Los jinetes del recuerdo</text>
+      </navLabel>
+      <content src="/rev/127/c-127PoesiaJinetes.htm"/>
+    </navPoint>
+    <navPoint id="01b19fec-04cd-4877-be31-0d57584afcda" playOrder="43">
+      <navLabel>
+        <text>MADRE BAÑANDO A SU HIJO</text>
+      </navLabel>
+      <content src="/rev/175/c-175cuento6.htm#3"/>
+    </navPoint>
+    <navPoint id="8e217924-8f71-4071-8265-59c08fba78e9" playOrder="44">
+      <navLabel>
+        <text>CIRCO</text>
+      </navLabel>
+      <content src="/rev/197/c-197cuento9.htm#4"/>
+    </navPoint>
+    <navPoint id="a116728a-5fce-46a0-ae81-436d194e46b1" playOrder="45">
+      <navLabel>
+        <text>INFANTIL</text>
+      </navLabel>
+      <content src="/rev/2010/06/infantil-rolando-revagliatti/"/>
+    </navPoint>
+    <navPoint id="43d4e75d-4dd6-47e6-97a3-d3fd53e68bc4" playOrder="46">
+      <navLabel>
+        <text>FAMILIA</text>
+      </navLabel>
+      <content src="/rev/2011/05/ficcion-breve-sesenta-y-dos-varios-autores/#4"/>
+    </navPoint>
+  </navMap>
+</ncx>

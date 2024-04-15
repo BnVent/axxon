@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="6af5cb1e-d7d8-43e2-89d3-aec906bc6b7f" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.3.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 89</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u0d96205b-f287-4a0c-ad03-c89e9a0be724" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-89Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ue7e6e198-6310-4f74-87ff-9aba1dc7b5c2" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 89</text>
+      </navLabel>
+      <content src="c-89Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uf71598ea-5b33-4664-a6c6-39714c9d5e5e" playOrder="3">
+      <navLabel>
+        <text>Sección: Tour Macabro: Presentación</text>
+      </navLabel>
+      <content src="c-89Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u7faa6402-b155-4475-8fae-a21d917ebfd3" playOrder="4">
+      <navLabel>
+        <text>Ensayo: Cronología de los mitos</text>
+      </navLabel>
+      <content src="c-89Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u4b11b262-233a-4a27-a4a2-a6de0eb09aed" playOrder="5">
+      <navLabel>
+        <text>Poesía: La ciudad que osó insultarlo</text>
+      </navLabel>
+      <content src="c-89Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u14ca08ba-e7f0-4862-9606-635387a54141" playOrder="6">
+      <navLabel>
+        <text>Galería: Galería de arte</text>
+      </navLabel>
+      <content src="c-89Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ucb60977f-ca29-44f1-b06d-7f8e9610c1fd" playOrder="7">
+      <navLabel>
+        <text>Ensayo: El señor horror</text>
+      </navLabel>
+      <content src="c-89Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u11d4da91-e731-4bdc-b713-eb8b1eaddac3" playOrder="8">
+      <navLabel>
+        <text>Ficciones: En la cripta</text>
+      </navLabel>
+      <content src="c-89Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u50b4aea0-59fb-4d26-a6c5-2d472511882c" playOrder="9">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual</text>
+      </navLabel>
+      <content src="c-89Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u02cbc678-c2e5-4591-b84f-41664bca48a7" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Novalis</text>
+      </navLabel>
+      <content src="c-89Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u1c7173a4-823c-457f-afb7-ec7e90adb4ca" playOrder="11">
+      <navLabel>
+        <text>Bits: DNS: El Sistema de Nombre de Dominio</text>
+      </navLabel>
+      <content src="c-89Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ue73ea46f-d8b6-4278-9e68-0c6e3ec85842" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Trafalgar y Josefina</text>
+      </navLabel>
+      <content src="c-89Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u50ba948a-03cf-484b-bafc-9e4fea1518bf" playOrder="13">
+      <navLabel>
+        <text>Sección: Info Córtex</text>
+      </navLabel>
+      <content src="c-89Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u5beb44cb-281e-4f88-b687-4ae5b9702b15" playOrder="30">
+      <navLabel>
+        <text>Ficciones: Mujer de pie</text>
+      </navLabel>
+      <content src="c-89Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u87333804-d267-4414-b962-8f97ce36cbe0" playOrder="31">
+      <navLabel>
+        <text>Ficciones: El medallón de Lou Pei</text>
+      </navLabel>
+      <content src="c-89Pag15.htm"/>
+    </navPoint>
+    <navPoint id="uc7e0a613-4a0e-428a-8812-17e26a3bdd46" playOrder="32">
+      <navLabel>
+        <text>Correo: Correo 89</text>
+      </navLabel>
+      <content src="c-89Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u7dff6163-ce1d-4ed1-a44a-d0b94cafbb08" playOrder="33">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-89Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u89996361-c693-4fe7-939d-c7682859a9dd" playOrder="34">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-89Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u763b006d-3399-4629-b8b4-d5668715f92c" playOrder="35">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="ue7dbeb24-c3cf-49ef-8684-d204651c7d1d" playOrder="14">
+      <navLabel>
+        <text>Libros</text>
+      </navLabel>
+      <content src="c-89Pag13.htm#libros"/>
+    </navPoint>
+    <navPoint id="u733edf03-afac-4217-87dc-a2a30e764b82" playOrder="15">
+      <navLabel>
+        <text>CUENTOS FANTASTICOS ARGENTINOS</text>
+      </navLabel>
+      <content src="c-89Pag13.htm#cuentos-fantasticos-argentinos"/>
+    </navPoint>
+    <navPoint id="u525a09e7-f659-429a-9434-78be68468909" playOrder="16">
+      <navLabel>
+        <text>LA EVA FANTASTICA</text>
+      </navLabel>
+      <content src="c-89Pag13.htm#la-eva-fantastica"/>
+    </navPoint>
+    <navPoint id="uce834cc8-8112-467d-837f-9fa172db9b41" playOrder="17">
+      <navLabel>
+        <text>UN PESCADOR DEL MAR INTERIOR</text>
+      </navLabel>
+      <content src="c-89Pag13.htm#un-pescador-del-mar-interior"/>
+    </navPoint>
+    <navPoint id="u99184109-364f-47d9-9e65-54d33e087b71" playOrder="18">
+      <navLabel>
+        <text>EL CURSO DEL CORAZON</text>
+      </navLabel>
+      <content src="c-89Pag13.htm#el-curso-del-corazon"/>
+    </navPoint>
+    <navPoint id="u4d768434-2ca7-47d1-9c00-fe8b21cade7e" playOrder="19">
+      <navLabel>
+        <text>PEPE CORVINA</text>
+      </navLabel>
+      <content src="c-89Pag13.htm#pepe-corvina"/>
+    </navPoint>
+    <navPoint id="ua1ff6aea-a489-4db6-b03e-a46c91a44cc6" playOrder="20">
+      <navLabel>
+        <text>LUCIFER HA LLORADO</text>
+      </navLabel>
+      <content src="c-89Pag13.htm#lucifer-ha-llorado"/>
+    </navPoint>
+    <navPoint id="u8e0ed711-5d25-4393-a7d3-97372f5f0049" playOrder="21">
+      <navLabel>
+        <text>F2F. UN ASESINO EN INTERNET</text>
+      </navLabel>
+      <content src="c-89Pag13.htm#f2f-un-asesino-en-internet"/>
+    </navPoint>
+    <navPoint id="u7d427f0f-e896-4544-8af7-0731f64a8a8e" playOrder="22">
+      <navLabel>
+        <text>NOVEDADES EDITORIALES EN ESPAÑA</text>
+      </navLabel>
+      <content src="c-89Pag13.htm#novedades-editoriales-en-espana"/>
+    </navPoint>
+    <navPoint id="u0a5a9139-19a0-476b-92bc-35de873bcdd6" playOrder="23">
+      <navLabel>
+        <text>Datos</text>
+      </navLabel>
+      <content src="c-89Pag13.htm#datos"/>
+    </navPoint>
+    <navPoint id="uf42a2ad7-7da0-4d43-9868-d0821d19241f" playOrder="24">
+      <navLabel>
+        <text>Cine</text>
+      </navLabel>
+      <content src="c-89Pag13.htm#cine"/>
+    </navPoint>
+    <navPoint id="uf3dba1c4-dc87-4d6a-86bb-a0b72e09b92d" playOrder="26">
+      <navLabel>
+        <text>Televisión</text>
+      </navLabel>
+      <content src="c-89Pag13.htm#television"/>
+    </navPoint>
+    <navPoint id="ue43a3cac-67ab-4ce4-a2b9-8b3b1d992d17" playOrder="27">
+      <navLabel>
+        <text>Internet</text>
+      </navLabel>
+      <content src="c-89Pag13.htm#internet"/>
+    </navPoint>
+    <navPoint id="u03756948-f03b-470b-b69d-deb6982415b7" playOrder="28">
+      <navLabel>
+        <text>Premios</text>
+      </navLabel>
+      <content src="c-89Pag13.htm#premios"/>
+    </navPoint>
+    <navPoint id="u6b3a6537-8dde-4bd5-b76a-abd2a579f70a" playOrder="29">
+      <navLabel>
+        <text>NOMINADOS Y GANADORES DEL PREMIO NEBULA 1997</text>
+      </navLabel>
+      <content src="c-89Pag13.htm#nominados-y-ganadores-del-premio-nebula-1997"/>
+    </navPoint>
+    <navPoint id="ue923a492-3fa8-4f7e-8e48-3773932ad0d7" playOrder="25">
+      <navLabel>
+        <text>[1]</text>
+      </navLabel>
+      <content src="c-89Pag13.htm#cgi"/>
+    </navPoint>
+  </navMap>
+</ncx>

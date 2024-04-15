@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="9d472ffa-2569-4661-bfef-1b52ec07b0b0" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.74.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 279</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ubCWB9ckgOzzDm7YohcwWf4" playOrder="1">
+      <navLabel>
+        <text>Editorial: El mundo sobre ruedas</text>
+      </navLabel>
+      <content src="c-279Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uRUGXwyzsenfwrrf3XJNbqA" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Instinto</text>
+      </navLabel>
+      <content src="c-279Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uHyFZ4xLSoGTRPpLoWI4XUG" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El superhéroe se ha ahorcado</text>
+      </navLabel>
+      <content src="c-279Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u6AArSwveqe4AUkLGSvcNAB" playOrder="4">
+      <navLabel>
+        <text>Artículo: Mucho Pulp</text>
+      </navLabel>
+      <content src="c-279Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uAEBmlrC328CKCNzP9fuhIH" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Imágenes cruzando un mar roto</text>
+      </navLabel>
+      <content src="c-279Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uhjO66fTw3eXMwQtIdzyEs7" playOrder="6">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-279Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ulTOwS6jfmnYxuLZZps29s9" playOrder="7">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

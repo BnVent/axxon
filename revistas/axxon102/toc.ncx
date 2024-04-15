@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="0ffbe9e7-da73-4f44-b251-7ee17826e360" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.25.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 102</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ua9fbc278-0e6a-4fbd-9e8d-ae3c989477c5" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-102Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uc4ae5f56-909c-4f52-bb1e-e580dab4f7e9" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 102</text>
+      </navLabel>
+      <content src="c-102Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uf47dbd4a-dfc5-42cd-8bc1-a688097512d3" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Respira con cuidado</text>
+      </navLabel>
+      <content src="c-102Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u92b42e57-398d-4997-a08d-facea1551de8" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Cuenta conmigo</text>
+      </navLabel>
+      <content src="c-102Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uf223baa8-62c5-467b-bbe5-1bd79c8cc293" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Adiós para siempre, ciborg</text>
+      </navLabel>
+      <content src="c-102Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u68424024-5db7-48e2-9886-4f90017dbcac" playOrder="6">
+      <navLabel>
+        <text>Aves Raras: Aves raras V: Rodolfo Contín</text>
+      </navLabel>
+      <content src="c-102Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u39ea6c13-376e-461e-98a8-72d62c33b648" playOrder="7">
+      <navLabel>
+        <text>Sección: El rincón de las tinieblas</text>
+      </navLabel>
+      <content src="c-102Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u5d940adb-fa30-4ff0-a634-29e96230eac0" playOrder="8">
+      <navLabel>
+        <text>Xanadú: Episodio 5: De Perlas y Monstruos</text>
+      </navLabel>
+      <content src="c-102Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ue52094a9-18bf-4523-ad6a-67907eb5e018" playOrder="9">
+      <navLabel>
+        <text>Correo: Correo 102</text>
+      </navLabel>
+      <content src="c-102Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u0efce5bf-36df-41fb-9b31-593eb0d51b3f" playOrder="10">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-102Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ub25afcca-0bab-49c6-acdc-7e8f8a3423bb" playOrder="11">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-102Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u3d5b874a-8f20-4be7-893d-107da0630942" playOrder="12">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

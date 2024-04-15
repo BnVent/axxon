@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="64e60038-787b-4adb-a073-865f1ebbfb86" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.38.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 157</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u3ffaf574-2adc-4024-a4e3-068201267dba" playOrder="1">
+      <navLabel>
+        <text>Editorial: Pereza mental</text>
+      </navLabel>
+      <content src="c-157Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u6476df51-51d2-46ac-992a-cf690b6330e0" playOrder="2">
+      <navLabel>
+        <text>Correo: Correo axxónico</text>
+      </navLabel>
+      <content src="c-157Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u67ebab0e-5014-4b03-8816-e36dc8cf275f" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Shift</text>
+      </navLabel>
+      <content src="c-157Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ub75dfd40-c649-4a2f-b31b-1e2eda54dd66" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El efecto mariposa</text>
+      </navLabel>
+      <content src="c-157Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u13f29ea0-e7f5-4935-aa12-783ac098d93a" playOrder="5">
+      <navLabel>
+        <text>Ficciones: La máquina</text>
+      </navLabel>
+      <content src="c-157Pag05.htm"/>
+    </navPoint>
+    <navPoint id="udb054a05-210f-45b6-aa67-b06b0e7443a8" playOrder="6">
+      <navLabel>
+        <text>Sección: Batiburrillo</text>
+      </navLabel>
+      <content src="c-157Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u7d37bf23-33a8-4204-94a1-9f6242c17498" playOrder="7">
+      <navLabel>
+        <text>Batiburrillo: Me la sé lunga</text>
+      </navLabel>
+      <content src="c-157Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u69a15696-babb-4f42-9211-44403a59bd6a" playOrder="8">
+      <navLabel>
+        <text>Batiburrillo: Especies en peligro</text>
+      </navLabel>
+      <content src="c-157Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ue9cf2e00-7a6b-48e4-a023-1fdaef18dfb1" playOrder="9">
+      <navLabel>
+        <text>Batiburrillo: Una estrella en el hielo: Illegal Aliens</text>
+      </navLabel>
+      <content src="c-157Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u547d0bca-f570-4e33-9609-fdd73f3d3e2b" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Leticia en el reflujo de la marea</text>
+      </navLabel>
+      <content src="c-157Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u93a8dc60-0ac0-4632-822f-ff43bef36cf4" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Horizonte reflejo</text>
+      </navLabel>
+      <content src="c-157Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ub516009f-e452-40a6-8bde-04035f7d7ec2" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Si tan sólo…</text>
+      </navLabel>
+      <content src="c-157Pag12.htm"/>
+    </navPoint>
+    <navPoint id="ua1e9386e-8d00-4970-aaae-6e73c74573ab" playOrder="13">
+      <navLabel>
+        <text>Divulgación: El misterio de las Pioneer</text>
+      </navLabel>
+      <content src="c-157Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u52eabce9-fc1f-480a-bdff-67843890fa34" playOrder="14">
+      <navLabel>
+        <text>Ficciones: Tiempo (de) revelado</text>
+      </navLabel>
+      <content src="c-157Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u9228d91b-1dd5-49ac-916a-00e204b8cb58" playOrder="15">
+      <navLabel>
+        <text>Ficciones: El cielo de los ángeles</text>
+      </navLabel>
+      <content src="c-157Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u762301c4-95af-46cc-9087-290eb868b9d9" playOrder="16">
+      <navLabel>
+        <text>Ficciones: Me humillo ante ti, señor</text>
+      </navLabel>
+      <content src="c-157Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u62ed33bf-9b76-4adf-8d3d-3dc5d927f5d7" playOrder="17">
+      <navLabel>
+        <text>Ficciones: Ficción breve (19)</text>
+      </navLabel>
+      <content src="c-157Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u96356275-04af-481f-809b-9d20cdb041f9" playOrder="18">
+      <navLabel>
+        <text>Ficciones: Aburrimiento</text>
+      </navLabel>
+      <content src="c-157Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u4f26cdb9-af93-4037-b36d-f458e96b36dc" playOrder="19">
+      <navLabel>
+        <text>Ficciones: Unos labios de frutilla</text>
+      </navLabel>
+      <content src="c-157Pag19.htm"/>
+    </navPoint>
+    <navPoint id="u02531c0a-f0cc-4946-969e-29196366ac1a" playOrder="20">
+      <navLabel>
+        <text>Ficciones: Geometría variable</text>
+      </navLabel>
+      <content src="c-157Pag20.htm"/>
+    </navPoint>
+    <navPoint id="u41dc63dd-2ccc-462c-aeb6-47762b73d13f" playOrder="21">
+      <navLabel>
+        <text>Ensayo: ¿Donde nadie ha ido antes?</text>
+      </navLabel>
+      <content src="c-157Pag21_split_000.htm"/>
+    </navPoint>
+    <navPoint id="u07b85fbc-1d14-419c-b853-719966415d66" playOrder="22">
+      <navLabel>
+        <text>Ficciones: Especial cuentos “Mi propia muerte” (3)</text>
+      </navLabel>
+      <content src="c-157Pag22.htm"/>
+    </navPoint>
+    <navPoint id="u922e05b9-303b-4795-ac91-95aaa6885c7f" playOrder="23">
+      <navLabel>
+        <text>Clásico: La invasión sin paralelo</text>
+      </navLabel>
+      <content src="c-157Pag23.htm"/>
+    </navPoint>
+    <navPoint id="u1c909575-3841-44ad-984f-eb16d438b4d7" playOrder="24">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="ec3c4d56-de0e-4db4-b21e-71fe78cb4d06" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.37.1)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 155</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uc57cf7c9-3834-4dcb-801c-d3f370c9a0b6" playOrder="1">
+      <navLabel>
+        <text>Editorial: Queremos lo mejor y lo queremos ya</text>
+      </navLabel>
+      <content src="c-155Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u074dc3c9-c99d-4ebc-bfe1-51f86b11cd98" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-155Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u210ad8b0-6aec-4fb9-bd0b-ee4b9e12183c" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Círculos y engranajes</text>
+      </navLabel>
+      <content src="c-155Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ued7e45a5-10fa-4daf-b76a-21991fed86ab" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Líder de la Red</text>
+      </navLabel>
+      <content src="c-155Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u147b7ec0-355d-45de-93ea-b25502d7d59a" playOrder="5">
+      <navLabel>
+        <text>Ensayo: Fantástico desencantado: los nietos de Julio Cortázar</text>
+      </navLabel>
+      <content src="c-155Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uc33adb6c-00bb-40a4-9b17-fad32052ab51" playOrder="6">
+      <navLabel>
+        <text>Divulgación: El Viejo Hucha</text>
+      </navLabel>
+      <content src="c-155Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u0d3aa3b3-db2c-4186-8e89-2a36ce5bc68a" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Los perros del silencio</text>
+      </navLabel>
+      <content src="c-155Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u12fc11ac-463c-4f2d-989d-42d3fe89bf1a" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Simulador Biológico</text>
+      </navLabel>
+      <content src="c-155Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uf4fd70ce-80fa-4a77-97fe-a491433e256b" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Una cita afortunada</text>
+      </navLabel>
+      <content src="c-155Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u3f191cfe-e704-4a45-8b32-597b5c26065f" playOrder="10">
+      <navLabel>
+        <text>Ensayo: El eternauta, visos de un héroe militante</text>
+      </navLabel>
+      <content src="c-155Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uf06581e2-54c4-40b3-9337-74caa9bebc91" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (16)</text>
+      </navLabel>
+      <content src="c-155Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u37b3b13b-480a-419e-ac46-56de76509cef" playOrder="12">
+      <navLabel>
+        <text>Sección: Anacrónicas</text>
+      </navLabel>
+      <content src="c-155Pag12.htm"/>
+    </navPoint>
+    <navPoint id="uc1fb2a0c-dec5-46d9-a494-56438c07f34d" playOrder="13">
+      <navLabel>
+        <text>Anacrónicas: Anacrónica News</text>
+      </navLabel>
+      <content src="c-155Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u22019a79-fdc0-4661-bf37-2c04f6fb00fa" playOrder="14">
+      <navLabel>
+        <text>Anacrónicas: Futuroscopio (2)</text>
+      </navLabel>
+      <content src="c-155Pag14.htm"/>
+    </navPoint>
+    <navPoint id="ub2cf34db-08cd-40ff-b293-b49db1e9ad62" playOrder="15">
+      <navLabel>
+        <text>Anacrónicas: La yunta’e torres (10)</text>
+      </navLabel>
+      <content src="c-155Pag15.htm"/>
+    </navPoint>
+    <navPoint id="ucbba4f7a-8b0b-4942-9d13-0d7f66d9a426" playOrder="16">
+      <navLabel>
+        <text>Ficciones: Hambre y aromas</text>
+      </navLabel>
+      <content src="c-155Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u9d48381c-3e2b-4cb6-b313-c4cf299aa716" playOrder="17">
+      <navLabel>
+        <text>Ficciones: Pareja</text>
+      </navLabel>
+      <content src="c-155Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u88953ccd-e7fe-4472-838c-312147b5a1af" playOrder="18">
+      <navLabel>
+        <text>Ficciones: El camino de Weescosa</text>
+      </navLabel>
+      <content src="c-155Pag18.htm"/>
+    </navPoint>
+    <navPoint id="uc5d9a908-9473-4ca7-80d6-63440f6b2c50" playOrder="19">
+      <navLabel>
+        <text>Ensayo: W. H. Hudson, el Señor de los Pájaros</text>
+      </navLabel>
+      <content src="c-155Pag19.htm"/>
+    </navPoint>
+    <navPoint id="ua1c76c39-b733-49e6-b6cb-33a492dd61db" playOrder="20">
+      <navLabel>
+        <text>Ficciones: La mujer de nadie</text>
+      </navLabel>
+      <content src="c-155Pag20.htm"/>
+    </navPoint>
+    <navPoint id="ub63e5a8a-8892-467f-8d43-26448d05547c" playOrder="21">
+      <navLabel>
+        <text>Ficciones: Tierra calcinada</text>
+      </navLabel>
+      <content src="c-155Pag21.htm"/>
+    </navPoint>
+    <navPoint id="u1e3a01a5-1ab1-4540-a241-0c5d62fa0aed" playOrder="22">
+      <navLabel>
+        <text>Ficciones: En esta cara de la Luna</text>
+      </navLabel>
+      <content src="c-155Pag22.htm"/>
+    </navPoint>
+    <navPoint id="u30280dca-1eb4-4a45-93e2-3d2a37865abd" playOrder="23">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (17)</text>
+      </navLabel>
+      <content src="c-155Pag23.htm"/>
+    </navPoint>
+    <navPoint id="u18606cb7-c9dc-4c78-91c0-7444f1443508" playOrder="24">
+      <navLabel>
+        <text>Clásico: Frritt-Flacc</text>
+      </navLabel>
+      <content src="c-155Pag24.htm"/>
+    </navPoint>
+    <navPoint id="u45d01d33-e9b3-45ec-9a5f-fc85c1f94ee5" playOrder="25">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

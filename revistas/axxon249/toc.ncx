@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="eeddca79-09f5-4c2e-b66f-70b2f68fe2bc" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.18.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 249</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uf6ce1efa-f9e6-47cb-817d-58e214b24e92" playOrder="1">
+      <navLabel>
+        <text>Editorial: Un cuarto y la maldición</text>
+      </navLabel>
+      <content src="c-249Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uddbbde6e-f9be-4bc3-8349-7aff9a8bd05d" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Club privado</text>
+      </navLabel>
+      <content src="c-249Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u33a0950b-cde5-43dd-8c95-d3e7d91f3a8c" playOrder="3">
+      <navLabel>
+        <text>Ficciones: La Bestia y los tres cerditos</text>
+      </navLabel>
+      <content src="c-249Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u2e86ba58-6223-47cb-b03d-ba9e111f7c8b" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Olimpia o los autómatas</text>
+      </navLabel>
+      <content src="c-249Pag04.htm"/>
+    </navPoint>
+    <navPoint id="udf8932c0-f8fb-413c-b7f7-bc9be3219752" playOrder="5">
+      <navLabel>
+        <text>Artículo: ¿Quién le teme a C. P. Snow en la crítica de ciencia ficción latinoamericana? El enigma de</text>
+      </navLabel>
+      <content src="c-249Pag05.htm"/>
+    </navPoint>
+    <navPoint id="udac2fb43-3a5b-4ab4-8b2e-98fcc13dbc99" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Piel y tinieblas</text>
+      </navLabel>
+      <content src="c-249Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u47b88dbc-6b58-4d0e-860e-2bf72d393dc6" playOrder="7">
+      <navLabel>
+        <text>Ficciones: El regreso</text>
+      </navLabel>
+      <content src="c-249Pag07.htm"/>
+    </navPoint>
+    <navPoint id="udfe090b0-a65c-4d66-9417-2ab841e6356e" playOrder="8">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

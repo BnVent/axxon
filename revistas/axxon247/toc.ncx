@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="531657ab-c9f3-43f7-8377-3a926b1d0394" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.22.1)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 247</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uvKSJ3JlxIwtYw4XtYCEQ6D" playOrder="1">
+      <navLabel>
+        <text>Editorial: Revoluciones</text>
+      </navLabel>
+      <content src="c-247Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uiHsjfI8FImihSri2ckOFc8" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Extraña luna de miel</text>
+      </navLabel>
+      <content src="c-247Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ujPtqTdbWoHVexRhlkwLCi8" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El peso de la moneda</text>
+      </navLabel>
+      <content src="c-247Pag03.htm"/>
+    </navPoint>
+    <navPoint id="unR3ycxGsZR9NFsMlnBOmI2" playOrder="4">
+      <navLabel>
+        <text>Artículo: Francisco Solano López (FSL o Fast Sex Light: Raudo Sexo Luminoso)</text>
+      </navLabel>
+      <content src="c-247Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uPoTX9CcpKqhFWJmneO6Ga5" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Los inmortales</text>
+      </navLabel>
+      <content src="c-247Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uli48NqCvTM43INKCdE4JTD" playOrder="6">
+      <navLabel>
+        <text>Ficciones: ¡Urghooooo!</text>
+      </navLabel>
+      <content src="c-247Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ulHTYo45W8YEwj43OhRbKa7" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Perras in de nai</text>
+      </navLabel>
+      <content src="c-247Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uLUT6YvBbX2nRL6sacclIN3" playOrder="8">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

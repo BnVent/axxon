@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="6020fd81-55f6-4f5a-a158-d1f59f399abb" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.38.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 159</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uea096f3b-ede2-443d-bb83-abbf1d7ee2bd" playOrder="1">
+      <navLabel>
+        <text>Editorial: Brutalidad</text>
+      </navLabel>
+      <content src="c-159Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ua41ef490-929e-47ec-a5f5-9fa5808b88bc" playOrder="2">
+      <navLabel>
+        <text>Correo: Correo axxónico</text>
+      </navLabel>
+      <content src="c-159Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u04622aa1-f33c-45c4-829b-7aab2e9b99bc" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Cepas</text>
+      </navLabel>
+      <content src="c-159Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u9c623139-f2b0-498b-b262-d6c4e7c06f4b" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El mito de la caverna</text>
+      </navLabel>
+      <content src="c-159Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u78f495cd-0e4e-4c33-a80c-ff08c3178246" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El tribunal</text>
+      </navLabel>
+      <content src="c-159Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u61ad10c4-1001-4814-bd9a-4c6af015229a" playOrder="6">
+      <navLabel>
+        <text>Ensayo: Robert Sheckley: la ironía silenciada</text>
+      </navLabel>
+      <content src="c-159Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u41e61723-b0dd-4733-91cc-11e36c5a2933" playOrder="7">
+      <navLabel>
+        <text>Divulgación: Universo-plano</text>
+      </navLabel>
+      <content src="c-159Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u92cf0a05-82ae-4545-acba-a20d82ce62ab" playOrder="8">
+      <navLabel>
+        <text>Ficciones: El espejo de valusia</text>
+      </navLabel>
+      <content src="c-159Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uaf438243-46d7-49f4-afe0-371f734e32a7" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Simbiosis</text>
+      </navLabel>
+      <content src="c-159Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u89da9fc5-7ceb-4303-9553-f7a40807e0fb" playOrder="10">
+      <navLabel>
+        <text>Ficciones: El escritor más famoso de todos los tiempos</text>
+      </navLabel>
+      <content src="c-159Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u4efa3988-e89f-4a4a-960f-2fc0bbc69d34" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Donde la magia es real</text>
+      </navLabel>
+      <content src="c-159Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u4098b13d-43fd-4a36-924d-a2a9264c7a83" playOrder="12">
+      <navLabel>
+        <text>Ensayo: Escarbando en Philip K. Dick</text>
+      </navLabel>
+      <content src="c-159Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u008517f8-6762-46a4-a6a5-4540036a5288" playOrder="13">
+      <navLabel>
+        <text>Ensayo: Visita al extranjero</text>
+      </navLabel>
+      <content src="c-159Pag13.htm"/>
+    </navPoint>
+    <navPoint id="ub7101fb5-7177-43b8-8570-9105307552f8" playOrder="14">
+      <navLabel>
+        <text>Ensayo: No es lo mismo ser oscuro que estar pintado de negro</text>
+      </navLabel>
+      <content src="c-159Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u7a44c3e6-53a5-478f-b86e-8fcac1e27038" playOrder="15">
+      <navLabel>
+        <text>Ficciones: Yasí yateré</text>
+      </navLabel>
+      <content src="c-159Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u4f97b0ae-041a-4d97-9012-b9605cdf9140" playOrder="16">
+      <navLabel>
+        <text>Ficciones: Fantasmas inocentes</text>
+      </navLabel>
+      <content src="c-159Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u554ef2be-9968-4bf5-ad13-570b43a09d94" playOrder="17">
+      <navLabel>
+        <text>Ficciones: La carta</text>
+      </navLabel>
+      <content src="c-159Pag17.htm"/>
+    </navPoint>
+    <navPoint id="ub8bfbada-48e6-4d3b-82c3-c2cabaa84b66" playOrder="18">
+      <navLabel>
+        <text>Ficciones: Lápices lacrimales</text>
+      </navLabel>
+      <content src="c-159Pag18.htm"/>
+    </navPoint>
+    <navPoint id="ue45aec60-6c8e-46f5-8934-90297aa9eefe" playOrder="19">
+      <navLabel>
+        <text>Ficciones: Los antiguos mexicanos a traves de sus ruinas y sus vestigios</text>
+      </navLabel>
+      <content src="c-159Pag19.htm"/>
+    </navPoint>
+    <navPoint id="u77eca9a5-642a-4c92-a1ea-c5164ded4ca2" playOrder="20">
+      <navLabel>
+        <text>Sección: AnaCrónicas</text>
+      </navLabel>
+      <content src="c-159Pag20.htm"/>
+    </navPoint>
+    <navPoint id="u21f5d79c-4e33-4052-84df-35685d9f754e" playOrder="21">
+      <navLabel>
+        <text>Anacrónicas: Bitácora de navegación</text>
+      </navLabel>
+      <content src="c-159Pag21.htm"/>
+    </navPoint>
+    <navPoint id="u9badf740-5bae-4254-95c8-9f86cb482f9e" playOrder="22">
+      <navLabel>
+        <text>Anacrónicas: Log de desinfección</text>
+      </navLabel>
+      <content src="c-159Pag22.htm"/>
+    </navPoint>
+    <navPoint id="u7cc6c1ae-a9f9-4385-9488-1c760df1e90d" playOrder="23">
+      <navLabel>
+        <text>Anacrónicas: La yunta’e torres (15)</text>
+      </navLabel>
+      <content src="c-159Pag23.htm"/>
+    </navPoint>
+    <navPoint id="uff2dc44c-f10a-46a7-91b7-cbb82700aac6" playOrder="24">
+      <navLabel>
+        <text>Ficciones: Ficción breve (22)</text>
+      </navLabel>
+      <content src="c-159Pag24.htm"/>
+    </navPoint>
+    <navPoint id="u843e3efc-5bab-41b1-a0b5-a239210489c1" playOrder="25">
+      <navLabel>
+        <text>Ficciones: El gran experimento de Kleinplatz</text>
+      </navLabel>
+      <content src="c-159Pag25.htm"/>
+    </navPoint>
+    <navPoint id="u6175922c-fade-4ddf-9aca-a55a1196cf21" playOrder="26">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

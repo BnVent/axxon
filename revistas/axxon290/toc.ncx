@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="50d0f642-2c15-4131-bbd9-4b6d33b8a9e8" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.17.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 290</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u9LOSHOFnFYi87v5trhXNY9" playOrder="1">
+      <navLabel>
+        <text>Ficciones: Gaviota blanca y solitaria</text>
+      </navLabel>
+      <content src="c-290Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uGGCZbshsTCACHgI8jgtupG" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Iris</text>
+      </navLabel>
+      <content src="c-290Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ubolpECd2vWxnT3VcPpjts4" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Dúplex</text>
+      </navLabel>
+      <content src="c-290Pag03.htm"/>
+    </navPoint>
+    <navPoint id="upH3x2u6wSndTAQnTnjA9q5" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Dentro del museo</text>
+      </navLabel>
+      <content src="c-290Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uePCP9gDH3ZxKhUeotKSOCA" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Tejedor de voluntades</text>
+      </navLabel>
+      <content src="c-290Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ufFXp9HmkapLkrDbkkU68lC" playOrder="6">
+      <navLabel>
+        <text>Ficciones: La peste</text>
+      </navLabel>
+      <content src="c-290Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uij4l49ycdmv4H5EFPQPPJ7" playOrder="7">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-290Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uR7Kz8hj6llzdc7UqV4xGN6" playOrder="8">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

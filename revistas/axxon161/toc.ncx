@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="c9cb4459-25bb-4207-b7e3-73712456343d" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.45.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 161</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u263bca42-aa56-42df-bd49-c1a35f631545" playOrder="1">
+      <navLabel>
+        <text>Editorial: Yo quería esto</text>
+      </navLabel>
+      <content src="c-161Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u297bc9d4-3104-4be2-89c4-4bfb2572f622" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-161Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u86a03ab1-6bf5-4431-9d4b-a2c896cbfab3" playOrder="3">
+      <navLabel>
+        <text>Divulgación: Desesperación (2ª y última parte)</text>
+      </navLabel>
+      <content src="c-161Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uc5d82e4e-0f94-44d1-b5d9-6e24d1ce5354" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Encuentro fallido</text>
+      </navLabel>
+      <content src="c-161Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ud50b350b-65d9-4979-9273-f9f7a17e0884" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Perfeccionismo religioso</text>
+      </navLabel>
+      <content src="c-161Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u7d581f23-4d23-46cd-a8ac-2c89b5e64c04" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Instrucciones secretas para la misión Alfa: Pliego uno</text>
+      </navLabel>
+      <content src="c-161Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ubcd49cec-61a2-4375-a80e-a7eab0c255a5" playOrder="7">
+      <navLabel>
+        <text>Ficciones: El testigo</text>
+      </navLabel>
+      <content src="c-161Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u89007f28-b9d1-47e3-b1c2-817fa550449f" playOrder="8">
+      <navLabel>
+        <text>Ficciones: El último de nosotros</text>
+      </navLabel>
+      <content src="c-161Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u48253865-a1fc-4891-8e08-2c77f55de3eb" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Jugar con fuego</text>
+      </navLabel>
+      <content src="c-161Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uc2179995-0b92-466a-9cb8-8c7c6ea805dd" playOrder="10">
+      <navLabel>
+        <text>Sección: Batiburrillo</text>
+      </navLabel>
+      <content src="c-161Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ub660a7c0-5df6-4d27-80c7-89d434a2449d" playOrder="11">
+      <navLabel>
+        <text>Batiburrillo: Me la sé lunga (1)</text>
+      </navLabel>
+      <content src="c-161Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u5d906a2e-280c-4592-8334-75db7c31c7f5" playOrder="12">
+      <navLabel>
+        <text>Batiburrillo: Me la sé lunga (2)</text>
+      </navLabel>
+      <content src="c-161Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u9e7be545-01a3-4e8f-85d8-1f562490a095" playOrder="13">
+      <navLabel>
+        <text>Batiburrillo: Me la sé lunga (3)</text>
+      </navLabel>
+      <content src="c-161Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u6b0cda64-e70f-4e0f-ab94-02bdd3e28b81" playOrder="14">
+      <navLabel>
+        <text>Batiburrillo: Te amo, te odio, dame más</text>
+      </navLabel>
+      <content src="c-161Pag14.htm"/>
+    </navPoint>
+    <navPoint id="uf0005549-d0e8-41dd-9ea6-fbabe22ddc49" playOrder="15">
+      <navLabel>
+        <text>Ficciones: El regreso del Capitán Rayo</text>
+      </navLabel>
+      <content src="c-161Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u3d86b8f7-cb49-460d-8af0-8110c5c13cea" playOrder="16">
+      <navLabel>
+        <text>Ficciones: Colinas del viejo ser</text>
+      </navLabel>
+      <content src="c-161Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u4b6ca4fc-8620-4bac-bb27-bf91fe8bb22d" playOrder="17">
+      <navLabel>
+        <text>Ficciones: Ysobelt y los visionautas</text>
+      </navLabel>
+      <content src="c-161Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u11dab8a7-9615-40c6-a9c6-4af453c9e68e" playOrder="18">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (veinticinco)</text>
+      </navLabel>
+      <content src="c-161Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u7967590c-efa7-485c-a41e-afd048a78579" playOrder="19">
+      <navLabel>
+        <text>Ficciones: Escaques Tres-D</text>
+      </navLabel>
+      <content src="c-161Pag19.htm"/>
+    </navPoint>
+    <navPoint id="u5e7b682d-1896-4822-83c4-dfd275a067df" playOrder="20">
+      <navLabel>
+        <text>Ficciones: La lealtad</text>
+      </navLabel>
+      <content src="c-161Pag20.htm"/>
+    </navPoint>
+    <navPoint id="u0db75680-8f75-4f79-9c54-1d68db558d10" playOrder="21">
+      <navLabel>
+        <text>Ficciones: El fantasma</text>
+      </navLabel>
+      <content src="c-161Pag21.htm"/>
+    </navPoint>
+    <navPoint id="ud90cc1fe-2460-43de-a0f6-ed9c8f4deab6" playOrder="22">
+      <navLabel>
+        <text>Ficciones: Hacerla trabajando</text>
+      </navLabel>
+      <content src="c-161Pag22.htm"/>
+    </navPoint>
+    <navPoint id="udf62d160-2c72-4bdb-9d68-c450da5554d0" playOrder="23">
+      <navLabel>
+        <text>Ensayo: Lo enorme y lo pequeño: Stanislaw Lem</text>
+      </navLabel>
+      <content src="c-161Pag23.htm"/>
+    </navPoint>
+    <navPoint id="u2baef180-c0b8-4878-b868-173226198204" playOrder="24">
+      <navLabel>
+        <text>Ensayo: El planeta desconocido a 50 años de su estreno: la irresistible tentación de ser Dios</text>
+      </navLabel>
+      <content src="c-161Pag24.htm"/>
+    </navPoint>
+    <navPoint id="u06948e9a-7ae7-44d5-9b8b-15b23396892c" playOrder="25">
+      <navLabel>
+        <text>Ensayo: El libro de las voces / Los ojos de un dios en celo</text>
+      </navLabel>
+      <content src="c-161Pag25.htm"/>
+    </navPoint>
+    <navPoint id="u4855d2ca-f7af-4755-8bdc-ff53133f7dd9" playOrder="26">
+      <navLabel>
+        <text>Clásico: Un fenómeno inexplicable</text>
+      </navLabel>
+      <content src="c-161Pag26.htm"/>
+    </navPoint>
+    <navPoint id="uf1a7fcb3-31cd-4c32-8c17-c8e6100a59a9" playOrder="27">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

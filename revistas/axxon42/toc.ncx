@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="008fe5e7-334e-4434-9b9f-046262ac1919" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.66)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 42</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="aae37f9f-f15b-4c71-83d8-7b716f4361e2" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 42</text>
+      </navLabel>
+      <content src="c-42Pag01.htm"/>
+    </navPoint>
+    <navPoint id="3acb4525-7acd-45c9-b098-be5cc4fa5ba4" playOrder="2">
+      <navLabel>
+        <text>Ficciones: A cada cual su propio infierno</text>
+      </navLabel>
+      <content src="c-42Pag02.htm"/>
+    </navPoint>
+    <navPoint id="165928ae-12f3-4253-922d-2c3bb3895161" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El joven Zaphod y un trabajo seguro</text>
+      </navLabel>
+      <content src="c-42Pag03.htm"/>
+    </navPoint>
+    <navPoint id="8bcb9b73-b2a7-4a31-b34f-18f084baabe8" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Historia de un planeta azul</text>
+      </navLabel>
+      <content src="c-42Pag04.htm"/>
+    </navPoint>
+    <navPoint id="49ead725-413c-4812-89ce-08522bd99f2c" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Cuatro días</text>
+      </navLabel>
+      <content src="c-42Pag05.htm"/>
+    </navPoint>
+    <navPoint id="6950999a-54ef-4d65-a546-75c22bdb267a" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Querida Mahoney</text>
+      </navLabel>
+      <content src="c-42Pag06.htm"/>
+    </navPoint>
+    <navPoint id="9c3fd8d9-4a11-4263-a315-c2861adabf3e" playOrder="7">
+      <navLabel>
+        <text>Bits: La computadora es masturbatoria: Entrevista a Umberto Eco</text>
+      </navLabel>
+      <content src="c-42Pag07.htm"/>
+    </navPoint>
+    <navPoint id="b1748493-8d78-45f7-89c2-554da7952ca9" playOrder="8">
+      <navLabel>
+        <text>Correo: Correo</text>
+      </navLabel>
+      <content src="c-42Pag08.htm"/>
+    </navPoint>
+    <navPoint id="c82d00c6-c97b-4f87-b37c-c55d75767805" playOrder="9">
+      <navLabel>
+        <text>Seccion: Una mirada a la realidad (17)</text>
+      </navLabel>
+      <content src="c-42Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ccb89915-c458-4349-80f7-2e043f7a3ee0" playOrder="10">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-42Pag10.htm"/>
+    </navPoint>
+    <navPoint id="4218a20f-a9db-49c6-ad89-c6689ce4946e" playOrder="11">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-42Pag11.htm"/>
+    </navPoint>
+    <navPoint id="fa3a70c5-6768-4412-987d-e2d55b880036" playOrder="12">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

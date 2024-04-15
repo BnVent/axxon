@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="3883934d-8dfe-46cf-815e-17eb8a600829" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.31.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 143</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u3d0fb9ea-649a-4b2b-9914-47b51d0ac318" playOrder="1">
+      <navLabel>
+        <text>Editorial: Inolvidable</text>
+      </navLabel>
+      <content src="c-143Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u28553dbf-82a0-454e-8261-01e227515658" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxonitas</text>
+      </navLabel>
+      <content src="c-143Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u13fb7b05-a092-4a01-a7c7-2f81c7ac7c33" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El archivo Maggi</text>
+      </navLabel>
+      <content src="c-143Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ufc1d3d95-eba4-42c9-81f5-a741284fc3b7" playOrder="4">
+      <navLabel>
+        <text>Ficciones: La mancha roja</text>
+      </navLabel>
+      <content src="c-143Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u95949572-84ba-4587-8e67-68054b16dfb4" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Deseos</text>
+      </navLabel>
+      <content src="c-143Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u2fda7f10-496a-4851-9d0e-572a45211d7e" playOrder="6">
+      <navLabel>
+        <text>Ficciones: El asteroide</text>
+      </navLabel>
+      <content src="c-143Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u2c61e47f-1fea-4bb4-958d-0dbbbf643e7f" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Terapias alternativas</text>
+      </navLabel>
+      <content src="c-143Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u5d91f30a-2318-4b03-bdb5-5754b5129e06" playOrder="8">
+      <navLabel>
+        <text>Ficciones: El hijo de la noche</text>
+      </navLabel>
+      <content src="c-143Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u8607287e-7c20-4fab-9e12-d98493ffe44a" playOrder="9">
+      <navLabel>
+        <text>Divulgación: La evolución de la inteligencia</text>
+      </navLabel>
+      <content src="c-143Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ua479c59f-473b-47b3-846f-7748cf4d8d96" playOrder="10">
+      <navLabel>
+        <text>Ficciones: En punto</text>
+      </navLabel>
+      <content src="c-143Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ue7ca636c-e95e-41b4-b0cf-ba8931f11d3f" playOrder="11">
+      <navLabel>
+        <text>Ficciones: El amor de Sólveig</text>
+      </navLabel>
+      <content src="c-143Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ue35970ea-433b-4ee1-80c6-fa80f2039e80" playOrder="12">
+      <navLabel>
+        <text>Ficciones: La yegua de la noche</text>
+      </navLabel>
+      <content src="c-143Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u381e3e64-acd9-4f1f-a3e4-857ab7acc9c1" playOrder="13">
+      <navLabel>
+        <text>Sección: Anacrónicas</text>
+      </navLabel>
+      <content src="c-143Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u8b585f09-641a-4873-9756-f1f0f572594c" playOrder="14">
+      <navLabel>
+        <text>Anacrónicas: Adelantos exclusivos</text>
+      </navLabel>
+      <content src="c-143Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u52b81a47-4a75-4666-9420-5860b8e69cfe" playOrder="15">
+      <navLabel>
+        <text>Anacrónicas: Fundación</text>
+      </navLabel>
+      <content src="c-143Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u3b411985-4ee4-489f-a3df-fc7c3f5d1fa1" playOrder="16">
+      <navLabel>
+        <text>Anacrónicas: Jurassic Park 4</text>
+      </navLabel>
+      <content src="c-143Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u00477010-eb5e-48ed-afef-92b28660d31d" playOrder="17">
+      <navLabel>
+        <text>Anacrónicas: La guerra de las galaxias: Episodio III</text>
+      </navLabel>
+      <content src="c-143Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u27890eff-1ce7-440b-9c1c-37310a4737b6" playOrder="18">
+      <navLabel>
+        <text>Anacrónicas: Cacharrobot</text>
+      </navLabel>
+      <content src="c-143Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u6a84d6d7-f393-4508-a9e1-2f30e52dbb51" playOrder="19">
+      <navLabel>
+        <text>Anacrónicas: La yunta ‘e torres (2)</text>
+      </navLabel>
+      <content src="c-143Pag19.htm"/>
+    </navPoint>
+    <navPoint id="u940157ff-f0ae-4bb8-a3ca-60e76305b3dc" playOrder="20">
+      <navLabel>
+        <text>Uficción: ¡Qué gran pérdida para México!</text>
+      </navLabel>
+      <content src="c-143Pag20.htm"/>
+    </navPoint>
+    <navPoint id="u636c51ee-68a6-4ae6-8a05-a6d30b5b85f1" playOrder="21">
+      <navLabel>
+        <text>Ficciones: Brazo fuerte, magia poderosa</text>
+      </navLabel>
+      <content src="c-143Pag21.htm"/>
+    </navPoint>
+    <navPoint id="uf24ec6b1-fbae-465c-b6ef-ab3bf4510d09" playOrder="22">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

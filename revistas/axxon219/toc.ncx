@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="7de8bb4d-e952-4716-80ef-e0e7e60e5b67" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.11)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 219</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="cbed1d7a-2174-4bea-8455-26ca56abf95b" playOrder="1">
+      <navLabel>
+        <text>Ficciones - Rewind</text>
+      </navLabel>
+      <content src="pagina01.htm"/>
+    </navPoint>
+    <navPoint id="6f02c870-03e8-4f5b-9ca9-3e8058852fb0" playOrder="2">
+      <navLabel>
+        <text>Ficciones - El Psicopompo</text>
+      </navLabel>
+      <content src="pagina02.htm"/>
+    </navPoint>
+    <navPoint id="0e963424-b40f-4299-8e5e-bef172877edc" playOrder="3">
+      <navLabel>
+        <text>Ficciones - Luna de arena</text>
+      </navLabel>
+      <content src="pagina03.htm"/>
+    </navPoint>
+    <navPoint id="9ce4a072-6601-4724-8e8d-b8668097db39" playOrder="4">
+      <navLabel>
+        <text>Ficciones - La garra del jaguar</text>
+      </navLabel>
+      <content src="pagina04.htm"/>
+    </navPoint>
+    <navPoint id="36d0d8e6-5544-41ce-8e81-fbebf0c58836" playOrder="5">
+      <navLabel>
+        <text>Ficciones - Superkataplof</text>
+      </navLabel>
+      <content src="pagina05.htm"/>
+    </navPoint>
+    <navPoint id="0a0a480e-8c64-4423-af5e-423232330254" playOrder="6">
+      <navLabel>
+        <text>Ficciones - Esplendor familiar</text>
+      </navLabel>
+      <content src="pagina06.htm"/>
+    </navPoint>
+    <navPoint id="acf5946e-991d-4e12-86d3-160791850717" playOrder="7">
+      <navLabel>
+        <text>Opinión - Sobre publicaciones, premios y especies similares</text>
+      </navLabel>
+      <content src="pagina07.htm"/>
+    </navPoint>
+    <navPoint id="9a3f8f6d-2430-4cc0-8d33-3ff4a8b800a3" playOrder="8">
+      <navLabel>
+        <text>Ficciones - Al final de la tarde</text>
+      </navLabel>
+      <content src="pagina08.htm"/>
+    </navPoint>
+    <navPoint id="68746335-4c7a-4277-a7e1-c801465c0f58" playOrder="9">
+      <navLabel>
+        <text>Ficciones - Yui</text>
+      </navLabel>
+      <content src="pagina09.htm"/>
+    </navPoint>
+    <navPoint id="3aa55e3d-8457-419d-91b1-40141856f624" playOrder="10">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="dc91cf4f-1596-4104-a478-9457bab687ba" playOrder="10">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/219/cuento1ilus1.htm"/>
+    </navPoint>
+    <navPoint id="52965846-2d55-4989-97ea-bca06756eddf" playOrder="11">
+      <navLabel>
+        <text>EL LÁNTURA</text>
+      </navLabel>
+      <content src="/rev/167/c-167cuento5.htm#18"/>
+    </navPoint>
+    <navPoint id="a362de25-c551-4f66-a849-243c7c026b6a" playOrder="12">
+      <navLabel>
+        <text>EL BRILLO DEL MAL</text>
+      </navLabel>
+      <content src="/rev/168/c-168cuento15.htm"/>
+    </navPoint>
+    <navPoint id="0d101449-104e-468d-bb0c-57917fae3e25" playOrder="13">
+      <navLabel>
+        <text>EL IMPERIO CAOS</text>
+      </navLabel>
+      <content src="/rev/173/c-173cuento16.htm"/>
+    </navPoint>
+    <navPoint id="7c1f315d-d3f7-48d1-a712-befe61541e6f" playOrder="14">
+      <navLabel>
+        <text>NUEVO COMIENZO</text>
+      </navLabel>
+      <content src="/rev/174/c-174axxcr1.htm#24"/>
+    </navPoint>
+    <navPoint id="c45d1d3e-f13c-4887-a89b-ac186ee9a810" playOrder="15">
+      <navLabel>
+        <text>COCHES AZULES</text>
+      </navLabel>
+      <content src="/rev/197/c-197cuento1.htm"/>
+    </navPoint>
+    <navPoint id="1806bd6e-47d1-4216-836e-5431f20f0934" playOrder="16">
+      <navLabel>
+        <text>LOS NUEVOS DESCUBRIMIENTOS PERDIDOS: LOS HOLOGRAMAS</text>
+      </navLabel>
+      <content src="/rev/199/c-199cuento5.htm#12"/>
+    </navPoint>
+    <navPoint id="46484ad4-5adb-4b84-b2c8-9d148b355127" playOrder="17">
+      <navLabel>
+        <text>EL JUGADOR</text>
+      </navLabel>
+      <content src="/rev/"/>
+    </navPoint>
+    <navPoint id="b5ccc747-0ed9-4637-8804-1d23bc611fcf" playOrder="18">
+      <navLabel>
+        <text>LA LLAMADA DE CTHULHU</text>
+      </navLabel>
+      <content src="/rev/165/c-165cuento9.htm"/>
+    </navPoint>
+    <navPoint id="e007d294-0d8d-41a4-bc7d-f5ee75c28a7b" playOrder="19">
+      <navLabel>
+        <text>EL SILBIDO DEL VIENTO EN LA VENTANA</text>
+      </navLabel>
+      <content src="/c-CuentoElSilbido.htm"/>
+    </navPoint>
+    <navPoint id="57379045-eefe-4fec-8e6c-c2e2325fc21c" playOrder="20">
+      <navLabel>
+        <text>STATUS QUO</text>
+      </navLabel>
+      <content src="/rev/115/c-115StatusQuo.htm"/>
+    </navPoint>
+    <navPoint id="59361f6b-e50f-4ccb-a468-14b26aa9bb38" playOrder="21">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/219/cuento2ilus1.htm"/>
+    </navPoint>
+    <navPoint id="a4cb8d3e-1c9d-4354-a664-b96cc911470f" playOrder="22">
+      <navLabel>
+        <text>AUTOCLONACIÓN REVERSA</text>
+      </navLabel>
+      <content src="/rev/191/c-191cuento4.htm"/>
+    </navPoint>
+    <navPoint id="064d1687-8222-480a-9cde-ee3dfc7bc5a0" playOrder="23">
+      <navLabel>
+        <text>FICCION BREVE 31</text>
+      </navLabel>
+      <content src="/rev/170/c-170cuento8.htm"/>
+    </navPoint>
+    <navPoint id="ca2b052d-c4bc-44da-a5a3-23006cda85a6" playOrder="24">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/219/cuento3ilus1.htm"/>
+    </navPoint>
+    <navPoint id="a1695af9-5319-410d-b9d7-96f3a8a9112f" playOrder="25">
+      <navLabel>
+        <text>EL ÁNGEL TERRIBLE</text>
+      </navLabel>
+      <content src="/rev/#1"/>
+    </navPoint>
+    <navPoint id="9c7c9a32-c278-4f37-83de-d3ce0ba70dbc" playOrder="26">
+      <navLabel>
+        <text>SÉPTIMO SENTIDO</text>
+      </navLabel>
+      <content src="/rev/#2"/>
+    </navPoint>
+    <navPoint id="4fdb171a-8e68-4fe9-9ad7-efe4dfcd586e" playOrder="27">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/219/cuento4ilus1.htm"/>
+    </navPoint>
+    <navPoint id="2acda4f6-e833-495f-b2f8-5697f57c2d4e" playOrder="28">
+      <navLabel>
+        <text>Enciclopedia</text>
+      </navLabel>
+      <content src="/wiki/index.php"/>
+    </navPoint>
+    <navPoint id="6c0477c9-020f-4d7f-a899-f4a5c224bdb9" playOrder="29">
+      <navLabel>
+        <text>JINETES</text>
+      </navLabel>
+      <content src="/rev/163/c-163cuento6.htm"/>
+    </navPoint>
+    <navPoint id="c5fc9491-c7ba-4159-bce1-07f568f3844d" playOrder="30">
+      <navLabel>
+        <text>SEOL</text>
+      </navLabel>
+      <content src="/rev/165/c-165cuento6.htm"/>
+    </navPoint>
+    <navPoint id="1df29cdd-b93b-4a10-93be-46c52acb6956" playOrder="31">
+      <navLabel>
+        <text>TANGOSPACIO</text>
+      </navLabel>
+      <content src="/rev/168/c-168cuento13.htm"/>
+    </navPoint>
+    <navPoint id="502fc68d-45a8-4025-a080-b64db9388c81" playOrder="32">
+      <navLabel>
+        <text>ROBOPSIQUIATRA 10.203.911</text>
+      </navLabel>
+      <content src="/rev/169/c-169cuento2.htm"/>
+    </navPoint>
+    <navPoint id="3231d8b2-de7b-40ac-8063-967cbffe6fb6" playOrder="33">
+      <navLabel>
+        <text>PAN-RAKIB</text>
+      </navLabel>
+      <content src="/rev/170/c-170cuento8.htm#5"/>
+    </navPoint>
+    <navPoint id="d45669e7-04d5-44db-9ac8-1aeba546e199" playOrder="34">
+      <navLabel>
+        <text>CERRADA</text>
+      </navLabel>
+      <content src="/rev/179/c-179cuento8.htm"/>
+    </navPoint>
+    <navPoint id="862c8006-7f4d-44c1-b82d-3ba3af706ccb" playOrder="35">
+      <navLabel>
+        <text>EL EFECTO TORTUGA</text>
+      </navLabel>
+      <content src="/rev/180/c-180cuento3.htm"/>
+    </navPoint>
+    <navPoint id="0a0e04b0-1410-475c-82fc-0dd49e5d4942" playOrder="36">
+      <navLabel>
+        <text>EL G</text>
+      </navLabel>
+      <content src="/rev/187/c-187cuento5.htm"/>
+    </navPoint>
+    <navPoint id="705a07de-d72f-4141-9ad1-b82f6e91260e" playOrder="37">
+      <navLabel>
+        <text>DEVENIR</text>
+      </navLabel>
+      <content src="/rev/194/c-194cuento5.htm"/>
+    </navPoint>
+    <navPoint id="81bc1647-6291-4078-9e9c-b592b8bc81ab" playOrder="38">
+      <navLabel>
+        <text>LOS MOTIVOS DE MEDUSA</text>
+      </navLabel>
+      <content src="/c-CuentoLosMotivosDeMedusa.htm"/>
+    </navPoint>
+    <navPoint id="276e1c66-e7f1-450a-87ae-db5a4da9cb5a" playOrder="39">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/219/cuento5ilus1.htm"/>
+    </navPoint>
+    <navPoint id="38b4790e-fcad-4136-8f9e-2c3ce8dc9661" playOrder="40">
+      <navLabel>
+        <text>SUPERHÉROE</text>
+      </navLabel>
+      <content src="/rev/161/c-161cuento10.htm#4"/>
+    </navPoint>
+    <navPoint id="3e318e8d-8790-41df-87c6-22f6e611251e" playOrder="41">
+      <navLabel>
+        <text>EL SUPERHÉROE</text>
+      </navLabel>
+      <content src="/rev/165/c-165cuento3.htm#9"/>
+    </navPoint>
+    <navPoint id="0e3c3f33-3b83-4004-8a2e-6df60eab513f" playOrder="42">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/219/cuento6ilus1.htm"/>
+    </navPoint>
+    <navPoint id="73397698-bfca-4722-a4e1-43b494d918da" playOrder="43">
+      <navLabel>
+        <text>ALIEN</text>
+      </navLabel>
+      <content src="/rev/#4"/>
+    </navPoint>
+    <navPoint id="b1428299-f614-4ffc-a6cf-2c921279c4de" playOrder="44">
+      <navLabel>
+        <text>¡MALDITA SUEGRA!</text>
+      </navLabel>
+      <content src="/rev/162/c-162cuento10.htm"/>
+    </navPoint>
+    <navPoint id="f0826c0d-1529-4bfb-9d5a-182dfe884b9d" playOrder="45">
+      <navLabel>
+        <text>ALIENÍGENZOOS</text>
+      </navLabel>
+      <content src="/rev/154/c-154cuento17.htm#1"/>
+    </navPoint>
+    <navPoint id="6dd66d6e-09c7-4275-94dc-78274909b5f0" playOrder="46">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/219/cuento7ilus1.htm"/>
+    </navPoint>
+    <navPoint id="2db55d92-414c-4d32-b560-dc01508be6af" playOrder="47">
+      <navLabel>
+        <text>LA SOMBRA</text>
+      </navLabel>
+      <content src="/rev/184/c-184cuento5.htm#4"/>
+    </navPoint>
+    <navPoint id="394e58c6-792f-4342-807c-103a207f96ba" playOrder="48">
+      <navLabel>
+        <text>EL SALUDO</text>
+      </navLabel>
+      <content src="/rev/192/c-192cuento3.htm"/>
+    </navPoint>
+    <navPoint id="f730fe77-b6cd-4c17-8ee3-7262ebe828e6" playOrder="49">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/219/cuento8ilus1.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

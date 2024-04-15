@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="303f1de5-21f9-4582-b9e7-98fe6d4d3c1e" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.14.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 124</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u5ceada14-e431-45bb-b0fb-381cb9c0504f" playOrder="1">
+      <navLabel>
+        <text>Editorial: Muy bueno</text>
+      </navLabel>
+      <content src="c-124Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uaf2aae54-f35f-46a2-9c5d-ced9926bf1fd" playOrder="2">
+      <navLabel>
+        <text>Correo: Correo 124</text>
+      </navLabel>
+      <content src="c-124Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u364102f7-2bde-4888-ac41-e466c8d629cc" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Vivir a diario</text>
+      </navLabel>
+      <content src="c-124Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u28d164ce-75e4-4d70-bd74-e99ca5fe244c" playOrder="4">
+      <navLabel>
+        <text>Divulgación: Los abuelitos bajo el árbol de mi casa</text>
+      </navLabel>
+      <content src="c-124Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u8b41225a-ec93-4d41-92f8-da3c511f6c92" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Como un reloj</text>
+      </navLabel>
+      <content src="c-124Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u3b0a744a-e772-4f64-b5fe-f467a0f913a3" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Simposio de ecología</text>
+      </navLabel>
+      <content src="c-124Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u85fedb1f-25fe-4e47-9ce5-1087fc08bade" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Especie sumamente peligrosa</text>
+      </navLabel>
+      <content src="c-124Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ue80a069d-5937-494b-ac8f-f8f00d7821aa" playOrder="8">
+      <navLabel>
+        <text>Recreaciones: El Gaucho de los Anillos (5)</text>
+      </navLabel>
+      <content src="c-124Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u0ac946d5-4b36-4460-9bef-84626ae25b89" playOrder="9">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

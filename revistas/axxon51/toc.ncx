@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="0a401fc3-88f5-45a6-923e-22ccd7f2f1e1" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.7)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 51</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="48e38606-1fd0-44fd-97bc-29d2edd4d596" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 51</text>
+      </navLabel>
+      <content src="c-51Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ef937b08-94a7-46a7-8e85-0bf0bbca9d70" playOrder="2">
+      <navLabel>
+        <text>Saludos: Felicidades</text>
+      </navLabel>
+      <content src="c-51Pag02.htm"/>
+    </navPoint>
+    <navPoint id="34a17223-6bb3-4df1-9e67-6510ee118984" playOrder="3">
+      <navLabel>
+        <text>Ficciones: La marca de la serpiente</text>
+      </navLabel>
+      <content src="c-51Pag03.htm"/>
+    </navPoint>
+    <navPoint id="e5d8181b-9e61-4dbc-bcdf-b125fe3e7198" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Rock en Radiocity</text>
+      </navLabel>
+      <content src="c-51Pag04.htm"/>
+    </navPoint>
+    <navPoint id="17030d44-5f50-4912-92a5-d8d5643d4035" playOrder="5">
+      <navLabel>
+        <text>Ficciones: La vidim</text>
+      </navLabel>
+      <content src="c-51Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ff03d2f6-fcb3-4fe9-bcf1-f086bcc2d6de" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Éxtasis</text>
+      </navLabel>
+      <content src="c-51Pag06.htm"/>
+    </navPoint>
+    <navPoint id="e752baaf-d698-4a4f-90b5-644fee4bf101" playOrder="7">
+      <navLabel>
+        <text>Sección: Crónicas desde la garrafa virtual (II)</text>
+      </navLabel>
+      <content src="c-51Pag07.htm"/>
+    </navPoint>
+    <navPoint id="c244312a-4cf6-40ca-9eb7-612264c05be7" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Los meandros de la historia</text>
+      </navLabel>
+      <content src="c-51Pag08.htm"/>
+    </navPoint>
+    <navPoint id="c2354ffd-f600-4b0b-a3dd-2df42ee6b0d8" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Nancy</text>
+      </navLabel>
+      <content src="c-51Pag09.htm"/>
+    </navPoint>
+    <navPoint id="4d69924a-5d31-45c1-a889-e06882e14229" playOrder="10">
+      <navLabel>
+        <text>Bits: De ciencia, un poco de todo</text>
+      </navLabel>
+      <content src="c-51Pag10.htm"/>
+    </navPoint>
+    <navPoint id="7411032b-c74d-4f55-9e30-65f423c04de1" playOrder="12">
+      <navLabel>
+        <text>Correo: Correo 51</text>
+      </navLabel>
+      <content src="c-51Pag11.htm"/>
+    </navPoint>
+    <navPoint id="eed59569-ec99-47a5-bc21-07718caa8e92" playOrder="13">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad</text>
+      </navLabel>
+      <content src="c-51Pag12.htm"/>
+    </navPoint>
+    <navPoint id="cc16bdc8-93b7-482a-a700-96c6128d43cb" playOrder="14">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-51Pag13.htm"/>
+    </navPoint>
+    <navPoint id="d6cbc254-e592-4ed7-9887-8e4268907bc3" playOrder="15">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-51Pag14.htm"/>
+    </navPoint>
+    <navPoint id="345ba339-b14b-4d9a-aa76-325be48665de" playOrder="16">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="4130040b-f377-4a47-baf0-5f566916afe9" playOrder="11">
+      <navLabel>
+        <text>[*]</text>
+      </navLabel>
+      <content src="c-51Pag10.htm#id2"/>
+    </navPoint>
+  </navMap>
+</ncx>

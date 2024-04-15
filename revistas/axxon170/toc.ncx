@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="6494218b-e4a1-4737-ba51-2293665c7f58" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 170</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u01b4d076-ea11-4eae-8ad4-4438e03ad334" playOrder="1">
+      <navLabel>
+        <text>Editorial: Ay, ay, ay</text>
+      </navLabel>
+      <content src="c-170Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u6a95a24f-a1a7-4354-8e03-a78c9bdef9e1" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-170Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u2c18687b-758c-4bd7-946a-7c4c8cb8357b" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (30)</text>
+      </navLabel>
+      <content src="c-170Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u0e02dc07-9278-4739-af7e-68ffa7459490" playOrder="4">
+      <navLabel>
+        <text>Divulgación: El test de Turing</text>
+      </navLabel>
+      <content src="c-170Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uc03c8f2b-725c-47ad-b5d6-593804a2c1f1" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Damocles</text>
+      </navLabel>
+      <content src="c-170Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u85d34bd0-2eae-4002-8500-a5ac8cc24dd8" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Démodé</text>
+      </navLabel>
+      <content src="c-170Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u8573787f-0331-4f20-bcf9-ea4021c3a8cc" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Su nuevo yo</text>
+      </navLabel>
+      <content src="c-170Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ue41cd6f1-08c7-4962-8db4-91128f3f96b4" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Anubis</text>
+      </navLabel>
+      <content src="c-170Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u05f3601a-d258-47e6-be8e-b3eaff983b3e" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Ahau Katun</text>
+      </navLabel>
+      <content src="c-170Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ufeedf4af-5db2-4b50-b46c-33e13d97d287" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Conversaciones telefónicas</text>
+      </navLabel>
+      <content src="c-170Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u3db74ab6-21ea-406a-a7e3-aaf267e1250b" playOrder="11">
+      <navLabel>
+        <text>Ensayo: La escena continental (2007)</text>
+      </navLabel>
+      <content src="c-170Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ua5e3316c-4f3c-4f6f-a4f8-6a9ee4dca034" playOrder="12">
+      <navLabel>
+        <text>Ensayo: Apocalipsis…</text>
+      </navLabel>
+      <content src="c-170Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u7d6db70d-2faa-4437-bc1c-dd58e8bb86b0" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (31)</text>
+      </navLabel>
+      <content src="c-170Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u53eb77cf-3a9f-4b13-a9f5-f4543a4b6fee" playOrder="14">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="a3af6cf3-35b0-4db9-be4a-d5aec09b04af" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.28)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 109</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u749e06a3-0825-4c43-96a2-6f676bb70dcb" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 109</text>
+      </navLabel>
+      <content src="c-109Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ud607ac60-7d56-4972-9707-b14d8050f46a" playOrder="2">
+      <navLabel>
+        <text>Ficciones: El Archivista</text>
+      </navLabel>
+      <content src="c-109Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u1a95d78c-d404-410e-9e18-6bd9b178230f" playOrder="3">
+      <navLabel>
+        <text>Entrevista: Entrevista con Carlos Gardini</text>
+      </navLabel>
+      <content src="c-109Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u9ca64cfe-8e8f-4043-a1b0-7798f1b9dd9a" playOrder="4">
+      <navLabel>
+        <text>Correo: Correo 109</text>
+      </navLabel>
+      <content src="c-109Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ufddd8075-6e40-456b-ac2b-351e6d0b96d4" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Los pescadores de ojos</text>
+      </navLabel>
+      <content src="c-109Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uabcc0d82-4243-4605-929b-3f66d8932569" playOrder="6">
+      <navLabel>
+        <text>Ensayo: El sueño de la razón</text>
+      </navLabel>
+      <content src="c-109Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u2739e676-993b-4b69-9a93-0fc5d77f3904" playOrder="7">
+      <navLabel>
+        <text>Sección: Máquinas y Monos 2</text>
+      </navLabel>
+      <content src="c-109Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uf23c38c7-54d0-47c7-9cb9-dab45e2bd605" playOrder="15">
+      <navLabel>
+        <text>Ficciones: Disneylandia</text>
+      </navLabel>
+      <content src="c-109Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u027074c7-23c1-4a70-817c-f2c17f347568" playOrder="16">
+      <navLabel>
+        <text>Sección: Tour Macabro</text>
+      </navLabel>
+      <content src="c-109Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u60942f1f-7347-4a5c-8dae-7dce440c90ee" playOrder="17">
+      <navLabel>
+        <text>Ficciones: Ouija</text>
+      </navLabel>
+      <content src="c-109Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u6ab57feb-c243-4145-9e2b-e65fc6ed964d" playOrder="18">
+      <navLabel>
+        <text>Ficciones: Esceptico</text>
+      </navLabel>
+      <content src="c-109Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u8592cba9-53ef-48b9-aec5-9deafb65a1fa" playOrder="19">
+      <navLabel>
+        <text>Nota: Cannibal Corpse</text>
+      </navLabel>
+      <content src="c-109Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u465848bb-b052-42f1-ab68-df7bcea3586f" playOrder="20">
+      <navLabel>
+        <text>Letras: Tour Macabro: Letras</text>
+      </navLabel>
+      <content src="c-109Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u2a76553f-85fa-4d45-899f-cd906ae19e8b" playOrder="21">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="u939a6a4a-8c36-4314-bbbf-7f4289d7de07" playOrder="14">
+      <navLabel>
+        <text>entrevista exclusiva</text>
+      </navLabel>
+      <content src="c-109gardiniupc2001.htm"/>
+    </navPoint>
+    <navPoint id="u713b1b04-3ccc-4ebe-8b62-091c38533431" playOrder="15">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-109ilusupctierranegra.jpg"/>
+    </navPoint>
+    <navPoint id="ua3efc27c-84e7-4c90-a1c6-d6050eba37a8" playOrder="16">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-109ilusupctribu.jpg"/>
+    </navPoint>
+    <navPoint id="uaf631f98-0265-4516-a282-ea2a2a771fc1" playOrder="17">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-109ilusupc1996a.jpg"/>
+    </navPoint>
+    <navPoint id="u72743a48-9451-46e7-a75c-96967fb520cb" playOrder="18">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-109ilusupc1996b.jpg"/>
+    </navPoint>
+    <navPoint id="u0843fa3f-dce9-46f7-bb68-ce1d03bedea8" playOrder="19">
+      <navLabel>
+        <text>porterodenoche@terra.es</text>
+      </navLabel>
+      <content src="porterodenoche%40terra.es"/>
+    </navPoint>
+    <navPoint id="u31f2e140-446a-4546-b792-3d096d7c2fb0" playOrder="20">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-109iluspesc1.jpg"/>
+    </navPoint>
+    <navPoint id="u286cc53b-99c6-4431-a57b-401ac63ebb21" playOrder="21">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-109iluspesc2.jpg"/>
+    </navPoint>
+    <navPoint id="u4011a2e2-357e-4dd5-839a-6290aa15f720" playOrder="8">
+      <navLabel>
+        <text>LOS DIÁLOGOS</text>
+      </navLabel>
+      <content src="c-109Pag07.htm#losdia"/>
+    </navPoint>
+    <navPoint id="ue034534c-6bb5-4607-926b-96b7b9d027b3" playOrder="9">
+      <navLabel>
+        <text>LENGUAJE Y MODO:</text>
+      </navLabel>
+      <content src="c-109Pag07.htm#lengua"/>
+    </navPoint>
+    <navPoint id="u9064acbe-5c63-4104-872c-f19bc1ea534d" playOrder="10">
+      <navLabel>
+        <text>ESTRUCTURA:</text>
+      </navLabel>
+      <content src="c-109Pag07.htm#estruc"/>
+    </navPoint>
+    <navPoint id="u8189a420-f3c9-480c-89f6-25554ba3fd7d" playOrder="11">
+      <navLabel>
+        <text>CONTENIDO DEL DIÁLOGO:</text>
+      </navLabel>
+      <content src="c-109Pag07.htm#contenido"/>
+    </navPoint>
+    <navPoint id="ue65f9bc4-ca17-4d99-a9fa-abf3359cb6e2" playOrder="12">
+      <navLabel>
+        <text>EXPLICACIONES EN UN DIÁLOGO:</text>
+      </navLabel>
+      <content src="c-109Pag07.htm#explica"/>
+    </navPoint>
+    <navPoint id="uee70260e-58ac-4bb7-a7e1-6770fa3e1849" playOrder="13">
+      <navLabel>
+        <text>APOYO DE LOS DIÁLOGOS:</text>
+      </navLabel>
+      <content src="c-109Pag07.htm#apoyo"/>
+    </navPoint>
+    <navPoint id="u89caab30-037c-4bcb-b369-d56f9a89f0d0" playOrder="14">
+      <navLabel>
+        <text>CONCLUSIÓN</text>
+      </navLabel>
+      <content src="c-109Pag07.htm#conclu"/>
+    </navPoint>
+    <navPoint id="ud2b44a25-f966-48d1-89c6-f71f7eb5f2f5" playOrder="29">
+      <navLabel>
+        <text>CUENTO: O-U-I-J-A, por Sergio Mars</text>
+      </navLabel>
+      <content src="c-109ouija.htm"/>
+    </navPoint>
+    <navPoint id="ub3591796-c05e-4c82-8240-0c5fe1a01f46" playOrder="30">
+      <navLabel>
+        <text>CUENTO: Escéptico, por Richard Bellush, Jr.</text>
+      </navLabel>
+      <content src="c-109esceptico.htm"/>
+    </navPoint>
+    <navPoint id="ue29dc8df-b5cb-4490-8f6a-0b69a7b338ea" playOrder="31">
+      <navLabel>
+        <text>GRUPO: Cannibal Corpse, por Martín Brunás</text>
+      </navLabel>
+      <content src="c-109cannibal.htm"/>
+    </navPoint>
+    <navPoint id="u2fa9903b-043b-4e7e-a154-df6d15f971d1" playOrder="32">
+      <navLabel>
+        <text>LETRAS: Cannibal Corpse, por Martín Brunás</text>
+      </navLabel>
+      <content src="c-109letras.htm"/>
+    </navPoint>
+    <navPoint id="uaf1395ab-b7eb-416b-9532-8374cf25460f" playOrder="33">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-109toureaten.jpg"/>
+    </navPoint>
+    <navPoint id="u77a62d09-e14e-4771-a772-52115f44cbaf" playOrder="34">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-109tourbuchered.jpg"/>
+    </navPoint>
+    <navPoint id="uc60b55d1-a7a6-4179-8f47-1dbb779de273" playOrder="35">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-109tourtomb.jpg"/>
+    </navPoint>
+    <navPoint id="udcd89587-b6dd-4c3b-938b-cbaf646b3f9f" playOrder="36">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-109tourvile.jpg"/>
+    </navPoint>
+    <navPoint id="ud051b171-9eb2-4410-89ba-b3bc013f0391" playOrder="37">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-109tourgallery.jpg"/>
+    </navPoint>
+  </navMap>
+</ncx>

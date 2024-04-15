@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="f05dc10c-b3ef-4918-b601-7df2ce779ee0" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.24)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 66</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u80dde15c-2f83-499a-a6d9-969353d26d24" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-66Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u099ebeed-72f4-46e3-8d0e-2a340fd479bd" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 66</text>
+      </navLabel>
+      <content src="c-66Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u8ccbaf15-06a6-4a72-b159-5bf319a9e0f1" playOrder="4">
+      <navLabel>
+        <text>Ficciones: En las tierras del fondo</text>
+      </navLabel>
+      <content src="c-66Pag03_split_000.htm"/>
+    </navPoint>
+    <navPoint id="u3271596d-a338-47e6-ae1b-42552d78b2b4" playOrder="5">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual (16)</text>
+      </navLabel>
+      <content src="c-66Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u8618c638-71a3-4847-8e37-beb1538aa253" playOrder="6">
+      <navLabel>
+        <text>Correo: Correo 66</text>
+      </navLabel>
+      <content src="c-66Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u771de66f-071f-414d-9bd2-10c14b242605" playOrder="7">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad (39)</text>
+      </navLabel>
+      <content src="c-66Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uc3ba2381-7d91-4563-91be-c21f8a99d536" playOrder="24">
+      <navLabel>
+        <text>Sección: ET AL Virtual (10)</text>
+      </navLabel>
+      <content src="c-66Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u16f51871-efab-4e67-b9c9-45d4e78b61c2" playOrder="47">
+      <navLabel>
+        <text>Sección: Informática: Divide y fallarás</text>
+      </navLabel>
+      <content src="c-66Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uf1d4c829-f698-483c-b798-3533af78057f" playOrder="48">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-66Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u74ca1aa1-702f-45c4-9283-2af0ec1e95e8" playOrder="49">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-66Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ua37a33e2-b9de-49e3-adf4-3552dd209f1f" playOrder="50">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="u126d2868-0962-4a79-ac7a-a89e9dfb6fe5" playOrder="3">
+      <navLabel>
+        <text>[*]</text>
+      </navLabel>
+      <content src="c-66Pag02.htm#id2"/>
+    </navPoint>
+    <navPoint id="u215627fc-f306-43e9-9750-98a17689b503" playOrder="8">
+      <navLabel>
+        <text>RESEÑANDO EL CIBERESPACIO</text>
+      </navLabel>
+      <content src="c-66Pag06.htm#resenando-el-ciberespacio"/>
+    </navPoint>
+    <navPoint id="udd377c2d-4ac8-4c49-9e56-d8dbf1416189" playOrder="9">
+      <navLabel>
+        <text>Juegos en CD ROM</text>
+      </navLabel>
+      <content src="c-66Pag06.htm#juegos-en-cd-rom"/>
+    </navPoint>
+    <navPoint id="uee5cf0b7-8ac0-4fd8-ab62-b541143d25ca" playOrder="10">
+      <navLabel>
+        <text>MYST</text>
+      </navLabel>
+      <content src="c-66Pag06.htm#myst"/>
+    </navPoint>
+    <navPoint id="ud4d00699-11c9-49cd-83c2-94e1ade8266d" playOrder="11">
+      <navLabel>
+        <text>CIENCIA FICCION Y SOCIEDAD</text>
+      </navLabel>
+      <content src="c-66Pag06.htm#ciencia-ficcion-y-sociedad"/>
+    </navPoint>
+    <navPoint id="ua7679412-f8a0-4110-b14c-b56421fc3041" playOrder="12">
+      <navLabel>
+        <text>PREPARATIVOS PARA LA TV INTERACTIVA</text>
+      </navLabel>
+      <content src="c-66Pag06.htm#preparativos-para-la-tv-interactiva"/>
+    </navPoint>
+    <navPoint id="u63aafa96-5afa-4d71-abe2-0029f136da74" playOrder="13">
+      <navLabel>
+        <text>LA FASCINACION DE LA ROBOTICA</text>
+      </navLabel>
+      <content src="c-66Pag06.htm#la-fascinacion-de-la-robotica"/>
+    </navPoint>
+    <navPoint id="u4b4a885b-a810-468d-8efe-25899b9567da" playOrder="14">
+      <navLabel>
+        <text>EL ARTE EN LA ERA DE LAS COMPUTADORAS</text>
+      </navLabel>
+      <content src="c-66Pag06.htm#el-arte-en-la-era-de-las-computadoras"/>
+    </navPoint>
+    <navPoint id="u63571865-5311-4e10-95f2-cd56c3242901" playOrder="15">
+      <navLabel>
+        <text>AUTOMATIZANDO LAS FUERZAS DE LA LEY</text>
+      </navLabel>
+      <content src="c-66Pag06.htm#automatizando-las-fuerzas-de-la-ley"/>
+    </navPoint>
+    <navPoint id="u381c4067-861f-4284-b0cf-d60111e3f1e7" playOrder="16">
+      <navLabel>
+        <text>NUEVO METODO DE FECUNDACION HUMANA</text>
+      </navLabel>
+      <content src="c-66Pag06.htm#nuevo-metodo-de-fecundacion-humana"/>
+    </navPoint>
+    <navPoint id="u1f7c2b71-299c-45ec-9da7-43440c1c6ed2" playOrder="17">
+      <navLabel>
+        <text>LOS GRANDES EXITOS DEL CONFESIONARIO</text>
+      </navLabel>
+      <content src="c-66Pag06.htm#los-grandes-exitos-del-confesionario"/>
+    </navPoint>
+    <navPoint id="u3ac9ff08-831e-4e68-9729-e212f8c8bb26" playOrder="18">
+      <navLabel>
+        <text>IREMOS DE PASEO POR MARTE</text>
+      </navLabel>
+      <content src="c-66Pag06.htm#iremos-de-paseo-por-marte"/>
+    </navPoint>
+    <navPoint id="u4369fcbc-c8af-4b0d-9aca-1c033b224452" playOrder="19">
+      <navLabel>
+        <text>LA LUZ QUE TE DESPIERTA</text>
+      </navLabel>
+      <content src="c-66Pag06.htm#la-luz-que-te-despierta"/>
+    </navPoint>
+    <navPoint id="ubbe02c0e-e817-4113-bbd4-31f33b1c0139" playOrder="20">
+      <navLabel>
+        <text>UN CANTANTE VIRTUAL Y PARTICULAR</text>
+      </navLabel>
+      <content src="c-66Pag06.htm#un-cantante-virtual-y-particular"/>
+    </navPoint>
+    <navPoint id="u7ce6e938-2c43-4087-9dff-3e60dcb9dbce" playOrder="21">
+      <navLabel>
+        <text>ARTE Y EXPERIMENTACION, EXTRAÑAMENTE UNIDOS</text>
+      </navLabel>
+      <content src="c-66Pag06.htm#arte-y-experimentacion-extranamente-unidos"/>
+    </navPoint>
+    <navPoint id="uc8f69652-dd4e-49f4-aab9-758e3fb35509" playOrder="22">
+      <navLabel>
+        <text>SURGEN LOS SISTEMAS DE APOYO PARA LA SUPERPISTA</text>
+      </navLabel>
+      <content src="c-66Pag06.htm#surgen-los-sistemas-de-apoyo-para-la-superpista"/>
+    </navPoint>
+    <navPoint id="u448f441f-6dc2-47a1-b9ee-420fdfcd667d" playOrder="23">
+      <navLabel>
+        <text>NUEVOS CANALES PARA EL VIEJO NEGOCIO DE LA INFORMACION</text>
+      </navLabel>
+      <content src="c-66Pag06.htm#nuevos-canales-para-el-viejo-negocio-de-la-informacion"/>
+    </navPoint>
+    <navPoint id="u491a42e7-90fc-4161-bff9-b9fb88fa1cfe" playOrder="25">
+      <navLabel>
+        <text>PREMIOS</text>
+      </navLabel>
+      <content src="c-66Pag07.htm#premios"/>
+    </navPoint>
+    <navPoint id="u9a5f5a43-d393-47ea-8844-9c675870b495" playOrder="26">
+      <navLabel>
+        <text>IIIer PREMIO DOMINGO SANTOS</text>
+      </navLabel>
+      <content src="c-66Pag07.htm#iiier-premio-domingo-santos"/>
+    </navPoint>
+    <navPoint id="uea665952-0c0a-47a7-9cf2-fe4e949e9cf6" playOrder="27">
+      <navLabel>
+        <text>PREMIO TIPTREE 1995</text>
+      </navLabel>
+      <content src="c-66Pag07.htm#premio-tiptree-1995"/>
+    </navPoint>
+    <navPoint id="ud7d0d1b6-e8d6-4af8-a600-a8a6cdfaca23" playOrder="28">
+      <navLabel>
+        <text>NOMINACIONES PARA EL NEBULA 1994</text>
+      </navLabel>
+      <content src="c-66Pag07.htm#nominaciones-para-el-nebula-1994"/>
+    </navPoint>
+    <navPoint id="ud28f4477-8f9f-4fce-8a9c-63aa7d6f2302" playOrder="29">
+      <navLabel>
+        <text>NOMINACIONES AL PREMIO ARTHUR C. CLARKE</text>
+      </navLabel>
+      <content src="c-66Pag07.htm#nominaciones-al-premio-arthur-c-clarke"/>
+    </navPoint>
+    <navPoint id="u12e8ded8-b64e-4d33-9b68-216d73e46bd5" playOrder="30">
+      <navLabel>
+        <text>CONCURSOS</text>
+      </navLabel>
+      <content src="c-66Pag07.htm#concursos"/>
+    </navPoint>
+    <navPoint id="u186195ca-7204-44cb-84bb-32606b4b2c47" playOrder="31">
+      <navLabel>
+        <text>Relato breve</text>
+      </navLabel>
+      <content src="c-66Pag07.htm#relato-breve"/>
+    </navPoint>
+    <navPoint id="u6f630872-66ad-45cf-b934-e90c0ac90af8" playOrder="32">
+      <navLabel>
+        <text>III Certamen Universitario de Relato Breve Fantástico</text>
+      </navLabel>
+      <content src="c-66Pag07.htm#iii-certamen-universitario-de-relato-breve-fantastico"/>
+    </navPoint>
+    <navPoint id="u45acad6e-84fa-412c-9cf5-4e64b4090710" playOrder="33">
+      <navLabel>
+        <text>Novela</text>
+      </navLabel>
+      <content src="c-66Pag07.htm#novela"/>
+    </navPoint>
+    <navPoint id="u1349deeb-4c43-429a-a4b0-d5d9c8f6fb50" playOrder="34">
+      <navLabel>
+        <text>Premio Planeta</text>
+      </navLabel>
+      <content src="c-66Pag07.htm#premio-planeta"/>
+    </navPoint>
+    <navPoint id="u05187b8e-93e8-4149-95f9-a4903d69f4ff" playOrder="35">
+      <navLabel>
+        <text>OPORTUNIDADES DE PUBLICACION</text>
+      </navLabel>
+      <content src="c-66Pag07.htm#oportunidades-de-publicacion"/>
+    </navPoint>
+    <navPoint id="u3975fcde-8284-4ffc-90a6-7d26777dcb85" playOrder="36">
+      <navLabel>
+        <text>AUTORES</text>
+      </navLabel>
+      <content src="c-66Pag07.htm#autores"/>
+    </navPoint>
+    <navPoint id="u7a92518f-1aa6-4d5a-bcbb-07300887ad2c" playOrder="37">
+      <navLabel>
+        <text>JORGE LUIS BORGES, la literatura y las dictaduras</text>
+      </navLabel>
+      <content src="c-66Pag07.htm#jorge-luis-borges-la-literatura-y-las-dictaduras"/>
+    </navPoint>
+    <navPoint id="uac6f4f48-4312-437f-ab26-d35d53c603bb" playOrder="38">
+      <navLabel>
+        <text>ANGELICA GORODISCHER: ¿traducen Kalpa Imperial?</text>
+      </navLabel>
+      <content src="c-66Pag07.htm#angelica-gorodischer-traducen-kalpa-imperial"/>
+    </navPoint>
+    <navPoint id="uc59cb8e7-61af-443b-a9a8-8a55f9bcee3d" playOrder="39">
+      <navLabel>
+        <text>DAN SIMMONS en el mundo de lo interactivo</text>
+      </navLabel>
+      <content src="c-66Pag07.htm#dan-simmons-en-el-mundo-de-lo-interactivo"/>
+    </navPoint>
+    <navPoint id="ua8b5ab0c-fb07-4032-a2bf-332a9f256448" playOrder="40">
+      <navLabel>
+        <text>R A. LAFFERTY con problemas importantes de salud</text>
+      </navLabel>
+      <content src="c-66Pag07.htm#r-a-lafferty-con-problemas-importantes-de-salud"/>
+    </navPoint>
+    <navPoint id="u70d870eb-8ad2-41c1-be63-3d7d3a77017a" playOrder="41">
+      <navLabel>
+        <text>PATRICIA HIGHSMITH falleció a fines de enero</text>
+      </navLabel>
+      <content src="c-66Pag07.htm#patricia-highsmith-fallecio-a-fines-de-enero"/>
+    </navPoint>
+    <navPoint id="ubb9421f9-47b4-4066-8798-de0c54a2287d" playOrder="42">
+      <navLabel>
+        <text>LIBROS</text>
+      </navLabel>
+      <content src="c-66Pag07.htm#libros"/>
+    </navPoint>
+    <navPoint id="ueb66361a-ae5c-41b4-8f95-18e5c18d7c17" playOrder="43">
+      <navLabel>
+        <text>REVISTAS</text>
+      </navLabel>
+      <content src="c-66Pag07.htm#revistas"/>
+    </navPoint>
+    <navPoint id="uf63f8aab-7223-4145-821e-091f4550b6c8" playOrder="44">
+      <navLabel>
+        <text>MEDIOS</text>
+      </navLabel>
+      <content src="c-66Pag07.htm#medios"/>
+    </navPoint>
+    <navPoint id="u20b69add-b67f-4534-85f7-dbe361aa8d9d" playOrder="45">
+      <navLabel>
+        <text>HISTORIETA</text>
+      </navLabel>
+      <content src="c-66Pag07.htm#historieta"/>
+    </navPoint>
+    <navPoint id="ueebc9991-c2ee-4828-99cb-f8b52428ba55" playOrder="46">
+      <navLabel>
+        <text>TELEVISION / VIDEOCLIPS</text>
+      </navLabel>
+      <content src="c-66Pag07.htm#television-videoclips"/>
+    </navPoint>
+  </navMap>
+</ncx>

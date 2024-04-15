@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta name="dtb:uid" content="e2c4e0d3-1328-47cb-a933-196d3d74d27f"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (5.7.1)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Axxón 294</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uuSDyi3JOtfFuU93hqL2scG" playOrder="1">
+      <navLabel>
+        <text>Ficciones: Con cada transición es más complicado</text>
+      </navLabel>
+      <content src="c-294Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ueOxueS4mFZ6vorbEPfU8AB" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Los del piso de arriba siempre ganan</text>
+      </navLabel>
+      <content src="c-294Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u5tPmIZTQP8egPxVJfknENF" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Sueños de ciudad</text>
+      </navLabel>
+      <content src="c-294Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uSdzsTn5NyHeuAbmyhs2Fn2" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El cazador, el vórtex, la mujer y su amante</text>
+      </navLabel>
+      <content src="c-294Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ueTTS8IXKYcdlrmBkMwKV9B" playOrder="5">
+      <navLabel>
+        <text>Ficciones: La puerta abierta</text>
+      </navLabel>
+      <content src="c-294Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u4je9OyIFqcTAg3q49aj7v3" playOrder="6">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-294Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uM5wlRfgOP79G5CdxLOpLI4" playOrder="7">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="a61af73f-6c63-4f60-8ab8-34b64ec11380" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.26)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 71</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u10488f9f-0d43-482f-aa0f-d56d46eb602e" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 71</text>
+      </navLabel>
+      <content src="c-71Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u46e6de8c-6dcf-4b2e-9458-a80c02608ec7" playOrder="2">
+      <navLabel>
+        <text>Ficciones: El vuelo del Cóndor (novela)</text>
+      </navLabel>
+      <content src="c-71Pag02_split_000.htm"/>
+    </navPoint>
+    <navPoint id="uec6b98ed-0b42-4b96-97dd-1ef489fd48b3" playOrder="3">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-71Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ub66ba6c1-f467-4191-9c59-ebcfd55bb175" playOrder="4">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-71Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uf5f479d0-1cca-4e86-a5e8-7a95e4e3b775" playOrder="5">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

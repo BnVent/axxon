@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf">
+    <meta name="calibre:series_index" content="157"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">64e60038-787b-4adb-a073-865f1ebbfb86</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <dc:creator opf:file-as="Desconocido" opf:role="aut">Eduardo Carletti (editor)</dc:creator>
+    <dc:publisher>Ediciones Axxón</dc:publisher>
+    <meta name="calibre:series" content="Axxón"/>
+    <meta name="calibre:timestamp" content="2015-09-16T22:44:53.731000+00:00"/>
+    <dc:title>Axxón 157</dc:title>
+    <dc:language>es</dc:language>
+  </metadata>
+  <manifest>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="axxon.htm" id="html24" media-type="application/xhtml+xml"/>
+    <item href="axxon00.gif" id="added47" media-type="image/gif"/>
+    <item href="axxon157.htm" id="html" media-type="application/xhtml+xml"/>
+    <item href="band-arg.jpg" id="added35" media-type="image/jpeg"/>
+    <item href="band-esp.jpg" id="added37" media-type="image/jpeg"/>
+    <item href="band-mex.jpg" id="added36" media-type="image/jpeg"/>
+    <item href="band-rdo.jpg" id="added38" media-type="image/jpeg"/>
+    <item href="band-uru.jpg" id="added44" media-type="image/jpeg"/>
+    <item href="band-ven.jpg" id="added46" media-type="image/jpeg"/>
+    <item href="c-157Pag01.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag02.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag03.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag04.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag05.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag06.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag07.htm" id="html7" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag08.htm" id="html8" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag09.htm" id="html9" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag10.htm" id="html10" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag11.htm" id="html11" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag12.htm" id="html12" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag13.htm" id="html13" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag14.htm" id="html14" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag15.htm" id="html15" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag16.htm" id="html16" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag17.htm" id="html17" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag18.htm" id="html18" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag19.htm" id="html19" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag20.htm" id="html20" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag21_split_000.htm" id="html2115" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag21_split_001.htm" id="html2114" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag21_split_002.htm" id="html2113" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag21_split_003.htm" id="html2112" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag21_split_004.htm" id="html2111" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag21_split_005.htm" id="html2110" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag21_split_006.htm" id="html219" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag21_split_007.htm" id="html218" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag21_split_008.htm" id="html217" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag21_split_009.htm" id="html216" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag21_split_010.htm" id="html215" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag21_split_011.htm" id="html214" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag21_split_012.htm" id="html213" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag21_split_013.htm" id="html212" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag21_split_014.htm" id="html211" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag22.htm" id="html22" media-type="application/xhtml+xml"/>
+    <item href="c-157Pag23.htm" id="html23" media-type="application/xhtml+xml"/>
+    <item href="c-157cuento11ilus1ch.jpg" id="added39" media-type="image/jpeg"/>
+    <item href="c-157cuento12ilus1ch.jpg" id="added40" media-type="image/jpeg"/>
+    <item href="c-157cuento13ilus1ch.jpg" id="added41" media-type="image/jpeg"/>
+    <item href="c-157cuento13ilus2ch.jpg" id="added42" media-type="image/jpeg"/>
+    <item href="c-157cuento14ilus1.jpg" id="added43" media-type="image/jpeg"/>
+    <item href="c-157cuento14ilus2.jpg" id="added45" media-type="image/jpeg"/>
+    <item href="c-157cuento1ilus1ch.jpg" id="added5" media-type="image/jpeg"/>
+    <item href="c-157cuento2ilus1ch.jpg" id="added6" media-type="image/jpeg"/>
+    <item href="c-157cuento3ilus1ch.jpg" id="added7" media-type="image/jpeg"/>
+    <item href="c-157cuento4ilus1ch.jpg" id="added15" media-type="image/jpeg"/>
+    <item href="c-157cuento5ilus1ch.jpg" id="added16" media-type="image/jpeg"/>
+    <item href="c-157cuento6ilus1ch.jpg" id="added17" media-type="image/jpeg"/>
+    <item href="c-157cuento7ilus1ch.jpg" id="added32" media-type="image/jpeg"/>
+    <item href="c-157cuento8ilus1ch.jpg" id="added33" media-type="image/jpeg"/>
+    <item href="c-157cuento9ilus1ch.jpg" id="added34" media-type="image/jpeg"/>
+    <item href="c-157delfin.jpg" id="added13" media-type="image/jpeg"/>
+    <item href="c-157div01.jpg" id="added18" media-type="image/jpeg"/>
+    <item href="c-157div02.jpg" id="added19" media-type="image/jpeg"/>
+    <item href="c-157div03.jpg" id="added20" media-type="image/jpeg"/>
+    <item href="c-157div04.jpg" id="added21" media-type="image/jpeg"/>
+    <item href="c-157div05.jpg" id="added22" media-type="image/jpeg"/>
+    <item href="c-157div06.jpg" id="added23" media-type="image/jpeg"/>
+    <item href="c-157div07.jpg" id="added24" media-type="image/jpeg"/>
+    <item href="c-157div08.jpg" id="added25" media-type="image/jpeg"/>
+    <item href="c-157div09.jpg" id="added26" media-type="image/jpeg"/>
+    <item href="c-157div10.jpg" id="added27" media-type="image/jpeg"/>
+    <item href="c-157div11.jpg" id="added28" media-type="image/jpeg"/>
+    <item href="c-157div12.jpg" id="added29" media-type="image/jpeg"/>
+    <item href="c-157div13.jpg" id="added31" media-type="image/jpeg"/>
+    <item href="c-157div14.jpg" id="added30" media-type="image/jpeg"/>
+    <item href="c-157fichuico.gif" id="added11" media-type="image/gif"/>
+    <item href="c-157logobati.gif" id="added8" media-type="image/gif"/>
+    <item href="c-157mlsl.gif" id="added12" media-type="image/gif"/>
+    <item href="c-157mlslico.gif" id="added9" media-type="image/gif"/>
+    <item href="c-157star.gif" id="added14" media-type="image/gif"/>
+    <item href="c-157starico.gif" id="added10" media-type="image/gif"/>
+    <item href="c-157tapach.jpg" id="added48" media-type="image/jpeg"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="sgvh.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="x-epub.png" id="added49" media-type="image/png"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+    <itemref idref="html1"/>
+    <itemref idref="html2"/>
+    <itemref idref="html3"/>
+    <itemref idref="html4"/>
+    <itemref idref="html5"/>
+    <itemref idref="html6"/>
+    <itemref idref="html7"/>
+    <itemref idref="html8"/>
+    <itemref idref="html9"/>
+    <itemref idref="html10"/>
+    <itemref idref="html11"/>
+    <itemref idref="html12"/>
+    <itemref idref="html13"/>
+    <itemref idref="html14"/>
+    <itemref idref="html15"/>
+    <itemref idref="html16"/>
+    <itemref idref="html17"/>
+    <itemref idref="html18"/>
+    <itemref idref="html19"/>
+    <itemref idref="html20"/>
+    <itemref idref="html2115"/>
+    <itemref idref="html2114"/>
+    <itemref idref="html2113"/>
+    <itemref idref="html2112"/>
+    <itemref idref="html2111"/>
+    <itemref idref="html2110"/>
+    <itemref idref="html219"/>
+    <itemref idref="html218"/>
+    <itemref idref="html217"/>
+    <itemref idref="html216"/>
+    <itemref idref="html215"/>
+    <itemref idref="html214"/>
+    <itemref idref="html213"/>
+    <itemref idref="html212"/>
+    <itemref idref="html211"/>
+    <itemref idref="html22"/>
+    <itemref idref="html23"/>
+    <itemref idref="html24"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

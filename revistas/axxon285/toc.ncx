@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="f164c60b-3274-4035-81ad-cbcdddf62ba8" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.34.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 285</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uj7nritXV2FltQO6zKVUuB7" playOrder="1">
+      <navLabel>
+        <text>Editorial: Buenos y malos retornos</text>
+      </navLabel>
+      <content src="c-285Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u2siX5dBKZOnVDt735ZCuo6" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Pausa para el café</text>
+      </navLabel>
+      <content src="c-285Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uPlW2cMdVjWKAdiZvHhPoCB" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Playlist</text>
+      </navLabel>
+      <content src="c-285Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uY6bo3BVNiSwKyvPMW72QV2" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Želva</text>
+      </navLabel>
+      <content src="c-285Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uqRO4B8nETelTBFW5iInZeE" playOrder="5">
+      <navLabel>
+        <text>Ficciones: En el museo de los Sueños Verdaderos</text>
+      </navLabel>
+      <content src="c-285Pag05.htm"/>
+    </navPoint>
+    <navPoint id="udV8MWm5cUVtZvpM5UllOJH" playOrder="6">
+      <navLabel>
+        <text>Portfolio: Portfolio</text>
+      </navLabel>
+      <content src="c-285Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uSJwg6QRFIzd55X4x8MYUxG" playOrder="7">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-285Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uPe8ntHusoA7pdejKzYLv8G" playOrder="8">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

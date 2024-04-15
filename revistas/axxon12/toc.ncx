@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="c98900e9-829b-4250-be71-7c40a0437426" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.41.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 12</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u1dfcd730-1c7f-4cd8-8e12-83ecd53448da" playOrder="1">
+      <navLabel>
+        <text>Editorial: Un año de axxones</text>
+      </navLabel>
+      <content src="c-12Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ue6fae261-4fa7-4f57-a33e-0070b64b2e4b" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Incursión aérea</text>
+      </navLabel>
+      <content src="c-12Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u3e113f1a-d2d4-4b8a-afa3-14b703ad5b25" playOrder="3">
+      <navLabel>
+        <text>Juegos: Orquídeas imaginarias vs. hongos simulados</text>
+      </navLabel>
+      <content src="c-12Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uc7bec4d1-2299-4a6d-a57b-7ff55d008901" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Revelaciones sobre el “Experimental”</text>
+      </navLabel>
+      <content src="c-12Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ub4d07e11-a01d-4f39-b6a0-bf5456d8ea1f" playOrder="5">
+      <navLabel>
+        <text>Ficciones: La Tripa de Dios</text>
+      </navLabel>
+      <content src="c-12Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ue5718f9f-031b-4bfc-9eeb-ad6c269f884f" playOrder="6">
+      <navLabel>
+        <text>Ficciones: El gran arquitecto</text>
+      </navLabel>
+      <content src="c-12Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u8751545a-39ea-4507-931a-c8e7c2bddcba" playOrder="7">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-12Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u53cb68cf-5209-46f0-b87e-cd3013851d9a" playOrder="8">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-12Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u76fdc68e-9874-470c-8cf1-04cd1e11ca24" playOrder="9">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

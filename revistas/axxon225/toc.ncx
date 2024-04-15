@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="a949f439-396f-45bb-a6cd-fea90b14771d" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.14.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 225</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u7946cc80-cfd9-4455-b895-189407a397ab" playOrder="1">
+      <navLabel>
+        <text>Ficciones: El amor de sus vidas</text>
+      </navLabel>
+      <content src="c-225Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ueb5d04a7-c958-4369-a52f-b4eb62de7c3d" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Las luciérnagas del tiempo</text>
+      </navLabel>
+      <content src="c-225Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u93ebd4a7-886e-465b-b5bd-0793df3ef81d" playOrder="3">
+      <navLabel>
+        <text>Ensayo: Kant y Lovecraft: La divinidad monstruosa como sublime</text>
+      </navLabel>
+      <content src="c-225Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u8f74c56f-70d4-4b0c-8feb-5440b00f24be" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Subalterna del caos</text>
+      </navLabel>
+      <content src="c-225Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u62f6783c-399e-4845-b3c5-bfeb2e41a375" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Hidden Paradise</text>
+      </navLabel>
+      <content src="c-225Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u954b20c5-6342-4063-8e13-f0894652f712" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (sesenta y cinco)</text>
+      </navLabel>
+      <content src="c-225Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u1982679a-5d06-4107-a9a4-9828ce5f0078" playOrder="7">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

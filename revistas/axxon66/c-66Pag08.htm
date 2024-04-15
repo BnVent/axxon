@@ -1,0 +1,531 @@
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <title>Axxón 66 - SECCIÓN: - Informática: Divide y fallarás</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link href="stylesheet.css" type="text/css" rel="stylesheet"/>
+<link href="page_styles.css" type="text/css" rel="stylesheet"/>
+</head>
+  <body class="calibre">
+
+<div id="main" class="calibre1">
+<h1 class="calibre7">Informática: Divide y fallarás</h1>
+<p class="calibre5"><b class="calibre4">recopilado por Jorge Alberto Mussuto</b></p><p class="calibre5"></p>
+<div class="document">
+<!-- # :maxLineLen=120:folding=explicit:mode=rest:wrap=soft:collapseFolds=1:encoding=windows-1252: -->
+<img alt="" src="ax-informatica.png" class="calibre28"/>
+<!--  -->
+<div class="resumen1">
+<p class="calibre29">He aquí una recopilación muy buena y
+hasta divertida sobre el suceso de los
+últimos tiempos en el mundo de las PC
+y los microprocesadores: la falla de
+diseño en la unidad de punto flotante
+del Pentium y la repercusión que tuvo.</p>
+<p class="calibre29">Si los lectores de Axxón que leen la sección
+de informática disfrutan también de las
+anécdotas de “ciencia ficción”, disfrutarán
+de esta que voy a contarles.</p>
+<p class="calibre29">Jorge se enteró por mi propia boca de que
+necesito material para la columna de
+Informática, ya que se me hace demasiado
+pesado generarla yo mismo. Veloz en su deseo
+de colaborar con nosotros, su respuesta fue
+esta magnífica recopilación de todo lo
+relacionado con el ya famoso <em class="calibre9">bug</em> en la
+división del microprocesador Pentium.</p>
+<p class="calibre29">Pero hete aquí que el mundo suele tener
+sus rarezas. Les cuento por qué lo digo:
+Acostumbro pasarle una comprobación de
+ortografía a todo material que me llega. Para
+esto uso mi viejo MS-Word 5, que es (según yo
+creo, y perdónenme los que aman a Microsoft)
+una de las pocas cosas buenas que ha hecho la
+empresita de Bill Gates. Corregí algunas
+pocas cosas y, llegando a las tres cuartas
+partes del archivo, ¡Puff!, me aparece un
+cartel en opaco gris que exclama DIVIDE
+OVERFLOW y se me cuelga la máquina. ¿Pueden
+creerlo? La boca se me abría sola del
+estupor.</p>
+<p class="calibre29">Llamo a mi mujer para que me sirva de
+testigo (de tan fabulador que soy, hoy mis
+colaboradores ya <em class="calibre9">nunca</em> me creen) y repito el
+procedimiento. ¡De nuevo! Por supuesto que
+después de semejante experiencia cuasimística mi mentecita cienciaficcionera empezó
+a elaborar las más alocadas humoradas sobre
+la situación:</p>
+<p class="calibre29">1) Mi i386 tiene un analizador (y
+censurador) de críticas a su papá, el magno
+Intel. 2) Microsoft e Intel son primos
+hermanos… ¿se defenderán mutuamente? 3) La
+falla ocurría siempre en el mismo lugar,
+apenas sobrepasada cierta sección de los
+comentarios; por lo tanto, el MS-Word 5
+(aunque no sea tan súper como pueda parecer)
+es sensible a la Kriptonita (ya verán en el
+texto por qué lo digo).</p>
+<p class="calibre29">Pero déjenme arruinarles la diversión: la
+cosa debe tocar tierra y retornar al mundo de
+lo razonable. Lo cierto es que las
+direcciones de Internet demasiado largas no
+debían existir cuando se hizo el chequeador
+de ortografía de mi caduco procesador. No se
+trataba de fantasmas de ningún tipo (aunque
+los hay, los hay…). Esa parte del programa
+fenecía siempre en aquel punto al tratar de
+meter la interminable palabra de dirección
+(incorrecta para él, claro) en una ventana
+demasiado chica para semejante longitud.</p>
+<p class="calibre29">De cualquier modo, amante como soy de la
+fantasía, me guardé el archivo tal cual
+estaba antes de las correcciones, para
+mostrárselo a todos mis amigos.</p>
+<p class="calibre29">Quiero mostrárselos. Para que se diviertan. Y también porque esto pareció tan de CF
+que, bueno… no vaya a ser que no me crean.</p>
+</div>
+<!-- :: -->
+<p class="pri">Ciertamente, no es muy frecuente observar
+que el presidente de una compañía cuyo valor
+estimado es de unos ocho mil millones de
+dólares se pase un fin de semana preparando
+un mensaje/comunicado para enviarlo a un
+grupo de noticias de Usenet (Internet). Esto,
+sin ir más lejos es lo que ha tenido que
+hacer Andy Grove, presidente de Intel Corp.</p>
+<p class="calibre5">¿El motivo? Durante todo el mes de
+Noviembre ha habido un enorme revuelo en uno
+de los grupos de news de Internet
+(comp.sys.intel), debido a unos rumores
+iniciales, posteriormente confirmados,
+referentes a un error de la unidad de punto
+flotante del procesador Pentium.</p>
+<p class="calibre5">En concreto, este error se produce al
+utilizar la instrucción FDIV (división en
+punto flotante). La exactitud de sus
+resultados queda comprometida cuando se usan
+determinadas combinaciones de operandos, que
+se ajustan a unos patrones binarios
+especiales. El error se produce para los tres
+tipos de precisión (simple, doble, y
+extendida) y es independiente el modo de
+redondeo.</p>
+<p class="calibre5">En uno de los casos mejor documentados,
+Tim Coe, de Vitesse Semiconductors, indica
+que este error puede llegar a afectar al 5º
+dígito significativo. Según el semanario
+Infoworld (5/12/94), Intel ha confirmado que
+existen algunos casos en los que el error
+llega a afectar al 4º dígito significativo.</p>
+<p class="calibre5">Se ha podido determinar que el error se
+produce fundamentalmente cuando se usan como
+operandos de FDIV unos valores muy
+especiales, que se obtienen al sumar o restar
+incrementos muy pequeños a determinados
+números enteros. Concretamente, si se parte
+de los enteros 3, 9, 15, 21 y 27 y se usan
+los resultados como operandos de FDIV, el
+riesgo de que se produzca el error es muy
+elevado.</p>
+<p class="calibre5">Por Internet han circulado muchos
+programas que permiten comprobar si un
+procesador Pentium está afectado por este
+problema. Algunos de estos programas son
+sumamente sencillos y ponen de manifiesto la
+severidad del error. En el cuadro 1 aparece
+el código de uno de estos programas, para que
+el lector pueda realizar sus propias pruebas
+y obtener sus propias conclusiones.</p>
+<p class="calibre5">El “bug” fue descubierto por Thomas
+Nicely, profesor de matemáticas del Lynchburg
+College. Nicely estaba intentando calcular
+valores inversos de números primos,
+curiosamente con el propósito de demostrar
+que los PCs de hoy día deben ser tenidos en
+cuenta como alternativa a los supercomputadores a la hora de realizar cálculos
+matemáticos complejos.</p>
+<p class="calibre5">Nicely descubrió los primeros errores en
+Junio de 1994, y lo comunicó a varios colegas
+a través de correo electrónico, para que
+estos lo pudiesen verificar. El 19 de Octubre
+de 1994 ya había descartado las restantes
+posibilidades de error, y cinco días más
+tarde contactó con Intel. Comprobaron, en
+efecto, que el error se producía, pero no
+había explicación para el mismo.</p>
+<p class="pri">El 30 de Octubre el asunto se hizo público,
+cuando alguien reenvió uno de los informes de
+Nicely a las áreas de mensajes de Compuserve.
+El 7 de Noviembre apareció un artículo del
+profesor Nicely en la revista Electronics
+Engineering Times, en el que se explicaba el
+problema, y, con ello, se confirmaba una
+noticia de la que hasta el momento sólo
+había rumores.</p>
+<p class="calibre5">Rápidamente, el asunto interesó a los más
+importantes medios de comunicación
+estadounidenses: El 22 de Noviembre, la
+cadena de noticias CNN se convirtió en el
+primer medio no especializado que dio
+cobertura al asunto, en su programa
+Moneyline. En este programa se realizaron
+sendas entrevistas a Stephen Smith, Jefe del
+equipo de diseño del Pentium y a Cleve Moler,
+Director Técnico de The Mathworks (creadores
+del conocido programa MatLab). Smith dijo que
+la magnitud del error era comparable a la
+relación existente entre unos pocos metros y
+la distancia que separa a la Tierra del Sol.
+Por su parte, Moler insistió en la falta de
+confianza en los resultados obtenidos al
+realizar cálculos usando un Pentium. En este
+programa se informó sobre un descenso inicial
+del valor de las acciones en bolsa de Intel
+Corp. Además, se hizo público que Intel
+conocía el problema desde el verano.</p>
+<p class="calibre5">Dos días más tarde, la Agencia de noticias
+Associated Press envió un flash (AP 24 Nov 94
+0:10 EST V0204) a todos sus abonados a nivel
+mundial, en el que se ofrecían algunos
+detalles sobre el bug del Pentium y las
+primeras reacciones observadas.</p>
+<p class="calibre5">Esto supuso el salto definitivo de la
+noticia a todos los medios de comunicación.
+Entre los primeros en hacerse eco se
+encuentran diarios tan prestigiosos como The
+New York Times, The Wall St. Journal, y The
+Washington Post.</p>
+<p class="calibre5">Intel tuvo que admitir ante estos medios
+que el problema se conocía desde el verano de
+1994, tal como adelantó la CNN, y rehusó
+facilitar el número de unidades del
+procesador Pentium que se habían vendido a
+nivel mundial. No obstante, Dataquest, una
+prestigiosa empresa consultora del sector
+estimó en su momento que en 1994 Intel
+vendería unos seis millones de Pentiums, lo
+que supone casi el 10 por ciento del número
+de sistemas vendidos en todo el mundo.</p>
+<p class="calibre5">Por su parte, Intel tomó la iniciativa y
+actuó rápida y diligentemente, facilitando un
+número de teléfono gratuito en el que se
+atenderían todas las consultas relativas a
+este problema. En este servicio se podía
+solicitar el envío de un fax con la primera
+nota oficial de la compañía (Documento
+#9788).</p>
+<p class="calibre5">En esta nota se suavizaba notablemente el
+problema, refiriéndose al “bug” encontrado
+como “sutil defecto”, y se aseguraba que,
+según estimaciones propias, un usuario medio
+de hojas de cálculo que realizase unas 1000
+divisiones diarias tardaría unos 27000 años
+en encontrar el error. La empresa también
+prometía reemplazar los procesadores
+defectuosos a aquellos usuarios que
+demuestren que realmente se ven afectados por
+dicho error.</p>
+<p class="pri">De cualquier forma, miembros destacados de la
+comunidad científica, como el Dr. William
+Kahan, de la Universidad de Berkeley,
+California, y uno de los mayores expertos en
+análisis numérico asistido por ordenador, han
+expresado su escepticismo frente a las
+estimaciones de Intel en torno a la
+probabilidad de aparición del error. Para
+rebatir la teoría de los 27000 años, se han
+difundido por Internet algunos programas de
+pruebas que realizan millones de divisiones
+con operandos aleatorios, y en un Pentium 90
+se han encontrado fallos cada 3 horas como
+promedio.</p>
+<p class="calibre5">En numerosos centros de investigación, las
+soluciones adoptadas han sido bastante
+drásticas. Es el caso del famoso Jet
+Propulsion Laboratory (JPL) de Pasadena, en
+el que se ha suspendido temporalmente el uso
+de máquinas equipadas con procesadores
+Pentium.</p>
+<p class="calibre5">Entre tanto, la crispación de los usuarios
+seguía in crescendo. El problema no era tanto
+el error en sí, que suele ser inevitable en
+sistemas tan complejos, sino la actitud
+adoptada por Intel. Los usuarios se
+preguntaban por qué se había silenciado este
+error si se conocía desde el verano, y, por
+otra parte, no ha sentado muy bien la
+política selectiva de actualización del chip
+adoptada por la compañía.</p>
+<p class="calibre5">Una posible solución para evitar este
+error consiste en inhabilitar la FPU (Unidad
+de Punto Flotante). Para la mayoría de las
+aplicaciones DOS, esto es posible definiendo
+unas variables de entorno especiales: SET
+87=NO (para programas generados por
+compiladores de Borland) y SET NO87=NO87
+(para los creados con compiladores de
+Microsoft). Al inhabilitar la FPU, el
+rendimiento general se reduce notablemente.
+Por supuesto, esta solución no es válida
+cuando se usa Windows o la mayoría de los
+extensores del DOS, ya que estos ignoran las
+variables de entorno.</p>
+<p class="calibre5">En cualquier caso, Intel ya ha corregido
+este defecto, y, de hecho, el propio Thomas
+Nicely fue contratado para la fase de pruebas
+y detección de nuevas anomalías. El chip
+corregido ya está en producción, y estará
+disponible en el mercado durante estos
+primeros meses de 1995.</p>
+<p class="calibre5">El contrato de Nicely no estuvo exento de
+cierta polémica, ya que se trataba de una
+modalidad de contrato conocida en los EEUU
+como NDA (Non Disclosure Agreement). Este
+contrato obliga a la parte contratada a no
+revelar ninguna información sobre el trabajo
+que se realiza en la empresa contratante, así
+como a no revelar ningún tipo de
+documentación interna.</p>
+<p class="calibre5">Muchos lo interpretaron como una compra
+del silencio de Nicely. Pero, en realidad,
+todo esto fue una grave confusión que afectó
+aún más a la imagen de Intel, de forma
+totalmente injusta.</p>
+<p class="calibre5">El caso es que Nicely trabajó años atrás
+en la división X del Laboratorio Nacional de
+Los Alamos, en la que se diseñan y analizan
+diversos tipos de armas nucleares. Aquí tuvo
+que firmar un contrato sumamente restrictivo
+en lo que se refiere a la divulgación de sus
+actividades y al uso de información
+confidencial. Nicely entendió que el contrato
+firmado con Intel era de la misma naturaleza,
+por lo que se apresuró a retirar toda la
+información disponible sobre el bug del
+Pentium en una de las estaciones de trabajo
+del Lynchburg College, que él mismo había
+puesto a disposición de la comunidad
+científica. Esto sorprendió enormemente a
+muchas personas.</p>
+<p class="calibre5">Rápidamente, Intel aclaró las cosas,
+indicando a Nicely que la pretendida
+confidencialidad del contrato NDA únicamente
+se refería a la documentación interna de la
+empresa, como puede ser la información
+relativa a los futuros desarrollos
+comerciales. Es más, Intel instó a Nicely
+para que repusiera toda la información que
+había borrado del VAX del Lynchburg College y
+la hiciera accesible mediante FTP Anónimo.</p>
+<p class="calibre5">Desde que se hizo público este asunto,
+Intel ha dado muestras de una cierta
+transparencia informativa, sobre todo en los
+canales de información accesibles a través
+Internet: Cuando se accede al nodo de Intel a
+través del World Wide Web, una de los
+primeras secciones que aparecen es “Latest
+Info about FDIV bug” -última información
+sobre el error de FDIV-. Es preciso valorar
+este aspecto, ya que ha sido precisamente en
+Internet donde se han vertido las más feroces
+críticas a la compañía.</p>
+<p class="calibre5">El propio Thomas Nicely ha hecho una
+valoración bastante certera de las causas por
+las que este bug ha recibido tanta publicidad
+y se está convirtiendo en un serio problema
+de relaciones públicas para Intel. A
+continuación se muestran algunos de los
+factores que han contribuido a esta
+situación:</p>
+<ul class="calibre2">
+<li class="calibre3">No se hizo público este error cuando se encontró (verano de 1994), ni siquiera en un lista de defectos para los distribuidores a gran escala y grandes fabricantes de equipos.</li>
+<li class="calibre3">La primera respuesta de Intel, una vez hecho público el asunto, fue considerada cuando menos como insatisfactoria por la inmensa mayoría de los afectados.</li>
+<li class="calibre3">La enorme campaña publicitaria de promoción del Pentium.</li>
+<li class="calibre3">Al contrario de lo que sucedía con los bugs detectados anteriormente en otros microprocesadores, el bug del Pentium se produce en una operación elemental, de uso muy frecuente.</li>
+<li class="calibre3">El bug fue detectado muy tarde en el ciclo de vida del chip, cuando ya se habían distribuido o estaban en producción varios millones de unidades.</li>
+<li class="calibre3">La propia existencia de Internet, y su enorme poder de difusión.</li>
+</ul>
+<p class="calibre5">Está por ver cómo afecta este asunto a Intel,
+que ha realizado inversiones multimillonarias
+en campañas publicitarias, promocionando el
+sello de calidad “Intel Inside”, y,
+últimamente, mostrando el procesador Pentium
+como plataforma ideal para aplicaciones
+multimedia. Todo ello en un momento delicado,
+cuando la competencia (AMD, NexGen y Cyrix)
+está a punto de abordar el mercado de los
+procesadores compatibles con el Pentium.</p>
+<p class="calibre5">AMD tiene ya en producción el chip K5.
+Nota curiosa: la K viene de Kryptonite, el
+arma definitiva para combatir a Superman, que
+en este caso es Intel, y el 5 hace referencia
+al 586. Según AMD, el K5 es un 30% más rápido
+que el Pentium, a igualdad de frecuencias de
+reloj. Por su parte, el nuevo procesador M1
+de Cyrix ya está en el mercado.</p>
+<p class="calibre5">Quizás esto permita a los nuevos
+contendientes en la guerra de los
+microprocesadores entrar a competir con
+cierta igualdad de condiciones frente a
+Intel, lo que redundaría en beneficio de los
+posibles compradores.</p>
+<p class="calibre5">En relación con el bug del Pentium,
+esperemos que todo se solucione
+satisfactoriamente tanto para los usuarios
+como para la propia compañía, ya que Intel
+todavía tiene mucho que decir en el mercado
+de los procesadores CISC.</p>
+<p class="calibre5">Código de un programa en C para la detección
+del “bug” del Pentium:</p>
+<pre class="literal-block">
+|  #include &lt;stdio.h&gt;
+|
+|  void main()
+|  {
+|       double x, y, z;
+|
+|       x = 4195835.0;
+|       y = 3145727.0;
+|       z = x - (x/y) * y;
+|       printf("%f\n",z);
+|  }
+</pre>
+<p class="calibre5">El resultado de la operación efectuada debe
+ser 0. Si el sistema está afectado por el
+“bug”, se devuelve el valor 256.0</p>
+<p class="calibre5">Esta operación de detección del “bug”
+también se puede realizar desde dentro de
+algún programa que permita evaluar
+expresiones matemáticas, como puede ser el
+MatLab o el MathCad.</p>
+<p class="calibre5">Los operandos usados en esta operación fueron
+descubiertos por Tim Coe, de Vitesse Semiconductors, y ponen de manifiesto uno de los
+peores casos en los que aparece el error:
+resulta afectado el quinto dígito
+significativo.</p>
+<p class="pri">Representación gráfica</p>
+<p class="calibre5">Representación gráfica de la función x/y en
+el entorno de 4195835/3145727. En un 486, la
+representación gráfica de esta función es
+monótona creciente. Si el procesador tiene el
+bug de la instrucción FDIV, se observan dos
+zonas triangulares en los que los valores
+cambian notablemente en relación con su
+entorno. Los valores correctos se redondean a
+1.3338 y los incorrectos, a 1.3337, lo que
+supone un error en el quinto dígito
+significativo.</p>
+<p class="pri">Fuentes de la noticia</p>
+<p class="calibre5">Toda la información aquí ofrecida se ha
+obtenido de fuentes completamente fiables en
+Internet, y se ha descartado cualquier
+información no contrastada. Con esto hemos
+evitado recoger opiniones e informes poco
+precisos o faltos de rigor, que también
+circulaban por la red. También hemos de
+decir que cuanto se ha escrito aquí está
+actualizado hasta principios de Diciembre de
+1994.</p>
+<p class="calibre5">A continuación se indican los URLs de las
+fuentes de información más importantes,
+disponibles a través de World Wide Web, para
+que aquellos lectores con acceso a Internet
+puedan obtener información actualizada y de
+primera mano sobre el error en la instrucción
+FDIV del Pentium:</p>
+<p class="calibre5">INTEL Corp:</p>
+<ol class="arabic">
+<li class="calibre3"><p class="first">Acceso a información general</p>
+<p class="calibre5"><a href="http://www.intel.com">http://www.intel.com</a></p>
+</li>
+<li class="calibre3"><p class="first">Documento “Floating Point Flaw in The</p>
+<p class="calibre5">Pentium (TM) Processor”</p>
+<p class="calibre5"><a href="http://www.intel.com/product/pentium/fpushort.html">http://www.intel.com/product/pentium/fpushort.html</a></p>
+</li>
+<li class="calibre3"><p class="first">Comunicado de Andy Grove</p>
+<p class="calibre5">(Presidente de Intel Corp.)</p>
+<p class="calibre5"><a href="http://www.intel.com/about-intel/press/andy-msg.html">http://www.intel.com/about-intel/press/andy-msg.html</a></p>
+</li>
+</ol>
+<p class="calibre5">THE MATHWORKS:</p>
+<p class="calibre5">“The Pentium Papers”: Cronología actualizada
+de todas las noticias importantes, y acceso a
+los documentos más relevantes.</p>
+<p class="calibre5"><a href="http://www.mathworks.com/Pentium/README.html">http://www.mathworks.com/Pentium/README.html</a></p>
+<p class="calibre5">THOMAS NICELY:
+Acceso mediante FTP a los artículos
+originales del descubridor del fallo de la
+instrucción FDIV. También hay un programa que
+detecta dicho error.</p>
+<blockquote class="calibre27">
+<p class="calibre5">ftp.acavax.lynchburg.edu</p>
+<p class="calibre5">en el directorio  /nicely/pentium-bug</p>
+</blockquote>
+<p class="calibre5">UNIVERSITY OF KANSAS:</p>
+<p class="calibre5">Imágenes GIF en las que se representa
+gráficamente el efecto del defecto de la
+instrucción FDIV.</p>
+<p class="calibre5"><a href="http://kuhttp.cc.ukans.edu/cwis/units/IPPBR/">http://kuhttp.cc.ukans.edu/cwis/units/IPPBR/</a>
+pentium-fdiv/pentgrph.html</p>
+<p class="pri">CHISTES y rumores sobre el Pentium</p>
+<p class="calibre5">Parece inevitable que cuando se desea
+criticar algo, suelen proliferar chistes más
+o menos irónicos. En este caso, no podía ser
+menos, y han aparecido numerosos chistes
+sobre el tema que nos ocupa. Aquí va una
+muestra (algunos):</p>
+<ul class="calibre2">
+<li class="calibre3"><p class="first">¿Por qué se llamó Pentium a este chip, y no 586?</p>
+<p class="calibre5">Porque los ingenieros de Intel calcularon 486+100 con el primer Pentium y les salía 586.13769</p>
+</li>
+<li class="calibre3"><p class="first">¿Cuál es la denominación matemática de una   serie de divisiones FDIV en el Pentium,   según Intel?</p>
+<p class="calibre5">Respuesta: “Aproximaciones Sucesivas”</p>
+</li>
+</ul>
+<ul class="calibre2">
+<li class="calibre3"><p class="first">Complete la siguiente analogía: Sumar es
+a restar, como multiplicar es a:</p>
+<ol class="arabic1">
+<li class="calibre3">Dividir</li>
+<li class="calibre3">Redondear</li>
+<li class="calibre3">Usar valores aleatorios</li>
+<li class="calibre3">En un Pentium, todos los anteriores</li>
+</ol>
+<p class="calibre5">Respuesta: 4</p>
+</li>
+</ul>
+<ul class="calibre2">
+<li class="calibre3"><p class="first">Según Intel, el procesador Pentium se ajusta a los rigurosos estándares 754 y 854 de aritmética de punto flotante del IEEE (Instituto de Ingenieros Eléctricos y Electrónicos). Si usted vuela en un avión diseñado usando un Pentium, ¿cuál es la pronunciación correcta de “IEEE”?</p>
+<p class="calibre5">Respuesta: ¡AAAAAAAAAAAaaaaiiiiiieeeeeeeeeeeee!!!!! (chofff)</p>
+</li>
+</ul>
+<ul class="calibre2">
+<li class="calibre3"><p class="first">Intel ya ha arreglado el Pentium. ¿Cuál
+era el bug?</p>
+<p class="calibre5">Respuesta: En la unidad de punto flotante
+encontraron una “Mantissa” religiosa.</p>
+</li>
+</ul>
+<ul class="calibre2">
+<li class="calibre3">TOP 5 de nuevos eslogans para campañas publicitarias sobre el Pentium (calculado con un Pentium):</li>
+</ul>
+<ul class="calibre2">
+<li class="calibre3">5.92383  “Es un sutil defecto, demonios, no un ERROR”</li>
+<li class="calibre3">4.87634  “Pentium: casi 300 códigos de operación correctos”</li>
+<li class="calibre3">3.09985  “Intel Inside: No necesita saber qué hay dentro”</li>
+<li class="calibre3">2.97876  “Procesador Pentium: Redefiniendo el PC… y las matemáticas también”</li>
+<li class="calibre3">1.99827  “Errata Inside”</li>
+</ul>
+<p class="calibre5">Para terminar, un curioso rumor: Se dice que
+una gran compañía fabricante de chips compatibles 80x86 está preparando una agresiva
+campaña publicitaria para promocionar su
+nuevo chip compatible con el Pentium, con el
+siguiente eslogan:</p>
+<p class="calibre5"><em class="calibre9">“99% compatible con Pentium. El 1%
+restante, créanos, NO le hace falta.”</em></p>
+</div>
+
+</div>
+
+</body>
+</html>

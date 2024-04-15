@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="2834f8f2-80c5-4c8c-83ca-325c741a5fbf" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.52.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 270</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uKRIAapF4ImqflHQOSy7Hz5" playOrder="1">
+      <navLabel>
+        <text>Editorial: Algo personal</text>
+      </navLabel>
+      <content src="c-270Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uw5VNJ5gpSmSkSNRVE99Mp3" playOrder="2">
+      <navLabel>
+        <text>Ficciones: El aleteo de un escarabajo</text>
+      </navLabel>
+      <content src="c-270Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uvV3tz85lG3XkYO5K3kJcV3" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El hombre de los ascensores</text>
+      </navLabel>
+      <content src="c-270Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uon23Gc8qUrfxZrTWB4LmOB" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Rojo</text>
+      </navLabel>
+      <content src="c-270Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uGF8msLXuQBBc6iOiqvgUwE" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El niño</text>
+      </navLabel>
+      <content src="c-270Pag05.htm"/>
+    </navPoint>
+    <navPoint id="udFqQQlNRnycmbjt5wLBxm6" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Hibridos</text>
+      </navLabel>
+      <content src="c-270Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uZkXJ93omNR5l4NHpraW6E4" playOrder="7">
+      <navLabel>
+        <text>Entrevista: El ministerio del tiempo, puertas al pasado y a la ensoñación. Entrevista a Javier Oliva</text>
+      </navLabel>
+      <content src="c-270Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uxgmvCOhYm33jWPhH6OnLMF" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Diario de Nattramm</text>
+      </navLabel>
+      <content src="c-270Pag08.htm"/>
+    </navPoint>
+    <navPoint id="umauhYAILyMgZDwhqLmkiFD" playOrder="9">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

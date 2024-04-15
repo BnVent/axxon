@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="2fac7b0f-5017-482e-825e-05e01a84aeb5" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.28)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 76</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uff073b94-de26-4068-bea2-31931db93add" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-76Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u734b25aa-404a-4642-85aa-1222b6546472" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 76</text>
+      </navLabel>
+      <content src="c-76Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u75ad45a2-0305-4f31-9ab1-0de8c01a5d43" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Calidez</text>
+      </navLabel>
+      <content src="c-76Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u3a301748-1d2a-4afc-af68-29faf60b7f57" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Señor Volición</text>
+      </navLabel>
+      <content src="c-76Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u178e6a21-fb37-4ae5-af82-d38f642d07d9" playOrder="5">
+      <navLabel>
+        <text>Ficciones: La marca</text>
+      </navLabel>
+      <content src="c-76Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ue85c60e1-6d90-42f9-9864-042c5bc802de" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Telaraña</text>
+      </navLabel>
+      <content src="c-76Pag06.htm"/>
+    </navPoint>
+    <navPoint id="udacb5545-8543-4f6b-9b3a-7e6b1b804a64" playOrder="7">
+      <navLabel>
+        <text>Ficciones: ¿Quien teme a él?</text>
+      </navLabel>
+      <content src="c-76Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u2dd1e437-15a0-41e5-963b-73c1615f7416" playOrder="8">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual</text>
+      </navLabel>
+      <content src="c-76Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ubd4bbc67-14ad-44d1-875b-025f972a1730" playOrder="9">
+      <navLabel>
+        <text>Correo: Correo 76</text>
+      </navLabel>
+      <content src="c-76Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u416d1160-7ee2-431f-b30e-33480a976481" playOrder="10">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad</text>
+      </navLabel>
+      <content src="c-76Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u40c567b8-1208-461b-a80c-bdccb84c2475" playOrder="11">
+      <navLabel>
+        <text>Sección: INFO Córtex</text>
+      </navLabel>
+      <content src="c-76Pag11.htm"/>
+    </navPoint>
+    <navPoint id="uabc71b34-8e0d-44b0-bdd5-f9557a21475e" playOrder="12">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-76Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u7e7aa975-bb74-49a9-bae6-1de2127e2329" playOrder="13">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-76Pag13.htm"/>
+    </navPoint>
+    <navPoint id="uee087e7d-4579-48c6-b31f-38cbd1a1e541" playOrder="14">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

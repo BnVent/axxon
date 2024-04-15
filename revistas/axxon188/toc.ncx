@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="d75ee3a6-9d3e-4b66-abfd-a09811e37109" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.41.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 188</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u5204dbe9-7ca6-4626-94d6-31f4b7bc7950" playOrder="1">
+      <navLabel>
+        <text>Editorial: Mentes diferentes</text>
+      </navLabel>
+      <content src="c-188Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u714b2473-4b1d-4ded-bbab-63bc51aab772" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Serendipidad</text>
+      </navLabel>
+      <content src="c-188Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u21373ad1-9b5a-4469-b15d-fe47a4d30e9c" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Los dirigibles</text>
+      </navLabel>
+      <content src="c-188Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u7c7cbcc5-5278-4fbe-9712-769fd64a311d" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Matryoshka</text>
+      </navLabel>
+      <content src="c-188Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u254a4281-2d17-46e0-898f-744a1cf22d28" playOrder="5">
+      <navLabel>
+        <text>Ensayo: Mario Levrero: El otro y yo</text>
+      </navLabel>
+      <content src="c-188Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u3449e6a4-5ee4-4df0-a9a0-1b748a84c084" playOrder="6">
+      <navLabel>
+        <text>Ensayo: Nueva Dimensión: Un pequeño homenaje</text>
+      </navLabel>
+      <content src="c-188Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ud18d651d-d8b8-4345-bbe0-e7c06ba08765" playOrder="7">
+      <navLabel>
+        <text>Ensayo: Anotaciones en una libreta: Sobre Heliconia Verano</text>
+      </navLabel>
+      <content src="c-188Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u3d9b55ca-1143-45c6-8257-0c51ee282fba" playOrder="8">
+      <navLabel>
+        <text>Axxóncine: Oldboy, cinco días para vengarse</text>
+      </navLabel>
+      <content src="c-188Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u39cbc3f0-0391-4df3-8255-4513be173080" playOrder="9">
+      <navLabel>
+        <text>Divulgación: Damocles</text>
+      </navLabel>
+      <content src="c-188Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u9a7c1323-a709-4201-992b-9ab999b64eb2" playOrder="10">
+      <navLabel>
+        <text>Ficciones: La muerte de María Caledonia Sifuentes Quintero</text>
+      </navLabel>
+      <content src="c-188Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u59eec905-3918-4f5f-aa36-2f9deb838930" playOrder="11">
+      <navLabel>
+        <text>Ficciones: No mires hacia atrás</text>
+      </navLabel>
+      <content src="c-188Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u70800d01-7f16-4872-8d60-fd45c130a9d6" playOrder="12">
+      <navLabel>
+        <text>Ficciones: La hacemos a su medida</text>
+      </navLabel>
+      <content src="c-188Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u1bca5a65-5d7c-4ea5-9ae5-325a52c5523e" playOrder="13">
+      <navLabel>
+        <text>Ficciones: La respuesta</text>
+      </navLabel>
+      <content src="c-188Pag13.htm"/>
+    </navPoint>
+    <navPoint id="ua299edb2-e8c2-4eb6-8b54-4a0368751d10" playOrder="14">
+      <navLabel>
+        <text>Clásico: El reloj que marchaba hacia atrás</text>
+      </navLabel>
+      <content src="c-188Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u089e211b-002e-4df4-9f96-aff61af2013d" playOrder="15">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-188Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u05876f70-2d80-4ac4-b779-e89dc2bdc092" playOrder="16">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

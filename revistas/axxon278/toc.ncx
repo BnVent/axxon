@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="c9864fb9-2452-4c76-8aca-de40a0d9c4d3" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.73.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 278</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uRcJEgmpvmASZzVMzADi28C" playOrder="1">
+      <navLabel>
+        <text>Editorial: La Ciencia Ficción de los Oprimidos</text>
+      </navLabel>
+      <content src="c-278Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uhoPRwoOU7xvXXaOrZtuLl2" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Pastores del crepúsculo</text>
+      </navLabel>
+      <content src="c-278Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uk9E6m9NdwHhQATwiSFiwhC" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Amor y Relatividad</text>
+      </navLabel>
+      <content src="c-278Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uzUOOq3sC69s65k8ZSFYTd6" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Fantasía de un niño de cuna</text>
+      </navLabel>
+      <content src="c-278Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u7bcX5Fk999ByvC7jh2ggo2" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Defecto de masa</text>
+      </navLabel>
+      <content src="c-278Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ukk2Oh5mXT83kDVDmGv3lnG" playOrder="6">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-278Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uXpXvGqTpSAdq8VEj2xFko8" playOrder="7">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

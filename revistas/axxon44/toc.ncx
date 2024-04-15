@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta name="dtb:uid" content="877df54c-7133-49f2-8c46-ee7bce41779d"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (5.10.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Axxón 44</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uKgwNIOIwf7fCDeQorewYC4" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 44</text>
+      </navLabel>
+      <content src="c-44Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uyPxxqZb49QK9MJJYn8B9EE" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Oro (premio Hugo 1991)</text>
+      </navLabel>
+      <content src="c-44Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uaVGbtF7WDpZ3KcN2VbMNPC" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Muñeca</text>
+      </navLabel>
+      <content src="c-44Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uxhTxl3ZgXPau29fCNTf255" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Raya Continua</text>
+      </navLabel>
+      <content src="c-44Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uuMSUqiEuuIKOxECvpTQ686" playOrder="5">
+      <navLabel>
+        <text>Informe: Los 75 años de Arthur C. Clarke (Crónica del festejo)</text>
+      </navLabel>
+      <content src="c-44Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ubslxe3oDdxTirrgCf7o46E" playOrder="6">
+      <navLabel>
+        <text>Cine: A 25 años de 2001</text>
+      </navLabel>
+      <content src="c-44Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uhYziQVLci3rAgDc7ClfKdC" playOrder="7">
+      <navLabel>
+        <text>Rescate: La estrella</text>
+      </navLabel>
+      <content src="c-44Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uvoO5wpbXQOgoH3MLq8pK75" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Repuestos, repuestos</text>
+      </navLabel>
+      <content src="c-44Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ucv9YAKeEbDOtnECcrrbKq2" playOrder="9">
+      <navLabel>
+        <text>Brainstorm: Inteligencia artificial</text>
+      </navLabel>
+      <content src="c-44Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uNePK7MAjLgN7f7QWOdWtW3" playOrder="10">
+      <navLabel>
+        <text>Correo: Correo 44</text>
+      </navLabel>
+      <content src="c-44Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ugNtpMgBR9TGD2Uds7aSJwE" playOrder="11">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad</text>
+      </navLabel>
+      <content src="c-44Pag11.htm"/>
+    </navPoint>
+    <navPoint id="uCwFnSOvl8eWGxMXnBjAY2A" playOrder="12">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-44Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u6iEGBLJR9PLYbcRzc2Z7s5" playOrder="13">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-44Pag13.htm"/>
+    </navPoint>
+    <navPoint id="uPmmzr3BMms3W5szxMI8FaD" playOrder="14">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

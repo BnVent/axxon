@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="83cea161-80ea-4d8f-a3c2-7ca7dd173608" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.15.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 105</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u14108c7b-2971-4e92-821d-0c1907107d50" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades 105</text>
+      </navLabel>
+      <content src="c-105Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u1567724a-4134-4148-85a3-f54caa784646" playOrder="2">
+      <navLabel>
+        <text>Editorial: 105</text>
+      </navLabel>
+      <content src="c-105Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u156757fa-3e61-44a9-af3c-a2162e48aa40" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Las cinco direcciones de su brújula</text>
+      </navLabel>
+      <content src="c-105Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ueabd5e61-f175-400c-be7c-92991d3cb5e2" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Trabajo nocturno</text>
+      </navLabel>
+      <content src="c-105Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u91533743-62c0-4a6f-941f-7de7a3e7f406" playOrder="5">
+      <navLabel>
+        <text>Poesía: Los caminantes del cielo</text>
+      </navLabel>
+      <content src="c-105Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u8faaa8f7-d48b-433b-8a83-7806fa4bded2" playOrder="6">
+      <navLabel>
+        <text>Sección: El portal fantástico</text>
+      </navLabel>
+      <content src="c-105Pag06.htm"/>
+    </navPoint>
+    <navPoint id="udf376048-eb88-4e39-8be0-71a4ba4c87ba" playOrder="7">
+      <navLabel>
+        <text>Ficciones: De entre la niebla</text>
+      </navLabel>
+      <content src="c-105Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u7353442c-a637-4481-b79f-edd55c8f34cf" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Grande y lento</text>
+      </navLabel>
+      <content src="c-105Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u986da697-a697-4336-857d-c60bb895e2be" playOrder="9">
+      <navLabel>
+        <text>Sección: Aves Raras: Aníbal Gómez de la Fuente</text>
+      </navLabel>
+      <content src="c-105Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ua5dcf34e-d715-4f8e-850a-881b3804d583" playOrder="10">
+      <navLabel>
+        <text>Sección: Crónicas desde la garrafa virtual</text>
+      </navLabel>
+      <content src="c-105Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u67ecae9e-7247-49e8-86d6-ab1d860c2b54" playOrder="11">
+      <navLabel>
+        <text>Artículo: El fandom en España</text>
+      </navLabel>
+      <content src="c-105Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ub920fdf9-0366-4543-8a5e-00590eab3dfb" playOrder="12">
+      <navLabel>
+        <text>Anuncios: Concursos, premios y convocatorias</text>
+      </navLabel>
+      <content src="c-105Pag12.htm"/>
+    </navPoint>
+    <navPoint id="ub533f549-85fa-4c10-bfc8-85d0f1667be9" playOrder="13">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

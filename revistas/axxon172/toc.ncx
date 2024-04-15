@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="eb83b51d-9658-4c6d-b147-874b5d84d6e2" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 172</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u6af9da29-ed08-47c8-bd54-01060d008b7a" playOrder="1">
+      <navLabel>
+        <text>Editorial: Todo termina</text>
+      </navLabel>
+      <content src="c-172Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ua13018d2-6cf0-41c1-b56f-3dd60a25d0fb" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-172Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uf8b8ac69-cf78-4f5d-84c3-77bb2c76274d" playOrder="3">
+      <navLabel>
+        <text>Ficciones: No más sopa</text>
+      </navLabel>
+      <content src="c-172Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ud7916f09-9ff9-44c4-8513-79dbc29f76a9" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Criaturas translúcidas</text>
+      </navLabel>
+      <content src="c-172Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u89b1b915-d7cb-4e87-8723-56f1de0c5603" playOrder="5">
+      <navLabel>
+        <text>Ficciones: La invención de la conserva</text>
+      </navLabel>
+      <content src="c-172Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ud75ad5a1-4459-4a30-9594-ed914626c5dc" playOrder="6">
+      <navLabel>
+        <text>Ensayo: Lem-Tarkovsky: el problema del contacto</text>
+      </navLabel>
+      <content src="c-172Pag06.htm"/>
+    </navPoint>
+    <navPoint id="udd32656d-1e1f-4f39-a70d-6b791dc5abfd" playOrder="7">
+      <navLabel>
+        <text>Ficciones: El Águila tatuada</text>
+      </navLabel>
+      <content src="c-172Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ue78ffec5-c78f-47c0-b9f1-cebc35393fc3" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Papá</text>
+      </navLabel>
+      <content src="c-172Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uaf1d3eb0-5161-47e9-af8e-e6b7c6bac95c" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Un hada para Rosie</text>
+      </navLabel>
+      <content src="c-172Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uea9e153c-9bac-4c3d-8c29-379c3e52683c" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Tiempo de pruebas</text>
+      </navLabel>
+      <content src="c-172Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u779d7072-5ec6-46e8-b123-e499c2c5af00" playOrder="11">
+      <navLabel>
+        <text>Ensayo: ¿Los dioses astronautas?</text>
+      </navLabel>
+      <content src="c-172Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ue6ad4321-df6f-4fa0-8eb5-be93e9612221" playOrder="12">
+      <navLabel>
+        <text>Clásico: La casa entre los laureles</text>
+      </navLabel>
+      <content src="c-172Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u42681ea0-838f-403e-9f42-8823f5b524e5" playOrder="13">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-172Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u111f5bde-ca8b-4ecc-98bc-36cfddbacc1b" playOrder="14">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,421 @@
+.aligncenter {
+    height: auto;
+    width: auto
+    }
+.alignleft {
+    height: 10px;
+    width: 30px
+    }
+.alignleft1 {
+    height: 14px;
+    width: 30px
+    }
+.articulo {
+    display: block;
+    font-family: Verdana, Arial, Sans Serif;
+    line-height: 130%;
+    text-align: justify
+    }
+.autor {
+    display: block;
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 3em;
+    padding: 2px;
+    margin: 0
+    }
+.biografia {
+    background: white;
+    background-color: white;
+    color: #a00000;
+    display: block;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 0.83333em;
+    font-weight: bold;
+    text-align: justify;
+    width: 99%;
+    padding: 0;
+    border: #e0e0e0 dotted thin;
+    margin: 0
+    }
+.bl {
+    color: #fff;
+    display: block;
+    font-size: 0.625em;
+    line-height: 1.2;
+    padding: 0;
+    margin: 5px 0 0
+    }
+.bl1 {
+    color: #fff;
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    padding: 2px;
+    margin: 0
+    }
+.bl2 {
+    color: #fff;
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 3em;
+    padding: 2px;
+    margin: 0
+    }
+.cajatitulo {
+    background-color: white;
+    display: block;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-top: 0.3em;
+    text-indent: 0;
+    border: #e0e0e0 dotted thin;
+    margin: 0 0 1em
+    }
+.calibre {
+    background: white;
+    display: block;
+    font-size: 1em;
+    width: 99%;
+    padding: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    background: white;
+    display: block;
+    width: 99%;
+    padding: 0;
+    margin: 0
+    }
+.calibre10 {
+    display: table-row;
+    vertical-align: inherit
+    }
+.calibre11 {
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: inherit;
+    padding: 1px
+    }
+.calibre12 {
+    font-family: Verdana;
+    font-size: 0.83333em
+    }
+.calibre13 {
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    float: right;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: right;
+    text-indent: 0
+    }
+.calibre14 {
+    display: table-cell;
+    text-align: center;
+    vertical-align: inherit;
+    padding: 1px
+    }
+.calibre15 {
+    height: auto;
+    width: 300px;
+    margin: 0 20px 5px
+    }
+.calibre16 {
+    display: block
+    }
+.calibre17 {
+    font-family: Verdana, Helvetica, "Microsoft Sans Serif", Tahoma;
+    font-size: 0.625em
+    }
+.calibre18 {
+    font-style: italic
+    }
+.calibre19 {
+    background: white;
+    color: black;
+    display: block;
+    font-size: 1em;
+    width: 99%;
+    padding: 0;
+    margin: 0 5pt
+    }
+.calibre2 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre20 {
+    color: #00f;
+    display: block;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0.67em 0
+    }
+.calibre21 {
+    color: #800080;
+    display: block;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0.83em 0
+    }
+.calibre22 {
+    display: block;
+    font-size: 1em;
+    text-align: right;
+    text-indent: 0;
+    padding: 2px;
+    margin: 0
+    }
+.calibre23 {
+    text-decoration: none
+    }
+.calibre24 {
+    height: auto;
+    width: 200px
+    }
+.calibre25 {
+    display: block;
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 0;
+    padding: 2px;
+    margin: 0
+    }
+.calibre26 {
+    line-height: 1.2;
+    text-decoration: none
+    }
+.calibre27 {
+    display: block;
+    text-align: center
+    }
+.calibre28 {
+    display: block;
+    padding-top: 0.3em;
+    text-align: center
+    }
+.calibre29 {
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.calibre3 {
+    display: list-item
+    }
+.calibre30 {
+    display: table-cell;
+    text-align: right;
+    vertical-align: inherit;
+    padding: 1px
+    }
+.calibre31 {
+    display: block;
+    font-size: 1em;
+    text-align: right;
+    text-indent: 3em;
+    padding: 2px;
+    margin: 0
+    }
+.calibre32 {
+    display: block;
+    font-size: 1em;
+    text-align: center;
+    text-indent: 0;
+    padding: 2px;
+    margin: 0
+    }
+.calibre33 {
+    text-decoration: underline
+    }
+.calibre4 {
+    font-weight: bold
+    }
+.calibre5 {
+    display: block;
+    padding: 0;
+    margin: 5px 0 0
+    }
+.calibre6 {
+    color: gray;
+    display: block;
+    height: 2px;
+    border: currentColor inset 1px;
+    margin: 0.5em auto
+    }
+.calibre7 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.67em 0
+    }
+.calibre8 {
+    background-color: white;
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    height: 14px;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.calibre9 {
+    display: table-row-group;
+    vertical-align: middle
+    }
+.caratula {
+    display: block;
+    text-align: center;
+    width: 100%;
+    padding: 0;
+    margin: 0
+    }
+.cartel {
+    background: inherited;
+    display: block;
+    height: inherited;
+    margin-left: inherited;
+    margin-right: inherited;
+    width: inherited
+    }
+.colofon {
+    background: white;
+    display: block;
+    text-align: right;
+    text-indent: 0;
+    width: 99%;
+    padding: 0;
+    margin: 0
+    }
+.colofon1 {
+    background: white;
+    display: block;
+    font-size: 0.83333em;
+    text-align: right;
+    text-indent: 0;
+    width: 99%;
+    padding: 0;
+    margin: 0
+    }
+.cuento {
+    display: block;
+    font-family: "Times New Roman", "Times Roman", serif;
+    line-height: 130%;
+    text-indent: 2em;
+    padding: 0
+    }
+.indiceautor {
+    display: block;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.83em 0
+    }
+.indicetitulo {
+    color: #406070;
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0.67em 0 0.67em auto
+    }
+.pri {
+    display: block;
+    text-indent: 0;
+    padding: 0;
+    margin: 2em 0 0
+    }
+.pri1 {
+    display: block;
+    font-size: 1em;
+    text-align: right;
+    text-indent: 0;
+    padding: 0;
+    margin: 3em 0 0
+    }
+.pri2 {
+    display: block;
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 0;
+    padding: 0;
+    margin: 3em 0 0
+    }
+.pri3 {
+    display: block;
+    font-size: 1em;
+    text-align: center;
+    text-indent: 0;
+    padding: 0;
+    margin: 3em 0 0
+    }
+.pri4 {
+    display: block;
+    padding-top: 0.3em
+    }
+.traductor {
+    display: block;
+    font-size: 0.83333em;
+    text-align: justify;
+    text-indent: 0;
+    padding: 2px;
+    margin: 0
+    }
+.tumbnail {
+    background-color: transparent;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-top-style: none;
+    border-top-width: medium;
+    display: block;
+    float: right;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 0.625em;
+    margin-left: 15px;
+    text-align: center;
+    text-indent: 0;
+    width: 210px;
+    padding: 0.3em 0 0
+    }
+.vinculo {
+    color: #333;
+    display: block;
+    font-size: 1em;
+    font-weight: 500;
+    line-height: 1.2;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 3em;
+    padding: 2px;
+    margin: 0
+    }
+.pcalibre1:first-letter {
+    font-size: 120%;
+    font-style: italic;
+    font-weight: bold
+    }
+.pcalibre:first-letter {
+    font-size: 120%;
+    font-weight: bold
+    }

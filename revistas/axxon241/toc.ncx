@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="534af77e-41ec-41a7-9286-c2d7e33f7cec" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.28)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 241</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uda23ee3f-8f38-4130-a0dd-9aa62d78f785" playOrder="1">
+      <navLabel>
+        <text>Editorial: Bajar los brazos</text>
+      </navLabel>
+      <content src="c-241Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u315bdaf4-b2b1-4e9a-9048-b4a144387658" playOrder="2">
+      <navLabel>
+        <text>Entrevista: Entrevista a Luis Pestarini</text>
+      </navLabel>
+      <content src="c-241Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uf1203afc-b8d3-453a-8a80-c206206a79e8" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Una pequeña mentira</text>
+      </navLabel>
+      <content src="c-241Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u157df727-fd70-4849-b8e9-e18909dabb7f" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Los despojados</text>
+      </navLabel>
+      <content src="c-241Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ua7fbf04b-06cd-486d-b666-97ab11d957c2" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Capitán Soloza</text>
+      </navLabel>
+      <content src="c-241Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ufdceb271-c6e3-4fd0-a0d3-e6e85e033745" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Pareidolias</text>
+      </navLabel>
+      <content src="c-241Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u5a28c181-67a9-4d75-802c-6e4645cf9539" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Quizás con Aníbal</text>
+      </navLabel>
+      <content src="c-241Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u052b9101-f231-40ad-9c27-1c5115ff7383" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Los trabajos de un ladrón</text>
+      </navLabel>
+      <content src="c-241Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uee71d915-f4b5-4b3f-bb77-d2380229904b" playOrder="9">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="u72e29a57-3a2d-4272-bd0a-730677c68e17" playOrder="9">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/#nota1"/>
+    </navPoint>
+    <navPoint id="u3251b67d-84a0-46fa-9a86-8a7b130a1f4c" playOrder="10">
+      <navLabel>
+        <text>[VOLVER]</text>
+      </navLabel>
+      <content src="/rev/#llam1"/>
+    </navPoint>
+    <navPoint id="ue3a3ecfd-2aa3-4d4e-bb9f-a5c93cb05b50" playOrder="11">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/241/cuento3ilus1.htm"/>
+    </navPoint>
+    <navPoint id="u28be22df-4026-4246-88c9-50f26ebe11cd" playOrder="12">
+      <navLabel>
+        <text>EL HOMBRE EQUIVOCADO</text>
+      </navLabel>
+      <content src="/rev/2012/04/el-hombre-equivocado-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="u364867a8-1e4b-462e-941c-6299c57e157a" playOrder="13">
+      <navLabel>
+        <text>EL OTRO MESÍAS</text>
+      </navLabel>
+      <content src="/rev/2012/06/el-otro-mesias-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="u4651a6cc-d7fc-4656-9e66-d4e855cdbed3" playOrder="14">
+      <navLabel>
+        <text>NOCHES DE BANTIAN</text>
+      </navLabel>
+      <content src="/rev/2012/09/noches-de-bantian-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="u44ac0145-5d59-4dcf-8046-6e2c7bd83a2d" playOrder="15">
+      <navLabel>
+        <text>LA NOCHE DE TEMPOAL</text>
+      </navLabel>
+      <content src="/rev/2012/10/la-noche-de-tempoal-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="ud4855736-bc53-41c2-9a8a-d8906f07e907" playOrder="16">
+      <navLabel>
+        <text>AHÍ FUERA</text>
+      </navLabel>
+      <content src="/rev/2012/11/ahi-fuera-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="u0eb0764a-a166-4205-9e7b-746fa723f679" playOrder="17">
+      <navLabel>
+        <text>DESPOJOS</text>
+      </navLabel>
+      <content src="/rev/2012/12/despojos-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="u64af43fd-2b4c-407f-8a64-9ffb3b01cf3b" playOrder="18">
+      <navLabel>
+        <text>ASÍ PERMANECE HERMOSA LISA MARIE (ANTICUADA CANCIÓN PARA SONÁMBULOS)</text>
+      </navLabel>
+      <content src="/rev/2013/02/asi-permanece-hermosa-lisa-marie-anticuada-cancion-para-sonambulos-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="u96df9c7b-a346-40b3-982e-e9dc080a967f" playOrder="19">
+      <navLabel>
+        <text>UNA MUERTE EN CASA</text>
+      </navLabel>
+      <content src="/rev/2013/03/una-muerte-en-casa-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="ube6ac601-aa41-492b-b770-c64344f8f91d" playOrder="20">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/241/cuento4ilus1.htm"/>
+    </navPoint>
+    <navPoint id="u92ee8661-820d-4808-86a2-e9f5443fa97e" playOrder="21">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/241/cuento5ilus1.htm"/>
+    </navPoint>
+    <navPoint id="ub7d647db-fb6b-4021-a10d-7f8cee5eb75b" playOrder="22">
+      <navLabel>
+        <text>TEMPUS FUGIT</text>
+      </navLabel>
+      <content src="/rev/2010/12/tempus-fugit-carlos-perez-jara/"/>
+    </navPoint>
+    <navPoint id="ua1d1e5e6-9178-4e93-b0c4-c33f39f4137f" playOrder="23">
+      <navLabel>
+        <text>LEGADO</text>
+      </navLabel>
+      <content src="/rev/2011/07/legado-carlos-perez-jara/"/>
+    </navPoint>
+    <navPoint id="u5b347c9d-a8e8-4bc9-964a-1505f54950b2" playOrder="24">
+      <navLabel>
+        <text>AL OTRO LADO DE LA LLANURA</text>
+      </navLabel>
+      <content src="/rev/2011/10/al-otro-lado-de-la-llanura-carlos-perez-jara/"/>
+    </navPoint>
+    <navPoint id="u77286bae-425d-49c3-a69f-ac5a0fd8f879" playOrder="25">
+      <navLabel>
+        <text>LA DECIMOTERCERA CLÁUSULA</text>
+      </navLabel>
+      <content src="/rev/2012/01/la-decimotercera-clausula-carlos-perez-jara/"/>
+    </navPoint>
+    <navPoint id="u85191a01-97ed-4a68-8732-451a3b579d4a" playOrder="26">
+      <navLabel>
+        <text>HIJA DE HELISURPA</text>
+      </navLabel>
+      <content src="/rev/2012/04/hija-de-helisurpa-carlos-perez-jara/"/>
+    </navPoint>
+    <navPoint id="ucf1f102a-e9f0-426f-8a0e-05a620b0e66c" playOrder="27">
+      <navLabel>
+        <text>PURGATORIO</text>
+      </navLabel>
+      <content src="/rev/2012/08/purgatorio-carlos-perez-jara/"/>
+    </navPoint>
+    <navPoint id="ue843f2e7-a0ea-406d-8441-6dcdcf0cf5ca" playOrder="28">
+      <navLabel>
+        <text>ESPÍRITUS Y MARIONETAS</text>
+      </navLabel>
+      <content src="/rev/2012/12/espiritus-y-marionetas-carlos-perez-jara/"/>
+    </navPoint>
+    <navPoint id="ua5d78252-1fc8-4a73-b022-755d613538e0" playOrder="29">
+      <navLabel>
+        <text>ORILÁN</text>
+      </navLabel>
+      <content src="/rev/2013/03/orilan-carlos-perez-jara/"/>
+    </navPoint>
+    <navPoint id="ub67a2c45-43e9-47c4-b6b5-b42c019a31a1" playOrder="30">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/241/cuento6ilus1.htm"/>
+    </navPoint>
+    <navPoint id="u917aabdd-54d5-47e6-96e9-5821f951d900" playOrder="31">
+      <navLabel>
+        <text>EL PEZ POR LA BOCA</text>
+      </navLabel>
+      <content src="/rev/"/>
+    </navPoint>
+    <navPoint id="ua023e932-5d5d-4261-877b-416973d93d6c" playOrder="32">
+      <navLabel>
+        <text>EL ENIGMA HUMANO 1921514915</text>
+      </navLabel>
+      <content src="/rev/2011/09/ficcion-breve-sesenta-y-cuatro-varios-autores/#10"/>
+    </navPoint>
+    <navPoint id="u09090894-8a95-4b6d-9473-0c9cf85f90f0" playOrder="33">
+      <navLabel>
+        <text>LOS JARDINES DE HEIAN</text>
+      </navLabel>
+      <content src="/rev/2011/10/los-jardines-de-heian-daniel-flores/"/>
+    </navPoint>
+    <navPoint id="ue081ae01-7c06-437e-ae37-8e41121db4b4" playOrder="34">
+      <navLabel>
+        <text>SOPORTA POCO LA PENUMBRA</text>
+      </navLabel>
+      <content src="/rev/2012/06/soporta-poco-la-penumbra-daniel-flores/"/>
+    </navPoint>
+    <navPoint id="u12ec2516-fca2-4dd8-ac83-0cf92d25ad23" playOrder="35">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/241/cuento7ilus1.htm"/>
+    </navPoint>
+    <navPoint id="ue7ae0eb3-5195-484a-888d-a566d34a4cf3" playOrder="36">
+      <navLabel>
+        <text>MULAS</text>
+      </navLabel>
+      <content src="/rev/2012/10/mulas-dennis-mourdoch-moran/"/>
+    </navPoint>
+    <navPoint id="u3bfe936b-995d-4738-ad66-e47da7ec7af4" playOrder="37">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/241/cuento8ilus1.htm"/>
+    </navPoint>
+    <navPoint id="u12173c97-1cdc-4ac4-8e1a-b6866d22fa5f" playOrder="38">
+      <navLabel>
+        <text>EL SALUDO</text>
+      </navLabel>
+      <content src="/rev/192/c-192cuento3.htm"/>
+    </navPoint>
+    <navPoint id="u19455041-3084-4afc-8cf4-d199f5908b9d" playOrder="39">
+      <navLabel>
+        <text>EL HOLOCAUSTO DEL BÁRBARO</text>
+      </navLabel>
+      <content src="/rev/2010/02/el-holocausto-del-barbaro-juan-manuel-valitutti/"/>
+    </navPoint>
+    <navPoint id="u60a160f0-209f-49d0-ac3a-1a2d2d610639" playOrder="40">
+      <navLabel>
+        <text>AL FINAL DE LA TARDE</text>
+      </navLabel>
+      <content src="/rev/2011/06/al-final-de-la-tarde-juan-manuel-valitutti/"/>
+    </navPoint>
+    <navPoint id="u2014695f-39de-4b54-a9bd-332877b5a5d5" playOrder="41">
+      <navLabel>
+        <text>NARHITOREK, EL NIGROMANTE</text>
+      </navLabel>
+      <content src="/rev/2012/01/narhitorek-el-nigromante-juan-manuel-valitutti/"/>
+    </navPoint>
+    <navPoint id="u8a90e26b-dcce-449a-aa8e-fc5aeef1905d" playOrder="42">
+      <navLabel>
+        <text>LOS ENVIADOS DE NARHITOREK</text>
+      </navLabel>
+      <content src="/rev/2012/07/los-enviados-de-narhitorek-juan-manuel-valitutti/"/>
+    </navPoint>
+    <navPoint id="u3b64ead2-cb0d-4048-aa71-23accd0aeeba" playOrder="43">
+      <navLabel>
+        <text>PARA VERLOS VOLAR</text>
+      </navLabel>
+      <content src="/rev/2012/09/para-verlos-volar-juan-manuel-valitutt/"/>
+    </navPoint>
+    <navPoint id="u0cd442be-3f3d-4d66-8938-73a230dca440" playOrder="44">
+      <navLabel>
+        <text>DEMONIO BLANCO</text>
+      </navLabel>
+      <content src="/rev/2012/10/demonio-blanco-juan-manuel-valitutti/"/>
+    </navPoint>
+    <navPoint id="u4f3ed77b-cc67-4097-a43a-a5e3c738e7fe" playOrder="45">
+      <navLabel>
+        <text>EL FINAL DE LA HISTORIA</text>
+      </navLabel>
+      <content src="/rev/2012/11/el-final-de-la-historia-juan-manuel-valitutti/"/>
+    </navPoint>
+  </navMap>
+</ncx>

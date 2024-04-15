@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="866f7c71-9fc3-439b-a300-30904db718a1" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.28)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 75</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uc9b95819-9acf-426d-8550-ab86db41f1e7" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-75Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ub6377812-c7d7-40f5-be86-6be224b60ad1" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 75</text>
+      </navLabel>
+      <content src="c-75Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ucb68f478-36c9-4bf6-ba3c-e94db65f26b0" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Dedicación</text>
+      </navLabel>
+      <content src="c-75Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u85abce15-2c31-4d01-92b1-5badd61988a5" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Universos de ternura</text>
+      </navLabel>
+      <content src="c-75Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ufb130bff-0496-4395-8039-c2c9f34ba8bd" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Poemas</text>
+      </navLabel>
+      <content src="c-75Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u370202ad-f3ea-4a96-bef7-163fa47cea78" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Piloto automático</text>
+      </navLabel>
+      <content src="c-75Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ub932a9be-a629-4f72-b832-76b03858d5de" playOrder="7">
+      <navLabel>
+        <text>Sección: Crónica desde la Garrafa Virtual</text>
+      </navLabel>
+      <content src="c-75Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u4fb7ba67-9fc5-4528-8597-1b8906e3d23f" playOrder="8">
+      <navLabel>
+        <text>Sección: El Portal Fantástico</text>
+      </navLabel>
+      <content src="c-75Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uae82f1a6-3787-4bf9-ac84-c3a483d7540b" playOrder="10">
+      <navLabel>
+        <text>Ficciones: La lotería de Babilonia</text>
+      </navLabel>
+      <content src="c-75Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u296549c5-13ac-48b7-8fa1-4984d44ce64d" playOrder="11">
+      <navLabel>
+        <text>Ficciones: La casa de Asterión</text>
+      </navLabel>
+      <content src="c-75Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u6cfc2d24-4ea3-43f3-b9e4-40e45eb41e6c" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Las ruinas circulares</text>
+      </navLabel>
+      <content src="c-75Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u9c81dd9a-487e-4017-a91a-e2c980fd7b28" playOrder="13">
+      <navLabel>
+        <text>Correo: Correo 75</text>
+      </navLabel>
+      <content src="c-75Pag12.htm"/>
+    </navPoint>
+    <navPoint id="uf7a31508-0258-4b95-ba4e-7b9ab36cd8ae" playOrder="14">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad</text>
+      </navLabel>
+      <content src="c-75Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u5608de0d-9363-4727-a06d-92068da56948" playOrder="15">
+      <navLabel>
+        <text>Nota: Dawkins: evolucionista revolucionario</text>
+      </navLabel>
+      <content src="c-75Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u37f96712-5255-4b41-9c64-1d4aa24f3a85" playOrder="16">
+      <navLabel>
+        <text>Nota: El río digital</text>
+      </navLabel>
+      <content src="c-75Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u5c81379e-fd17-4908-850a-f611dfca593b" playOrder="17">
+      <navLabel>
+        <text>Sección: ET AL Virtual</text>
+      </navLabel>
+      <content src="c-75Pag16.htm"/>
+    </navPoint>
+    <navPoint id="ub431a708-9b28-4d7d-9f53-68d8c98871b2" playOrder="23">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-75Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u6bfad64a-eb27-4ee5-afff-f5631ee4a84c" playOrder="24">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-75Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u86ad44a0-2222-4dd6-ad4e-cfc3bbf3457c" playOrder="25">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="u87af0755-b13c-46eb-a2ad-fa9a042f6bd4" playOrder="9">
+      <navLabel>
+        <text>[1]</text>
+      </navLabel>
+      <content src="c-75Pag08.htm#id2"/>
+    </navPoint>
+    <navPoint id="ua52a6d7e-cfa5-4dc1-9f51-1155b6bb1a5a" playOrder="18">
+      <navLabel>
+        <text>EL ULTIMO SER HUMANO SIN WINDOWS 95</text>
+      </navLabel>
+      <content src="c-75Pag16.htm#el-ultimo-ser-humano-sin-windows-95"/>
+    </navPoint>
+    <navPoint id="u112ca56e-02af-45d9-b1c2-4ae5b1b2196c" playOrder="19">
+      <navLabel>
+        <text>LENGUAJE ENSAMBLADOR 8086/8088 (Parte 3)</text>
+      </navLabel>
+      <content src="c-75Pag16.htm#lenguaje-ensamblador-8086-8088-parte-3"/>
+    </navPoint>
+    <navPoint id="u62f411d5-5966-4ce0-b259-21ab062373e0" playOrder="20">
+      <navLabel>
+        <text>6. Direccionamiento</text>
+      </navLabel>
+      <content src="c-75Pag16.htm#direccionamiento"/>
+    </navPoint>
+    <navPoint id="uefd22483-b470-40f2-b24a-f9c83e0f1777" playOrder="21">
+      <navLabel>
+        <text>7. Instrucciones básicas</text>
+      </navLabel>
+      <content src="c-75Pag16.htm#instrucciones-basicas"/>
+    </navPoint>
+    <navPoint id="ub7d460e2-adfe-41d5-b68c-8e2e45f6937c" playOrder="22">
+      <navLabel>
+        <text>SOLUCIONES</text>
+      </navLabel>
+      <content src="c-75Pag16.htm#soluciones"/>
+    </navPoint>
+  </navMap>
+</ncx>

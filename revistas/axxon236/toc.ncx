@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="65b1eb4f-fef0-4d34-8575-937ec797f945" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.8)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 236</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="c07b311a-0246-411d-b085-1f1ddc56753a" playOrder="1">
+      <navLabel>
+        <text>Editorial: El 236</text>
+      </navLabel>
+      <content src="c-236Pag01.htm"/>
+    </navPoint>
+    <navPoint id="8cd2386b-8b58-4234-aa1e-c22649cc9867" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Espacios inacabados</text>
+      </navLabel>
+      <content src="c-236Pag02.htm"/>
+    </navPoint>
+    <navPoint id="2977a8b1-4ae7-47f6-8e94-1ee1384f42f2" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Ahí fuera</text>
+      </navLabel>
+      <content src="c-236Pag03.htm"/>
+    </navPoint>
+    <navPoint id="af52a80c-d14f-4791-8f2f-51baadecf6e7" playOrder="4">
+      <navLabel>
+        <text>Ficciones: La búsqueda de ausencia</text>
+      </navLabel>
+      <content src="c-236Pag04.htm"/>
+    </navPoint>
+    <navPoint id="04f25321-958f-48ee-9281-6b55922ede79" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El final de la historia</text>
+      </navLabel>
+      <content src="c-236Pag05.htm"/>
+    </navPoint>
+    <navPoint id="8c1f95b0-11dd-48b0-8638-767e5f17e018" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (sesenta y nueve)</text>
+      </navLabel>
+      <content src="c-236Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ea604a39-df38-45a4-9322-7f32821ed1f0" playOrder="7">
+      <navLabel>
+        <text>Ficciones: El rostro de mi padre</text>
+      </navLabel>
+      <content src="c-236Pag07.htm"/>
+    </navPoint>
+    <navPoint id="2a97c8f5-b9b8-40eb-a22c-4116a16a931c" playOrder="8">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="bf89cc0b-7a22-43f0-a92e-e35df9963774" playOrder="8">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/236/cuento1ilus1.htm"/>
+    </navPoint>
+    <navPoint id="4726c0c9-8b16-4fa4-95f0-8d3ba745ae52" playOrder="9">
+      <navLabel>
+        <text>NORTE PROFUNDO</text>
+      </navLabel>
+      <content src="/rev/2010/11/norte-profundo-jairo-ramos-parra/"/>
+    </navPoint>
+    <navPoint id="26d9ba8d-b842-42ee-ac1e-a77f3bc5df35" playOrder="10">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/236/cuento2ilus1.htm"/>
+    </navPoint>
+    <navPoint id="20304ff0-9589-4c78-b71c-c03b6846cdeb" playOrder="11">
+      <navLabel>
+        <text>EL HOMBRE EQUIVOCADO</text>
+      </navLabel>
+      <content src="/rev/2012/04/el-hombre-equivocado-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="b63a0487-819e-45c9-8c1e-8d529d1c0e72" playOrder="12">
+      <navLabel>
+        <text>EL OTRO MESÍAS</text>
+      </navLabel>
+      <content src="/rev/2012/06/el-otro-mesias-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="00370383-5383-4adc-8b32-bbdab20af594" playOrder="13">
+      <navLabel>
+        <text>NOCHES DE BANTIAN</text>
+      </navLabel>
+      <content src="/rev/2012/09/noches-de-bantian-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="0f9d4a22-7474-4fee-bc04-b0ba38704aef" playOrder="14">
+      <navLabel>
+        <text>LA NOCHE DE TEMPOAL</text>
+      </navLabel>
+      <content src="/rev/2012/10/la-noche-de-tempoal-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="abbb655b-7180-48e0-9808-520388d1fb6a" playOrder="15">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/236/cuento3ilus1.htm"/>
+    </navPoint>
+    <navPoint id="b0573a1f-0073-4d36-82c2-b0f454a5955e" playOrder="16">
+      <navLabel>
+        <text>AHÍ FUERA</text>
+      </navLabel>
+      <content src="/rev/2012/11/ahi-fuera-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="3f989aa9-ae11-4c46-827f-f9689a375ab5" playOrder="17">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/236/cuento4ilus1.htm"/>
+    </navPoint>
+    <navPoint id="dbcff69c-2a43-4879-bd7e-0462ac38763d" playOrder="18">
+      <navLabel>
+        <text>EL SALUDO</text>
+      </navLabel>
+      <content src="/rev/192/c-192cuento3.htm"/>
+    </navPoint>
+    <navPoint id="6386704b-f38f-4f2b-a8ae-233282ba0751" playOrder="19">
+      <navLabel>
+        <text>EL HOLOCAUSTO DEL BÁRBARO</text>
+      </navLabel>
+      <content src="/rev/"/>
+    </navPoint>
+    <navPoint id="275eee3e-61da-466f-a45a-d15748cf918a" playOrder="20">
+      <navLabel>
+        <text>NARHITOREK, EL NIGROMANTE</text>
+      </navLabel>
+      <content src="/rev/2012/01/narhitorek-el-nigromante-juan-manuel-valitutti/"/>
+    </navPoint>
+    <navPoint id="de9eab12-a242-46c7-b069-6e15b45d17ef" playOrder="21">
+      <navLabel>
+        <text>LOS ENVIADOS DE NARHITOREK</text>
+      </navLabel>
+      <content src="/rev/2012/07/los-enviados-de-narhitorek-juan-manuel-valitutti/"/>
+    </navPoint>
+    <navPoint id="5af38b0b-10dd-4bd0-bf03-9f599d9605ff" playOrder="22">
+      <navLabel>
+        <text>PARA VERLOS VOLAR</text>
+      </navLabel>
+      <content src="/rev/2012/09/para-verlos-volar-juan-manuel-valitutt/"/>
+    </navPoint>
+    <navPoint id="54c94e79-b620-4217-9f7b-dc10b9630293" playOrder="23">
+      <navLabel>
+        <text>DEMONIO BLANCO</text>
+      </navLabel>
+      <content src="/rev/2012/10/demonio-blanco-juan-manuel-valitutti/"/>
+    </navPoint>
+    <navPoint id="7ad09409-593e-4ffb-aa77-f2089c494e0b" playOrder="24">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/236/cuento6ilus1.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

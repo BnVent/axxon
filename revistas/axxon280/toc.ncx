@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="8d41b3d9-229e-4aee-ba62-6616050c3b99" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.77.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 280</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uZHYdgXDJRsRlaPa83ITyNB" playOrder="1">
+      <navLabel>
+        <text>Editorial: La humanidad fuera de nosotros</text>
+      </navLabel>
+      <content src="c-280Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uxsZpXKAgyuY67cUGgrJEaB" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Humo y arena</text>
+      </navLabel>
+      <content src="c-280Pag02.htm"/>
+    </navPoint>
+    <navPoint id="udCDLwJYSmoLAEOKZLGT9R5" playOrder="3">
+      <navLabel>
+        <text>Portfolio: Alejandro Colucci, Ilustrador</text>
+      </navLabel>
+      <content src="c-280Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uwUCBYDeOalBM9WqFaMflBD" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Limbo</text>
+      </navLabel>
+      <content src="c-280Pag04.htm"/>
+    </navPoint>
+    <navPoint id="urb4bVoNVmtbzxesysTOyyA" playOrder="5">
+      <navLabel>
+        <text>Artículo: De armas tomar</text>
+      </navLabel>
+      <content src="c-280Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uaICjeGSDbDMf68rKOyZ5L3" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Advenimiento oscuro</text>
+      </navLabel>
+      <content src="c-280Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uit8FMC4eooZIlLbje9i9x7" playOrder="7">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-280Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uwkvFlk4vxDwbdqwSfbAGo4" playOrder="8">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <title>Axxón 88 - SECCIÓN: - Bits: La RAM inteligente</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link href="stylesheet.css" rel="stylesheet" type="text/css"/>
+<link href="page_styles.css" rel="stylesheet" type="text/css"/>
+</head>
+  <body class="calibre">
+
+<div id="main" class="calibre1">
+<h1 class="calibre7">Bits: La RAM inteligente</h1>
+<p class="calibre5"><b class="calibre4">Jorge L. Danielli</b></p><p class="calibre5"></p>
+<div class="document">
+<!-- # :maxLineLen=120:folding=explicit:mode=rest:wrap=soft:collapseFolds=1:encoding=windows-1252: -->
+<div class="resumen1">
+<p class="calibre15">Como muchos otros, Jorge acercó su trabajo
+desde algún lugar de Internet.</p>
+<p class="calibre15">Aquí nos cuenta nuevas ideas para solucionar
+el nuevo cuello de botella en las computadoras
+de hoy: la velocidad de acceso a la memoria.</p>
+</div>
+<!-- :: -->
+<p class="pcalibre pri">La industria de la computación presta mucha atención
+cada vez que <em class="calibre10">Dave Patterson</em>, profesor de ciencia computacional de Berkeley, comienza un nuevo proyecto de investigación. A principios de los ‘80s, Patterson y sus compañeros
+investigadores fueron pioneros en <em class="calibre10">RISC</em> —Computación con Set
+de Instrucciones Reducido—, una tecnología que revolucionó
+el diseño de microprocesadores y permitió a pequeñas compañías como Sun y SGI superar a Intel. Luego, en 1987, Patterson ayudó a desarrollar <em class="calibre10">RAID</em>: un arreglo redundante de discos
+baratos que provee almacenamiento masivo rápido y barato y se
+usa hoy en día en casi todos los servidores de archivos grandes. Ahora Patterson ha comenzado un nuevo proyecto llamado
+<em class="calibre10">IRAM</em>, por <em class="calibre10">RAM Inteligente</em>. La idea es poner un microprocesador en un chip de memoria, un movimiento que puede mejorar
+radicalmente el desempeño de las computadoras. Nuevamente.</p>
+<p class="calibre5">La clave del éxito de Patterson ha sido su aguda comprensión de los factores económicos que manejan la industria de
+la computación. Con RAID, por ejemplo, explotó las economías
+de escala que hacen más barato combinar muchos pequeños discos rígidos que intentar construir un gran disco.</p>
+<p class="calibre5">El proyecto IRAM de Patterson está motivado por una percepción similar. <em class="calibre10">“Escribí un artículo informativo para Scientific American intentando predecir el futuro, y se me ocurrió
+que tenemos dos industrias haciendo semiconductores: la industria de las memorias y la industria de los procesadores,”</em>
+explicó. <em class="calibre10">“Con el costo de la construcción de líneas de fabricación en ascenso, eventualmente no tendrá sentido construir
+dos plantas de fabricación separadas pero muy similares.”</em>
+Una vez que Patterson comenzó a pensar en la posibilidad de
+combinar memoria y microprocesadores, se dio cuenta de que la
+IRAM podría resolver uno de los mayores problemas que enfrentan los diseñadores de computadoras.</p>
+<p class="calibre5">Ese problema fue dramáticamente expuesto en un manifiesto
+técnico de 1994 titulado <em class="calibre10">“Dando contra el Muro de la Memoria:
+Implicaciones de lo Obvio”</em>. El ensayo, escrito por dos profesores de la Universidad de Virginia, señalaba que, en base
+a la tendencia actual de las velocidades de memoria y microprocesadores, en menos de una década la performance de las
+computadoras estará completamente determinada por el tiempo
+que le tome el acceso a memoria. En ese punto, podríamos mejorar los procesadores todo lo que quisiéramos pero las computadoras no funcionarían más rápido.</p>
+<p class="calibre5">Para entender por qué, echémosle un vistazo a las líneas
+de tendencia. En los últimos 20 años, los microprocesadores
+han mejorado su velocidad cien veces. Los chips de memoria
+incrementaron su capacidad en un factor de 256.000. Pero la
+velocidad de memoria se mejoró sólo en un factor de 10. ¿Resultado? <em class="calibre10">Los procesadores gastan más y más de tiempo esperando los datos de la memoria, y menos haciendo computaciones
+útiles.</em></p>
+<p class="calibre5">Los diseñadores de computadoras han intentado de un tiempo
+a la fecha adelantar este problema con memorias “cache” y
+trucos astutos. Pero aún estas técnicas están siendo superadas por la brecha exponencialmente creciente entre la velocidad de la memoria y la del procesador.</p>
+<p class="calibre5">La razón por la que la IRAM puede ser capaz de demoler el
+muro de la memoria tiene que ver con la forma en que están
+construidos los chips de RAM estándar. La memoria principal
+de la computadora normalmente es una variante de la RAM conocida como RAM dinámica. Un chip de DRAM contiene una matriz
+de celdas de memoria, en la que cada celda retiene un bit.
+Una celda está hecha con un capacitor —un diminuto dispositivo que puede retener una carga eléctrica— y un transistor,
+que actúa como interruptor. Para leer una celda, se activa el
+transistor, disparando el capacitor. Una descarga de corriente significa un 1, y el capacitor debe ser recargado. Sin
+descarga representa un 0.</p>
+<p class="calibre5">Para seleccionar qué bit leer, una computadora usa una
+grilla de cables conectados a la matriz de celdas de memoria.
+Primero se aplica un pequeño voltaje a la fila seleccionada,
+seleccionando así todos los bits de esa fila, luego se dispara el cable de la columna apropiada. La combinación es suficiente para activar el transistor de esa fila y columna. Hacer esto lleva tiempo, sin embargo, y la mayor parte de la
+latencia involucrada en el acceso a memoria deviene del tiempo que lleva seleccionar los bits deseados.</p>
+<p class="calibre5">Además de la latencia, los diseños actuales de DRAM sufren
+de un bajo ancho de banda entre el procesador y la memoria.
+Muchos de los chips de DRAM usados en las PC tienen cuatro
+líneas de salida; esto significa que podemos leer sólo cuatro
+bits a la vez. Para ensanchar esta diminuta pajita, muchos
+diseñadores de computadoras enganchan hasta ocho chips de
+DRAM en paralelo para obtener un ancho de banda de memoria
+total de 32 bits. Sin embargo, esto se vuelve crecientemente
+caro y sigue actuando como cuello de botella.</p>
+<p class="calibre5"><em class="calibre10">La IRAM soluciona ambos problemas.</em> Si las predicciones son
+precisas, debe ser capaz de reducir la latencia de memoria
+dos o tres veces y mejorar el ancho de banda de memoria en un
+factor de 100. La mejora de latencia simplemente se logra a
+causa de la cercanía entre la memoria y el procesador. Esto
+elimina el “tiempo de cable” (el tiempo requerido para que la
+señal viaje por los conductores) y puede permitir esquemas de
+direccionamiento más sofisticados, y por ende más rápidos.</p>
+<p class="calibre5">El increíble incremento en el ancho de banda resulta del
+hecho de que el procesador la y memoria estén en el mismo
+chip, haciendo posible que se tiendan grandes cantidades de
+cables entre ellos. En contraste, tender cables entre chips
+separados está severamente restringido por los requerimientos
+de energía, tanto como de costo y espacio.</p>
+<p class="calibre5">Aunque la IRAM termina ayudando más con el ancho de banda
+que con la latencia, esto es exactamente lo que necesitamos
+para una clase cada vez mayor de aplicaciones. Casi todo lo
+que involucra gráficos, tal como la compresión o la animación
+3D, involucra manipular largas cadenas de bits. La IRAM abre
+el chorro de datos necesario entre la memoria y el procesador.</p>
+<p class="calibre5">No obstante, <em class="calibre10">la IRAM enfrenta significativas barreras</em>.
+Quizá la más importante es la histórica resistencia de los
+fabricantes de DRAM a desbaratar una fórmula ganadora. Después de todo, los fabricantes de chips se hicieron ricos estampando memorias tontas por años, ¿por qué cambiar ahora?</p>
+<p class="calibre5"><em class="calibre10">“Esta sería una nuez difícil de abrir”</em>, admite Patterson,
+<em class="calibre10">“si la industria de la DRAM tuviera un brillante futuro</em>
+<em class="calibre10">rosa.”</em> Sin embargo, la industria de la DRAM está enfrentando
+una crisis debida a la lenta demanda y una saturación de capacidad. La IRAM puede ser una salida conveniente, ofreciendo
+un nuevo uso a las líneas de fabricación de los fabricantes.</p>
+<p class="calibre5">Quizá lo <em class="calibre10">más excitante de la IRAM</em> es que iguala el campo
+de juego. Como señala Michael Slater, editor de Microprocessor
+Report, los jugadores establecidos —como Intel— <em class="calibre10">es improbable que empiecen a fabricar dispositivos tipo IRAM puesto que
+no saben nada de DRAMs</em>. De modo que la IRAM puede terminar el
+trabajo que Patterson comenzó con el RISC: destruir el duopolio de Intel y Motorola.</p>
+</div>
+
+</div>
+
+</body>
+</html>

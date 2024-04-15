@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="f7202164-5386-4736-b5f7-a7faf40ab6ff" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.27.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 193</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u77e54bbf-d4ad-43a7-9291-63bdb59d29a4" playOrder="1">
+      <navLabel>
+        <text>Editorial: Gira, gira, gira</text>
+      </navLabel>
+      <content src="c-193Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uc04bd1e2-44ab-4fb1-b9be-2e0c7b4b23d2" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-193Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u4b00d101-5c34-4138-93e9-6c8e4c75311b" playOrder="3">
+      <navLabel>
+        <text>Ficciones: La re-evolución de los Chamaleo d’or</text>
+      </navLabel>
+      <content src="c-193Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u5904f3b7-9aca-48dc-9276-f92286d451ff" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Ojos</text>
+      </navLabel>
+      <content src="c-193Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ub94a720d-d8c9-4c48-ba48-2eac4b9d726b" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Des-huelga</text>
+      </navLabel>
+      <content src="c-193Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ubbd3fe6c-02e4-4216-92f5-3ecbe5574435" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Esperanza de resurrección</text>
+      </navLabel>
+      <content src="c-193Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ub95ab1ac-0fc6-4588-bd15-36d6006619f2" playOrder="7">
+      <navLabel>
+        <text>Ficciones: La dama de la Luna</text>
+      </navLabel>
+      <content src="c-193Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ud3286669-daf6-46e8-97f1-345d12fa1796" playOrder="8">
+      <navLabel>
+        <text>Ensayo: La Mano Muerta de la Psicohistoria</text>
+      </navLabel>
+      <content src="c-193Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ue6a0b307-1174-40bc-b874-99b4983e4407" playOrder="9">
+      <navLabel>
+        <text>Humor: Don Ramirito, “El sorprendente Spider-Ram”</text>
+      </navLabel>
+      <content src="c-193Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u69af474b-8af9-4ee5-bad4-ebeac3f84520" playOrder="10">
+      <navLabel>
+        <text>Divulgación: El horror: nosotros mismos</text>
+      </navLabel>
+      <content src="c-193Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u8c311a15-a0ab-42bf-a509-8be9d8e348f7" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Ficción breve (45)</text>
+      </navLabel>
+      <content src="c-193Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u58ae3311-2b2a-4c12-be24-6db32cd4f824" playOrder="12">
+      <navLabel>
+        <text>Axxóncine: El día que la tierra se detuvo</text>
+      </navLabel>
+      <content src="c-193Pag12.htm"/>
+    </navPoint>
+    <navPoint id="ud9c1e7ce-d69a-4c49-9dc2-bc4df08dfd95" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Cuatro segundos y algo más</text>
+      </navLabel>
+      <content src="c-193Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u462aae96-b833-4c33-8863-d143328c261c" playOrder="14">
+      <navLabel>
+        <text>Ficciones: La cabaña</text>
+      </navLabel>
+      <content src="c-193Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u03a749da-fc98-4374-82ce-51ded5a0194c" playOrder="15">
+      <navLabel>
+        <text>Ficciones: El espejo del vodú</text>
+      </navLabel>
+      <content src="c-193Pag15.htm"/>
+    </navPoint>
+    <navPoint id="uee94c7c0-ea05-49e1-9fe8-def0aa5094ac" playOrder="16">
+      <navLabel>
+        <text>Ficciones: Máquina de sangre</text>
+      </navLabel>
+      <content src="c-193Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u35c5e701-d88e-426d-a588-983ebe6cd8fb" playOrder="17">
+      <navLabel>
+        <text>Clásico: El curioso caso de Benjamin Button</text>
+      </navLabel>
+      <content src="c-193Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u7a95e5d2-0a36-4226-8f05-f27016dbbed0" playOrder="18">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-193Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u7f523117-13bf-4eee-ae73-dd5bf607785c" playOrder="19">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

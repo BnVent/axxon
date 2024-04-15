@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Axxón 211 - </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link href="stylesheet.css" rel="stylesheet" type="text/css"/>
+<link href="page_styles.css" rel="stylesheet" type="text/css"/>
+</head>
+  <body class="calibre7">
+
+<div class="calibre1">
+<div class="cartel">
+</div>
+<h1 class="calibre8">Hermano menor (Capítulo 10)</h1>
+<h2 class="calibre9">Cory Doctorow</h2>
+</div>
+<div class="calibre1">
+<!-- #       page-title: Hermano menor (Capítulo 10), Cory Doctorow -->
+   <p class="bl"> </p>
+   <p class="bl"> </p>
+   <p class="pcalibre pri"><a href="/rev/?p=2252" class="calibre11"><b class="calibre4">ANTERIOR</b></a></p>
+   <p class="bl"> </p>
+   <p class="bl"> </p>
+   <div class="cuento">
+<p class="pcalibre pri"><b class="calibre4">Capítulo 10</b></p>
+<p class="pcalibre pri">¿Qué harías si descubrieras que hay un espía en tu entorno? Podrías denunciarlo, ponerlo contra la pared y echarlo. Pero entonces podría venir otro espía, y ese nuevo espía tendría más cuidado que el anterior y tal vez no se dejaría descubrir tan fácilmente.</p>
+<p class="calibre10">Aquí tienes una idea mejor: comienza a interceptar las comunicaciones del espía y dale información errónea, a él y a sus jefes. Digamos que sus jefes le ordenan reunir información sobre tus movimientos. Tú permites que te siga a todos lados y que tome todas las notas que quiera, pero luego abres con vapor los sobres que envía a su cuartel general y reemplazas su informe de tus movimientos con otro ficticio. Si quieres, puedes redactarlo para hacerlo quedar como un hombre errático y poco fiable, para que sus jefes se deshagan de él. Puedes manufacturar crisis para forzar a un bando o al otro a revelar las identidades de otros espías. En otras palabras, tú eres el amo.</p>
+<p class="calibre10">Eso se llama ataque del intermediario y, si lo piensas, es bastante aterrador. Alguien que se interpone en tus comunicaciones puede engañarte de mil maneras.</p>
+<p class="calibre10">Por supuesto, hay una forma genial de esquivar el ataque del intermediario: usar cripto. Con la cripto, no importa que el enemigo pueda ver tus mensajes, porque no puede descifrarlos, modificarlos y reenviarlos. Es una de las razones principales para usar cripto.</p>
+<p class="calibre10">Pero recuerda: para que la cripto funcione, debes las claves de la gente a la que quieres hablarle. Tu socio y tú deben compartir uno o dos secretos, unas claves que pueden utilizar para encriptar y desencriptar los mensajes con el fin de que el intermediario quede fuera.</p>
+<p class="calibre10">De allí surgió la idea de las claves públicas. Es un poco complicado, pero también increíblemente elegante.</p>
+<p class="calibre10">En la cripto de clave pública, cada usuario tiene dos claves. Son largas sucesiones de jerga matemática que tienen una propiedad casi mágica. Lo que codificas con una clave, lo decodificas con la otra y viceversa. Más aún, son las <i class="calibre13">únicas</i> claves que pueden hacerlo: si puedes descifrar un mensaje con una clave, <i class="calibre13">sabes</i> que fue cifrado con la otra (y viceversa).</p>
+<p class="calibre10">Así que escoges cualquiera de esas dos claves (no importa cuál) y la <i class="calibre13">publicas</i>. La conviertes en un total <i class="calibre13">no-secreto</i>. Quieres que todo el mundo sepa de ella. Por razones obvias, se la llama clave pública.</p>
+<p class="calibre10">La otra clave la escondes en los rincones más oscuros de tu mente. La proteges con tu vida. Nunca permites que nadie sepa de qué se trata. Esa se llama tu clave privada (obvio).</p>
+<p class="calibre10">Ahora, supongamos que eres espía y que quieres hablar con tus jefes. Todo el mundo conoce la clave pública de ellos. Todo el mundo conoce tu clave pública. Nadie conoce tu clave privada, salvo tú. Nadie conoce la clave privada de tus jefes, salvo ellos.</p>
+<p class="calibre10">Quieres enviarles un mensaje. Primero, lo encriptas con tu clave privada. Podrías mandar el mensaje así y funcionaría bastante bien, porque cuando tus jefes recibieran el mensaje sabrían que proviene de ti. ¿Cómo? Porque si pueden desencriptarlo con tu clave pública, solamente pudo ser encriptado con tu clave privada. Es equivalente a poner tu sello o tu firma al final del mensaje. Es como decir: Yo escribí esto y nadie más. Nadie pudo falsificarlo ni modificarlo.</p>
+<p class="calibre10">Por desgracia, todo esto no mantiene el mensaje <i class="calibre13">en secreto</i>, ya que tu clave pública es realmente muy conocida (tiene que serlo o estarías limitado a enviar mensajes sólo a los pocos que tuvieran tu clave pública). Cualquiera que interceptara el mensaje podría leerlo. No pueden modificarlo y hacerlo parecer como que provino de ti, pero si no quieres que nadie se entere de lo que estás diciendo, necesitas una solución mejor.</p>
+<p class="calibre10">Entonces, en lugar de encriptar el mensaje solamente con tu clave privada, <i class="calibre13">también</i> lo encriptas con la clave pública de tus jefes. De ese modo, lo cierras con doble candado. El primer candado —la clave pública de tus jefes— sólo se abre con la clave privada de tus jefes. El segundo candado —tu clave privada— sólo se abre con tu clave pública. Cuando tus jefes reciben el mensaje, lo abren con ambas claves y saben con seguridad que: a) tú lo escribiste y b) sólo ellos pueden leerlo.</p>
+<p class="calibre10">Es muy genial. El día que lo descubrí, Darryl y yo inmediatamente intercambiamos claves y pasamos meses riéndonos con sorna y frotándonos las manos, mientras nos enviábamos mensajes sobre altos secretos militares: dónde nos encontrábamos después de la escuela o si Van alguna vez le prestaría atención.</p>
+<p class="calibre10">Pero si quieres entender qué es la seguridad, debes considerar las posibilidades más paranoicas, por ejemplo: ¿y si te engaño, haciéndote creer que <i class="calibre13">mi</i> clave pública es la de tus jefes? Tú encriptas el mensaje con tu clave privada y mi clave pública. Yo lo desencripto, lo leo, vuelvo a encriptarlo con la <i class="calibre13">verdadera</i> clave pública de tus jefes y lo envío. Desde el punto de vista de tus jefes, nadie pudo haber escrito ese mensaje, salvo tú, y nadie pudo haberlo leído, salvo ellos.</p>
+<p class="calibre10">Y yo me siento en el medio, como una araña gorda en su red, y todos tus secretos me pertenecen.</p>
+<p class="calibre10">La forma más fácil de arreglarlo es publicitar muy ampliamente tu clave pública. Si conocer tu clave pública es <i class="calibre13">realmente</i> muy sencillo para cualquier persona, el intermediario encuentra cada vez más dificultades. ¿Pero sabes qué? Lograr que las cosas sean muy conocidas es tan difícil como mantenerlas en secreto. Piénsalo: ¿cuántos miles de millones de dólares se gastan en comerciales de champú y otras mierdas para asegurar que la mayor cantidad de personas sepan lo que el publicitario quiere que sepan?</p>
+<p class="calibre10">Hay una manera más barata de lidiar con los intermediarios: la red de confianza. Digamos que, antes de salir de tu cuartel general, tú y tus jefes se sientan a tomar un café y se revelan mutuamente sus claves. ¡No hay más intermediarios! Estás absolutamente seguro de quién es el dueño de las claves que posees, porque te las pusieron en las manos.</p>
+<p class="calibre10">Hasta ahora, todo bien. Pero existe un límite natural: ¿con cuánta gente puedes reunirte físicamente para intercambiar claves? ¿Cuántas horas del día quieres dedicar al equivalente de escribir tú solo la guía telefónica? ¿Cuántas de esas personas están dispuestas a dedicarte tanto tiempo?</p>
+<p class="calibre10">Pensar en todo esto como si fuese la guía telefónica te ayuda. Alguna vez, el mundo fue un sitio con un montón de guías telefónicas y cuando necesitabas un número lo buscabas en ese libro. Pero muchos de los números a los que querías llamar cierto día, o bien los sabías de memoria, o bien se los preguntabas a otras personas. Incluso en la actualidad, cuando salgo con el celular, les pregunto a Jolu o a Darryl si tienen el número que estoy buscando. Es más rápido y más fácil que buscarlo en la red, y también más confiable. Si Jolu tiene un número, yo confío en él y por lo tanto también confío en el número. Eso se llama confianza transitiva: confianza que se desplaza por la red de nuestras relaciones.</p>
+<p class="calibre10">Una red de confianza es una versión ampliada de lo mismo. Supongamos que me encuentro con Jolu y me da su clave. Yo la añado a la lista de claves que he firmado con mi clave privada. Eso significa que puedes descifrarla con mi clave pública y saber con seguridad que yo o alguien que tiene mi clave, en todo caso, estamos diciendo esta clave pertenece a tal persona.</p>
+<p class="calibre10">Yo te entrego toda mi lista de claves y, como tú confías en que de verdad me reuní con sus dueños y verifiqué todas las claves que contiene, la aceptas y la agregas a tu lista. Después, te reúnes con otro y le entregas toda tu lista a él. La lista crece, cada vez es más larga y, siempre que tú confíes en el siguiente sujeto de la cadena y éste confíe en el siguiente de la cadena y así sucesivamente, estás bastante a salvo.</p>
+<p class="calibre10">Lo que me lleva al tema de las fiestas de intercambio de claves. Que son <i class="calibre13">exactamente</i> lo que parecen: fiestas donde todos se reúnen para intercambiar claves con todos los demás. Mi intercambio de claves con Darryl fue una especie de mini-fiesta con apenas dos tristes invitados geek. Pero cuando hay más gente, se crea la semilla de una red de confianza que puede expandirse partiendo de allí. Conforme todos los que tienes en la lista de claves salen al mundo y se reúnen con más gente, se agregan cada vez más nombres a la red. Tú no tienes que reunirte con los nuevos, sólo confiar en que las claves que obtienes de los miembros de tu red son válidas.</p>
+<p class="calibre10">Es por eso que las redes de confianza y las fiestas siempre van juntas, como la manteca de maní y el chocolate.</p>
+<p class="bl1"> </p>
+<p class="bl1"> </p>
+<p class="pcalibre pri">***</p>
+<p class="bl1"> </p>
+<p class="pcalibre pri">—Diles nada más que es una fiesta superprivada, sólo con invitación —dije—. Diles que no traigan a nadie o no podrán entrar.</p>
+<p class="calibre10">Jolu me miró por encima de su café.</p>
+<p class="calibre10">—¿Bromeas, no? Cuando dices eso, la gente trae <i class="calibre13">más</i> amigos.</p>
+<p class="calibre10">—Grrr —dije. En esos días pasaba una noche por semana en lo de Jolu, actualizando el código de la indienet. Por hacerlo, Pigspleen de verdad me pagaba una suma de dinero no igual a cero, lo que me resultaba muy extraño. Nunca había pensado que me pagarían por escribir código—. ¿Qué hacemos entonces? Sólo queremos gente en la que realmente confiamos y no queremos decir por qué hasta tener todas las claves de todos y poder enviarles mensajes en secreto.</p>
+<p class="calibre10">Jolu eliminaba bugs y yo miraba por encima de su hombro. Antes, esto se llamaba programación extrema, lo que era un poco embarazoso. Ahora la llamamos programación a secas. Dos personas detectan bugs mucho mejor que una sola. Como dice el cliché: Cuando hay suficientes ojos, todo error es superficial.</p>
+<p class="calibre10">Estábamos trabajando con los informes de errores y preparándonos para lanzar la nueva versión. Todo se actualizaba automáticamente en segundo plano, de modo que los usuarios no tenían que hacer nada. Más o menos una vez por semana, despertaban y se encontraban con un programa mejor. Era bastante inquietante saber que el código que yo escribía sería utilizado por cientos de miles de personas <i class="calibre13">mañana</i>.</p>
+<p class="calibre10">—¿Qué hacemos? Viejo, no lo sé. Creo que tendremos que convivir con eso.</p>
+<p class="calibre10">Recordé los días del <i class="calibre13">Loca Diversión en Harajuku</i>. Había muchos desafíos sociales que involucraban a grandes grupos de personas como parte del juego.</p>
+<p class="calibre10">—OK, tienes razón. Pero al menos tratemos de mantenerlo en secreto. Diles que pueden traer, como máximo, una persona más, y que tiene que ser alguien que conocen personalmente desde hace cinco años como mínimo.</p>
+<p class="calibre10">Jolu apartó la vista de la pantalla.</p>
+<p class="calibre10">—Eh —dijo—. Eh, eso sí que funcionará. Ya lo estoy viendo. O sea, si me dijeras que no llevara a nadie, sólo pensaría ¿Quién diablos se cree que es?. Pero si me lo dices así parece algo estupendo de 007.</p>
+<p class="calibre10">Encontré un bug. Bebimos café. Fui a casa y jugué un poco al <i class="calibre13">Botín de Relojería</i>, tratando de no pensar en los jugadores que daban cuerda y hacían preguntas indiscretas, y me dormí como un bebé.</p>
+<p class="bl1"> </p>
+<p class="bl1"> </p>
+<p class="pcalibre pri">***</p>
+<p class="bl1"> </p>
+<p class="pcalibre pri">Los baños Sutro son las auténticas ruinas romanas falsas de San Francisco. Cuando se inauguraron, en 1896, se convirtieron en los baños bajo techo más grandes del mundo: un enorme solarium victoriano de cristal, con piscinas y tinas de baño, e incluso con un precursor de los toboganes de agua. En los ‘50 cayeron en decadencia y en 1966 sus dueños los prendieron fuego para cobrar el seguro. Lo único que queda es un laberinto de piedras erosionadas, empotradas en el estéril acantilado de Ocean Beach. Parecen, ni más ni menos, ruinas romanas desmoronadas y misteriosas, y justo detrás de ellas hay un grupo de cavernas que desembocan en el mar. Cuando el mar está agitado, las olas penetran en las cavernas y cubren las ruinas; hasta se sabe que, en ocasiones, han arrastrado y ahogado a algún turista.</p>
+<p class="calibre10">Ocean Beach está lejos, pasando el parque Golden Gate; es un acantilado desnudo, bordeado de viviendas costosas en mal estado, que desciende hacia una playa angosta, salpicada de medusas y de surfistas valientes (locos). Apenas termina la parte poco profunda, cerca de la costa, hay una roca blanca inmensa. Se llama la Piedra de las Focas y allí solían congregarse los leones marinos hasta que los reubicaron en ambientes más amigables para el turista, en Fisherman’s Wharf.</p>
+<p class="calibre10">Después de que anochece, no hay casi nadie allí. Hace mucho frío, con un rocío salado que te cala hasta los huesos si se lo permites. Las rocas son afiladas y hay vidrios rotos y alguna que otra aguja desechada por los drogones.</p>
+<p class="calibre10">Es un sitio genial para una fiesta.</p>
+<p class="calibre10">Llevar lonas impermeables y calentadores de manos químicos fue idea mía. A Jolu se le ocurrió dónde conseguir la cerveza: su hermano mayor, Javier, tenía un amigo que manejaba todo un servicio de venta de alcohol a menores; le pagabas lo suficiente y se aparecía en el remoto lugar de la fiesta con hieleras de poliestireno y todas las bebidas que querías. Gasté un manojo del dinero que había ganado por programar la indienet y el hombre se presentó justo a tiempo —8:00 p.m., una hora después del anochecer— y descargó seis hieleras portátiles de su camioneta en las ruinas de los baños. Hasta trajo una adicional para los envases vacíos.</p>
+<p class="calibre10">—Ahora no hagan locuras, chicos —dijo, golpeteando su sombrero de vaquero. Era un samoano gordo, con una enorme sonrisa y una aterradora camiseta sin mangas de la que se escapaban sus axilas, su panza y los pelos de sus hombros. Saqué billetes de veinte de mi rollo de dinero y se los entregué. Él miró el rollo.</p>
+<p class="calibre10">—¿Sabes? Podría arrebatarte eso —dijo, todavía sonriendo—. A fin de cuentas, soy un delincuente.</p>
+<p class="calibre10">Guardé el rollo en el bolsillo y lo miré a los ojos. Había sido una estupidez mostrarle lo que tenía, pero sabía que, a veces, hay que dejar en claro dónde estás parado.</p>
+<p class="calibre10">—Estoy bromeando —dijo por fin—. Pero ten cuidado con ese dinero. No andes mostrándolo.</p>
+<p class="calibre10">—Gracias —le dije—. Aunque Seguridad Interior me pescaría igual.</p>
+<p class="calibre10">Su sonrisa se agrandó aún más.</p>
+<p class="calibre10">—¡Ja! Ni siquiera son policías de verdad. Esos palurdos no saben nada.</p>
+<p class="calibre10">Miré su camioneta. En el parabrisas, destacadamente expuesto, había un FasTrak. Me pregunté cuánto tardarían en arrestarlo.</p>
+<p class="calibre10">—¿Hoy vienen chicas? ¿Por eso compraron toda esta cerveza?</p>
+<p class="calibre10">Sonreí y lo saludé con la mano como si estuviera regresando a la camioneta, que era lo debería estar haciendo. Finalmente, entendió la indirecta y se marchó. Nunca dejó de sonreír.</p>
+<p class="calibre10">Jolu me ayudó a esconder las hieleras entre los escombros, trabajando con pequeñas linternas LED blancas enganchadas en bandanas. Cuando estuvieron en su sitio, arrojamos unos pequeños llaveros LED blancos al interior de cada una para que iluminaran cuando les quitáramos las tapas de poliestireno y fuese más fácil ver lo que hacíamos.</p>
+<p class="calibre10">Era una noche sin luna, cubierta de nubes, y las distantes luces de la calle apenas nos alumbraban. Sabía que en un escaneo infrarrojo nos destacaríamos como llamaradas, pero no podías evitar que te observaran cuando reunías a un grupo de personas. Me contentaría con que nos echaran por celebrar una fiesta de gente un poco borracha en la playa.</p>
+<p class="calibre10">La verdad, no bebo mucho. Desde que tengo 14 años hay cerveza, marihuana y éxtasis en las fiestas, pero yo odio fumar (aunque soy bastante parcial a la hora de comerme un brownie de hashish de vez en cuando), el éxtasis lleva demasiado tiempo —¿quién dispone de todo un fin de semana para volarse y después bajar?— y la cerveza, bueno, no está mal, pero para mí no es gran cosa. Mis preferidos son los cócteles grandes, elaborados, que te sirven en un volcán de cerámica, con seis capas, en llamas y con un mono de plástico en el borde, pero más que nada por hacer teatro.</p>
+<p class="calibre10">En realidad me gusta estar borracho. Pero no me gusta la resaca y, maldición, siempre tengo resaca. Aunque, claro, eso puede tener relación con la clase de bebidas que te sirven en un volcán de cerámica.</p>
+<p class="calibre10">Pero no se puede hacer una fiesta sin poner uno o dos cajones de cerveza en hielo. Es lo que se espera. Afloja las cosas. La gente hace estupideces después de demasiadas cervezas, pero mis amigos no son de los que tienen coche. Además, la gente hace estupideces en cualquier momento: la cerveza, la hierba o lo que sea son incidentales, no el motivo central.</p>
+<p class="calibre10">Jolu y yo abrimos una cerveza cada uno —para él, una Anchor Steam; para mí, una Bud Lite— y entrechocamos las botellas, sentados en una piedra.</p>
+<p class="calibre10">—¿Les dijiste a las 9:00 p.m.?</p>
+<p class="calibre10">—Sí —respondió.</p>
+<p class="calibre10">—Yo también.</p>
+<p class="calibre10">Bebimos en silencio. La Bud Lite era lo menos alcohólico que había en las hieleras. Más tarde, necesitaría tener la cabeza fresca.</p>
+<p class="calibre10">—¿Alguna vez te asustas? —dije por fin.</p>
+<p class="calibre10">Se volvió para mirarme.</p>
+<p class="calibre10">—No, viejo. No me asusto. Siempre estoy asustado. Estoy asustado desde el mismo minuto en que ocurrieron las explosiones. A veces estoy tan asustado que no quiero salir de la cama.</p>
+<p class="calibre10">—¿Y por qué lo haces, entonces?</p>
+<p class="calibre10">Sonrió. —En cuanto a eso —dijo—, tal vez no lo haga más dentro de no mucho tiempo. O sea, fue genial ayudarte. Grandioso. Excelente, de verdad. No sé si alguna vez hice algo tan importante. Pero Marcus, hermano, tengo que decirte… —Calló.</p>
+<p class="calibre10">—¿Qué? —dije, aunque sabía lo que vendría a continuación.</p>
+<p class="calibre10">—No puedo hacerlo para siempre —dijo al fin—. Tal vez ni siquiera durante un mes más. Creo que terminé con esto. Es demasiado arriesgado. El DSI… no puedes hacerle la guerra. Es una locura. Realmente, verdaderamente, una locura.</p>
+<p class="calibre10">—Pareces Van —dije. Mi voz sonó mucho más amarga de lo que era mi intención.</p>
+<p class="calibre10">—No te critico, viejo. Creo que es genial que tengas la valentía de hacer esto todo el tiempo. Pero yo no la tengo. No puedo vivir mi vida con un terror perpetuo.</p>
+<p class="calibre10">—¿Qué estás diciendo?</p>
+<p class="calibre10">—Estoy diciendo que me salgo. Seré una de esas personas que actúan como si todo estuviera bien, como si todo fuera a volver a la normalidad algún día. Voy a usar la Internet, como lo hice siempre, y la Xnet sólo para jugar. Lo que estoy diciendo es que me salgo. Ya no formaré parte de tus planes.</p>
+<p class="calibre10">No dije nada.</p>
+<p class="calibre10">—Sé que esto significa dejarte solo. No lo deseo, créeme. Preferiría que tú renunciaras conmigo. No puedes declararle la guerra al gobierno de los EE. UU. No vas a ganar esa lucha. Mirarte mientras lo intentas es como mirar a un pájaro que se estrella contra la ventana una y otra vez.</p>
+<p class="calibre10">Él quería que le dijera algo. Y lo que <i class="calibre13">yo</i> quería decirle era ¡Vaya, Jolu, muchas gracias por abandonarme! ¿Te olvidas de lo que pasó cuando nos raptaron? ¿Te olvidas de cómo era el país antes de que ellos tomaran el control?. Pero eso no era lo que él quería que le dijera. Lo que quería que le dijera era:</p>
+<p class="calibre10">—Entiendo, Jolu. Respeto tu decisión.</p>
+<p class="calibre10">Bebió el resto de la botella, sacó otra y giró la tapa para abrirla.</p>
+<p class="calibre10">—Hay algo más —dijo.</p>
+<p class="calibre10">—¿Qué?</p>
+<p class="calibre10">—No iba a mencionarlo, pero quiero que comprendas por qué tengo que hacer esto.</p>
+<p class="calibre10">—Por Dios, Jolu, ¿<i class="calibre13">qué</i> ?</p>
+<p class="calibre10">—Odio decir esto, pero tú eres <i class="calibre13">blanco</i>. Yo no. A un blanco lo agarran con cocaína y lo mandan a rehabilitación. A un moreno lo agarran con crack y lo meten en la cárcel veinte años. Los blancos ven policías en las calles y se sienten seguros. Los morenos vemos policías en las calles y nos preguntamos si están a punto de palparnos de armas. ¿Hablas de cómo te trata el DSI? La ley de este país siempre fue así con nosotros.</p>
+<p class="calibre10">Era tan injusto. Yo no había pedido ser blanco. No me creía más valiente sólo por ser blanco. Pero sabía a qué se refería Jolu. Si la policía paraba a alguien en Mission, pidiéndole que les mostrara alguna identificación, había altas probabilidades de que no fuera un blanco. Cualquier riesgo que yo estuviera corriendo, para Jolu era mayor. Cualquier pena que yo tuviera que cumplir, la de Jolu sería mayor.</p>
+<p class="calibre10">—No sé qué decir —respondí.</p>
+<p class="calibre10">—No tienes que decir nada —dijo—. Sólo quería que lo supieras para que me entendieras.</p>
+<p class="calibre10">Vi gente que se acercaba hacia nosotros, caminando por la senda lateral. Eran amigos de Jolu, dos chicos mexicanos y una chica que yo conocía de por ahí, de baja estatura y medio geek, que siempre llevaba unas bonitas gafas negras estilo Buddy Holly que la hacían parecer la estudiante de arte marginada que regresa convertida en mujer exitosa en las películas adolescentes.</p>
+<p class="calibre10">Jolu me presentó y les di cerveza. La chica no aceptó; en cambio, sacó de su bolso una petaca plateada con vodka y me ofreció un trago. Bebí un trago —el gusto por el vodka tibio debe de ser adquirido— y elogié la petaca, que estaba repujada con un motivo repetitivo de los personajes de Parappa el Rapero.</p>
+<table cellspacing="0" width="240" height="220" cellpadding="0" class="calibre20">
+<tbody class="calibre16">
+<tr class="calibre17">
+<td class="calibre21">
+<table width="200" class="calibre20">
+<tbody class="calibre16">
+<tr class="calibre17">
+<td class="calibre22">
+<a target="_blank" href="/rev/211/cuento5ilus3.htm" class="calibre11"><img title="clic para ampliar" src="211cuento5ilus3ch.jpg" class="calibre23"/></a><br class="calibre24"/><span class="calibre25">Ilustración: Valeria Uccelli </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="calibre10">—Es japonesa —me dijo, mientras yo pasaba otro llavero con luces LED sobre la petaca—. Tienen juguetes geniales relacionados con el alcohol, basados en juegos para chicos. Totalmente enfermo.</p>
+<p class="calibre10">Me presenté y se presentó. Ange, dijo, y me estrechó la mano con la suya… seca, tibia, de uñas cortas. Jolu me presentó a sus amigos, a los que conocía desde el campamento informático de cuarto grado. Apareció más gente: cinco, diez, luego veinte. Ahora ya era un grupo bien grande.</p>
+<p class="calibre10">Les habíamos dicho que llegaran a las 9:30 en punto y esperamos hasta las 9:45 para ver cuántos venían en total. Unos tres cuartos eran amigos de Jolu. Yo había invitado a todos en los que realmente confiaba. O bien yo discriminaba más que él, o bien era menos popular. Ahora que me había dicho que renunciaba, se me ocurrió que seguramente discriminaba menos. Estaba de verdad enojado con él, pero trataba de no demostrarlo, concentrándome en socializar con otra gente. Pero Jolu no era estúpido. Sabía lo que me estaba pasando. Advertí que estaba muy decaído. Bien.</p>
+<p class="calibre10">—OK —dije, trepándome a una ruina—. OK, ¡eh!, ¿hola? —Algunos que estaban cerca me prestaron atención, pero los del fondo siguieron charlando. Subí los brazos como un referí, pero estaba muy oscuro. Por fin, se me ocurrió la idea de encender el llavero LED y apuntar con la luz a cada uno de los que charlaban y luego a mí mismo. Gradualmente, fueron quedándose en silencio.</p>
+<p class="calibre10">Les di la bienvenida y les agradecí a todos por venir; después, les pedí que se acercaran para que les explicara por qué estábamos allí. Me di cuenta de que todos eran conscientes de la confidencialidad de todo esto, de que estaban intrigados y un poco encendidos por la cerveza.</p>
+<p class="calibre10">—Bien, esto es así. Todos ustedes usan la Xnet. No es coincidencia que la Xnet se haya creado justo después de que el DSI tomó el control de la ciudad. Los que crearon esta red forman una organización dedicada a las libertades personales y lo hicieron para mantenernos a salvo de los espías y las fuerzas del orden del DSI. —Jolu y yo habíamos preparado esto por anticipado. No queríamos dejar traslucir ante nadie que éramos nosotros los que estábamos detrás de todo esto. Era demasiado riesgoso. En cambio, queríamos quedar como dos simples tenientes del ejército de M1k3y, que actuaban como organizadores de la resistencia local—. La Xnet no es pura. El bando contrario puede usarla con tanta facilidad como nosotros. Sabemos que ahora mismo hay espías del DSI que la usan. Utilizan trampas de manipulación social y tratan de hacernos revelar nuestra identidad para poder arrestarnos. Si queremos que la Xnet tenga éxito, hay que pensar en cómo hacer para evitar que nos espíen. Necesitamos una red dentro de la red.</p>
+<p class="calibre10">Hice una pausa para dejar que lo asimilaran. Jolu había sugerido que todo esto podía resultar un poco fuerte: enterarse de que estás a punto de ingresar en una célula revolucionaria.</p>
+<p class="calibre10">—Ahora bien, no estoy aquí para pedirles que hagan nada activamente. No tienen que salir a clonar ni nada. Los hemos traído porque sabemos que tienen buena onda, sabemos que son de fiar. Es esa confianza lo que quiero que aporten esta noche. Algunos ya estarán familiarizados con las redes de confianza y las fiestas de intercambio de claves, pero lo explicaré brevemente para el resto…</p>
+<p class="calibre10">Cosa que hice.</p>
+<p class="calibre10">—Bien, lo que quiero que hagan esta noche es que conozcan a los que están aquí y decidan hasta qué punto pueden confiar en ellos. Los ayudaremos a generar pares de claves y a compartirlas entre ustedes.</p>
+<p class="calibre10">Esa parte era complicada. Pedirles que trajeran sus laptops no habría resultado, pero necesitábamos hacer algo tremendamente complejo que no funcionaría muy exactamente que digamos si usábamos lápiz y papel.</p>
+<p class="calibre10">Levanté la laptop que Jolu y yo habíamos reconstruido desde cero la noche anterior.</p>
+<p class="calibre10">—Confío en esta máquina. Instalamos todos sus componentes con nuestras propias manos. Usa una versión del ParanoidLinux recién sacada de su caja, booteada del DVD. Si queda una sola computadora confiable en el mundo, bien puede ser esta.</p>
+<p class="calibre10">»Aquí tengo cargado un generador de claves. Ustedes se acercan, ponen algo al azar… oprimiendo varias teclas, sacudiendo el mouse… y el programa lo usará como semilla para crearles una clave pública y una privada que se mostrará en la pantalla. Pueden tomar una foto de la clave privada con el celular y luego pulsar cualquier tecla para hacerla desaparecer para siempre; no queda almacenada en el disco ni nada. Después, verán la clave pública. En ese momento, llaman a toda la gente de aquí en la que confíen y que confía en ustedes, y <i class="calibre13">ellos</i> sacan una foto de la pantalla con el dueño de la clave parado junto a la máquina para que sepan a quién pertenece esa clave.</p>
+<p class="calibre10">»Cuando vuelvan a casa, tienen que convertir esas fotos en claves. Lamento decirles que es mucho trabajo, pero tendrán que hacerlo una sola vez. Tienen que ser supercuidadosos cuando las escriben… un error y están jodidos. Por suerte, tenemos un modo de descubrir si lo hicieron bien: debajo de la clave aparecerá un número mucho más corto, que se llama ‘huella digital’. Cuando terminen de escribir la clave, generen una huella digital de eso y compárenla con la original; si coinciden, está bien.</p>
+<p class="calibre10">Todos me miraban atónitos. OK, les había pedido que hicieran algo bastante raro, es cierto, pero aún así…</p>
+</div>
+   <p class="bl"> </p>
+   <p class="bl"> </p>
+   <p class="pcalibre pri"><a href="/rev/?p=2254" class="calibre11"><b class="calibre4">SIGUIENTE</b></a></p>
+   <p class="bl"> </p>
+   <p class="bl"> </p></div>
+
+<hr class="calibre6"/>
+
+
+
+</body></html>

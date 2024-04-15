@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Ediciones Axxón</dc:publisher>
+    <meta name="calibre:series_index" content="237"/>
+    <dc:language>es</dc:language>
+    <dc:creator opf:file-as="Desconocido" opf:role="aut">Eduardo Carletti (editor)</dc:creator>
+    <meta name="calibre:timestamp" content="2013-01-01T18:06:19.546000+00:00"/>
+    <dc:title>Axxón 237</dc:title>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:series" content="Axxón"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">e869e9ef-2746-46ed-8665-0e021b400c5b</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="237cuento10ilus1ch.jpg" id="added26" media-type="image/jpeg"/>
+    <item href="237cuento3ilus1ch.jpg" id="added10" media-type="image/jpeg"/>
+    <item href="237cuento3ilus2ch.jpg" id="added11" media-type="image/jpeg"/>
+    <item href="237cuento4ilus1ch.jpg" id="added13" media-type="image/jpeg"/>
+    <item href="237cuento5ilus1ch.jpg" id="added14" media-type="image/jpeg"/>
+    <item href="237cuento6ilus1ch.jpg" id="added15" media-type="image/jpeg"/>
+    <item href="237cuento8ilus1ch.jpg" id="added23" media-type="image/jpeg"/>
+    <item href="237cuento8ilus2ch.jpg" id="added24" media-type="image/jpeg"/>
+    <item href="237cuento9ilus1ch.jpg" id="added25" media-type="image/jpeg"/>
+    <item href="237editcdjv.jpg" id="added3" media-type="image/jpeg"/>
+    <item href="237ensayo7ilus1ch.jpg" id="added17" media-type="image/jpeg"/>
+    <item href="237ensayo7ilus2ch.jpg" id="added18" media-type="image/jpeg"/>
+    <item href="237ensayo7ilus3ch.jpg" id="added21" media-type="image/jpeg"/>
+    <item href="237ensayo7ilus4ch.jpg" id="added19" media-type="image/jpeg"/>
+    <item href="237ensayo7ilus5ch.jpg" id="added20" media-type="image/jpeg"/>
+    <item href="237ensayo7ilus6ch.jpg" id="added22" media-type="image/jpeg"/>
+    <item href="237entrevista2ilus1ch.jpg" id="added4" media-type="image/jpeg"/>
+    <item href="237entrevista2ilus2ch.jpg" id="added5" media-type="image/jpeg"/>
+    <item href="237entrevista2ilus3ch.jpg" id="added6" media-type="image/jpeg"/>
+    <item href="237entrevista2ilus4ch.jpg" id="added7" media-type="image/jpeg"/>
+    <item href="axxon.htm" id="html11" media-type="application/xhtml+xml"/>
+    <item href="axxon00.gif" id="added27" media-type="image/gif"/>
+    <item href="axxon237.htm" id="html" media-type="application/xhtml+xml"/>
+    <item href="band-arg.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="band-esp.jpg" id="added9" media-type="image/jpeg"/>
+    <item href="band-int.jpg" id="added16" media-type="image/jpeg"/>
+    <item href="band-mex.jpg" id="added12" media-type="image/jpeg"/>
+    <item href="c-237Pag01.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="c-237Pag02.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="c-237Pag03.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="c-237Pag04.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="c-237Pag05.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="c-237Pag06.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="c-237Pag07.htm" id="html7" media-type="application/xhtml+xml"/>
+    <item href="c-237Pag08.htm" id="html8" media-type="application/xhtml+xml"/>
+    <item href="c-237Pag09.htm" id="html9" media-type="application/xhtml+xml"/>
+    <item href="c-237Pag10.htm" id="html10" media-type="application/xhtml+xml"/>
+    <item href="c-237tapach.jpg" id="added28" media-type="image/jpeg"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="x-epub.png" id="added29" media-type="image/png"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+    <itemref idref="html1"/>
+    <itemref idref="html2"/>
+    <itemref idref="html3"/>
+    <itemref idref="html4"/>
+    <itemref idref="html5"/>
+    <itemref idref="html6"/>
+    <itemref idref="html7"/>
+    <itemref idref="html8"/>
+    <itemref idref="html9"/>
+    <itemref idref="html10"/>
+    <itemref idref="html11"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

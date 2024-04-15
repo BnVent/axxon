@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="80097a3e-c849-4d0b-b485-79dac756d83c" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.9.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 258</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ua46a0ba9-e6c1-47c9-8e8f-92e0406745eb" playOrder="1">
+      <navLabel>
+        <text>Editorial: Esos lectores</text>
+      </navLabel>
+      <content src="c-258Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u87127e43-6606-4dc3-894a-f6d6395e4235" playOrder="2">
+      <navLabel>
+        <text>Ficciones: La sonrisa acabada</text>
+      </navLabel>
+      <content src="c-258Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u799c2c24-5fbb-4789-ab36-ea9031c1d728" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Música incidental para helecho y cuarenta comensales</text>
+      </navLabel>
+      <content src="c-258Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ua0119678-55b4-49d3-b822-57e49b1946b7" playOrder="4">
+      <navLabel>
+        <text>Entrevista: Editando para los Nuevos Mitos – Entrevista a Santiago Oviedo</text>
+      </navLabel>
+      <content src="c-258Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u4059a8a2-2667-4ed1-83b7-65b85de8e568" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Cruces</text>
+      </navLabel>
+      <content src="c-258Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u140eecec-190b-46a6-81f2-270f1e58551e" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Un adiós cercano</text>
+      </navLabel>
+      <content src="c-258Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ue9762c7d-5350-43b1-9cd5-aac129938610" playOrder="7">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

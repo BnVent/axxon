@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="5b5a652e-599e-4cf3-87f5-e8eac62a1206" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.16.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 200</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ue0dbb44c-d367-4a06-8741-5506fe59e2c8" playOrder="1">
+      <navLabel>
+        <text>Editorial: “Veinte años no es nada… fácil”</text>
+      </navLabel>
+      <content src="c-200Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ub1331946-40df-4018-a2c0-4cb3eebd8a63" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-200Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uc85ae2a6-e5a7-453b-a759-04f9d9b2fb4f" playOrder="3">
+      <navLabel>
+        <text>Ficciones: La canción de Maguerra (Novela)</text>
+      </navLabel>
+      <content src="c-200Pag03_split_000.htm"/>
+    </navPoint>
+    <navPoint id="ub7e86b0f-4f36-4d00-a6ca-b01b2e2ac019" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (cincuenta y uno)</text>
+      </navLabel>
+      <content src="c-200Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ud7043154-90b9-4021-a7be-9b4b4e321446" playOrder="5">
+      <navLabel>
+        <text>Ensayo: Sherlock Time: Los límites del género policial y el caso de la ciencia ficción</text>
+      </navLabel>
+      <content src="c-200Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uf6a60804-9f43-44a5-a12a-62c54c93030f" playOrder="6">
+      <navLabel>
+        <text>Ensayo: No sólo las PCs rebootean (A propósito de Star Trek)</text>
+      </navLabel>
+      <content src="c-200Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ubdd69f4f-9323-4840-b075-36b57b5717e1" playOrder="7">
+      <navLabel>
+        <text>Divulgación: ¿Estamos solos? (parte 3, conclusión)</text>
+      </navLabel>
+      <content src="c-200Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u70a9a451-be23-45dd-b1bb-23ef096d7fd0" playOrder="8">
+      <navLabel>
+        <text>Axxóncine: A.I. Inteligencia Artificial</text>
+      </navLabel>
+      <content src="c-200Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ud204935f-d472-4237-bdbe-e2a8c47c9424" playOrder="9">
+      <navLabel>
+        <text>Ficciones: El coche rojo</text>
+      </navLabel>
+      <content src="c-200Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ub6a4779e-419d-4505-a8e3-2af29e6886a8" playOrder="10">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="7d791cb9-9067-4ce3-97a4-fc7b48a11e17" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.16.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 210</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ubc04e0d6-d149-4461-8235-78ca3f29cf54" playOrder="1">
+      <navLabel>
+        <text>Ficciones: A canilla regalada no hay que mirarle el cuerito</text>
+      </navLabel>
+      <content src="c-210Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ub82b2f95-fad0-4957-8d7d-aba3f0d7b40a" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Versión ‘n’</text>
+      </navLabel>
+      <content src="c-210Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u8a3b6a60-d1e0-411a-8ef2-a8d51e4523bf" playOrder="3">
+      <navLabel>
+        <text>Ficciones: ¿Cuándo voy a morir, doctor?</text>
+      </navLabel>
+      <content src="c-210Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u3aea9c84-ca75-4ad2-9468-09a86bc547ec" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El principio de incertidumbre</text>
+      </navLabel>
+      <content src="c-210Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u353ee2f7-e91d-4739-9af1-5a520c211a4b" playOrder="5">
+      <navLabel>
+        <text>Ensayo: Acerca de la singular intervención de Faretta en la revista Fierro</text>
+      </navLabel>
+      <content src="c-210Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u16a91511-f779-4bba-816c-63f45f557433" playOrder="6">
+      <navLabel>
+        <text>Axxóncine: Frankenstein y su novia: El engolosinamiento con el horror</text>
+      </navLabel>
+      <content src="c-210Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u1c27ac8a-7aab-4b68-b4b7-e186b6d04e2a" playOrder="7">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-210Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u54b09e45-c3e9-495e-9be0-c644c67be949" playOrder="8">
+      <navLabel>
+        <text>Historieta: Historieta Perla Líquida, Capítulo I</text>
+      </navLabel>
+      <content src="c-210Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u809de639-3948-4e54-bbec-a0b840900895" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Ulalume</text>
+      </navLabel>
+      <content src="c-210Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uf2b495d9-2271-4c23-a34b-3bcf94b67082" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Realidad aumentada</text>
+      </navLabel>
+      <content src="c-210Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u1ad8584c-dd02-4a22-8f5c-0ad96554c736" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Andiamo!</text>
+      </navLabel>
+      <content src="c-210Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u950d9e4a-eb23-418c-9432-8e3a94401d93" playOrder="12">
+      <navLabel>
+        <text>Ficciones: La razón de las estatuas</text>
+      </navLabel>
+      <content src="c-210Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u34e6244a-f33d-4418-a856-68471970a473" playOrder="13">
+      <navLabel>
+        <text>Ficciones: La anomalía</text>
+      </navLabel>
+      <content src="c-210Pag13.htm"/>
+    </navPoint>
+    <navPoint id="ubdbca5a3-e3fd-418b-ba00-ac3cb5481da6" playOrder="14">
+      <navLabel>
+        <text>Ficciones: Todos nosotros, zombies</text>
+      </navLabel>
+      <content src="c-210Pag14.htm"/>
+    </navPoint>
+    <navPoint id="ufcc37dfe-3aeb-45cb-a4d6-ad79b1a6e902" playOrder="15">
+      <navLabel>
+        <text>Ficciones: Warreh Spawn</text>
+      </navLabel>
+      <content src="c-210Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u5d8a5c85-3da2-4cfe-a1fd-297cc115b2d6" playOrder="16">
+      <navLabel>
+        <text>Ficciones: Un hombre afortunado</text>
+      </navLabel>
+      <content src="c-210Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u2b8a4df9-df06-4688-bccc-25ed579cc44c" playOrder="17">
+      <navLabel>
+        <text>Editorial: Para cerrar</text>
+      </navLabel>
+      <content src="c-210Pag17.htm"/>
+    </navPoint>
+    <navPoint id="uac77bc4a-7daf-48b0-b91c-2edeae6b3d1c" playOrder="18">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="36dcb220-8606-4325-9491-f58a78154066" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.30.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 131</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u8f443e0f-ef71-445f-b6b6-f99eb9af8999" playOrder="1">
+      <navLabel>
+        <text>Editorial: Aquí estamos</text>
+      </navLabel>
+      <content src="c-131Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u0e6aaab7-bd35-4b21-8c2e-0831d8614bfa" playOrder="2">
+      <navLabel>
+        <text>Crónica: Catorce años, que son como un nuevo comienzo</text>
+      </navLabel>
+      <content src="c-131Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u6514e06b-2d82-4522-ba3e-69c66d50875e" playOrder="3">
+      <navLabel>
+        <text>Correo: Correo 131</text>
+      </navLabel>
+      <content src="c-131Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uff32bfff-6c24-44c8-b81a-5e7aec93a26e" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Sagradas escrituras</text>
+      </navLabel>
+      <content src="c-131Pag04.htm"/>
+    </navPoint>
+    <navPoint id="udd7037d9-6f8d-460d-a72d-8228b1ce9c26" playOrder="5">
+      <navLabel>
+        <text>Divulgación: Los nuevos virus</text>
+      </navLabel>
+      <content src="c-131Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u21171c6e-3ea2-4e04-9701-b92bdd119950" playOrder="6">
+      <navLabel>
+        <text>Sección: Anacrónicas</text>
+      </navLabel>
+      <content src="c-131Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u3da68fd7-439e-47cf-893d-2ad67b57267b" playOrder="7">
+      <navLabel>
+        <text>Anacrónicas: El secreto del buen humor</text>
+      </navLabel>
+      <content src="c-131Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u3789418d-88a2-4d2b-a715-bb742421545c" playOrder="8">
+      <navLabel>
+        <text>Anacrónicas: El maestro ignoramus</text>
+      </navLabel>
+      <content src="c-131Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ud661ea09-0a78-46a7-bac6-a4e7f3434c75" playOrder="9">
+      <navLabel>
+        <text>Anacrónicas: El Gaucho de los Anillos (12)</text>
+      </navLabel>
+      <content src="c-131Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u3065f2e2-de2e-47d7-bf9b-44bf6e01bc63" playOrder="10">
+      <navLabel>
+        <text>Contratapa: Dune</text>
+      </navLabel>
+      <content src="c-131Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u675d4f0b-0804-46ec-bf00-1df235fccede" playOrder="11">
+      <navLabel>
+        <text>Ensayo: El Principio de Incertidumbre resuelto</text>
+      </navLabel>
+      <content src="c-131Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u2782e1df-fd17-4e47-9cc6-1b90bf39df64" playOrder="12">
+      <navLabel>
+        <text>Ficciones: El cajero automático</text>
+      </navLabel>
+      <content src="c-131Pag12.htm"/>
+    </navPoint>
+    <navPoint id="ue6f1a3eb-cf10-4e04-a7ba-eedf3cf2dc9f" playOrder="13">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

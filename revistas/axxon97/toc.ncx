@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="75ee9fb5-756d-48a4-930d-6239e25c4d4a" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.36.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 97</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u9dca652e-7209-4563-8b70-86e5aa845885" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-97Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u1df04793-5429-4c3a-bc92-4b5cd86b7796" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 97</text>
+      </navLabel>
+      <content src="c-97Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u1880b0cb-e192-4cc5-8b2f-24423c43bf20" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El tiempo de la fe</text>
+      </navLabel>
+      <content src="c-97Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uf5d9e989-28c1-4164-9f2e-4a9da61ddce9" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Corazones de obsidiana</text>
+      </navLabel>
+      <content src="c-97Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u02161df0-393d-4102-b8ca-8cca72b6dfc8" playOrder="5">
+      <navLabel>
+        <text>Bestiario: Teorías de Navegación Interestelar</text>
+      </navLabel>
+      <content src="c-97Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ua1bee6bb-03be-4e31-968c-a3c0bf755845" playOrder="6">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual</text>
+      </navLabel>
+      <content src="c-97Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u016c9f33-2418-4ef3-a9f3-b85d1c59c168" playOrder="7">
+      <navLabel>
+        <text>Sección: Info Córtex</text>
+      </navLabel>
+      <content src="c-97Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u7426fc7b-a330-4c88-b124-e6d72133ac68" playOrder="8">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-97Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u85d8c6e8-406d-456d-b68d-3024a2fdf8ac" playOrder="9">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-97Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u3e8f19c3-35e6-4cd5-bc34-714a35b325c0" playOrder="10">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

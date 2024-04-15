@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="c8100acf-babb-4cc0-9f10-d192aa04f464" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.17.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 291</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u4FF6V9jftoijI8Ho6MbCdA" playOrder="1">
+      <navLabel>
+        <text>Ficciones: Instrucción para deconstrucción</text>
+      </navLabel>
+      <content src="c-291Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uV8fb8aVm2hTPePkxOPvtaC" playOrder="2">
+      <navLabel>
+        <text>Ficciones: La maldición de Larry</text>
+      </navLabel>
+      <content src="c-291Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ux2WNMIMyREZbmxDBoYF962" playOrder="3">
+      <navLabel>
+        <text>Ensayo: Inteligencia artificial que escribe ficciones</text>
+      </navLabel>
+      <content src="c-291Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uBjgDceZ5W9Rqnt9ucrlxW7" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Espejos</text>
+      </navLabel>
+      <content src="c-291Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uJfXIGHtuLSkoTclXT8mcK8" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Muerte y resurrección</text>
+      </navLabel>
+      <content src="c-291Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uNlRQ24U7Njefe9WNZslz4B" playOrder="6">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-291Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uFxjlMxGmPfa2FROJDWwuc9" playOrder="7">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

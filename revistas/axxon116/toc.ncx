@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="ad915bb8-d2f7-419d-a223-6a09072bc64c" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.14.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 116</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ua070d823-99f6-4c3d-ac7e-69ccd8106ffc" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 116</text>
+      </navLabel>
+      <content src="c-116Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ueb0ce7fb-cd15-41a9-ac5f-53de52e18aa3" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Más allá del sueño: El medallón (novela ganadora del Premio Axxón)</text>
+      </navLabel>
+      <content src="c-116Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ufc78dca1-bfb6-432c-9232-213099a9a898" playOrder="3">
+      <navLabel>
+        <text>Correo: Correo 116</text>
+      </navLabel>
+      <content src="c-116Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ua9dc9e7a-198d-450f-9fd4-1eed445c2e62" playOrder="4">
+      <navLabel>
+        <text>Sección: Andernow</text>
+      </navLabel>
+      <content src="c-116Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u7280ef62-2725-446e-a5b2-7bf740186828" playOrder="5">
+      <navLabel>
+        <text>Ensayo: “A la sombra de los bárbaros”, de Eduardo Goligorsky: Política y Ciencia Ficción</text>
+      </navLabel>
+      <content src="c-116Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u07af1489-7c18-4973-b74e-96bcdf059a07" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Migración</text>
+      </navLabel>
+      <content src="c-116Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u5cec869b-3ae3-4075-be39-5b18a740aba0" playOrder="7">
+      <navLabel>
+        <text>Ficciones: El arca</text>
+      </navLabel>
+      <content src="c-116Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u742b9010-de70-442e-8b8e-d6f062bf4938" playOrder="8">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

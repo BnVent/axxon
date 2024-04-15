@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Ediciones Axxón</dc:publisher>
+    <meta name="calibre:series_index" content="109"/>
+    <dc:language>es</dc:language>
+    <dc:creator opf:file-as="Desconocido" opf:role="aut">Eduardo Carletti (editor)</dc:creator>
+    <meta name="calibre:timestamp" content="2013-05-17T20:13:48.765000+00:00"/>
+    <dc:title>Axxón 109</dc:title>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:series" content="Axxón"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">a3af6cf3-35b0-4db9-be4a-d5aec09b04af</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="axxon.htm" id="html15" media-type="application/xhtml+xml"/>
+    <item href="axxon00.gif" id="added34" media-type="image/gif"/>
+    <item href="axxon109.htm" id="html" media-type="application/xhtml+xml"/>
+    <item href="c-109Pag01.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="c-109Pag02.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="c-109Pag03.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="c-109Pag04.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="c-109Pag05.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="c-109Pag06.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="c-109Pag07.htm" id="html7" media-type="application/xhtml+xml"/>
+    <item href="c-109Pag08.htm" id="html8" media-type="application/xhtml+xml"/>
+    <item href="c-109Pag09.htm" id="html9" media-type="application/xhtml+xml"/>
+    <item href="c-109Pag10.htm" id="html10" media-type="application/xhtml+xml"/>
+    <item href="c-109Pag11.htm" id="html11" media-type="application/xhtml+xml"/>
+    <item href="c-109Pag12.htm" id="html12" media-type="application/xhtml+xml"/>
+    <item href="c-109Pag13.htm" id="html13" media-type="application/xhtml+xml"/>
+    <item href="c-109Pag14.htm" id="html14" media-type="application/xhtml+xml"/>
+    <item href="c-109cannibal.htm" id="added22" media-type="application/xhtml+xml"/>
+    <item href="c-109esceptico.htm" id="added21" media-type="application/xhtml+xml"/>
+    <item href="c-109fotocg.jpg" id="added4" media-type="image/jpeg"/>
+    <item href="c-109gardiniupc2001.htm" id="added2" media-type="application/xhtml+xml"/>
+    <item href="c-109iluspesc1.jpg" id="added15" media-type="image/jpeg"/>
+    <item href="c-109iluspesc1ch.jpg" id="added16" media-type="image/jpeg"/>
+    <item href="c-109iluspesc2.jpg" id="added17" media-type="image/jpeg"/>
+    <item href="c-109iluspesc2ch.jpg" id="added18" media-type="image/jpeg"/>
+    <item href="c-109ilusupc1996.jpg" id="added5" media-type="image/jpeg"/>
+    <item href="c-109ilusupc1996a.jpg" id="added10" media-type="image/jpeg"/>
+    <item href="c-109ilusupc1996ach.jpg" id="added11" media-type="image/jpeg"/>
+    <item href="c-109ilusupc1996b.jpg" id="added12" media-type="image/jpeg"/>
+    <item href="c-109ilusupc1996bch.jpg" id="added13" media-type="image/jpeg"/>
+    <item href="c-109ilusupctierranegra.jpg" id="added6" media-type="image/jpeg"/>
+    <item href="c-109ilusupctierranegrach.jpg" id="added7" media-type="image/jpeg"/>
+    <item href="c-109ilusupctribu.jpg" id="added8" media-type="image/jpeg"/>
+    <item href="c-109ilusupctribuch.jpg" id="added9" media-type="image/jpeg"/>
+    <item href="c-109letras.htm" id="added23" media-type="application/xhtml+xml"/>
+    <item href="c-109ouija.htm" id="added20" media-type="application/xhtml+xml"/>
+    <item href="c-109tapach.jpg" id="added35" media-type="image/jpeg"/>
+    <item href="c-109tourbuchered.jpg" id="added26" media-type="image/jpeg"/>
+    <item href="c-109tourbucheredch.jpg" id="added27" media-type="image/jpeg"/>
+    <item href="c-109toureaten.jpg" id="added24" media-type="image/jpeg"/>
+    <item href="c-109toureatench.jpg" id="added25" media-type="image/jpeg"/>
+    <item href="c-109tourgallery.jpg" id="added32" media-type="image/jpeg"/>
+    <item href="c-109tourgallerych.jpg" id="added33" media-type="image/jpeg"/>
+    <item href="c-109tourtomb.jpg" id="added28" media-type="image/jpeg"/>
+    <item href="c-109tourtombch.jpg" id="added29" media-type="image/jpeg"/>
+    <item href="c-109tourvile.jpg" id="added30" media-type="image/jpeg"/>
+    <item href="c-109tourvilech.jpg" id="added31" media-type="image/jpeg"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="x-bullet7.gif" id="added19" media-type="image/gif"/>
+    <item href="x-epub.png" id="added36" media-type="image/png"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+    <itemref idref="html1"/>
+    <itemref idref="html2"/>
+    <itemref idref="html3"/>
+    <itemref idref="html4"/>
+    <itemref idref="html5"/>
+    <itemref idref="html6"/>
+    <itemref idref="html7"/>
+    <itemref idref="html8"/>
+    <itemref idref="html9"/>
+    <itemref idref="html10"/>
+    <itemref idref="html11"/>
+    <itemref idref="html12"/>
+    <itemref idref="html13"/>
+    <itemref idref="html14"/>
+    <itemref idref="html15"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

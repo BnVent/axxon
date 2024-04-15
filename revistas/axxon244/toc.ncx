@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="5c003be9-3f37-4dd3-a85b-3426f4b1dc43" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.40)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 244</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ubdd6e792-c9d8-4d6e-9cba-3d9bd2827258" playOrder="1">
+      <navLabel>
+        <text>Editorial: La visión</text>
+      </navLabel>
+      <content src="c-244Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u6cf74110-6b66-4b50-8b92-356450770abf" playOrder="2">
+      <navLabel>
+        <text>Ficciones: La impronta</text>
+      </navLabel>
+      <content src="c-244Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u69616fe8-fc88-4e84-ae96-7bf4b9be9716" playOrder="3">
+      <navLabel>
+        <text>Ficciones: De incógnito</text>
+      </navLabel>
+      <content src="c-244Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u4427b33f-aa36-43b6-a3ea-d61e59fe6aca" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Los otros</text>
+      </navLabel>
+      <content src="c-244Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u27ce4f40-dcb8-4631-8b10-e267d0a91a0f" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Quemar a Madre</text>
+      </navLabel>
+      <content src="c-244Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u540f89d3-67b8-4d1d-a17d-7e45aac03cb9" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Los demonios de Pindauro</text>
+      </navLabel>
+      <content src="c-244Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ua38cc390-9a18-4938-a52a-ee461d2e6f4e" playOrder="7">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="ufe16ffe7-7092-4f57-b7ba-94d9344481fb" playOrder="7">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/244/cuento1ilus1.htm"/>
+    </navPoint>
+    <navPoint id="u5852c9ac-6b73-4253-98a1-4680dc31e527" playOrder="8">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/244/cuento2ilus1.htm"/>
+    </navPoint>
+    <navPoint id="u38fce5c5-d81f-4b6e-98f0-3035ff7babb5" playOrder="9">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/244/cuento3ilus1.htm"/>
+    </navPoint>
+    <navPoint id="u83a1e42c-9571-4267-a9aa-445426379af5" playOrder="10">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/244/cuento4ilus1.htm"/>
+    </navPoint>
+    <navPoint id="u1b919820-e6b2-4b9f-b1e5-e389340fe26b" playOrder="11">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/244/cuento5ilus1.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

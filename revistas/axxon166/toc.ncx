@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="437f9912-dc91-4254-8c5a-44ef867b0c23" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 166</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uf2709abe-b965-4025-bcc5-c58d37ccba54" playOrder="1">
+      <navLabel>
+        <text>Editorial: Todos podemos estar en Internet</text>
+      </navLabel>
+      <content src="c-166Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u2bd78fad-2ddd-49f2-b142-8a7fa053ecae" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-166Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ua0368256-388a-41e4-8bec-bea48d195742" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Como perros en la ciudad</text>
+      </navLabel>
+      <content src="c-166Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u446abd1f-8eb9-458e-a4f1-e00a97f9fa7f" playOrder="4">
+      <navLabel>
+        <text>Ficciones: La rojez</text>
+      </navLabel>
+      <content src="c-166Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u710c0c8f-f06b-43c0-ae48-69d861381ffc" playOrder="5">
+      <navLabel>
+        <text>Ficciones: La trampa</text>
+      </navLabel>
+      <content src="c-166Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u67bbeea6-8574-49b5-9114-f3b5af398fb3" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Ángela</text>
+      </navLabel>
+      <content src="c-166Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u42f1c434-4a68-4e0d-ad2e-93decf2e84c3" playOrder="7">
+      <navLabel>
+        <text>Divulgación: El Universo… ¿se está desmoronando?</text>
+      </navLabel>
+      <content src="c-166Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uc4ca7c20-7b24-4299-bff7-825557090eae" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Nuestra tumba</text>
+      </navLabel>
+      <content src="c-166Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u5a814b77-1fc1-40ee-82e7-63dbec4286c7" playOrder="9">
+      <navLabel>
+        <text>Ficciones: La carga</text>
+      </navLabel>
+      <content src="c-166Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u4026fb57-dce0-4be5-99fc-d3616056f197" playOrder="10">
+      <navLabel>
+        <text>Ficciones: La segunda piel</text>
+      </navLabel>
+      <content src="c-166Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u1bcf68a6-c8a7-4f7a-baf5-22e75edf28c4" playOrder="11">
+      <navLabel>
+        <text>Ficciones: La hélice</text>
+      </navLabel>
+      <content src="c-166Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u455a5cf4-1ab2-4d14-9de0-9c2db22f35ec" playOrder="12">
+      <navLabel>
+        <text>Ficciones: La bala que falta</text>
+      </navLabel>
+      <content src="c-166Pag12.htm"/>
+    </navPoint>
+    <navPoint id="uaab1ec4a-bb45-425d-9b0d-8847eaf23e9c" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Cama familiar</text>
+      </navLabel>
+      <content src="c-166Pag13.htm"/>
+    </navPoint>
+    <navPoint id="ucc0e1aa8-8a87-425b-96db-8b6d9e36c13d" playOrder="14">
+      <navLabel>
+        <text>Ficciones: Declaran extinto al Homo sapiens</text>
+      </navLabel>
+      <content src="c-166Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u3f6cf9f7-d648-4e0a-a911-9223efc627ca" playOrder="15">
+      <navLabel>
+        <text>Ficciones: Elegía</text>
+      </navLabel>
+      <content src="c-166Pag15.htm"/>
+    </navPoint>
+    <navPoint id="ufd47de4b-eb5e-4a2a-bf83-75449fbbad3a" playOrder="16">
+      <navLabel>
+        <text>Ficciones: El lado oscuro</text>
+      </navLabel>
+      <content src="c-166Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u7b421f82-4965-47c9-b0b9-568af54e8130" playOrder="17">
+      <navLabel>
+        <text>Ficciones: El olor a orina</text>
+      </navLabel>
+      <content src="c-166Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u342e39f6-f647-4847-8911-b0f266d8fdd8" playOrder="18">
+      <navLabel>
+        <text>Informe: Historia de la Ciencia Ficción Uruguaya (3)</text>
+      </navLabel>
+      <content src="c-166Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u37e9aeb2-acfc-4412-93de-cbf4720ee7cc" playOrder="19">
+      <navLabel>
+        <text>Crónica: 1, 2, 3… Ansible en línea</text>
+      </navLabel>
+      <content src="c-166Pag19.htm"/>
+    </navPoint>
+    <navPoint id="u3cf5526e-e6a5-473f-abf4-7c34f2c55150" playOrder="20">
+      <navLabel>
+        <text>Entrevista: Entrevista con Bruce Sterling</text>
+      </navLabel>
+      <content src="c-166Pag20.htm"/>
+    </navPoint>
+    <navPoint id="u9c85eb7d-87e9-4c1a-b2b1-90161e2f171c" playOrder="21">
+      <navLabel>
+        <text>Informe: El desarrollo de la Ciencia Ficción y la Fantasía en Bulgaria</text>
+      </navLabel>
+      <content src="c-166Pag21.htm"/>
+    </navPoint>
+    <navPoint id="ud40e291a-4f69-4caa-9eab-c15ca6df6eea" playOrder="22">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

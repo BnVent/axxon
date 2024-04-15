@@ -1,0 +1,516 @@
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <title>Axxón 107 - Tecno Núcleo</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link href="stylesheet.css" type="text/css" rel="stylesheet"/>
+<link href="page_styles.css" type="text/css" rel="stylesheet"/>
+</head>
+  <body class="calibre">
+
+<div id="main" class="calibre1">
+<h1 class="calibre7">Tecno Núcleo</h1>
+<p class="calibre5"><b class="calibre4">Mónica Torres</b></p><p class="calibre5"></p>
+<div class="document">
+<!-- # :maxLineLen=120:folding=explicit:mode=rest:wrap=soft:collapseFolds=1:encoding=windows-1252: -->
+<h2 class="indiceautor">
+              Computación Cuántica
+            </h2>
+<div class="calibre20">
+<p class="calibre5">
+                Una computadora cuántica opera utilizando las reglas de la mecánica cuántica, que son, por lo menos, excéntricas. En el reino de lo subatómico nuestras intuiciones cotidianas simplemente no funcionan. Un electrón puede estar en dos lugares al mismo tiempo, el núcleo de un átomo puede girar en sentido horario y anti-horario a la vez, y así siguiendo. Un mundo delirado donde la materia se disuelve en un fantasmal borrón de probabilidades cuando uno trata de verla y una punta de alfiler pasa a ser un fenómeno ondulatorio. Sin embargo, en este mundo surrealista se puede hacer computación, insiste Isaac Chuang, un físico que trabaja en el Almaden Research Center de IBM en San José. Su grupo, en Almadena, es uno de los varios que han demostrado los principios básicos en el laboratorio. Si consiguen transformar estos principios en dispositivos aplicables al nivel de las máquinas, los réditos serían enormes; esas computadoras cuánticas podrían atacar problemas que hoy bloquean a sus contrapartes convencionales. Podrían por ejemplo craquear fácilmente los algoritmos de encriptación más sofisticados hoy en uso.
+              </p>
+</div>
+<p class="calibre5">
+<b class="calibre4">Una nueva clase de bit</b>
+</p>
+<div class="calibre20">
+<p class="calibre5">
+                La computación cuántica empezó siendo el sueño de un teórico, el notoriamente caprichoso (por no decir fantasioso) premio Nobel Richard Feynman, que empezó a impulsar el tema en 1981. A finales de los 80’s, por lo menos media docena de físicos y científicos de la computación estaban trabajando activamente en el campo. Chuang entró en contacto con el tema en 1987.
+              </p>
+<p class="calibre5">
+                Para la codificación de información el mundo subatómico está lleno de opciones si-no que hacen fácil el trabajo. La mayoría de las partículas, incluyendo electrones, protones y hasta los efímeros paquetes de luz llamados fotones tienen una especie de movimiento rotatorio incorporado que es llamado “spin”. Se podría decir que una partícula girando en alguna dirección representa un 1 binario, y si está girando en la opuesta, representa un 0. Una vez que está codificada la información, dice Chuang, el mundo subatómico ofrece también diferentes maneras de procesarla: campos magnéticos, fotones “ruteados” a través de polarizadores, espejos y divisores de haz, etc.
+              </p>
+<p class="calibre5">
+                Hay una diferencia crítica con las computadoras convencionales. Éstas también son binarias, pero en ellas cada bit de información es “verdadero” <b class="calibre4">o</b> “falso”, “on” <b class="calibre4">o</b> “off”, “1” <b class="calibre4">o</b> “0”. Pero al nivel de las partículas subatómicas, casi nada es absoluto. Un electrón tiene una probabilidad de girar en una dirección o en otra pero, salvo que una medición fuerce la cuestión, no se puede decir en qué dirección está girando. Sucede que el electrón en sí mismo está indeciso, o sea que cada bit de información cuántica estará no decidido. En vez de tener un-valor-u-otro el qubit tendrá tanto-uno-como-otro, un cero y un uno simultáneamente.
+              </p>
+<p class="calibre5">
+                Esta ambigüedad tiene temibles consecuencias, sobre todo cuando se considera más de un qubit. Un par de ellos puede existir simultáneamente como todos los posibles números de dos bits ( 00, 01, 10, 11) y un trío puede existir simultáneamente como todos los posibles números de tres bits (000, 001, 010, 011, 100, 101, 110, 111), n qubits representarán 2<span class="calibre21">n</span> números… simultáneamente. Chuang opina que así una computadora cuántica podría tomar y procesar simultáneamente todas las posibles combinaciones de valores de sus entradas, en un paralelismo total. Dado el tipo adecuado de problema y una cantidad suficiente de qubits, podría ser varios órdenes de magnitud más rápida que sus contrapartes convencionales. No explica como puede saberse qué conjunto de respuestas corresponde a qué conjunto de entradas. A mí me suena, más que a ambigüedad, a caos. Pero cosas más insensatas se han visto y han funcionado, además.
+              </p>
+</div>
+<p class="calibre5">
+<b class="calibre4">El ataque de los algoritmos</b>
+</p>
+<div class="calibre20">
+<p class="calibre5">
+                Bueno: ¿esto cómo se hace? Feinman y otros teóricos del tema enfocaron la computación cuántica como una abstracción matemática, y es muy prudente de su parte. Construir una computadora cuántica real es, según Chuang, desesperadamente difícil y podemos creer en su palabra. Para que el sistema sirva de algo es imprescindible asegurar que los qubits mantengan su estado de indecisión igual a sí mismo, que esa increíblemente frágil mezcla cuántica de 1 y 0 no altere sus probabilidades, o sea que permanezcan, como dicen los físicos, “coherentes”. Un empujón de una molécula perdida de aire, un retorcijón del campo magnético, una carambola de un fotón aleatorio, un estornudo en la otra cuadra, pueden hacer que la coherencia se desplome y en la computadora cuántica quedará un lote aleatorio de 1’s y 0’s.
+              </p>
+<p class="calibre5">
+                “La mecánica cuántica se desvanece cuando uno la mira” suspira Chuang “así que la computadora tiene que estar extremadamente bien aislada del resto del mundo.” ¿Pero entonces, cómo hace uno para ingresar datos y leer los resultados? Este es el problema fundamental de la computación cuántica: cómo controlar algo, si al mismo tiempo no se lo puede afectar de ninguna manera. Como este problema no encontraba respuesta y no había aplicaciones prácticas a la vista que hicieran necesaria o al menos conveniente la computación cuántica, el tema casi pasó al museo de las curiosidades científicas. Se salvó por la aparición de dos desarrollos, uno teórico y uno práctico.
+              </p>
+<p class="calibre5">
+                Del lado teórico, Peter Shor, del laboratorio de investigaciones de AT&amp;T, descubrió un algoritmo de factoreo para números muy grandes, de la clase que se usan para quebrar una buena parte de los actuales sistemas de encriptación. El tiempo que lleva el proceso de factoreo en una computadora convencional crece exponencialmente con el tamaño del número y se vuelve rápidamente impracticable. Shor demostró que en una computadora cuántica el tiempo requerido con el algoritmo que él había desarrollado crece sólo como una potencia del tamaño del número. O sea, todavía es una larga historia, pero ya no es imposible, ni siquiera impráctico, para las encriptaciones actualmente en uso. Esto hizo que todo el mundo (incluyendo la Agencia Nacional de Seguridad, el Pentágono y los criptógrafos) no pudiese seguir considerándolo un juguete teórico.
+              </p>
+<p class="calibre5">
+                Del lado práctico y experimental, Chuang (un tipo obstinado, evidentemente), que entonces estaba en la California University de Santa Bárbara y Neil Gershenfield, del MIT, encontraron una forma de construir algo así. Decidieron olvidarse de electrones y fotones y usar directamente núcleos atómicos para sus qubits. En un núcleo lo que verdaderamente tiene spin son las partículas componentes, neutrones y protones y en la mayoría de los núcleos estos spins se compensan mutuamente, pero hay unos pocos isótopos en los que los spins de algunas pocas partículas quedan desapareados, dejando un spin neto en una u otra dirección. Además, cada núcleo está protegido de toda interferencia externa por su propia densa nube de electrones. Una vez que uno alinea sus spins, van a quedar como están durante horas o días, lo que es un tiempo larguísimo en un tal sistema de computación. Y, a diferencia de otras formas alocadas de computar, no es necesario nano-fabricar nano-estructuras para tener qubits. Las moléculas con esos isótopos ya existen y además los spins dentro de algunas moléculas interactúan de la forma más conveniente. Por ejemplo una molécula de cloroformo tiene un átomo
+                de carbono ligado a tres átomos de cloro y uno de hidrógeno. Cuando el átomo de carbono y el de hidrógeno están girando en el mismo sentido, sus niveles de energía son mesurablemente diferentes de los que tienen si están girando en distintos sentidos.
+              </p>
+<p class="calibre5">
+                Por último, señala Gershenfeld, existe una tecnología, ya muy desarrollada, para detectar esos spins. Se llama Resonancia Magnética Nuclear (RMN) y se la usa rutinariamente en análisis químicos y en scanners hospitalarios. Adaptar los espectrómetros comerciales para la computación cuántica es un trabajo fácil. Para realizar una operación lógica del tipo if-then con un átomo de cloroformo hay que suspender las moléculas de cloroformo en un solvente y poner una muestra en el campo magnético principal del espectrómetro, para alinear los spins nucleares. Luego se impacta la muestra con un breve pulso de radio-frecuencia que tenga justo la frecuencia adecuada y el spin del hidrógeno va a saltar o no, según lo que esté haciendo el átomo de carbono. Suena simple ¿no?
+              </p>
+<p class="calibre5">
+                Simultáneamente con este desarrollo de Chuang y Gershenfeld, los expertos en RMN de Harvard University David Cory y sus colegas estaban desarrollando la misma propuesta en forma independiente. A partir de allí el interés en el campo resurgió furiosamente.
+              </p>
+<p class="calibre5">
+                En los años siguientes Shor y otros desarrollaron una variedad de esquemas de corrección de errores cuánticos que permiten a los dispositivos reparar los daños causados por perturbaciones ambientales y devolver su coherencia a los qubits. Así las computadoras cuánticas serían menos frágiles de lo que al principio se supuso. Lov Grover de los Bell Labs de Lucent Technologies descubrió un algoritmo de búsqueda cuántica sustancialmente más veloz que sus mejores contrapartes convencionales. Chuang demostró este algoritmo en “computadoras” de dos y tres qubits.
+              </p>
+<p class="calibre5">
+                Ahora Chuang y Gershenfeld están trabajando en un consorcio a nivel nacional con miembros del MIT, de Standford, de la Universidad de California en Berkeley, IBM y otros socios industriales. El equipo de Cory que está trabajando en una demostración a través del MNR del algoritmo de Shor está trabajando también con especialistas del MIT. Ambos grupos reciben fondos de DARPA (Defense Advanced Research Proyects Agency). No me imagino por qué.
+              </p>
+</div>
+<p class="calibre5">
+<b class="calibre4">Haciendo Magia</b>
+</p>
+<div class="calibre20">
+<p class="calibre5">
+                Si pensaban comprar una lap-top cuántica en un futuro próximo, olvídenlo. La computación cuántica todavía está en su etapa de “principios básicos” y le falta mucho para evolucionar hasta el nivel que tenían las computadoras convencionales (a válvulas) de la Segunda Guerra Mundial. Es mucho más factible incluir elementos cuánticos como coprocesadores en máquinas convencionales, para que se hagan cargo de algunas tareas específicas (aún no se sabe cuáles). El estudio de algoritmos cuánticos está aún en pañales y la computación cuántica no es siempre la más rápida. Esta tecnología tiene una cierta forma de atacar los problemas. Todavía no se sabe qué hace que un problema pueda ser atacado exactamente de esa forma.
+              </p>
+<p class="calibre5">
+                Uno de los factores que van a determinar en la práctica el uso de los coprocesadores cuánticos es su costo, un factor, por ahora, indeterminado. En las instalaciones de Almadena el centro de la computadora cuántica de Chuang es pequeño y barato, un tubo de ensayo con una solución de moléculas que contienen qubits. Pero el espectrómetro RMN es un cilindro plateado de tres metros de alto, rodeado de macizos de cables y tubos (estos últimos son parte del sistema de circulación de helio líquido que enfría los magnetos superconductores del espectrómetro). Si los futuros coprocesadores siguen este patrón, van a ser monstruos enormes de costo multimillonario, que ocuparán toda una habitación y que sólo los gobiernos podrán costear, para usarlos en tareas de seguridad, como la criptografía.
+              </p>
+<p class="calibre5">
+                Pero esto no es inevitable. El grupo de Gershenfeld en el laboratorio de medios del MIT está trabajando en una computadora-RMN compacta, capaz de funcionar a temperatura ambiente, de la que se espera que sea un prototipo de coprocesador cuántico y sirva como núcleo de periféricos baratos que puedan instalarse sobre un escritorio. Esto motivaría a una generación de hackers cuánticos que, como sus antecesores en los comienzos de las PC, crearán una profusión de innovativo software cuántico.
+              </p>
+<p class="calibre5">
+                Por ahora Chuang y su equipo está tratando de manejar y hacer aumentar (lentamente) las cantidades de qubits que se pueden usar. En marzo, el Laboratorio Nacional de Los Álamos anunció una computadora de 7 qubits. Uno de los problemas es que, si bien esto no requiere nano-estructuras nano-fabricadas, sí necesita moléculas especialmente ingenierizadas, para que tengan un comportamiento específico. La mayoría de las moléculas complejas son compuestos de carbono, cuyo isótopo más común, el carbono-12, no tiene spin. Las moléculas de cloroformo de Chuang estaban construidas en base al mucho más escaso y caro carbono-13, que sí tiene spin neto. Una computadora realmente útil necesitaría cientos o, probablemente, miles de qubits, presumiblemente dispuestos en alguna clase de polímero de cadena larga. Pero construir y estabilizar el polímero adecuado y aprender a hacer RMN sobre él va a representar muchos años de investigación.
+              </p>
+<p class="calibre5">
+                Ni siquiera es seguro que el RMN sea la respuesta última al problema de la computación cuántica, como no lo fueron los tubos de vacío a la computación convencional. Hay un enfoque llamado de “trampa de iones” (ion trap) en el que los qubits son átomos ionizados suspendidos en un campo eléctrico oscilante, pero, por ahora, viene siendo horriblemente difícil de implementar, pese a algún éxito inicial del físico Christopher R. Monroe y su equipo en el National Institute of Standards and Technology en Boulder, Colorado. Si alguna vez se consigue que funcione, es un sistema muy limpio y elegante de programar. También se está intentando usar “puntos cuánticos” (quantum dots), donde los qubits serían electrones encerrados en una distribución de minúsculas estructuras grabadas en la superficie de un cristal de silicio. Y también el enfoque del cristal líquido y el de la red cristalina, etc., etc.
+              </p>
+<p class="calibre5">
+                Gershenfeld opina que esta miríada de posibilidades es una de las cosas que provocan tanta excitación alrededor del tema. Que se sienta como una ciencia completamente nueva. Los científicos de computación tienen que aprender física y los físicos tienen que aprender ciencias de la computación y en ambos casos esos conocimientos no encajan del todo con su marco mental previo de referencia. Ambos bandos se enriquecen al aprender un nuevo lenguaje para describir el mundo, pero quizás la fuente más profunda de excitación es la forma en que la computación cuántica amplía nuestro horizonte intelectual. Chuang afirma que no está en esta tarea sólo para lograr computadoras cuánticas, sino porque lo que realmente se sabe sobre computación es muy poco. Durante 50 años hemos estado enfocándonos en una sola técnica de computación, afirma, refiriéndose a los microchips basados en la dicotomía on-off de la lógica binaria. Este nuevo emprendimiento, según Chuang, lleva a plantear una cuestión más fundamental: Qué se necesita para realizar una computación y cómo y si podemos manipular las leyes de la naturaleza para que lo haga por nosotros. O sea: ¿no habría que extender el
+                concepto de “computar”? Fascinante idea.
+              </p>
+<h3 class="calibre22"></h3>
+<p class="calibre5">
+<b class="calibre4"><span class="calibre23">Computadoras Cuánticas</span></b>
+</p>
+<table width="90%" border="border" cellpadding="8" class="calibre24">
+<tr class="calibre25">
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">ORGANIZACIÓN</b></span>
+</td>
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">INVESTIGADOR JEFE</b></span>
+</td>
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">FOCO</b></span>
+</td>
+</tr>
+<tr class="calibre25">
+<td class="calibre26">
+<span class="calibre27"><b class="calibre4">IBM/MIT/Berkeley/Stanford</b></span>
+</td>
+<td class="calibre26">
+<span class="calibre27"><b class="calibre4">Isaac Chuang (IBM)
+                    <br class="calibre8"/>
+                    Neil Gershenfeld(MIT)</b></span>
+</td>
+<td class="calibre26">
+<span class="calibre27"><b class="calibre4">“Tecnología de base” para computación cuántica basada en RMN, de 10 a 40 qubits</b></span>
+</td>
+</tr>
+<tr class="calibre25">
+<td class="calibre26">
+<span class="calibre27"><b class="calibre4">Harvard/MIT/Los Alamos</b></span>
+</td>
+<td class="calibre26">
+<span class="calibre27"><b class="calibre4">David Cory (Harvard)</b></span>
+</td>
+<td class="calibre26">
+<span class="calibre27"><b class="calibre4">Algoritmos cuánticos y sistemas basados en RMN</b></span>
+</td>
+</tr>
+<tr class="calibre25">
+<td class="calibre26">
+<span class="calibre27"><b class="calibre4">NIST</b></span>
+</td>
+<td class="calibre26">
+<span class="calibre27"><b class="calibre4">Christopher R. Monroe</b></span>
+</td>
+<td class="calibre26">
+<span class="calibre27"><b class="calibre4">Computación cuántica basada en trampas de iones; disp. de 2 qubits</b></span>
+</td>
+</tr>
+<tr class="calibre25">
+<td class="calibre26">
+<span class="calibre27"><b class="calibre4">Caltech/MIT/USC</b></span>
+</td>
+<td class="calibre26">
+<span class="calibre27"><b class="calibre4">Seth Lloyd (MIT), M.Despain (USC), H.Jeff Kimble, J.Preskill &amp; Steven Koonin (Caltech)</b></span>
+</td>
+<td class="calibre26">
+<span class="calibre27"><b class="calibre4">Algoritmos y corrección de errores cuánticos.</b></span>
+</td>
+</tr>
+<tr class="calibre25">
+<td class="calibre26">
+<span class="calibre27"><b class="calibre4">Oxford University</b></span>
+</td>
+<td class="calibre26">
+<span class="calibre27"><b class="calibre4">David Deutsch, Jonathan Jones</b></span>
+</td>
+<td class="calibre26">
+<span class="calibre27"><b class="calibre4">Implementaciones con RMN y trampas de iones. Teoría de la información cuántica.</b></span>
+</td>
+</tr>
+</table>
+<p class="calibre5">
+
+              </p>
+</div>
+<h2 class="indiceautor">
+              Computadoras biológicas
+            </h2>
+<div class="calibre20">
+<p class="calibre5">
+                Los microprocesadores de silicio se fabrican en lugares muy parecidos a quirófanos: asepsia absoluta, motas de polvo prohibidas y personal vestido con trajes cuasi-espaciales (que si alguien estornuda ahí adentro, se pudrió todo). Los sistemas resultantes son micro-testeados al limite. Cualquier pequeña imperfección perjudica el funcionamiento, así que en la fabricación se intenta controlar absolutamente todo. Pero últimamente, en algunos laboratorios, algunos investigadores están construyendo uno de los posibles tipos de computadoras del mañana, en entornos que son deliberadamente mugrosos: concretamente, sopas de bacterias. Están intentando crear células “inteligentes” que puedan sumar números, almacenar los resultados en alguna clase de memoria, llevar cuenta del tiempo y ejecutar programas simples.
+              </p>
+<p class="calibre5">
+                Conseguir esto les va a llevar un buen tiempo. Una computadora personal típica, actual, puede almacenar 50 mil millones de bits de información. Recientemente, un estudiante graduado de la Universidad de Boston, fabricó un sistema genético que puede almacenar 1 (un) bit de información. Los programadores de microbios de hoy en día están más o menos donde los pioneros de la ciencia de la computación convencional estaban en 1920.
+              </p>
+<p class="calibre5">
+                Es tentador descartar esta investigación como una curiosidad académica, algo así como hacer una computadora con piezas de madera (se puede hacer, pero la eficiencia es ínfima). Pero, si el proyecto tiene éxito, los resultados pueden ser asombrosos. La idea, por lo menos la del investigador del MIT Tom Knight, no es reemplazar las computadoras que tenemos en la actualidad por placas de Petri, sino construir con esas bacterias algo así como computadoras de control de procesos (procesos químicos). Knight imagina bio-computadoras manejando toda clase de sistemas bioquímicos y actuando como enlace de información entre la tecnología y la bio-tecnología. Por ejemplo, en vez de aislar proteínas penosamente, mapeando genes y tratando de hacer ingeniería inversa sobre procesos naturales, los bio-ingenieros van a poder simplemente programar células para hacer el trabajo sucio. Consideremos:
+              </p>
+<p class="calibre5">
+                - Cada célula tiene una minúscula fábrica de productos químicos en su interior. Una vez que se la programa, puede sintetizar prácticamente cualquier producto químico biológico, a voluntad.
+              </p>
+<p class="calibre5">
+                - La computación biológica es extremadamente efectiva a nivel costos. Una vez programada una célula para ejecutar una tarea, se pueden hacer crecer miles de millones al costo de algunas soluciones nutrientes simples y el tiempo de un técnico de laboratorio.
+              </p>
+<p class="calibre5">
+                - Un cerebro humano puede sobrevivir a la muerte de millones de células y todavía seguir funcionando, mientras que una computadora personal deja de funcionar si uno sólo de sus componentes falla. Las computadoras biológicas pueden resultar, en últimas, mucho más robustas y, por lo tanto, más confiables que las computadoras construidas con cables y silicio.
+              </p>
+<p class="calibre5">
+                Estos sistemas biológicos pueden abrir un campo totalmente diferente en la computación. Una célula podría inyectar insulina, a medida que sea necesaria, en el torrente sanguíneo de un diabético. Las “curitas activas” podrían sensar el estado de una herida y contribuir a reparar el daño (por ejemplo, sintetizando antisépticos si son necesarios). Podrían programarse esporas de bacterias que permanezcan dormidas en la tierra y que, ante un derrame químico, despierten, se multipliquen y devoren los productos químicos contaminantes, para luego volver a su estado de vida latente. Dentro de unos cinco años, un soldado podría llevar un bio-chip para detectar si ha sido liberada alguna toxina o agente patológico, dice James Collins, profesor de Ingeniería Biomédica de la Universidad de Boston, un personaje clave en el campo de la bio-computación. Y estas conductas podrían programarse como un programador puede hacerlo con las funciones de una PC. Las máquinas biológicas pueden introducirnos en un mundo completamente nuevo de control químico.
+              </p>
+</div>
+<p class="calibre5">
+<b class="calibre4">La computación amorfa</b>
+</p>
+<div class="calibre20">
+<p class="calibre5">
+                La investigación en bio-computación combina dos campos preestablecidos, las ciencias de la computación y la biología, pero no se enmarca confortablemente en el contexto de ninguna de las dos. “Típicamente, en biología uno trata de hacer ingeniería inversa sobre circuitos que han sido ya diseñados y construidos por la evolución”, dice Michel Elowitz, miembro del doctorado de la Universidad Rockefeller. Lo que Collins, Elowitz y otros están tratando de hacer es diseñar para construir, hacer ingeniería hacia adelante de circuitos biológicos, o construir circuitos nuevos partiendo de la materia prima más elemental. Trabajo de ingenieros. Pero, de todas maneras, las herramientas que utilizan son las mismas que usan los biólogos celulares y moleculares. Y trabajar en una mesada de laboratorio de biología no es fácil para los científicos en computación y los ingenieros. Están acostumbrados a máquinas que en forma determinista y rutinaria ejecutan los comandos que ellos ingresan. En el laboratorio de biología, en cambio, según afirman las leyes de Murphy: “en condiciones de experimentación cuidadosamente controladas, los organismos vivos hacen exactamente lo que se les da
+                la realísima gana”.
+              </p>
+<p class="calibre5">
+                De todas maneras, el trabajo se está haciendo. En la universidad de Boston, Gardner, un físico convertido en científico de la computación dedicó la mayor parte de un año, trabajando con Collins, para construir un modelo matemático para su “switch” genético de 1 bit (ditto flip-flop), antes de encarar la ardua tarea de implementar el modelo en el laboratorio. El flip-flop, explica Collins, se construye con dos genes que son mutuamente antagónicos: cuando uno está activo, o “expresado” apaga al otro y viceversa y se supone que el cambio entre estos dos estados se dispararía con alguna influencia externa, un cambio químico o térmico. Uno de los dos genes produce una proteína que es fluorescente bajo luz láser y que los investigadores pueden usar para detectar cuando el par conmuta entre estados.
+              </p>
+<p class="calibre5">
+                En enero, en la revista Nature, Gardner, Collins y Charles Cantor (biólogo de la Universidad de Bostón, uno de los líderes del proyecto Genoma Humano), describieron cinco de estos flip-flop, que Gardner había construido e insertado dentro de una bacteria E. Coli. Gardner dice que el flip-flop es el primero de una serie de lo que él llama “applets” genéticos que espera crear. Un “applet” es un pequeño programa, usualmente escrito en Java, que se pone en una página WEB, y realiza una función específica. Los “applets” pueden combinarse para formar un programa completo y Gardner cree que pude construir un arreglo de partes genéticas combinables y usarlas para programar células para que realicen nuevas funciones. Por ejemplo, en el “dosificador de insulina”, un “applet” genético mediría la cantidad de glucosa en el torrente sanguíneo del paciente diabético y estaría conectado a un segundo “applet” capaz de sintetizar insulina. Un tercer “applet” podría añadirse para condicionar el funcionamiento del sistema a eventos externos, permitiendo a los médicos activar y desactivar la producción automática de insulina manualmente.
+              </p>
+<p class="calibre5">
+                Los “switchs” no son una novedad en biología. Roger Brent, director asociado de investigación en el Instituto de Ciencias Moleculares de Berkeley, dice que los biólogos conocen toneladas de células que existen en dos estados y cambian dependiendo de eventos externos y que los ingenieros genéticos “han fabricado y usado esta clase de “switch” con creciente sofisticación desde los ‘70”. Lo que él encuentra más intrigante sobre el conmutador genético de los investigadores de la Boston University es que puede ser solamente el comienzo. Podría haber células de cuatro estados, o más. Se podría conseguir una célula que exista en un gran número de estados independientes y que algunas cosas dentro de la célula hagan que la célula pase de un estado a otro en respuesta a distintos estímulos. Brent continúa: “¿Si uno tiene 16 estados en una célula y la habilidad para hacer que la célula se comunique con sus vecinas, ¿se podría hacer algo con eso?”.
+              </p>
+<p class="calibre5">
+                Solita, una célula con 16 estados no puede hacer demasiado, pero si uno combina mil millones de estas células se tiene un sistema con 2Gb de capacidad de almacenamiento. Potencialmente se puede tener un millón de veces más memoria que las mayores computadoras de hoy en día, y miles de millones de procesadores, implementados en algo así como una cucharada (con cuchara de té) de bacterias programables. ¿Pero cómo podría uno programar semejante máquina?
+              </p>
+<p class="calibre5">
+                El proyecto de Computación Amorfa de MIT está tratando de resolver el problema de la programación. El objetivo del proyecto es desarrollar técnicas para construir sistemas auto-ensamblados, o sea técnicas que permitan a las bacterias en la cuchara de té comunicarse con sus vecinas, organizarse en una computadora que procesa la información en forma masivamente paralela y dedicarse a resolver problemas cálculo-intensivos, como romper claves de encriptación, factorear números grandes, o quizás, incluso predecir el clima (Eso si que no me lo creo).
+              </p>
+<p class="calibre5">
+                Los investigadores del MIT se han interesado por mucho tiempo en los métodos de cálculo que emplean muchas pequeñas computadoras interconectadas, en vez de una única máquina súper-rápida. Es un enfoque atractivo, porque cuando (o cuando y si) los microprocesadores de silicio lleguen a su límite máximo de miniaturización, la única forma de conseguir computadoras más rápidas puede llegar a ser usando múltiples computadoras interconectadas. Muchos investigadores de inteligencia artificial opinan que sólo será posible obtener verdadera inteligencia en las máquinas usando millones de pequeños microprocesadores interconectados en un paralelismo masivo —esencialmente, un modelo de las conexiones entre las neuronas del cerebro humano.
+              </p>
+<p class="calibre5">
+                En el laboratorio de biología del MIT, los investigadores están iniciando una incursión extensiva en el mundo de la Computación Amorfa: los estudiantes de Knight están desarrollando técnicas para intercambiar datos entre células y computadoras grandes; la comunicación entre componentes es un requerimiento básico para un sistema Amorfo. El grupo de Collins en la B.U. está usando calor y químicos para enviar instrucciones a sus conmutadores, mientras el equipo de Knight está trabajando en un sistema de comunicación basado en la bio-luminiscencia (luz producida por células vivas).
+              </p>
+<p class="calibre5">
+                Hasta ahora, el trabajo va lento. Los laboratorios son nuevos y los equipos de trabajo tienen poca experiencia en materias de biología, pero también sucede que los investigadores quieren familiarizarse tanto como sea posible con las herramientas biológicas que están usando, para maximizar su control de cualquier sistema que eventualmente desarrollen. “Si uno realmente va a construir algo y quiere controlarlo —si tenemos un circuito digital del que pretendemos un comportamiento confiable— entonces necesitamos entender los componentes”, dice el estudiante graduado Ron Weiss. Y, señala que la biología está plagada de fluctuaciones y el número de variables que existe es monstruoso. La cantidad precisa de una proteína en particular, producida por la célula de una bacteria, depende no sólo del tipo de bacteria y la secuencia de DNA ingenierizada dentro de la célula, sino también de condiciones de entorno como la nutrición y el “timing”.
+              </p>
+<p class="calibre5">
+                Para empezar a tomarle la mano a todas esas variables, el equipo de Knight está realizando un modelado en profundidad de unos pocos genes diferentes para la luciferasa, una enzima que permite a las luciérnagas, y otros organismos luminiscentes, producir luz. Entender el mecanismo de generación de luz de las cosas es un primer paso obvio hacia una forma confiable de comunicación entre células, ya que hay células que pueden detectar luz. Más aún, dice Knight, “si estas células supiesen donde están y fuesen conducidas como un conjunto organizado se podrían utilizar para exhibir un patrón”. Por último, este equipo espera que vastos conjuntos de células interconectadas puedan, a la vez, realizar cálculos significativos y mostrar la elástica resistencia del cerebro humano.
+              </p>
+</div>
+<p class="calibre5">
+<b class="calibre4">Hacia adelante</b>
+</p>
+<div class="calibre20">
+<p class="calibre5">
+                Mientras su laboratorio —y su campo de estudio— recorren sus primeros pasos, Knight piensa en el futuro. Dice que no lo preocupa la ridícula lentitud de los actuales enfoques genéticos de la bio-computación. Hay cantidad de sistemas biológicos —incluyendo los basados en células nerviosas, como nuestro cerebro— que operan más rápido de lo que es posible cambiar genes de “on” a “off”. Una neurona puede responder a un estímulo externo, por ejemplo, en cuestión de milisegundos. La contra, dice Knight, es que algunos de los mecanismos biológicos más rápidos no son, por ahora, tan bien comprendidos como lo son las funciones genéticas y, por lo tanto, son más difíciles de manipular”. Knight dice que él y otros investigadores comenzaron con sistemas basados en DNA, justamente porque la ingeniería genética es algo relativamente bien comprendido. “Uno comienza con los sistemas más fáciles y después pasa a los más difíciles”.
+              </p>
+<p class="calibre5">
+                Brent, del Instituto de Ciencias Moleculares de Berkeley, cree que los actuales prototipos de bio-computadoras basadas en DNA son escalones hacia computadoras basadas en la neuroquímica. “Dentro de treinta años vamos a estar usando nuestro conocimiento del desarrollo neurobiológico para ‘hacer crecer’ circuitos apropiados, hechos de células nerviosas, que van a procesar información como locos”, predice Brent.
+              </p>
+<p class="calibre5">
+                Collins y Gardner han presentado solicitudes para patentar el flip-flop genético y Collins está hablando con potenciales inversores para formar la primera Compañía de Bio-computación. Intenta conseguir los fondos e iniciar la aventura en unos pocos meses. Una parte de los proyectos de esta firma requieren, dice Collins, “acoplar células con chips y usarlas —externamente al cuerpo— como elementos sensores.”
+              </p>
+<p class="calibre5">
+                Los primeros productos de esta firma en perspectiva pueden incluir un dispositivo capaz de detectar la contaminación en alimentos o las toxinas usadas en guerra química o biológica. Manteniendo las células modificadas fuera del cuerpo humano, la iniciativa esquivaría muchos escollos regulatorios de la “Food and Drug Administration” y permitiría tener un producto en el mercado en unos pocos años. Pero el objetivo a largo plazo de Collins es la terapia de genes: ubicar redes de “applets” genéticos en un huésped humano para tratar enfermedades como la hemofilia o la anemia. Otra posibilidad es usar conmutadores genéticos para controlar reactores biológicos en “tecnologías donde pueden usar células como factorías químicas para producir proteínas”, dice Collins. Estos circuitos de control podrían regular la expresión de diferentes genes para producir las proteínas que interesen. Las bacterias en un bio-reactor grande podrían ser programadas para hacer distintas clases de drogas, nutrientes, vitaminas, etc.
+              </p>
+<p class="calibre5">
+                Bueno, nuestros cerebros funcionan, aunque algunos prójimos le inspiren a uno serias dudas al respecto. Y es cierto que sobreviven (funcionando) a niveles de daño que dejarían absolutamente inutilizada a cualquier computadora. Pero lo que me parece más interesante de estas computadoras que funcionarían por medio de gérmenes, es su posibilidad de tener sensores, procesadores de información y actuadores de la misma tecnología instalados, quizás, en una misma bacteria. Eso me suena muy parecido a las “nano-máquinas” que Gregg Ewan y otros han inventado para existir en un futuro no muy lejano. No sólo diabetes y anemia y hemofilia. Puedo imaginar nano-máquinas que controlen en nosotros la ansiedad, el stress, los males más comunes en nuestra sociedad. Que mitiguen los quilombos hormonales que le fastidian la vida a la gente. Mejorarían la capacidad de concentración y, por lo tanto, de aprendizaje. Bueno, pueden hacer una lista de todas las cosas que se podrían manejar de esta manera. Amén.
+              </p>
+<table width="80%" border="border" cellpadding="10" class="calibre28">
+<tr class="calibre25">
+<td class="calibre26">
+<p class="calibre5">
+<b class="calibre4">La dirección del problema</b>
+</p>
+<p class="calibre5">
+                      Para poder transformar un organismo viviente en un sistema computacional, los investigadores de la bio-computación necesitan una forma de crear y conectar múltiples “circuitos” —“switchs”, “clocks”, etc.— dentro de una sola célula. Este es el eje de la investigación de Adam Arkin, que trabaja en la Universidad de California, Berkeley, y en el vecino laboratorio Lawrence Berkeley. Biólogo por entrenamiento, Arkin se especializa en modelar sistemas biológicos complejos desde el punto de vista de la ingeniería.
+                    </p>
+<p class="calibre5">
+                      “La idea es hacer un tipo genérico de ‘switch’”, explica Arkin, “donde los cables a las entradas y salidas son fácilmente modificados genéticamente, donde haya estandarización de componentes y posibilidad de re-usar componentes dentro de la misma circuitería”. Esto es mucho más fácil de hacer en un chip de silicio que dentro de una célula viviente: cables y trazas de silicio pueden generarse de forma tal que un circuito en particular esté conectado directamente a otro circuito y estas conexiones se van a quedar ahí. Dentro de una célula, genes y proteínas flotan en una sopa molecular en la que pueden, potencialmente, ser afectados por casi cualquier otro gen o proteína de la célula. Para eliminar este problema, Arkin está desarrollando técnicas que permitan identificar (direccionar) diferentes circuitos dentro de las células. Si a cada circuito se le da una “dirección” diferente, muchas copias del mismo “switch” podría ser puestas dentro de una sola bacteria y activadas separadamente. Posiblemente la disposición espacial de distintos tipos de átomos en una superficie de “contacto” sea la única forma de dar un “address” a las células, y eso implica que, para
+                      hacer que la computación basada en la biología realmente funcione, puede llegar a ser necesario un modelado lo bastante riguroso como para saber dónde está cada átomo en un sistema.
+                    </p>
+</td>
+</tr>
+</table>
+<br class="calibre8"/>
+<table width="80%" border="border" cellpadding="10" class="calibre29">
+<tr class="calibre25">
+<td class="calibre26">
+<p class="calibre5">
+<b class="calibre4">GeneTic Toc</b>
+</p>
+<p class="calibre5">
+                      Como estudiante graduado en la Universidad de Princeton, Michael Elowitz (Ahora en la Rockefeller University) construyó un “applet” genético de su propia invención: un “clock”.
+                    </p>
+<p class="calibre5">
+                      En las computadoras digitales, el “clock” es uno de los componentes fundamentales: envía un tren de pulsos que se usa para sincronizar todos los eventos que van teniendo lugar dentro de la máquina. La primera PC de IBM tenía un “clock” que generaba 4.77 millones de pulsos por segundo; las computadoras actuales de punta tienen “clock” que generan 800 millones de pulsos por segundo. El “clock” de Elowitz completa un ciclo cada 150 minutos o algo así. Aunque haya sido un logro notable, no lleva muy bien el tiempo: el rango entre tic y toc varía de 120 a 200 minutos. O sea, es horrible. Pero existe, y eso ya es mucho.
+                    </p>
+<p class="calibre5">
+                      El “clock” está formado por cuatro genes ingenierizados en una bacteria. Tres de ellos trabajan haciendo una especie de ronda en la que cada uno, cuando se activa, genera una proteína para desactivar al siguiente, mientras “digiere” la proteína que lo desactivó y vuelve a activarse. Uno de estos tres también genera, a su turno, una proteína para hacer cambiar al cuarto, que codifica una proteína fluorescente, de “on” a “off” y viceversa.
+                    </p>
+<p class="calibre5">
+                      Un problema es la coordinación. Mirando una bacteria bajo un microscopio se ven intervalos regulares de brillo y oscuridad a medida que el gen de la proteína fluorescente pasa de “on” a “off” y viceversa, pero una masa de bacterias puestas juntas van a estar totalmente fuera de sincronismo. Elowitz intenta aprender de este bodrio. “Este fue nuestro primer intento”, dice. “Lo que hallamos es que el “clock” que construimos es muy ruidoso —hay un montón de variabilidad. Una gran pregunta es cuál es el origen de ese ruido y cómo podemos hacer para soslayarlo. Y cómo, de hecho, los circuitos reales producidos por la evolución son capaces de evitar ese ruido”.
+                    </p>
+</td>
+</tr>
+</table>
+</div>
+<p class="calibre5">
+
+            </p>
+<h3 class="calibre22"></h3>
+<p class="calibre5">
+<b class="calibre4"><span class="calibre23">Computadoras Biológicas</span></b>
+</p>
+<h4 class="calibre30"></h4>
+<p class="calibre5">
+              Quién es quien en bio-computación
+            </p>
+<table width="90%" border="border" cellpadding="8" class="calibre24">
+<tr class="calibre25">
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">ORGANIZACIÓN</b></span>
+</td>
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">INVESTIGADOR JEFE</b></span>
+</td>
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">FOCO</b></span>
+</td>
+</tr>
+<tr class="calibre25">
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">L. Berkeley National Laboratory</b></span>
+</td>
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">Adam Arkin</b></span>
+</td>
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">Circuitos y direccionamiento genéticos</b></span>
+</td>
+</tr>
+<tr class="calibre25">
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">Boston University</b></span>
+</td>
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">James J. Collins</b></span>
+</td>
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">Applets genéticos</b></span>
+</td>
+</tr>
+<tr class="calibre25">
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">Rockefeller University</b></span>
+</td>
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">Michael Ellowitz</b></span>
+</td>
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">Circuitos genéticos</b></span>
+</td>
+</tr>
+<tr class="calibre25">
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">MIT</b></span>
+</td>
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">Thomas E. Knight</b></span>
+</td>
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">Amorphous computing</b></span>
+</td>
+</tr>
+</table>
+<p class="calibre5">
+
+            </p>
+<p class="calibre5">
+
+            </p>
+<h2 class="indiceautor">
+              Computación con ADN
+            </h2>
+<div class="calibre20">
+<p class="calibre5">
+                En 1994 se usó por primera vez el ADN, la molécula con la que están hechos nuestros genes, para resolver una versión simple del “problema del viajante”. En este enigma (todo un clásico de la I.A.) la tarea es encontrar la ruta más eficiente para recorrer varias ciudades. Dadas las bastantes ciudades, el problema es un desafío aun para una súper computadora. Leonard Adleman, científico en computación de la Universidad de California del Sur y criptógrafo mundialmente famoso, demostró que los miles de millones de moléculas en una gota de ADN contienen potencia computacional en bruto como para, quizás —sólo quizás—, superar al silicio ampliamente. Pero, desde entonces, los científicos han encontrado difíciles barreras prácticas y teoréticas. Hoy Adleman, confiesa que: “las computadoras de ADN difícilmente se conviertan en competidores Stand Alone para las computadoras electrónicas”. Continúa, en tono de disculpa: “simplemente no podemos, en este momento, controlar las moléculas con la destreza con la que los ingenieros y los físicos controlan electrones”.
+              </p>
+<p class="calibre5">
+                Adleman y otros en el campo han llegado a darse cuenta de que quizás nunca haya una computadora hecha con ADN que rivalice directamente con la actual microelectrónica basada en el silicio. Pero no se han dado por vencidos. Los científicos en computación no han encontrado todavía un camino desde el tubo de ensayo hasta el tope del escritorio, pero han encontrado un mundo que los asombra y los inspira: la memoria digital en forma de ADN y proteínas. Máquinas de edición exquisitamente eficientes que navegan a través de las células, cortando y pegando datos moleculares. Todo ese equipamiento molecular de alta precisión viene ensamblado dentro de bacterias no mucho mayores que un transistor. La evolución ha producido las computadoras más pequeñas y eficientes en el mundo, aunque quizás no hagan las operaciones que nosotros queremos.
+              </p>
+<p class="calibre5">
+                Como pinta por ahora, la computación con ADN no va a derrotar al silicio pero está encontrando nuevas y sorprendentes combinaciones de biología y computación, que están ensanchando los límites en ambos campos, a veces en direcciones inesperadas. Los científicos todavía están trabajando duro para encontrar una forma de utilizar las sorprendentes habilidades del ADN para triturar números en tipos especializados de aplicaciones, por ejemplo, quebrar códigos. Pero lo realmente único de la inteligencia innata construida dentro de las moléculas de ADN es que puede ayudar a fabricar estructuras diminutas y complejas que esencialmente usan la lógica de computación, no para triturar números, sino para construir cosas.
+              </p>
+<p class="calibre5">
+                Uno de los enfoques más prometedores sobre el tema es el de los “bloques de ADN” inteligentes, inventados por Erik Winfree, un joven científico del Instituto Tecnológico de California. La idea genial de Winfree fue crear bloquecitos de construcción nanoscópicos hechos con ADN que no sólo pueden almacenar datos sino también ser diseñados —a Winfree le gusta decir “programados”—, para llevar adelante operaciones matemáticas, encajando unos con otros en formas específicas.
+              </p>
+</div>
+<p class="calibre5">
+<b class="calibre4">Dominós de ADN</b>
+</p>
+<div class="calibre20">
+<p class="calibre5">
+                Normalmente, el ADN existe como dos cintas entrelazadas (la familiar doble hélice) que contienen secuencias de los compuestos químicos simbolizados A, G, C, y T. Los “bloques” de ADN de Winfree están hechos anudando juntas tres o más de estas cintas, en “bloques” que miden alrededor de 15 nanómetros en su lado más largo. Aprovechando la habilidad del ADN para reconocer selectivamente otras tiras de ADN, Winfree ha “codificado” los bordes de estos “bloques” de forma que se ensamblen unos con otros en exactamente la forma correcta para formar minúsculas estructuras, hechas a medida.
+              </p>
+<p class="calibre5">
+                La idea de bloques inteligentes de ADN tuvo su comienzo cinco años atrás, en Caltech, cuando Winfree y Paul Rothemund (un estudiante de doctorado del laboratorio de Adleman en la U.S.C.), se reunieron para discutir el primer <i class="calibre10">paper</i> sobre computación con ADN de Adleman. Entre los <i class="calibre10">papers</i> reunidos por Winfree sobre el tema del ADN estaba el de Nadrian Seeman, un químico de la Universidad de New York, que había creado cubos, anillos, octaedros y otras formas improbables a partir de la doble hélice del ADN. Winfree vio inmediatamente una forma en la que las extrañas versiones de ADN de Seeman podían ser usadas para computar. Se inspiró en la teoría de los “bloques” de Wang, un juego matemático, relacionado con los patrones que pueden crearse usando cuadrados con los lados numerados. Como en los dominós, el número en cada lado de un “bloque” determina con qué lados de otros “bloques” puede ponerse en contacto. Estableciendo diferentes conjuntos de “reglas de apareo” pueden emerger patrones muy complejos e interesantes a medida que se agregan más “bloques”. Pero esto resultó ser más que un juego de dominó matemático. En los sesenta algunos matemáticos
+                probaron que los “bloques” de Wang pueden usarse para sumar y multiplicar números. Más aún, con un conjunto adecuado de estos constructos hipotéticos se puede hacer, en teoría, cualquiera de las cosas que hace una computadora electrónica. La idea de Winfree fue una simple síntesis: usar las moléculas de ADN de Seeman como diminutos “bloques” de Wang en el mundo real. Programar el ADN de esta manera le daría a los químicos la habilidad para el control “que puede permitirles construir estructuras más complejas que ninguna de las consideradas hasta ahora”, dice Rothemund.
+              </p>
+<p class="calibre5">
+                Esta estrategia podría soslayar uno de los problemas fundamentales que han hecho de este campo un infierno desde el principio: el trabajo de laboratorio. La computación con ADN produce un gran número de respuestas rápidamente (en “el problema del viajante” de Adleman, cien billones de respuestas en menos de un segundo), pero la mayoría de ellas son repetidas y la mayor parte equivocadas. Descartar las respuestas erróneas puede ser hecho en un pestañeo en una PC, pero en el caso de Adleman requeriría varias docenas de procedimientos manuales de laboratorio. Y ése es el problema con la mayoría de los esquemas de computación con ADN: cada “operación” que se haga sobre los datos significa otro paso de laboratorio que lleva mucho tiempo. El método más trabajoso para resolver problemas de Inteligencia Artificial es, justamente, generar todas las posibles soluciones y después filtrar las erróneas. En un laboratorio biológico es aún peor.
+              </p>
+<p class="calibre5">
+                Los “bloques” de ADN pueden resolver este problema. A diferencia del ADN usado por Adleman en su experimento original, que se combinaba aleatoriamente, los “bloques”de Winfree se combinan según un conjunto de reglas simples, que si están bien elegidas, deberían generar sólo el resultado correcto.
+              </p>
+<p class="calibre5">
+                Trabajando con Winfree y Thom LaBean, un bioquímico de Duke, John Reif, un científico de la computación de la Universidad de Duke, planea crear un ábaco molecular simple hecho con “bloques” de ADN. El objetivo es sumar los números binarios del 0 al 8, con símbolos genéticos representando los 0s y 1s. El equipo ha diseñado un conjunto de “bloques”, cada uno de los cuales representa una de las posibles columnas en una suma y las reglas para combinar correctamente las columnas están codificadas en bandas de ADN en los lados de los “bloques”.
+              </p>
+<p class="calibre5">
+                El experimento generaría varios billones de estructuras “multi-bloque”, cada una de las cuales ha realizado una suma correcta de 3 bits binarios, cuyos resultados podrían leerse usando los métodos estándar para decodificar ADN. El experimento subraya las fuentes del poder potencial de las computadoras de ADN: un paralelismo masivo y de gran velocidad. Reif estima que un único tubo de ensayos de “bloques” de ADN pude realizar alrededor de 10 billones de sumas por segundo, varios órdenes de magnitud más que una computadora electrónica.
+              </p>
+</div>
+<p class="calibre5">
+<b class="calibre4">Nanotech C++</b>
+</p>
+<div class="calibre20">
+<p class="calibre5">
+                El enorme potencial de la computación de ADN mantiene el campo en movimiento, a pesar de los abrumadores obstáculos tecnológicos. Aún si esos obstáculos resultasen insuperables, el trabajo de Winfree podría significar un avance en la construcción de dispositivos ultra pequeños. El mismo Winfree piensa que la aplicacion más interesante de los “bloques” de ADN es como bloques de construcción inteligentes que se agrupan a sí mismos a escala nanométrica, formando estructuras grandes y complejas. Por ejemplo, Rothemund, Adleman y Winfree están tratando de fabricar en el mundo real una forma bidimensional, conocida como el triángulo de Sierpinsky, un complejo y hermoso fractal producido repitiendo una regla geométrica simple. El equipo planea utilizar solamente siete diferentes “bloques” de ADN. Winfree ha programado cada tipo de “bloque” para añadirse a sí mismo o no en la estructura, según las claves moleculares provistas por el borde exterior del triángulo. Este juguete, en las manos de los expertos de nano-fabricación, como Seeman de la NYU, puede conducir a métodos más fáciles para fabricar estructuras moleculares exóticas. Haría por la nano-tecnología lo que el CAD
+                y los materiales de construcciones prefabricados han hecho por la industria de la construcción. “Un mayor control lleva a cosas que uno casi no puede imaginar”, dice Seeman, que intenta aplicarlo al diseño de materiales y patrones interesantes, mucho más rentables económicamente. En su laboratorio ya están tratando de añadir nano-partículas de oro a “bloques” de ADN para hacer prototipos de circuitos eléctricos alrededor de diez veces más pequeños que las características más pequeñas grabadas en los “chips” de silicio.
+              </p>
+<p class="calibre5">
+                Por supuesto, aclara Rothemund, hay límites a los patrones computables con “bloques” de ADN. Pero Rothemund dice que “los conjuntos simples que hemos hecho hasta ahora muestran lo bien que trabajan las operaciones básicas”. También muestra cuánto tienen que aprender todavía los científicos. Winfree compara sus esfuerzos hasta la fecha con un programa de una sola línea escrito en BASIC bioquímico. Espera que lenguajes más avanzados evolucionen a medida que los investigadores dominen nuevas operaciones, como por ejemplo, remover selectivamente “bloques” de un conjunto. Winfree especula que, algún día, este creciente repertorio de componentes programables se use para construir sistemas sintéticos, que podríamos llamar nano-robots, capaces de desempeñar tareas útiles.
+              </p>
+<p class="calibre5">
+                Esto puede sonar como un galimatías futurista, pero los investigadores están empezando a idear formas de hacerlo en el mundo real. En el laboratorio de Bell, Lucent Technologies, el físico Bernie Yurke, por ejemplo, está trabajando con ADN con la esperanza de ensamblar motores moleculares ultra pequeños. Yurke imagina que algún día podrán construirse motores de ADN que puedan “caminar” a través de los constructos de “bloques” de Winfree, haciendo cambios químicos en puntos específicos para establecer un patrón arbitrariamente complejo, que podría luego ser transferido a un sustrato de silicio para fabricar circuitos y transistores a escala nanométrica. “Mi esperanza es que en el futuro, estructuras electrónicas complicadas como las computadoras puedan ser hechas de esta forma”, dice Yurke.
+              </p>
+<p class="calibre5">
+                “La computación por ADN, como la computación cuántica, es muy futurista, y ambas demuestran que la computación no tiene por qué ocurrir exclusivamente en la caja que tenemos instalada sobre nuestros escritorios”, dice Adleman.
+              </p>
+</div>
+<h3 class="calibre22"></h3>
+<p class="calibre5">
+<b class="calibre4"><span class="calibre23">Computadoras de ADN</span></b>
+</p>
+<h4 class="calibre30"></h4>
+<p class="calibre5">
+              Construyendo y computando con ADN
+            </p>
+<table width="90%" border="border" cellpadding="8" class="calibre24">
+<tr class="calibre25">
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">ORGANIZACIÓN</b></span>
+</td>
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">INVESTIGADOR JEFE</b></span>
+</td>
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">FOCO</b></span>
+</td>
+</tr>
+<tr class="calibre25">
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">Bell Labs</b></span>
+</td>
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">Bernie Yurke, Allan Mills</b></span>
+</td>
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">Fabricación de motores de ADN para ensamblar componentes electrónicos</b></span>
+</td>
+</tr>
+<tr class="calibre25">
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">Duke University/Caltech</b></span>
+</td>
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">John Reif, Thomas La Bean, Erik Winfree (Caltech)</b></span>
+</td>
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">Realización de sumas con paralelismo masivo, usando bloques de ADN</b></span>
+</td>
+</tr>
+<tr class="calibre25">
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">New York University</b></span>
+</td>
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">Nadrian Seeman</b></span>
+</td>
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">Ensamblar nano-estructuras complejas con ADN</b></span>
+</td>
+</tr>
+<tr class="calibre25">
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">Princeton University</b></span>
+</td>
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">Laura Landweber, Richard Lipton</b></span>
+</td>
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">Computadora basada en el ARN para resolver el “problema de los caballos” (un acertijo de ajedrez)</b></span>
+</td>
+</tr>
+<tr class="calibre25">
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">University of Southern California</b></span>
+</td>
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">Leonard Adleman</b></span>
+</td>
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">Automatizar un sistema de laboratorio auto-contenido, para computación con ADN. Prueba teórica de que el ADN Puede quebrar el algoritmo DES de encriptación</b></span>
+</td>
+</tr>
+<tr class="calibre25">
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">University of Wisconsin</b></span>
+</td>
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">Robert M. Corn, Lloyd M. Smith, Anne E. Condon, Max G. Lagally</b></span>
+</td>
+<td width="30%" class="calibre26">
+<span class="calibre27"><b class="calibre4">Adaptación de la tecnología de chips de ADN para realizar cómputos con ADN en una superficie sólida</b></span>
+</td>
+</tr>
+</table></div>
+
+</div>
+
+</body>
+</html>

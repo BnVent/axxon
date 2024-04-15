@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="62ea3704-7c15-4c11-a2d0-1db105bdf6d1" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.41.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 13</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u20afb3f8-44bc-47ca-8b61-56329cbb1f2d" playOrder="1">
+      <navLabel>
+        <text>Editorial: El cumpleaños de Axxón</text>
+      </navLabel>
+      <content src="c-13Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u1f414255-01b5-4dd9-aa5b-ac338c2eec5c" playOrder="2">
+      <navLabel>
+        <text>Ficciones: El diario de la rosa</text>
+      </navLabel>
+      <content src="c-13Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ucaa9a9db-96ba-46ba-b6ed-406890b25949" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Hierve, vena</text>
+      </navLabel>
+      <content src="c-13Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u0797434d-629c-4082-b4ad-31027e5f81fb" playOrder="4">
+      <navLabel>
+        <text>Ensayo: Meta-Ciencia Ficción</text>
+      </navLabel>
+      <content src="c-13Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ucb8bea58-4114-409c-9c1b-bb56ab514599" playOrder="5">
+      <navLabel>
+        <text>Ficciones: La incompatibilidad del software</text>
+      </navLabel>
+      <content src="c-13Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u6b59542d-ae6f-4bbd-9e9d-76f749ef49c5" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Segundo mejor amigo</text>
+      </navLabel>
+      <content src="c-13Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u91c2deaa-2d92-4b8d-a204-fed3457779b2" playOrder="7">
+      <navLabel>
+        <text>Sección: Disquisiciones Inocuas (3)</text>
+      </navLabel>
+      <content src="c-13Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ufa3aae8e-326f-4b8d-b090-4aab483b87ff" playOrder="8">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-13Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ua6d98711-877b-4de8-b1cc-e93f01b9b126" playOrder="9">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

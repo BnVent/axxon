@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="ccaaefe4-d825-4885-8a08-7ba68049404d" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.16.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 125</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u8e76fb3c-cd7a-4042-a099-22662bff50c1" playOrder="1">
+      <navLabel>
+        <text>Editorial: Estúpido cuento</text>
+      </navLabel>
+      <content src="c-125Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u4f9483da-f069-4d1d-9b66-49f0a01078f8" playOrder="2">
+      <navLabel>
+        <text>Correo: Correo 125</text>
+      </navLabel>
+      <content src="c-125Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u3b39c563-0859-4fe3-b740-b8a1df35bff8" playOrder="3">
+      <navLabel>
+        <text>Galería: Galería de arte</text>
+      </navLabel>
+      <content src="c-125Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u83c73cb1-fb95-45a7-9487-b605392b6771" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Un buen día para morir</text>
+      </navLabel>
+      <content src="c-125Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u7c5bd065-3569-4fdf-8c6b-c1d3ce8eb5f1" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Hombres y piedras</text>
+      </navLabel>
+      <content src="c-125Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u656c1fe1-a49f-49ac-bf4b-24d168ab2775" playOrder="6">
+      <navLabel>
+        <text>Divulgación: La Lengua Negra, el lenguaje de los villanos de “El señor de los Anillos”</text>
+      </navLabel>
+      <content src="c-125Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ud48769ad-03b5-4d45-80e3-cbbd24a74e35" playOrder="7">
+      <navLabel>
+        <text>Recreaciones: El Gaucho de los Anillos (6)</text>
+      </navLabel>
+      <content src="c-125Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u81dd6452-947a-4782-b374-cd776e6871a9" playOrder="8">
+      <navLabel>
+        <text>Ficciones: El Nueve de ellos</text>
+      </navLabel>
+      <content src="c-125Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u7f40f73a-6179-44bf-86b8-b9b5b940f02e" playOrder="9">
+      <navLabel>
+        <text>Ensayo: Visiones futuras en el fin de siglo (XIX)</text>
+      </navLabel>
+      <content src="c-125Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u4d963024-70ac-45ad-bfac-5ee28d1b2e81" playOrder="10">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

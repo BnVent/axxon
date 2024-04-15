@@ -1,0 +1,326 @@
+.align-left {
+    clear: left;
+    float: left;
+    height: auto;
+    margin-right: 1em;
+    text-align: left;
+    width: auto
+    }
+.align-right {
+    clear: right;
+    float: right;
+    height: auto;
+    margin-left: 1em;
+    text-align: right;
+    width: auto
+    }
+.arabic {
+    display: block;
+    list-style-image: none;
+    list-style-position: outside;
+    list-style-type: decimal;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.attribution {
+    display: block;
+    text-align: right;
+    padding: 0;
+    margin: 5px 0 0 50%
+    }
+.calibre {
+    background: inherited;
+    color: inherited;
+    display: block;
+    font-size: 1em;
+    width: 99%;
+    padding: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    background: inherited;
+    color: inherited;
+    display: block;
+    width: 99%;
+    padding: 0;
+    margin: 0
+    }
+.calibre10 {
+    color: #00f;
+    display: block;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0.67em 0
+    }
+.calibre11 {
+    color: #800080;
+    display: block;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0.83em 0
+    }
+.calibre12 {
+    display: block;
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 3em;
+    padding: 2px;
+    margin: 0
+    }
+.calibre13 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre14 {
+    display: block;
+    margin: 1em
+    }
+.calibre15 {
+    height: auto;
+    width: auto
+    }
+.calibre16 {
+    display: block;
+    margin: 1em 1em 1em 4em
+    }
+.calibre17 {
+    display: block;
+    padding: 0.5em;
+    margin: 0.5em
+    }
+.calibre18 {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 1em 0
+    }
+.calibre19 {
+    display: block;
+    list-style-type: circle;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0
+    }
+.calibre2 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre20 {
+    text-decoration: underline
+    }
+.calibre3 {
+    display: list-item
+    }
+.calibre4 {
+    font-weight: bold
+    }
+.calibre5 {
+    display: block;
+    padding: 0;
+    margin: 5px 0 0
+    }
+.calibre6 {
+    color: gray;
+    display: block;
+    height: 2px;
+    border: currentColor inset 1px;
+    margin: 0.5em auto
+    }
+.calibre7 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.67em 0
+    }
+.calibre8 {
+    background: inherited;
+    color: inherited;
+    display: block;
+    width: 99%;
+    padding: 0;
+    border: rgb(128, 192, 192) solid 1px;
+    margin: 0
+    }
+.calibre9 {
+    font-style: italic
+    }
+.caratula {
+    display: block;
+    text-align: center;
+    width: 100%;
+    padding: 0;
+    margin: 0
+    }
+.cartel {
+    background: inherited;
+    display: block;
+    height: inherited;
+    margin-left: inherited;
+    margin-right: inherited;
+    width: inherited
+    }
+.colofon {
+    display: block;
+    text-align: right;
+    text-indent: 0;
+    width: 99%;
+    padding: 0;
+    margin: 0
+    }
+.derecha {
+    display: block;
+    margin-bottom: 1em;
+    margin-top: 1em
+    }
+.derecha1 {
+    display: block;
+    font-size: 1em;
+    text-align: right;
+    text-indent: 0;
+    padding: 2px;
+    margin: 0
+    }
+.document {
+    display: block;
+    width: 99%;
+    padding: 0;
+    margin: 0
+    }
+.docutils {
+    color: gray;
+    display: block;
+    height: 2px;
+    width: 75%;
+    border: currentColor inset 1px;
+    margin: 0.5em auto
+    }
+.epigraph {
+    display: block;
+    font-style: italic;
+    text-indent: 0;
+    margin: 2em 0 2em 3em
+    }
+.epigraph1 {
+    display: block;
+    margin: 2em
+    }
+.first {
+    display: block;
+    padding: 0;
+    margin: 0
+    }
+.indiceautor {
+    display: block;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.83em 0
+    }
+.indicetitulo {
+    color: #406070;
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0.67em 0 0.67em auto
+    }
+.line {
+    display: block;
+    text-align: right;
+    text-indent: 0
+    }
+.line-block {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 1.5em;
+    margin-top: 0
+    }
+.literal-block {
+    display: block;
+    font-family: monospace;
+    font-size: 0.625em;
+    white-space: pre-wrap;
+    margin: 1em 2em
+    }
+.pri {
+    display: block;
+    text-indent: 0;
+    padding: 0;
+    margin: 2em 0 0
+    }
+.pri1 {
+    display: block;
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 0;
+    padding: 0;
+    margin: 3em 0 0
+    }
+.pri2 {
+    display: block
+    }
+.pri3 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 4em;
+    margin-top: 1em
+    }
+.reference {
+    text-decoration: none
+    }
+.resumen {
+    background: #7FFFD4;
+    display: block;
+    font-size: 0.83333em;
+    border: currentColor solid 2px;
+    margin: 0 0 0 2em
+    }
+.resumen1 {
+    background: #7FFFD4;
+    display: block;
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 3em;
+    padding: 2px;
+    border: currentColor solid 2px;
+    margin: 0
+    }
+.titulo-edit {
+    color: #007080;
+    display: block;
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0.67em 0
+    }
+.toc-backref {
+    color: black;
+    line-height: 1.2;
+    text-decoration: none
+    }
+.pcalibre1:first-letter {
+    font-size: 120%;
+    font-style: italic;
+    font-weight: bold
+    }
+.pcalibre:first-letter {
+    font-size: 120%;
+    font-weight: bold
+    }

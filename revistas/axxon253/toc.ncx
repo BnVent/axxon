@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="ede8eb21-772c-4876-a860-5bc95541c614" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.34.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 253</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u120a823a-ad7f-4829-b753-e82cf2ee5aac" playOrder="1">
+      <navLabel>
+        <text>Editorial: Ojo entrenado, culo quieto</text>
+      </navLabel>
+      <content src="c-253Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u87a6c624-61fb-4572-b673-25287306524e" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Escombros, fuego y una columna de humo blanco</text>
+      </navLabel>
+      <content src="c-253Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u37f3af09-3891-48c6-85f7-7dd0bf643205" playOrder="3">
+      <navLabel>
+        <text>Ensayo: La hybris de Fëanor: una tragedia griega en el Silmarillion de Tolkien</text>
+      </navLabel>
+      <content src="c-253Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u12f6f832-40d2-4229-b5b6-206877acf19b" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El ángel Salamone</text>
+      </navLabel>
+      <content src="c-253Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ud1f3f8f0-c385-4d4d-976c-5dd6db659858" playOrder="5">
+      <navLabel>
+        <text>Artículo: Pintura de mundos</text>
+      </navLabel>
+      <content src="c-253Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uf5ff8c3b-ee90-41b0-a94c-fe2dfbc65e15" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Ocho</text>
+      </navLabel>
+      <content src="c-253Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u983ea0be-3c95-47ce-bbdc-0c6001b2f5d2" playOrder="7">
+      <navLabel>
+        <text>Ficciones: El sueño de Vero</text>
+      </navLabel>
+      <content src="c-253Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u0a82af2a-8be4-46ea-87b9-8cce07f773db" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Algo más importante que instantes o tropiezos</text>
+      </navLabel>
+      <content src="c-253Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u49d56304-75d8-476d-81c4-fce508aaf20e" playOrder="9">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

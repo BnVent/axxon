@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="cbf00db3-50f6-4424-b694-dd0fee6273fd" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.14.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 61</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ua6d375d0-998d-4cb2-8848-66579ecb4a02" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades 61</text>
+      </navLabel>
+      <content src="c-61Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u1ff35108-d9e9-4e0c-9fe7-93cdb7c47759" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 61</text>
+      </navLabel>
+      <content src="c-61Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uf7dc1721-29b1-4e6c-87b2-13ab4497ff9a" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El rosal</text>
+      </navLabel>
+      <content src="c-61Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u02a7eadd-1c7c-4e3b-b162-aa97109f29fe" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Deep Eddy</text>
+      </navLabel>
+      <content src="c-61Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u7fae9ec6-28fc-4d97-a020-f0a13bb53b29" playOrder="5">
+      <navLabel>
+        <text>Sección: Tour Macabro</text>
+      </navLabel>
+      <content src="c-61Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u320e61fe-e08b-46c7-aa76-e66310e63138" playOrder="6">
+      <navLabel>
+        <text>Ficciones: El recuerdo</text>
+      </navLabel>
+      <content src="c-61Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u46ac39ca-8e49-475c-b11f-aad50342627e" playOrder="7">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual (XII)</text>
+      </navLabel>
+      <content src="c-61Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u0753ccfc-8ebc-41c1-aebd-6e53db5e83ba" playOrder="8">
+      <navLabel>
+        <text>Crónica: Cinco cabezas son mas dementes que una</text>
+      </navLabel>
+      <content src="c-61Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ubaca212f-03f2-4c9b-ad8a-4b1d5cc30d10" playOrder="9">
+      <navLabel>
+        <text>Crónica: Testimonios de la fiesta</text>
+      </navLabel>
+      <content src="c-61Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u0eed431d-360f-4909-a241-7d9ee351c81f" playOrder="10">
+      <navLabel>
+        <text>Correo: Correo 61</text>
+      </navLabel>
+      <content src="c-61Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u6ee91988-0699-4c47-a1fb-338adbc3f13c" playOrder="11">
+      <navLabel>
+        <text>Sección: El Portal Fantástico (8)</text>
+      </navLabel>
+      <content src="c-61Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u8f0a7616-1696-43d4-9806-d5fb11dfaa62" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Y la Atlántida se hundió</text>
+      </navLabel>
+      <content src="c-61Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u40a7e358-8aa5-433a-b644-c49e619456a8" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Postales desde Oniris</text>
+      </navLabel>
+      <content src="c-61Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u34df2a31-ad6a-4217-8115-a7d2a2f00829" playOrder="14">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad (34)</text>
+      </navLabel>
+      <content src="c-61Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u69b40d2f-ffd5-499e-911d-dda65393785b" playOrder="15">
+      <navLabel>
+        <text>Sección: ET AL Virtual (5)</text>
+      </navLabel>
+      <content src="c-61Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u27f8e580-4865-48c0-8b17-701b6cf497d1" playOrder="16">
+      <navLabel>
+        <text>Sección: Informática - Tecnología RISC: ¿Qué es?</text>
+      </navLabel>
+      <content src="c-61Pag16.htm"/>
+    </navPoint>
+    <navPoint id="uc1025ad3-06e1-42c1-bdbf-ab894a485112" playOrder="17">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-61Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u62ff0b2c-9def-4a86-9c99-4d0c0e98164d" playOrder="18">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-61Pag18.htm"/>
+    </navPoint>
+    <navPoint id="uda1b89a8-529a-4bbb-85af-683f6ff894ed" playOrder="19">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

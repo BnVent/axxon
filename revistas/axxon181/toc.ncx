@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="72f12e16-70f3-4d2d-ace3-e9b774154be4" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 181</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ucde804a1-433c-432a-98a2-6bef83f586d1" playOrder="1">
+      <navLabel>
+        <text>Editorial: “Clasificaciones”</text>
+      </navLabel>
+      <content src="c-181Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ucb2b8f7f-7276-446e-86d4-fa928a755612" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-181Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uab290253-bff5-4a2e-bd9e-b6418c9bacb1" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Jugo gástrico</text>
+      </navLabel>
+      <content src="c-181Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u0e261260-1e6f-4ac4-8712-843b058d7ed6" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Termópolis</text>
+      </navLabel>
+      <content src="c-181Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u48989603-b4de-4cdc-8f2a-2ae4059eda51" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Lupercalia (novela corta)</text>
+      </navLabel>
+      <content src="c-181Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ue9529873-7f8e-4c32-b983-3f5fbe9134ae" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Tiempo prestado</text>
+      </navLabel>
+      <content src="c-181Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ude85ee19-0eb4-47c1-a315-934d8274ff9a" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Manuscrito olvidado en una mesa de un café</text>
+      </navLabel>
+      <content src="c-181Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u374c9d63-1d30-4700-bc1f-ae325b274e19" playOrder="8">
+      <navLabel>
+        <text>Ficciones: El castigo</text>
+      </navLabel>
+      <content src="c-181Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u1d883814-0f3c-4bf2-aa3a-8781fce6e8ca" playOrder="9">
+      <navLabel>
+        <text>Sección: Batiburrillo</text>
+      </navLabel>
+      <content src="c-181Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u516624ae-779a-4dec-9d8f-3735355372c3" playOrder="10">
+      <navLabel>
+        <text>Batiburrillo: Editorial</text>
+      </navLabel>
+      <content src="c-181Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uff587a8d-7e2a-4846-930f-53f924044d58" playOrder="11">
+      <navLabel>
+        <text>Batiburrillo: Me la sé lunga: Los niños lobo en Rusia</text>
+      </navLabel>
+      <content src="c-181Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u9efc2667-ea24-4ed7-8d21-d2b8a73aab5d" playOrder="12">
+      <navLabel>
+        <text>Batiburrillo: Bibliorata: PUBIS, por Theo L. Cock</text>
+      </navLabel>
+      <content src="c-181Pag12.htm"/>
+    </navPoint>
+    <navPoint id="ufe8a2abf-6622-45a4-8d7e-4bfa26d37881" playOrder="13">
+      <navLabel>
+        <text>Divulgación: Los pozos de la muerte</text>
+      </navLabel>
+      <content src="c-181Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u482a57c3-d582-40dc-b850-0bc1ad733c39" playOrder="14">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (38)</text>
+      </navLabel>
+      <content src="c-181Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u998260be-320b-429f-8f1f-2c6f1655f2fa" playOrder="15">
+      <navLabel>
+        <text>Informe: Alien: el extraño ser que habita en nosotros</text>
+      </navLabel>
+      <content src="c-181Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u2dbf0fe5-fe74-4c2b-b896-5f8770b3e38a" playOrder="16">
+      <navLabel>
+        <text>Ficciones: La residencia</text>
+      </navLabel>
+      <content src="c-181Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u245092ef-fd84-4d16-b22c-e1806bee9b44" playOrder="17">
+      <navLabel>
+        <text>Ficciones: La jungla más allá de las estrellas</text>
+      </navLabel>
+      <content src="c-181Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u7d18ac6c-3e7e-4422-89e4-a74b9ef183be" playOrder="18">
+      <navLabel>
+        <text>Ficciones: El tricentenario de Mayo</text>
+      </navLabel>
+      <content src="c-181Pag18.htm"/>
+    </navPoint>
+    <navPoint id="udfb2e10a-b3b3-4458-9911-5554f63b5468" playOrder="19">
+      <navLabel>
+        <text>Axxóncine: Soy leyenda</text>
+      </navLabel>
+      <content src="c-181Pag19.htm"/>
+    </navPoint>
+    <navPoint id="u07cefb0a-f9fe-46af-925a-2e697917adf6" playOrder="20">
+      <navLabel>
+        <text>Clásico: El elixir de la larga vida</text>
+      </navLabel>
+      <content src="c-181Pag20.htm"/>
+    </navPoint>
+    <navPoint id="u3338e7ef-3bb4-41b5-9504-983c519d18ca" playOrder="21">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-181Pag21.htm"/>
+    </navPoint>
+    <navPoint id="u7516404a-c493-4e45-947b-e4da19cc0891" playOrder="22">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

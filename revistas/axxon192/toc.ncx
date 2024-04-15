@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="640d411a-bc7f-4dee-8d0b-394caa93806f" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.41.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 192</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u24179d04-d9d8-4c48-b58e-ea5c42412d3a" playOrder="1">
+      <navLabel>
+        <text>Editorial: Y se nos va otro año…</text>
+      </navLabel>
+      <content src="c-192Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u86b41c2e-a66a-42d7-a483-203ff81a0a62" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-192Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u585accd8-d1a1-42d7-b9b6-904c3ddcb702" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Misión diplomática</text>
+      </navLabel>
+      <content src="c-192Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ufc132e08-7c4c-4735-b02b-0b6a42cfa5a2" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Para que se cumpla el plan</text>
+      </navLabel>
+      <content src="c-192Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u523a3c85-8eb4-4cbf-81a5-2a267d8585d3" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El saludo</text>
+      </navLabel>
+      <content src="c-192Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ub78014ec-6cf2-4d06-baf5-5d25f0d9e22a" playOrder="6">
+      <navLabel>
+        <text>Ficciones: El “Incidente Johnson-Muñoz”</text>
+      </navLabel>
+      <content src="c-192Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ub5b02fa1-f620-4cdf-901d-5d6d2acc3e6c" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (44)</text>
+      </navLabel>
+      <content src="c-192Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u110d8cb3-ed8f-4f20-952c-d879e567c65f" playOrder="8">
+      <navLabel>
+        <text>Divulgación: “El futuro es mío”</text>
+      </navLabel>
+      <content src="c-192Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u6191308a-d6b5-407f-881a-fdcd59db3f30" playOrder="9">
+      <navLabel>
+        <text>Ficciones: No viniste, pero estabas</text>
+      </navLabel>
+      <content src="c-192Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ua2141a98-4b88-4709-a42e-1e67ef78aaeb" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Soy</text>
+      </navLabel>
+      <content src="c-192Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u7c2bf31b-6068-4cc1-8e93-49106c45ff76" playOrder="11">
+      <navLabel>
+        <text>Ficciones: La mejor realidad</text>
+      </navLabel>
+      <content src="c-192Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ufba7da2d-3d3a-47e7-9a6d-6d9b7a05080a" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Pecados</text>
+      </navLabel>
+      <content src="c-192Pag12.htm"/>
+    </navPoint>
+    <navPoint id="ufd1cf071-f0ba-4a50-9a5a-f5325c554ac1" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Un no tan típico cuento navideño</text>
+      </navLabel>
+      <content src="c-192Pag13.htm"/>
+    </navPoint>
+    <navPoint id="ua7fcce17-2fa5-4b38-b57d-230b945a8c33" playOrder="14">
+      <navLabel>
+        <text>Axxóncine: Abre los ojos</text>
+      </navLabel>
+      <content src="c-192Pag14.htm"/>
+    </navPoint>
+    <navPoint id="ub887d667-c644-4e20-9ba9-03784ee91412" playOrder="15">
+      <navLabel>
+        <text>Ensayo: Las malas copias</text>
+      </navLabel>
+      <content src="c-192Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u28c04e0e-349a-4125-a41f-8262f4a30399" playOrder="16">
+      <navLabel>
+        <text>Ensayo: Notas sobre la escritura de ficción extraña</text>
+      </navLabel>
+      <content src="c-192Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u78523c00-a861-4a6b-95e6-50598e7c0cdc" playOrder="17">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-192Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u14b496a3-f9a8-4256-a73b-737bccee6d41" playOrder="18">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

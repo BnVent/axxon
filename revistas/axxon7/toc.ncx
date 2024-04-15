@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="8bb5b19b-da8a-4c94-83a0-dbf7ba844a53" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.41.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 7</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uc3618880-97a6-4837-a754-c916c65baffc" playOrder="1">
+      <navLabel>
+        <text>Editorial: Axxón no está sola</text>
+      </navLabel>
+      <content src="c-7Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u2b17f8e2-ff37-424a-b652-cef609b2a27a" playOrder="2">
+      <navLabel>
+        <text>Semificción: Un fin y un principio</text>
+      </navLabel>
+      <content src="c-7Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ub737bf8c-b1f3-4a26-8ffd-0e5a5dcf22db" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Pulse ENTER []</text>
+      </navLabel>
+      <content src="c-7Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uc15e14ad-840a-4c1d-b8ca-61e7cc7ac334" playOrder="4">
+      <navLabel>
+        <text>Ficciones: La esfera</text>
+      </navLabel>
+      <content src="c-7Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u9e12b919-cc3c-446b-b48b-1e58da95114a" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Confundidos</text>
+      </navLabel>
+      <content src="c-7Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u445c2d70-45e9-4a02-ac2a-d42bf4210bac" playOrder="6">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-7Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u1be97cf0-bef3-4b75-bc42-9d270974f6e9" playOrder="7">
+      <navLabel>
+        <text>Miscelánea: Resultado JUEGOS</text>
+      </navLabel>
+      <content src="c-7Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u017e3e06-4676-4e7b-87ae-59ac6daac3c0" playOrder="8">
+      <navLabel>
+        <text>Miscelánea: Agradecimientos</text>
+      </navLabel>
+      <content src="c-7Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u27d64b6f-0875-4aee-83df-0608bb1fe163" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Fuerza de ocupación</text>
+      </navLabel>
+      <content src="c-7Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u310d9a8d-2904-49f1-8501-97b2428b6828" playOrder="10">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-7Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u78d846bd-aa54-4227-bf3c-8e97cb9b05b1" playOrder="11">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="e1e731cc-64a0-4c11-bd85-bbc595d73aef" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.41.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 56</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u3d64fc20-4521-45fc-8817-3839e21c104a" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-56Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uc4f1f99d-df6c-43d7-9e11-4d91c723f11c" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 56</text>
+      </navLabel>
+      <content src="c-56Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u5877314b-95f7-4377-8dc1-ab5074eb0251" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Casa de muñecas</text>
+      </navLabel>
+      <content src="c-56Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ud6a677e1-e046-4ece-830c-dceec83202ad" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Las niñas</text>
+      </navLabel>
+      <content src="c-56Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ud69fe36d-57d3-4b38-bf2b-26c89de95f96" playOrder="5">
+      <navLabel>
+        <text>Sección: Tour macabro (4)</text>
+      </navLabel>
+      <content src="c-56Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u55355e94-e620-4313-bf35-8da113eeb357" playOrder="6">
+      <navLabel>
+        <text>Ficciones: El deseo</text>
+      </navLabel>
+      <content src="c-56Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ufa67b89e-b5bf-4c84-84a9-f6dd57bfb73f" playOrder="7">
+      <navLabel>
+        <text>Ficciones: El vertedero de basuras</text>
+      </navLabel>
+      <content src="c-56Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u6f851dbe-95a6-4c23-b979-895d6bfd1d36" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Madre</text>
+      </navLabel>
+      <content src="c-56Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u366d1bff-a5c6-4faa-ab08-60e012b02088" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Trabajadora social</text>
+      </navLabel>
+      <content src="c-56Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ucd434309-1beb-4b36-8a4d-bfbe61ab0451" playOrder="10">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual (VII)</text>
+      </navLabel>
+      <content src="c-56Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ua59cecad-6dd6-4c64-969c-deaeebed1561" playOrder="11">
+      <navLabel>
+        <text>Sección: La aventura es la aventura (Jornada II)</text>
+      </navLabel>
+      <content src="c-56Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u8a1ba784-66bc-46b5-8713-071196132195" playOrder="12">
+      <navLabel>
+        <text>Sección: El portal fantástico (4)</text>
+      </navLabel>
+      <content src="c-56Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u4bdebdd5-3603-479d-b179-9c5016ebcc7d" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Leyenda a las puertas de una sala del Museo de Arte Moderno</text>
+      </navLabel>
+      <content src="c-56Pag13.htm"/>
+    </navPoint>
+    <navPoint id="ub381da7a-dff8-45e9-b009-c9f95e03ef73" playOrder="14">
+      <navLabel>
+        <text>Correo: Correo 56</text>
+      </navLabel>
+      <content src="c-56Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u9f264e41-98b7-491c-a09a-bb217d7080fe" playOrder="15">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad</text>
+      </navLabel>
+      <content src="c-56Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u84949dfa-ab8e-4c5e-8931-f09512690976" playOrder="16">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-56Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u3e79591c-bedd-4319-99bf-5ae9d6a57f12" playOrder="17">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-56Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u159c7836-acdf-468b-ac5c-dd0d0a71ba12" playOrder="18">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

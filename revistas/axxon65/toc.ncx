@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="48b47abc-e52e-40a0-bfdf-a15c2f1ccc5d" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.14.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 65</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u5c2d966f-71a9-4878-8b4d-67331b38e9ee" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-65Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u99157818-8250-4a6c-8847-1d36f2a18179" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 65</text>
+      </navLabel>
+      <content src="c-65Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ubb63b71b-a440-40b5-8d38-c635b1393ce4" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Desperdicio humano</text>
+      </navLabel>
+      <content src="c-65Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u6d2ac870-8d55-4699-b666-b62cb28fc8c2" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Tumbas</text>
+      </navLabel>
+      <content src="c-65Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u7d99b373-a500-4c1a-9ffa-769bf350a065" playOrder="5">
+      <navLabel>
+        <text>Ficciones: La letra número 54</text>
+      </navLabel>
+      <content src="c-65Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ueb0f8312-1301-4c54-bb23-684b6c9deff9" playOrder="6">
+      <navLabel>
+        <text>Sección: Tour Macabro</text>
+      </navLabel>
+      <content src="c-65Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u23cd7626-34df-4bca-a357-41b9390fdfc2" playOrder="7">
+      <navLabel>
+        <text>Ficciones: El fin del mundo</text>
+      </navLabel>
+      <content src="c-65Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u5be47e6a-807b-4f2e-9220-a623bea69ad8" playOrder="8">
+      <navLabel>
+        <text>Ensayo: Ridley, Ripley, Deckard y el miedo</text>
+      </navLabel>
+      <content src="c-65Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u5cd22bca-367f-4b4e-a7d0-dd0c601b4056" playOrder="9">
+      <navLabel>
+        <text>Nota: Cibercine</text>
+      </navLabel>
+      <content src="c-65Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uc8cd5905-40c0-49e9-8757-7ca289c61cf2" playOrder="10">
+      <navLabel>
+        <text>Nota: Blade Runner</text>
+      </navLabel>
+      <content src="c-65Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ubbbd02f6-7fab-429a-b1b5-afc722ec5fe5" playOrder="11">
+      <navLabel>
+        <text>Sección: El Portal Macabro es la Aventura Virtual (XV)</text>
+      </navLabel>
+      <content src="c-65Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u532a0d8a-c89c-4509-95a8-cbe3c6ee38bc" playOrder="12">
+      <navLabel>
+        <text>Correo: Correo 65</text>
+      </navLabel>
+      <content src="c-65Pag12.htm"/>
+    </navPoint>
+    <navPoint id="ued92fe1e-5b18-43ad-a1f3-bb831f7339a2" playOrder="13">
+      <navLabel>
+        <text>Sección: El Portal Fantástico (12)</text>
+      </navLabel>
+      <content src="c-65Pag13.htm"/>
+    </navPoint>
+    <navPoint id="ue4c71149-8e48-4991-b8a8-d2fbd88ce608" playOrder="14">
+      <navLabel>
+        <text>Ficciones: El poder de los nombres</text>
+      </navLabel>
+      <content src="c-65Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u8def512f-c2c1-4f72-aaec-fc7884cdb895" playOrder="15">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad (38)</text>
+      </navLabel>
+      <content src="c-65Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u40af7300-7ea2-4a05-bfd5-e708247bbfc7" playOrder="16">
+      <navLabel>
+        <text>Sección: ET AL Virtual (9)</text>
+      </navLabel>
+      <content src="c-65Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u2e032edc-db9e-46ee-a416-74c607515382" playOrder="17">
+      <navLabel>
+        <text>Sección: Informática: La guerra del cifrado</text>
+      </navLabel>
+      <content src="c-65Pag17.htm"/>
+    </navPoint>
+    <navPoint id="ub037a788-a190-403c-9010-bb1105b46d34" playOrder="18">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-65Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u1a1805d3-49c7-45a3-ac30-db75034b71f4" playOrder="19">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-65Pag19.htm"/>
+    </navPoint>
+    <navPoint id="ud17ce95d-a249-4329-bba3-1d375dae1d00" playOrder="20">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

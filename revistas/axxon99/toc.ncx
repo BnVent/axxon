@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="aedc09d2-3094-4982-b144-1e0d02324994" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.19.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 99</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u2a008c1a-6163-4031-9b78-09fb47c612a3" playOrder="1">
+      <navLabel>
+        <text>Novedades: Un caballero singular</text>
+      </navLabel>
+      <content src="c-99Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ufa6e90f5-ad06-4e39-bd17-ed0e5d566a76" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 99</text>
+      </navLabel>
+      <content src="c-99Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ueed85786-a921-43b3-83b3-b110119c71ae" playOrder="3">
+      <navLabel>
+        <text>Ficciones: La tierra de los lentos</text>
+      </navLabel>
+      <content src="c-99Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ub41d86c1-63dc-4323-95cb-a420c552ee48" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Muero cada amanecer</text>
+      </navLabel>
+      <content src="c-99Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u9c9d13f8-2357-4bd1-9484-c3afb887cf6f" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Max</text>
+      </navLabel>
+      <content src="c-99Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u67bcb1fd-a110-44c7-a100-8fdd4e9f600b" playOrder="6">
+      <navLabel>
+        <text>Sección: Aves raras (II): Waquero</text>
+      </navLabel>
+      <content src="c-99Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ud291fb11-e751-464a-90db-5c38c1a26bfa" playOrder="7">
+      <navLabel>
+        <text>Sección: Tour Macabro</text>
+      </navLabel>
+      <content src="c-99Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u9445ee07-a765-42ca-a51b-7d76a016ff5c" playOrder="8">
+      <navLabel>
+        <text>Tour Macabro: La niñita</text>
+      </navLabel>
+      <content src="c-99Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u517c989c-c34c-47b2-a1d2-51dcd8670741" playOrder="9">
+      <navLabel>
+        <text>Tour Macabro: La leyenda de Sam Chaparrel (3)</text>
+      </navLabel>
+      <content src="c-99Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u18c6ec3c-9d67-4bb8-9e9c-716e96ca02fa" playOrder="10">
+      <navLabel>
+        <text>Tour Macabro: Invocación (poema)</text>
+      </navLabel>
+      <content src="c-99Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u2dd53058-1ecb-4128-a6fd-74efe4cf52f5" playOrder="11">
+      <navLabel>
+        <text>Tour Macabro: Selección de poemas</text>
+      </navLabel>
+      <content src="c-99Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u18a3e162-3374-4fbd-aaf1-8308305371f8" playOrder="12">
+      <navLabel>
+        <text>Portfolio: Galería de arte</text>
+      </navLabel>
+      <content src="c-99Pag12.htm"/>
+    </navPoint>
+    <navPoint id="uae04e419-ce5f-4a36-a738-3d4df8c51c87" playOrder="13">
+      <navLabel>
+        <text>Correo: Correo 99</text>
+      </navLabel>
+      <content src="c-99Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u42d723fb-0145-4c24-a2f3-689156dde18e" playOrder="14">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-99Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u45d9fe36-52fa-4351-95ac-f86d028a1850" playOrder="15">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-99Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u41ab5f9e-edd4-415a-a079-a7203f731125" playOrder="16">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

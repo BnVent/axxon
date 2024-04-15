@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="907de61b-cb8c-4cda-aa7c-0674173ef025" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.66)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 233</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="91d7ce5a-4554-4089-bc8f-3b714d998467" playOrder="1">
+      <navLabel>
+        <text>Ficciones: La velocidad de los neutrinos</text>
+      </navLabel>
+      <content src="c-233Pag01.htm"/>
+    </navPoint>
+    <navPoint id="37f85c52-88aa-47e5-ad9d-325de0e17d31" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Vapor en las calles durante la noche</text>
+      </navLabel>
+      <content src="c-233Pag02.htm"/>
+    </navPoint>
+    <navPoint id="affccbda-4057-4865-82d2-703ef429230a" playOrder="3">
+      <navLabel>
+        <text>Artículo: Hogar</text>
+      </navLabel>
+      <content src="c-233Pag03.htm"/>
+    </navPoint>
+    <navPoint id="a59fc1c5-e99a-4577-b9a5-c428240d9c33" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El que guarda siempre tiene o los beneficios de la reencarnación</text>
+      </navLabel>
+      <content src="c-233Pag04.htm"/>
+    </navPoint>
+    <navPoint id="242d5af4-305d-4248-ae9d-c6a040ac18a8" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El hombre y su semejanza</text>
+      </navLabel>
+      <content src="c-233Pag05.htm"/>
+    </navPoint>
+    <navPoint id="e6186ca2-51ff-4692-a30c-9bec873fc26c" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Purgatorio</text>
+      </navLabel>
+      <content src="c-233Pag06.htm"/>
+    </navPoint>
+    <navPoint id="e906cfcb-c947-4618-a482-77f602cd316a" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (sesenta y ocho)</text>
+      </navLabel>
+      <content src="c-233Pag07.htm"/>
+    </navPoint>
+    <navPoint id="b7cfbb27-8e7e-4b24-a9d3-23bf1c901ecd" playOrder="8">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="46350220-565b-4e67-abb9-27045e380313" playOrder="8">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/233/cuento1ilus1.htm"/>
+    </navPoint>
+    <navPoint id="6ed67aeb-8864-43f5-9603-9460a3505ed6" playOrder="9">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/233/cuento2ilus1.htm"/>
+    </navPoint>
+    <navPoint id="817cb5d0-27f3-44a1-8943-fb4fbacb0b63" playOrder="10">
+      <navLabel>
+        <text>TESEO LIBERADO</text>
+      </navLabel>
+      <content src="/rev/2011/07/ficcion-breve-sesenta-y-tres-varios-autores/#6"/>
+    </navPoint>
+    <navPoint id="e9874c1a-f652-4542-b6bb-a1a03ff094a3" playOrder="11">
+      <navLabel>
+        <text>[*]</text>
+      </navLabel>
+      <content src="2012/08/hogar-extrano-hogar-los-modelos-de-familia-dentro-de-la-ciencia-ficcion-dra-teresa-p-mira-de-echeverria/#nota"/>
+    </navPoint>
+    <navPoint id="ff5ff2ea-395d-4d9f-8ad3-8bd4c2212925" playOrder="12">
+      <navLabel>
+        <text>[VOLVER]</text>
+      </navLabel>
+      <content src="2012/08/hogar-extrano-hogar-los-modelos-de-familia-dentro-de-la-ciencia-ficcion-dra-teresa-p-mira-de-echeverria/#llamada"/>
+    </navPoint>
+    <navPoint id="913af496-250b-47a6-87f4-aed7586eb890" playOrder="13">
+      <navLabel>
+        <text>INTERCAMBIO JUSTO</text>
+      </navLabel>
+      <content src="/rev/171/c-171cuento11.htm"/>
+    </navPoint>
+    <navPoint id="4198da80-598c-419b-8c6c-9df379f8cc76" playOrder="14">
+      <navLabel>
+        <text>DEXTRÓGIRO</text>
+      </navLabel>
+      <content src="/rev/184/c-184cuento6.htm"/>
+    </navPoint>
+    <navPoint id="e32ccf17-62ce-458b-9259-7357f347c331" playOrder="15">
+      <navLabel>
+        <text>PÚLSAR</text>
+      </navLabel>
+      <content src="/rev/2010/06/pulsar-teresa-p-mira-de-echeverria/"/>
+    </navPoint>
+    <navPoint id="329520c8-400e-45fb-9382-b639e8cbaa11" playOrder="16">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/233/cuento4ilus1.htm"/>
+    </navPoint>
+    <navPoint id="8514bd8e-14dd-4158-a19c-81975da713b3" playOrder="17">
+      <navLabel>
+        <text>EL AMANTE DE LAS ESTATUAS</text>
+      </navLabel>
+      <content src="/rev/169/c-169cuento13.htm"/>
+    </navPoint>
+    <navPoint id="7b4ccc2e-5432-41c1-b092-fa7b3d3e6cb9" playOrder="18">
+      <navLabel>
+        <text>EL AMOR DE SUS VIDAS</text>
+      </navLabel>
+      <content src="/rev/2011/12/el-amor-de-sus-vidas-ian-watson-roberto-quaglia/"/>
+    </navPoint>
+    <navPoint id="66702c0d-06f1-4a9b-ba7b-ecc24f2b3cd7" playOrder="19">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/233/cuento5ilus1.htm"/>
+    </navPoint>
+    <navPoint id="0ac94579-95f1-4b4a-9ef3-9b2a36e5c4ee" playOrder="20">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/233/cuento6ilus1.htm"/>
+    </navPoint>
+    <navPoint id="c7cbc838-0ef0-4468-b2ca-494d0f3df6ca" playOrder="21">
+      <navLabel>
+        <text>TEMPUS FUGIT</text>
+      </navLabel>
+      <content src="/rev/2010/12/tempus-fugit-carlos-perez-jara/"/>
+    </navPoint>
+    <navPoint id="bb6ee1af-86e8-43bb-9613-3c0af10a77c3" playOrder="22">
+      <navLabel>
+        <text>LEGADO</text>
+      </navLabel>
+      <content src="/rev/2011/07/legado-carlos-perez-jara/"/>
+    </navPoint>
+    <navPoint id="9e064aaa-2bc9-42c3-9b5f-fd5608f43bd6" playOrder="23">
+      <navLabel>
+        <text>AL OTRO LADO DE LA LLANURA</text>
+      </navLabel>
+      <content src="/rev/2011/10/al-otro-lado-de-la-llanura-carlos-perez-jara/"/>
+    </navPoint>
+    <navPoint id="93a33457-8f02-4b8d-b299-675307502231" playOrder="24">
+      <navLabel>
+        <text>LA DECIMOTERCERA CLÁUSULA</text>
+      </navLabel>
+      <content src="/rev/2012/01/la-decimotercera-clausula-carlos-perez-jara/"/>
+    </navPoint>
+    <navPoint id="018e8a63-8d41-4264-9e55-8ccf0bfe89bf" playOrder="25">
+      <navLabel>
+        <text>HIJA DE HELISURPA</text>
+      </navLabel>
+      <content src="/rev/2012/04/hija-de-helisurpa-carlos-perez-jara/"/>
+    </navPoint>
+    <navPoint id="066f656a-da5a-491f-9b15-3f9c26d3cc68" playOrder="26">
+      <navLabel>
+        <text>VAPOR EN LAS CALLES DURANTE LA NOCHE, SIRENAS SIN DOLOR</text>
+      </navLabel>
+      <content src="/rev/2012/08/vapor-en-las-calles-durante-la-noche-sirenas-sin-dolor-hector-ranea/"/>
+    </navPoint>
+    <navPoint id="b1c3052e-4cdd-4efc-be14-42cd8dc292f6" playOrder="27">
+      <navLabel>
+        <text>EL HOMBRE EQUIVOCADO</text>
+      </navLabel>
+      <content src="/rev/2012/04/el-hombre-equivocado-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="6e4aee03-7217-44f8-ae9e-e44563e342dc" playOrder="28">
+      <navLabel>
+        <text>EL UMBRAL EN LA PLAYA</text>
+      </navLabel>
+      <content src="/rev/2012/07/el-umbral-en-la-playa-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="f9d49cd3-177a-4660-b742-42e9cf7af775" playOrder="29">
+      <navLabel>
+        <text>EL OTRO MESÍAS</text>
+      </navLabel>
+      <content src="/rev/2012/06/el-otro-mesias-pe-de-j-pauner/"/>
+    </navPoint>
+  </navMap>
+</ncx>

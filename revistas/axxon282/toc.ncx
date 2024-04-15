@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="5c8abfc0-3def-454f-a7e7-0af1ccdea559" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.25.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 282</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uUaprePIGCD4hJBWX8XhOLA" playOrder="1">
+      <navLabel>
+        <text>Ficciones: Separe a su hijo con Polaris, Inc.</text>
+      </navLabel>
+      <content src="c-282Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u3FogaWHEF5PNKeTMCM8DGC" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Los ingenieros del sueño (poema)</text>
+      </navLabel>
+      <content src="c-282Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uYB3wDq438ia8XYYsLUTx4B" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Sachayoj</text>
+      </navLabel>
+      <content src="c-282Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uzugTYHqXI7hinXYmfNnZy5" playOrder="4">
+      <navLabel>
+        <text>Ficciones: La llamada de una promesa</text>
+      </navLabel>
+      <content src="c-282Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uQHloxXEGjuSSpDMTxfE6zC" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El designio</text>
+      </navLabel>
+      <content src="c-282Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uD4JLjFUixMSLLkizXXYr6F" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Sólo un día</text>
+      </navLabel>
+      <content src="c-282Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uLTlR23blNQ5hje8Aa7UEHF" playOrder="7">
+      <navLabel>
+        <text>Ficciones: El diablillo en la cerradura</text>
+      </navLabel>
+      <content src="c-282Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uU3bxE6x68bSuwkP2NVcOr6" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Hasta que la muerte nos separe</text>
+      </navLabel>
+      <content src="c-282Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uyh5GGzXpQAcKg2NqIHgyiG" playOrder="9">
+      <navLabel>
+        <text>Editorial: Un regreso, un propósito, un rumbo</text>
+      </navLabel>
+      <content src="c-282Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uYlOmafpxMOkHgXPVfOH7pC" playOrder="10">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-282Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uvBgg6BAo7YrJ2vTfE8SNbF" playOrder="11">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

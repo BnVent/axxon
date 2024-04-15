@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="824644c2-96ff-4397-83c8-1f27939b7015" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 179</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u8c626ee6-bc7b-4a4a-9edc-98ec6022b49d" playOrder="1">
+      <navLabel>
+        <text>Editorial: Un tesoro de imposible valuación</text>
+      </navLabel>
+      <content src="c-179Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u7038b4a6-04c3-411c-a7b3-2cbcd2f4530b" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-179Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ue25eeb8d-7705-4985-9b8a-38da97454235" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Los Invasores del Sábado</text>
+      </navLabel>
+      <content src="c-179Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u26df45e7-4e5a-4b4d-abbe-959b0ca74004" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El poder salvador</text>
+      </navLabel>
+      <content src="c-179Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ub23a2f3c-c1c8-43ec-b7f0-b91485588f0c" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Portadores</text>
+      </navLabel>
+      <content src="c-179Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ueb776c5d-74a2-4bae-8895-45d316735334" playOrder="6">
+      <navLabel>
+        <text>Divulgación: Tepuyes</text>
+      </navLabel>
+      <content src="c-179Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u33b908fe-9a58-415a-a138-0cfc2781f5da" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Río Chico</text>
+      </navLabel>
+      <content src="c-179Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uee5486fe-4c95-4e04-ba77-be001290de7e" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Tao</text>
+      </navLabel>
+      <content src="c-179Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u05c17b6a-cad3-4502-be27-07c4564ef290" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Adivina, adivinanza</text>
+      </navLabel>
+      <content src="c-179Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u891e432d-006a-460e-b400-bc492e081eae" playOrder="10">
+      <navLabel>
+        <text>Crónica: Gorodischer y Bodoc le sacan lustre al género</text>
+      </navLabel>
+      <content src="c-179Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ud653dba7-a9b2-4844-a4a1-52d88ffbbcd5" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (36)</text>
+      </navLabel>
+      <content src="c-179Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u67e49a17-f252-4488-90f4-baa55ad39d7a" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Cerrada</text>
+      </navLabel>
+      <content src="c-179Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u18ae5e4b-d6ee-4fff-b127-c0e3baa9a306" playOrder="13">
+      <navLabel>
+        <text>Ficciones: El final de las partes</text>
+      </navLabel>
+      <content src="c-179Pag13.htm"/>
+    </navPoint>
+    <navPoint id="ua68ccccb-b705-4bc4-bf57-237a03bb7aeb" playOrder="14">
+      <navLabel>
+        <text>Axxóncine: Paprika: el reino de los sueños</text>
+      </navLabel>
+      <content src="c-179Pag14.htm"/>
+    </navPoint>
+    <navPoint id="ucdacd23c-ab6f-4971-8314-374b7e3122d7" playOrder="15">
+      <navLabel>
+        <text>Clásico: El Hombre de Arena</text>
+      </navLabel>
+      <content src="c-179Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u6780761e-d187-4051-9909-2d875996ed38" playOrder="16">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-179Pag16.htm"/>
+    </navPoint>
+    <navPoint id="uc8c4e0ac-0850-45fc-aae4-a724ae4b1b5a" playOrder="17">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

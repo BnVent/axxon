@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="4e68396b-1147-4041-bf4a-dfb3480c7ee8" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.34.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 284</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uRMMwce4PeGDfLaFxc3BFP6" playOrder="1">
+      <navLabel>
+        <text>Editorial: La mirada de los otros</text>
+      </navLabel>
+      <content src="c-284Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ujG4viRjFFv2VddKshWadt2" playOrder="2">
+      <navLabel>
+        <text>Firmas Invitadas: Axxon y la ciencia-ficción latinoamericana</text>
+      </navLabel>
+      <content src="c-284Pag02.htm"/>
+    </navPoint>
+    <navPoint id="umWy4zBumrpepwHZaKVconG" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Bajando a pueblo</text>
+      </navLabel>
+      <content src="c-284Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uw286FUpaCNqd2cTf2nEnGE" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Últimas cenas</text>
+      </navLabel>
+      <content src="c-284Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uXzVgn7ddbrfbtY2auIdnn4" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Puro y sin sabor</text>
+      </navLabel>
+      <content src="c-284Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u2OTYo4Jn3KOduykvY4TfvF" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Ellas eran</text>
+      </navLabel>
+      <content src="c-284Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uBg97lCLXn4JPisRWnIKYOB" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Fulgor</text>
+      </navLabel>
+      <content src="c-284Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ucL99dFca3tSLGtjm62Cbn5" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Cuatro perversiones de cuentos infantiles</text>
+      </navLabel>
+      <content src="c-284Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uoGKbChx6LqvyGmqW5NhRp3" playOrder="9">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-284Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uBBPdArLOgaoJDgBSBRBQQB" playOrder="10">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

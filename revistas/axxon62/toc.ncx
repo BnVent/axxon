@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="f17e8112-9492-4825-b9e2-d0a496b81e6d" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.14.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 62</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u268ee3b2-5b37-43d7-9fd3-932cd1b996c8" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-62Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u74884425-928f-415a-ae25-e99839420dfa" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 62</text>
+      </navLabel>
+      <content src="c-62Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u8aa3b21f-5e70-43aa-a19e-2a19de6677ea" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Los gritos no alcanzan</text>
+      </navLabel>
+      <content src="c-62Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ud7df653f-dde7-47f5-90f5-6bbe46901ce4" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Cracker</text>
+      </navLabel>
+      <content src="c-62Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u30f53313-2483-4a81-8f6c-74b671d90764" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Un matiz descarnado</text>
+      </navLabel>
+      <content src="c-62Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uc65c5a91-6152-4e34-b436-f0ca580073c0" playOrder="6">
+      <navLabel>
+        <text>Entrevista: Civilización en Cortocircuito</text>
+      </navLabel>
+      <content src="c-62Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u9636362c-fb87-42fe-b34c-02e572cc9358" playOrder="7">
+      <navLabel>
+        <text>Sección: Tour Macabro</text>
+      </navLabel>
+      <content src="c-62Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u5355d885-5e3f-4a98-bf72-121845d09f6a" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Las ratas del cementario</text>
+      </navLabel>
+      <content src="c-62Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u8314ae10-1a28-4af0-b9ac-39d83818db16" playOrder="9">
+      <navLabel>
+        <text>Sección: El Portal Fantástico (9)</text>
+      </navLabel>
+      <content src="c-62Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uce737389-7b9c-4e03-8a9d-5905547e1e2d" playOrder="10">
+      <navLabel>
+        <text>Ficciones: El hechizo más fuerte</text>
+      </navLabel>
+      <content src="c-62Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ua61d6d6f-b92d-46f4-b7aa-bd1a117306eb" playOrder="11">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual (XIII)</text>
+      </navLabel>
+      <content src="c-62Pag11.htm"/>
+    </navPoint>
+    <navPoint id="uea7c9ef3-0c25-40ad-afd9-4b45796460aa" playOrder="12">
+      <navLabel>
+        <text>Sección: Rescate (2)</text>
+      </navLabel>
+      <content src="c-62Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u3c5dadf7-2b7d-43ac-b407-4458cca4365c" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Expedición</text>
+      </navLabel>
+      <content src="c-62Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u10dbf405-79bc-43ed-9f54-a17d771af2fe" playOrder="14">
+      <navLabel>
+        <text>Correo: Correo 62</text>
+      </navLabel>
+      <content src="c-62Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u202782d0-e911-41bb-95ac-4f6021c33ede" playOrder="15">
+      <navLabel>
+        <text>Ensayo: Antiguos robots</text>
+      </navLabel>
+      <content src="c-62Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u5dce4fc7-0483-4f41-aff7-31ffbb3f3b0b" playOrder="16">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad (35)</text>
+      </navLabel>
+      <content src="c-62Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u3be28a7b-0813-40dd-a03c-066ec1fe87b8" playOrder="17">
+      <navLabel>
+        <text>Sección: ET AL Virtual (6)</text>
+      </navLabel>
+      <content src="c-62Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u7de0c3f1-c1a1-408e-ba77-26a8b4d224a9" playOrder="18">
+      <navLabel>
+        <text>Sección: Informática: Memorias Caché</text>
+      </navLabel>
+      <content src="c-62Pag18.htm"/>
+    </navPoint>
+    <navPoint id="ud1886363-cba2-4ca7-b34f-d148e43a7b65" playOrder="19">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-62Pag19.htm"/>
+    </navPoint>
+    <navPoint id="u9a609316-8ddb-4661-8722-795ec2aa4264" playOrder="20">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-62Pag20.htm"/>
+    </navPoint>
+    <navPoint id="ub68b55c2-dcef-4179-ae0c-f48ab0231a8c" playOrder="21">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

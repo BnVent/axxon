@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="19f29ce8-a488-46e3-bfce-349372170b63" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 113</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ub42e4396-c282-471e-a269-ee8ee21476be" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 113</text>
+      </navLabel>
+      <content src="c-113Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ud95ce49e-e3c9-4c09-8f0f-f0cd112b4af8" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Las chimeneas</text>
+      </navLabel>
+      <content src="c-113Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u8c385863-a692-43b6-b9c6-be9fcaa5395d" playOrder="3">
+      <navLabel>
+        <text>Correo: Correo 113</text>
+      </navLabel>
+      <content src="c-113Pag03.htm"/>
+    </navPoint>
+    <navPoint id="udb8db78d-0437-43ae-8e48-2f1b315d7389" playOrder="4">
+      <navLabel>
+        <text>Sección: Andernow</text>
+      </navLabel>
+      <content src="c-113Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u8736a5ff-486e-4ebf-abd3-1a3def7768a4" playOrder="18">
+      <navLabel>
+        <text>Ficciones: Arabesco inmóvil</text>
+      </navLabel>
+      <content src="c-113Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ude0eefce-fa8b-4853-b42d-7ae66a0d02bf" playOrder="19">
+      <navLabel>
+        <text>Ficciones: El género utópico en la Argentina</text>
+      </navLabel>
+      <content src="c-113Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u8b92f7a4-5623-49d7-9f44-4d8a561239af" playOrder="20">
+      <navLabel>
+        <text>Portfolio: Portfolio</text>
+      </navLabel>
+      <content src="c-113Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u785c414e-bbd8-46e9-92a5-d3d069122015" playOrder="21">
+      <navLabel>
+        <text>Ficciones: Diálogo diábolo</text>
+      </navLabel>
+      <content src="c-113Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ua7d9b208-e910-4149-b139-087595ff2965" playOrder="22">
+      <navLabel>
+        <text>Ciencia: Pulsares</text>
+      </navLabel>
+      <content src="c-113Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uf515d9bd-716c-472f-9f35-dfe993d1aeba" playOrder="23">
+      <navLabel>
+        <text>Homenaje: El Doctor Isaac Asimov</text>
+      </navLabel>
+      <content src="c-113Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uc1d74b40-a626-41a0-968e-75bbf077af60" playOrder="24">
+      <navLabel>
+        <text>Ficciones: Ecología aplicada</text>
+      </navLabel>
+      <content src="c-113Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ue42b0647-33ad-4693-a428-508eafa85b6b" playOrder="25">
+      <navLabel>
+        <text>Taller: Máquinas y monos 5: ficha de personaje</text>
+      </navLabel>
+      <content src="c-113Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u7f9e089d-2832-489b-ad8f-a0ddab32c0e3" playOrder="26">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="uc9dad67f-e58e-46fa-88fd-a2b3113b5db1" playOrder="13">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-113iluslaschimeneas.htm"/>
+    </navPoint>
+    <navPoint id="uecd49a82-8c7e-40c8-be61-2b4bb3c66738" playOrder="14">
+      <navLabel>
+        <text>cmreghitto@hotmail.com</text>
+      </navLabel>
+      <content src="cmreghitto%40hotmail.com"/>
+    </navPoint>
+    <navPoint id="u8103666d-aa60-401f-a69a-66c4a27239c4" playOrder="15">
+      <navLabel>
+        <text>lsaavedr@netline.cl</text>
+      </navLabel>
+      <content src="lsaavedr%40netline.cl"/>
+    </navPoint>
+    <navPoint id="u8ef4cf64-0081-487e-8e1c-32015769d851" playOrder="5">
+      <navLabel>
+        <text>TEATRO DE REVISTAS</text>
+      </navLabel>
+      <content src="c-113Pag04.htm#tr"/>
+    </navPoint>
+    <navPoint id="u8a852bce-3a21-4180-a8ac-abd4900790db" playOrder="6">
+      <navLabel>
+        <text>Harvest Breed</text>
+      </navLabel>
+      <content src="c-113Pag04.htm#tr1"/>
+    </navPoint>
+    <navPoint id="u6fe4a69d-04ef-4b9c-a1e2-1cf4ce504f1d" playOrder="7">
+      <navLabel>
+        <text>JUEGOMANÍA</text>
+      </navLabel>
+      <content src="c-113Pag04.htm#jm"/>
+    </navPoint>
+    <navPoint id="u6562aadf-022a-478e-b504-e0a3e0c9891b" playOrder="8">
+      <navLabel>
+        <text>Dungeon Siege</text>
+      </navLabel>
+      <content src="c-113Pag04.htm#jm1"/>
+    </navPoint>
+    <navPoint id="u8617ee45-26c4-4cbd-80be-50e921597952" playOrder="9">
+      <navLabel>
+        <text>Sheyla - The Red Exquisiteness</text>
+      </navLabel>
+      <content src="c-113Pag04.htm#jm2"/>
+    </navPoint>
+    <navPoint id="u3a9676aa-6504-48c6-ae6f-f5225ac78e2d" playOrder="10">
+      <navLabel>
+        <text>VAYAMOS POR PARTES, FRANKIE</text>
+      </navLabel>
+      <content src="c-113Pag04.htm#vpp"/>
+    </navPoint>
+    <navPoint id="u14a1723d-1b42-44af-b237-8bdb9b0b9c16" playOrder="11">
+      <navLabel>
+        <text>La Pared Delgada, Waquero</text>
+      </navLabel>
+      <content src="c-113Pag04.htm#vpp1"/>
+    </navPoint>
+    <navPoint id="u0884cfea-56e5-401d-bfa3-28d8722fb70c" playOrder="12">
+      <navLabel>
+        <text>LA LUNA DE HUESO, La Strega</text>
+      </navLabel>
+      <content src="c-113Pag04.htm#lh"/>
+    </navPoint>
+    <navPoint id="uc302b87c-a74d-4688-8b2c-7f4050e43f3b" playOrder="13">
+      <navLabel>
+        <text>Las casas embrujadas</text>
+      </navLabel>
+      <content src="c-113Pag04.htm#jh1"/>
+    </navPoint>
+    <navPoint id="uac12c2ed-a5f2-4288-a5a7-0b9152ce5487" playOrder="14">
+      <navLabel>
+        <text>LA LUNA DE PAPEL, La Strega</text>
+      </navLabel>
+      <content src="c-113Pag04.htm#lp"/>
+    </navPoint>
+    <navPoint id="u0f57de4c-50a1-4261-bff9-6d7a26c0f65c" playOrder="15">
+      <navLabel>
+        <text>La Luna de Miel: Cuando tu amor titila</text>
+      </navLabel>
+      <content src="c-113Pag04.htm#lp1"/>
+    </navPoint>
+    <navPoint id="uc45af753-563a-4759-825e-ddc266d03c2b" playOrder="16">
+      <navLabel>
+        <text>EL LABORATORIO DEL DOCTOR ELEPHANT, EskorPia</text>
+      </navLabel>
+      <content src="c-113Pag04.htm#ldh"/>
+    </navPoint>
+    <navPoint id="ubaa92784-fd9b-4755-8ee0-668d8b369c3c" playOrder="28">
+      <navLabel>
+        <text>Sakura Card Captor</text>
+      </navLabel>
+      <content src="c-113Pag04.htm#ldh1"/>
+    </navPoint>
+    <navPoint id="ube0f65d3-8044-468b-bb07-52bbd0e29d6d" playOrder="17">
+      <navLabel>
+        <text>CUENTO: Dos Demonios, Alexis Javier Winer</text>
+      </navLabel>
+      <content src="c-113Pag04.htm#cue1"/>
+    </navPoint>
+    <navPoint id="ucd739ec5-9c43-48fb-b96b-a8d398ae2941" playOrder="30">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-113AnderIlus03.jpg"/>
+    </navPoint>
+    <navPoint id="u9f26077a-6b86-47b4-8d7d-fcabcb375377" playOrder="31">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-113galb1.htm"/>
+    </navPoint>
+    <navPoint id="ubda18808-d5bd-4969-8b7a-dabeae94cf96" playOrder="32">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-113galb2.htm"/>
+    </navPoint>
+    <navPoint id="u80294507-6b42-40ad-ac9d-c26679b50204" playOrder="33">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-113galb3.htm"/>
+    </navPoint>
+    <navPoint id="u867e63d5-bcdb-463c-b883-7978c8a6bdb1" playOrder="34">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-113galb4.htm"/>
+    </navPoint>
+    <navPoint id="uc938ca25-f641-45e5-86ee-9da8ce35031f" playOrder="35">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-113galb5.htm"/>
+    </navPoint>
+    <navPoint id="u5b88a3c0-49b6-44dc-925e-6e5d82f75cc9" playOrder="36">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-113galb6.htm"/>
+    </navPoint>
+    <navPoint id="ua4166be8-daed-404a-a52e-f44374ec1c35" playOrder="37">
+      <navLabel>
+        <text>Máquinas y Monos 4: Los personajes</text>
+      </navLabel>
+      <content src="c-112Maq4.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

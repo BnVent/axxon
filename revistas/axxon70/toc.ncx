@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="7bad595c-f724-412a-8519-5bd0fed548ba" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.14.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 70</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u4fc18348-0509-4a48-90f9-27479a4c086d" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-70Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u998180e5-21a9-4676-9d5b-f7825e98b30a" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 70</text>
+      </navLabel>
+      <content src="c-70Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uffd4e105-f818-4d13-b70e-e7fdb5ff2c5a" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Suave muerte</text>
+      </navLabel>
+      <content src="c-70Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ue7338b87-0d94-4196-9478-3f54676ef061" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El esclavo del tiempo</text>
+      </navLabel>
+      <content src="c-70Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uabcd4729-e5b4-4895-8a99-5850e48e678c" playOrder="5">
+      <navLabel>
+        <text>Sección: El Portal Fantástico</text>
+      </navLabel>
+      <content src="c-70Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u68d6d02e-df00-4085-b4bf-31ec7af40a54" playOrder="6">
+      <navLabel>
+        <text>Ficciones: El cuento mas hermoso del mundo</text>
+      </navLabel>
+      <content src="c-70Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ua48609be-c31f-4e80-895f-144d6192018d" playOrder="7">
+      <navLabel>
+        <text>Ficciones: El estanque</text>
+      </navLabel>
+      <content src="c-70Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u461728a7-fe29-4cf1-a82b-ebd9faaaf9f6" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Antropozoides</text>
+      </navLabel>
+      <content src="c-70Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u1fdf9e6e-c98f-4342-b7e3-39c061ca428d" playOrder="9">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual</text>
+      </navLabel>
+      <content src="c-70Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u1092f256-3924-40de-88d1-e3dc318818b0" playOrder="10">
+      <navLabel>
+        <text>Correo: Correo 70</text>
+      </navLabel>
+      <content src="c-70Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u7898407d-3ef9-48e2-bd49-c791dfe831a4" playOrder="11">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad</text>
+      </navLabel>
+      <content src="c-70Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u4a297739-3192-47e5-bcaf-7902363a8e84" playOrder="12">
+      <navLabel>
+        <text>Sección: ET AL Virtual</text>
+      </navLabel>
+      <content src="c-70Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u4b15fb08-7da0-4a52-be86-1ed6fb178f22" playOrder="13">
+      <navLabel>
+        <text>Sección: Informática</text>
+      </navLabel>
+      <content src="c-70Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u6d50b7b1-7bdd-4628-a223-5ac3f00e6e7c" playOrder="14">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-70Pag14.htm"/>
+    </navPoint>
+    <navPoint id="ue840f2d4-ee73-4ad5-a623-36f6d044520b" playOrder="15">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-70Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u4a0e4eaf-3b9a-47dd-aafb-4030c1a096d2" playOrder="16">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

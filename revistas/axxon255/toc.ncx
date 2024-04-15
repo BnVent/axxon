@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="8662c13c-6d12-418a-8b19-7bc514e54144" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.2.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 255</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uf9dafc92-cd13-4f83-b0bf-15f3de4df2c3" playOrder="1">
+      <navLabel>
+        <text>Editorial: Un byte completo</text>
+      </navLabel>
+      <content src="c-255Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ubd1592d1-ccc5-416c-8c80-db276e9fc6a3" playOrder="2">
+      <navLabel>
+        <text>Ficciones: El bosque que crece por las noches (1)</text>
+      </navLabel>
+      <content src="c-255Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u6ddcd5e0-5bc6-4d91-94d7-029c1552062f" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El bosque que crece por las noches (2)</text>
+      </navLabel>
+      <content src="c-255Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uf43dddb2-2156-462d-bbf5-afdd539065f4" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Equus</text>
+      </navLabel>
+      <content src="c-255Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u6641e71a-9ee4-4edc-8e31-661fd96be419" playOrder="5">
+      <navLabel>
+        <text>Ficciones: La mano de Lucifer</text>
+      </navLabel>
+      <content src="c-255Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ub490711b-eaf1-4613-adda-ea6deba8f7c0" playOrder="6">
+      <navLabel>
+        <text>Ficciones: El paisaje desde el parapeto</text>
+      </navLabel>
+      <content src="c-255Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u672773dc-08d5-4a75-92be-847536f29ad1" playOrder="7">
+      <navLabel>
+        <text>Ficciones: ¿Desde el principio, doctor?</text>
+      </navLabel>
+      <content src="c-255Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u8aa15a49-2bf3-4699-a46e-cc00dcd2ebec" playOrder="8">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

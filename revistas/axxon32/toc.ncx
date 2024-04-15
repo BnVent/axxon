@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="28e57e4c-1187-4de5-90c1-4a3215ee88fd" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.57)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 32</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="3416a45d-aa7e-48dc-af1d-5cae19c810ac" playOrder="1">
+      <navLabel>
+        <text>Editorial - Editorial 32</text>
+      </navLabel>
+      <content src="c-32Pag01.htm"/>
+    </navPoint>
+    <navPoint id="52dffb67-74d3-49e8-b54d-d39ac82ca910" playOrder="2">
+      <navLabel>
+        <text>Ficciones - Prólogo</text>
+      </navLabel>
+      <content src="c-32Pag02.htm"/>
+    </navPoint>
+    <navPoint id="db6d523c-d70e-47b3-ab73-224023d00f6e" playOrder="3">
+      <navLabel>
+        <text>Ficciones - Síntesis</text>
+      </navLabel>
+      <content src="c-32Pag03.htm"/>
+    </navPoint>
+    <navPoint id="64c3f5a2-a3b2-4ec7-a805-4975882f3994" playOrder="4">
+      <navLabel>
+        <text>Ficciones - De compras</text>
+      </navLabel>
+      <content src="c-32Pag04.htm"/>
+    </navPoint>
+    <navPoint id="f1b56cdd-370e-4251-b5b8-499af7c8af84" playOrder="5">
+      <navLabel>
+        <text>Correo - Correo 13</text>
+      </navLabel>
+      <content src="c-32Pag05.htm"/>
+    </navPoint>
+    <navPoint id="94eb45e5-7a33-4bb7-a973-cdee03218c63" playOrder="6">
+      <navLabel>
+        <text>Sección - Una mirada a la realidad (11)</text>
+      </navLabel>
+      <content src="c-32Pag06.htm"/>
+    </navPoint>
+    <navPoint id="e038e6a8-296a-4df1-873c-29f846dce7aa" playOrder="7">
+      <navLabel>
+        <text>Ensayos - CYBERPUNK: Coyuntura entre Ciencia Ficción y Thriller</text>
+      </navLabel>
+      <content src="c-32Pag07.htm"/>
+    </navPoint>
+    <navPoint id="d1e4de3d-2e8e-4f97-97a1-b710cc74e3be" playOrder="8">
+      <navLabel>
+        <text>Anticipos - En próximos números de Axxón</text>
+      </navLabel>
+      <content src="c-32Pag08.htm"/>
+    </navPoint>
+    <navPoint id="772b920a-abcc-45a1-a963-6ce7cf7f103a" playOrder="9">
+      <navLabel>
+        <text>Equipo - Equipo Axxón</text>
+      </navLabel>
+      <content src="c-32Pag09.htm"/>
+    </navPoint>
+    <navPoint id="0e8a7e9b-fa06-49c7-b538-4400d0d64cef" playOrder="10">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

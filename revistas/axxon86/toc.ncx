@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="d5a575f0-9598-4b49-b186-f3aa8cf437e6" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.39)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 86</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u312bedd1-932a-442d-9062-a0522be4be68" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-86Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ud1ded204-0357-4761-ae73-8e03d57db571" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 86</text>
+      </navLabel>
+      <content src="c-86Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uc26f5210-c8d6-4f2d-9dcf-95b98efcfaf3" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Cuestión de lógica</text>
+      </navLabel>
+      <content src="c-86Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ub8f232a4-a034-476e-be22-b47aa649470c" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Soledad</text>
+      </navLabel>
+      <content src="c-86Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ua2c00a59-9206-43fc-a95c-fe1a417bc206" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Chico natural</text>
+      </navLabel>
+      <content src="c-86Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u5a954bd4-1e7c-42f8-a4ec-491f12e1a2e4" playOrder="6">
+      <navLabel>
+        <text>Ficciones: El budín literario</text>
+      </navLabel>
+      <content src="c-86Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u01768a45-1259-4058-8ac6-1ef23e01cb7b" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Oscuros, oscuros eran los túneles</text>
+      </navLabel>
+      <content src="c-86Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u9c1b918f-7abf-49d9-b640-085d832d1508" playOrder="9">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad</text>
+      </navLabel>
+      <content src="c-86Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u65bd5731-f12f-4edd-8929-32e21848aba3" playOrder="10">
+      <navLabel>
+        <text>Correo: Correo 86</text>
+      </navLabel>
+      <content src="c-86Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u4b4d0020-7f49-436f-86e3-399868e72119" playOrder="11">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-86Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uc185ccc2-31a9-4641-a2c9-046fa75d9cca" playOrder="12">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-86Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u9b43099d-63ce-45d6-85f7-a8197e14758b" playOrder="13">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="u047f5c26-0f84-45c4-8d9b-0a43f9886858" playOrder="7">
+      <navLabel>
+        <text>[*]</text>
+      </navLabel>
+      <content src="c-86Pag06.htm#id2"/>
+    </navPoint>
+  </navMap>
+</ncx>

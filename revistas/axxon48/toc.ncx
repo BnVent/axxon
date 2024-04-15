@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="693bd1ba-049f-4334-b6d0-6570e52fe46c" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.27)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 48</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u8bb24e4a-de45-4182-87e9-8c2000fa365f" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 48</text>
+      </navLabel>
+      <content src="c-48Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u2c33ebb5-c186-48a0-896b-7cec28ffc23c" playOrder="2">
+      <navLabel>
+        <text>Ensayo: Prestigios de un mito: Historia de la revista Más Allá</text>
+      </navLabel>
+      <content src="c-48Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u49362f60-d240-4b7e-a59f-e17ef2e88269" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Amoité</text>
+      </navLabel>
+      <content src="c-48Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u3f8deef9-bdfd-4e49-8c9d-117a4a4b7d01" playOrder="4">
+      <navLabel>
+        <text>Ficciones: ¡No, no, Edgar, no!</text>
+      </navLabel>
+      <content src="c-48Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u72d84ff5-dfd7-4a5c-b9f2-5625de28f502" playOrder="5">
+      <navLabel>
+        <text>Ensayo: Filosofía virtual</text>
+      </navLabel>
+      <content src="c-48Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ua85586cb-dec5-4492-9371-45b544d996e6" playOrder="6">
+      <navLabel>
+        <text>Correo: Correo 48</text>
+      </navLabel>
+      <content src="c-48Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ub1d33054-9bc4-4e56-ba7d-5ff0e07140af" playOrder="7">
+      <navLabel>
+        <text>Seccion: Una mirada a la realidad</text>
+      </navLabel>
+      <content src="c-48Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ud06f27fe-d7e6-40c8-9ced-19a1aa166981" playOrder="8">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-48Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u849fcd61-a401-49a8-bb6b-b1c489ee5e8f" playOrder="9">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-48Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ueeddd751-f70a-4e42-8984-a67f9b4514f3" playOrder="10">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

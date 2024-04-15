@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="04517a0d-2bb1-427b-9f92-c8f06595f4ca" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.54.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 271</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u9XGphGMNvAJTXncjnMPiDC" playOrder="1">
+      <navLabel>
+        <text>Editorial: Idus Martii</text>
+      </navLabel>
+      <content src="c-271Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uVVOi2FGbGOLLZOyFI6TSIH" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Tormenta en los mares del Sol</text>
+      </navLabel>
+      <content src="c-271Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uECN6JKmLjsKY8HQ8imxON4" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El código de Rebecca</text>
+      </navLabel>
+      <content src="c-271Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uuuXjKmcLkkFQwH4cLwSnCD" playOrder="4">
+      <navLabel>
+        <text>Ficciones: La fábrica de sueños</text>
+      </navLabel>
+      <content src="c-271Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ui9NaCqmRaxzgVkzg2GB4h5" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Senescencia</text>
+      </navLabel>
+      <content src="c-271Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uJOoICci7Hx24WokuiZyqFH" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Roadkill Joe</text>
+      </navLabel>
+      <content src="c-271Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uq7QkjYZnhW3ruZZvCi8GWA" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Demolición del lote 37</text>
+      </navLabel>
+      <content src="c-271Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uqvC8xgluYxCnRYCINbchd9" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Hoy soy Paul</text>
+      </navLabel>
+      <content src="c-271Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ukhUdfRhllW7RFsR7aCwPiD" playOrder="9">
+      <navLabel>
+        <text>Ficciones: De la arquitectura biológica y sus derivaciones</text>
+      </navLabel>
+      <content src="c-271Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ulnR9dXeOnu43wrxcnDGg75" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Barrio Turing</text>
+      </navLabel>
+      <content src="c-271Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uC6LsxGVwQsdhd6fZFSkaAA" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Dakimanova</text>
+      </navLabel>
+      <content src="c-271Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u94fpAgYokQExlZ8NB4OQF2" playOrder="12">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

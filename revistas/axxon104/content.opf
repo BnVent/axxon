@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Ediciones Axxón</dc:publisher>
+    <meta name="calibre:series_index" content="104"/>
+    <dc:language>es</dc:language>
+    <dc:creator opf:file-as="Desconocido" opf:role="aut">Eduardo Carletti (editor)</dc:creator>
+    <meta name="calibre:timestamp" content="2013-01-12T19:52:47.296000+00:00"/>
+    <dc:title>Axxón 104</dc:title>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:series" content="Axxón"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">a334f56c-2440-4bd7-96be-0af23ef4890a</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="axxon.htm" id="html13" media-type="application/xhtml+xml"/>
+    <item href="axxon00.gif" id="added11" media-type="image/gif"/>
+    <item href="axxon104.htm" id="html" media-type="application/xhtml+xml"/>
+    <item href="c-104Pag01.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="c-104Pag02.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="c-104Pag03.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="c-104Pag04.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="c-104Pag05.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="c-104Pag06.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="c-104Pag07.htm" id="html7" media-type="application/xhtml+xml"/>
+    <item href="c-104Pag08.htm" id="html8" media-type="application/xhtml+xml"/>
+    <item href="c-104Pag09.htm" id="html9" media-type="application/xhtml+xml"/>
+    <item href="c-104Pag10.htm" id="html10" media-type="application/xhtml+xml"/>
+    <item href="c-104Pag11.htm" id="html11" media-type="application/xhtml+xml"/>
+    <item href="c-104Pag12.htm" id="html12" media-type="application/xhtml+xml"/>
+    <item href="c-104tapach.jpg" id="added12" media-type="image/jpeg"/>
+    <item href="c-111tour.jpg" id="added8" media-type="image/jpeg"/>
+    <item href="el hombre del traje gris_html_m258f70d1.jpg" id="added6" media-type="image/jpeg"/>
+    <item href="el invierno de 1311_html_m66a8f150.jpg" id="added7" media-type="image/jpeg"/>
+    <item href="el lado oscuro_html_71b63344.jpg" id="added3" media-type="image/jpeg"/>
+    <item href="el rescate_html_499acf6a.jpg" id="added5" media-type="image/jpeg"/>
+    <item href="la leyenda de sam_html_m9b7c230.jpg" id="added9" media-type="image/jpeg"/>
+    <item href="ojomano.gif" id="added10" media-type="image/gif"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="secreto de confesion_html_55021f56.jpg" id="added4" media-type="image/jpeg"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="x-epub.png" id="added13" media-type="image/png"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+    <itemref idref="html1"/>
+    <itemref idref="html2"/>
+    <itemref idref="html3"/>
+    <itemref idref="html4"/>
+    <itemref idref="html5"/>
+    <itemref idref="html6"/>
+    <itemref idref="html7"/>
+    <itemref idref="html8"/>
+    <itemref idref="html9"/>
+    <itemref idref="html10"/>
+    <itemref idref="html11"/>
+    <itemref idref="html12"/>
+    <itemref idref="html13"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

@@ -1,0 +1,1 @@
+calibre_current_page_bookmark^7# *:eq(0)  > *:eq(1)  > *:eq(0)  > *:eq(3)  > *:eq(2)  > *:eq(20) |0

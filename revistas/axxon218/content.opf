@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Ediciones Axxón</dc:publisher>
+    <meta name="calibre:series_index" content="218"/>
+    <dc:language>es</dc:language>
+    <dc:creator opf:role="aut">Eduardo Carletti (editor)</dc:creator>
+    <meta name="calibre:timestamp" content="2011-06-19T22:39:23.265000+00:00"/>
+    <dc:title>Axxón 218</dc:title>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:series" content="Axxón"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">531fc215-c924-423a-a77c-015cda47ed54</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="218cuento10ilus4ch.jpg" id="added46" media-type="image/jpeg"/>
+    <item href="218cuento1ilus1ch.jpg" id="added3" media-type="image/jpeg"/>
+    <item href="218cuento1ilus2ch.jpg" id="added4" media-type="image/jpeg"/>
+    <item href="218cuento1ilus3ch.jpg" id="added5" media-type="image/jpeg"/>
+    <item href="218cuento2ilus1ch.jpg" id="added7" media-type="image/jpeg"/>
+    <item href="218cuento3ilus1ch.jpg" id="added9" media-type="image/jpeg"/>
+    <item href="218cuento4ilus1ch.jpg" id="added10" media-type="image/jpeg"/>
+    <item href="218cuento5ilus1ch.jpg" id="added11" media-type="image/jpeg"/>
+    <item href="218cuento6ilus1ch.jpg" id="added13" media-type="image/jpeg"/>
+    <item href="218cuento7ilus1ch.jpg" id="added14" media-type="image/jpeg"/>
+    <item href="218cuento7ilus2ch.jpg" id="added15" media-type="image/jpeg"/>
+    <item href="218cuento7ilus3ch.jpg" id="added16" media-type="image/jpeg"/>
+    <item href="218cuento8ilus1ch.jpg" id="added17" media-type="image/jpeg"/>
+    <item href="218cuento8ilus2ch.jpg" id="added18" media-type="image/jpeg"/>
+    <item href="218cuento9ilus1ch.jpg" id="added19" media-type="image/jpeg"/>
+    <item href="axxon.htm" id="html12" media-type="application/xhtml+xml"/>
+    <item href="axxon00.gif" id="added55" media-type="image/gif"/>
+    <item href="axxon218.htm" id="html" media-type="application/xhtml+xml"/>
+    <item href="band-ale.jpg" id="added53" media-type="image/jpeg"/>
+    <item href="band-arg.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="band-can.jpg" id="added8" media-type="image/jpeg"/>
+    <item href="band-cub.jpg" id="added52" media-type="image/jpeg"/>
+    <item href="band-esp.jpg" id="added6" media-type="image/jpeg"/>
+    <item href="band-fra.jpg" id="added50" media-type="image/jpeg"/>
+    <item href="band-mex.jpg" id="added48" media-type="image/jpeg"/>
+    <item href="band-per.jpg" id="added12" media-type="image/jpeg"/>
+    <item href="c-218tapach.jpg" id="added56" media-type="image/jpeg"/>
+    <item href="cartoneros.jpg" id="added21" media-type="image/jpeg"/>
+    <item href="cuento10ilus1.jpg" id="added47" media-type="image/jpeg"/>
+    <item href="cuento10ilus2.jpg" id="added49" media-type="image/jpeg"/>
+    <item href="cuento10ilus3.jpg" id="added51" media-type="image/jpeg"/>
+    <item href="cuento10ilus4.jpg" id="added54" media-type="image/jpeg"/>
+    <item href="logocartoneros.jpg" id="added20" media-type="image/jpeg"/>
+    <item href="pagina01.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="pagina02.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="pagina03.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="pagina04.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="pagina05.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="pagina06.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="pagina07.htm" id="html7" media-type="application/xhtml+xml"/>
+    <item href="pagina08.htm" id="html8" media-type="application/xhtml+xml"/>
+    <item href="pagina09.htm" id="html9" media-type="application/xhtml+xml"/>
+    <item href="pagina10.htm" id="html10" media-type="application/xhtml+xml"/>
+    <item href="pagina11.htm" id="html11" media-type="application/xhtml+xml"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="tiempo_pasa_001.jpg" id="added22" media-type="image/jpeg"/>
+    <item href="tiempo_pasa_001ch.jpg" id="added23" media-type="image/jpeg"/>
+    <item href="tiempo_pasa_002.jpg" id="added24" media-type="image/jpeg"/>
+    <item href="tiempo_pasa_002ch.jpg" id="added25" media-type="image/jpeg"/>
+    <item href="tiempo_pasa_003.jpg" id="added26" media-type="image/jpeg"/>
+    <item href="tiempo_pasa_003ch.jpg" id="added27" media-type="image/jpeg"/>
+    <item href="tiempo_pasa_004.jpg" id="added28" media-type="image/jpeg"/>
+    <item href="tiempo_pasa_004ch.jpg" id="added29" media-type="image/jpeg"/>
+    <item href="tiempo_pasa_005.jpg" id="added30" media-type="image/jpeg"/>
+    <item href="tiempo_pasa_005ch.jpg" id="added31" media-type="image/jpeg"/>
+    <item href="tiempo_pasa_006.jpg" id="added32" media-type="image/jpeg"/>
+    <item href="tiempo_pasa_006ch.jpg" id="added33" media-type="image/jpeg"/>
+    <item href="tiempo_pasa_007.jpg" id="added34" media-type="image/jpeg"/>
+    <item href="tiempo_pasa_007ch.jpg" id="added35" media-type="image/jpeg"/>
+    <item href="tiempo_pasa_008.jpg" id="added36" media-type="image/jpeg"/>
+    <item href="tiempo_pasa_008ch.jpg" id="added37" media-type="image/jpeg"/>
+    <item href="tiempo_pasa_009.jpg" id="added38" media-type="image/jpeg"/>
+    <item href="tiempo_pasa_009ch.jpg" id="added39" media-type="image/jpeg"/>
+    <item href="tiempo_pasa_010.jpg" id="added40" media-type="image/jpeg"/>
+    <item href="tiempo_pasa_010ch.jpg" id="added41" media-type="image/jpeg"/>
+    <item href="tiempo_pasa_011.jpg" id="added42" media-type="image/jpeg"/>
+    <item href="tiempo_pasa_011ch.jpg" id="added43" media-type="image/jpeg"/>
+    <item href="tiempo_pasa_012.jpg" id="added44" media-type="image/jpeg"/>
+    <item href="tiempo_pasa_012ch.jpg" id="added45" media-type="image/jpeg"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="x-epub.png" id="added57" media-type="image/png"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+    <itemref idref="html1"/>
+    <itemref idref="html2"/>
+    <itemref idref="html3"/>
+    <itemref idref="html4"/>
+    <itemref idref="html5"/>
+    <itemref idref="html6"/>
+    <itemref idref="html7"/>
+    <itemref idref="html8"/>
+    <itemref idref="html9"/>
+    <itemref idref="html10"/>
+    <itemref idref="html11"/>
+    <itemref idref="html12"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="225b4297-ad79-4e36-a0ca-cc82873dbb0d" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.41.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 5</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ub38a218a-3f12-46ce-8bbd-5cd1f0f66f05" playOrder="1">
+      <navLabel>
+        <text>Editorial: Axxón en acción</text>
+      </navLabel>
+      <content src="c-5Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u42d042ae-3145-4d66-9a63-07faa4e7eb8a" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Artifex</text>
+      </navLabel>
+      <content src="c-5Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u08f436a8-99e7-427f-9ac7-31cd5bc3f1d0" playOrder="3">
+      <navLabel>
+        <text>Bestiario: El Thiobacillus Ferro-oxidans</text>
+      </navLabel>
+      <content src="c-5Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u4d1ecb58-6979-4a1e-856f-2d8b85233526" playOrder="4">
+      <navLabel>
+        <text>Brainstorms: ¡Hay un virus en mi sopa!</text>
+      </navLabel>
+      <content src="c-5Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u28054992-e725-466c-b1c3-a01dec4cc8c8" playOrder="5">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-5Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u83832afa-0a24-4c4a-8625-e010be99f169" playOrder="6">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-5Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uc0638be2-fc6f-4378-b3d0-33e598a860e2" playOrder="7">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

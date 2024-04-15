@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="c9bf6f43-00b4-4e50-9bcf-a6ce2ef3881b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.7)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 235</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="7909b1d2-13a1-4a28-a4bd-4d82be4c3b98" playOrder="1">
+      <navLabel>
+        <text>Ficciones: Demonio Blanco</text>
+      </navLabel>
+      <content src="c-235Pag01.htm"/>
+    </navPoint>
+    <navPoint id="988c43c7-e991-43f7-8fd6-9898341b231f" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Factor ‘T’ / Factor ‘R’</text>
+      </navLabel>
+      <content src="c-235Pag02.htm"/>
+    </navPoint>
+    <navPoint id="89f07a2b-cc6f-436f-b5a7-de57ac4f6480" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Abuela</text>
+      </navLabel>
+      <content src="c-235Pag03.htm"/>
+    </navPoint>
+    <navPoint id="6b1cc615-1c98-4ff7-803c-f59ad29a6249" playOrder="4">
+      <navLabel>
+        <text>Ficciones: La noche de Tempoal</text>
+      </navLabel>
+      <content src="c-235Pag04.htm"/>
+    </navPoint>
+    <navPoint id="08305ee1-f599-4c1e-8667-3a9548493c84" playOrder="5">
+      <navLabel>
+        <text>Ficciones: La música de las esferas</text>
+      </navLabel>
+      <content src="c-235Pag05.htm"/>
+    </navPoint>
+    <navPoint id="83f841c9-e537-4499-9f0a-f60a0892e755" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Crónica del XXI</text>
+      </navLabel>
+      <content src="c-235Pag06.htm"/>
+    </navPoint>
+    <navPoint id="2762df47-8ebe-425b-8c4a-2be70fcfee7f" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Mulas</text>
+      </navLabel>
+      <content src="c-235Pag07.htm"/>
+    </navPoint>
+    <navPoint id="855b3bf7-618a-45f8-a499-393247030ab9" playOrder="8">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="b50dc94b-bab5-4c6b-8dd8-b1fc18dea1b3" playOrder="8">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/235/cuento1ilus1.htm"/>
+    </navPoint>
+    <navPoint id="ce7f2780-5a53-4c6a-969e-aa7bb1f10037" playOrder="9">
+      <navLabel>
+        <text>EL SALUDO</text>
+      </navLabel>
+      <content src="/rev/192/c-192cuento3.htm"/>
+    </navPoint>
+    <navPoint id="94b37eda-8c7c-4703-a7ba-41cad6c301d1" playOrder="10">
+      <navLabel>
+        <text>EL HOLOCAUSTO DEL BÁRBARO</text>
+      </navLabel>
+      <content src="/rev/"/>
+    </navPoint>
+    <navPoint id="b14ba3b9-d193-4ef5-92e6-cbcad32fb7a7" playOrder="11">
+      <navLabel>
+        <text>NARHITOREK, EL NIGROMANTE</text>
+      </navLabel>
+      <content src="/rev/2012/01/narhitorek-el-nigromante-juan-manuel-valitutti/"/>
+    </navPoint>
+    <navPoint id="bd660ed3-8aa9-4341-9938-11a2a2b324fe" playOrder="12">
+      <navLabel>
+        <text>LOS ENVIADOS DE NARHITOREK</text>
+      </navLabel>
+      <content src="/rev/2012/07/los-enviados-de-narhitorek-juan-manuel-valitutti/"/>
+    </navPoint>
+    <navPoint id="7fd4e83a-db23-4d7f-8ef3-3f934dd0f4c6" playOrder="13">
+      <navLabel>
+        <text>PARA VERLOS VOLAR</text>
+      </navLabel>
+      <content src="/rev/2012/09/para-verlos-volar-juan-manuel-valitutt/"/>
+    </navPoint>
+    <navPoint id="a416ee7f-fca1-4a86-a4c3-5bca860a7b51" playOrder="14">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/235/cuento2ilus1.htm"/>
+    </navPoint>
+    <navPoint id="e866cb74-c83b-4975-b1de-5f926446527c" playOrder="15">
+      <navLabel>
+        <text>Fernando José Cots Liébanes</text>
+      </navLabel>
+      <content src="/wiki/index.php"/>
+    </navPoint>
+    <navPoint id="8929eeb4-0611-4ea7-9004-4ee35bd0ce06" playOrder="16">
+      <navLabel>
+        <text>QUILINO</text>
+      </navLabel>
+      <content src="/rev/119/c-119Quilino.htm"/>
+    </navPoint>
+    <navPoint id="4008528d-fe25-4bc5-b64a-4b45e97df513" playOrder="17">
+      <navLabel>
+        <text>CARACOLES</text>
+      </navLabel>
+      <content src="/rev/123/c-123Caracoles.htm"/>
+    </navPoint>
+    <navPoint id="efcbf68c-0d6f-4030-aa5c-7dcca5054e5d" playOrder="18">
+      <navLabel>
+        <text>LA NOCHE DE LA RATA</text>
+      </navLabel>
+      <content src="/rev/137/c-137Cuento1.htm"/>
+    </navPoint>
+    <navPoint id="b538a6b3-4248-40ab-ad7c-b952b58107a2" playOrder="19">
+      <navLabel>
+        <text>RECHAZO</text>
+      </navLabel>
+      <content src="/rev/146/c-146Cuento12.htm#4"/>
+    </navPoint>
+    <navPoint id="0e60431e-c988-42e2-9ff7-be8c039c6f86" playOrder="20">
+      <navLabel>
+        <text>OBERTURA PARA DIOSES LOCOS</text>
+      </navLabel>
+      <content src="/rev/147/c-147Cuento9.htm"/>
+    </navPoint>
+    <navPoint id="10a8c52e-132d-44da-86d7-41a39ef56091" playOrder="21">
+      <navLabel>
+        <text>PROCÓNSUL</text>
+      </navLabel>
+      <content src="/rev/160/c-160cuento10.htm"/>
+    </navPoint>
+    <navPoint id="8030b095-aaa4-4182-922e-22fc4915d55a" playOrder="22">
+      <navLabel>
+        <text>LA TRAMPA</text>
+      </navLabel>
+      <content src="/rev/166/c-166cuento3.htm"/>
+    </navPoint>
+    <navPoint id="0d26850c-dc48-4403-b848-bc988afb4c9f" playOrder="23">
+      <navLabel>
+        <text>SI MARTE FALLA</text>
+      </navLabel>
+      <content src="/rev/177/c-177cuento6.htm"/>
+    </navPoint>
+    <navPoint id="28d05d42-67eb-4601-8d1c-1be23f53c7d9" playOrder="24">
+      <navLabel>
+        <text>LOS INVASORES DEL SÁBADO</text>
+      </navLabel>
+      <content src="/rev/179/c-179cuento1.htm"/>
+    </navPoint>
+    <navPoint id="069290a3-9b7c-4361-8d54-b5d6119ae99d" playOrder="25">
+      <navLabel>
+        <text>MADUREZ</text>
+      </navLabel>
+      <content src="/rev/186/c-186cuento4.htm#2"/>
+    </navPoint>
+    <navPoint id="65ba198e-bf33-4cf6-80d3-91b8bcf43208" playOrder="26">
+      <navLabel>
+        <text>RADIO MALDITA</text>
+      </navLabel>
+      <content src="/rev/2010/01/radio-maldita-fernando-jose-cots/"/>
+    </navPoint>
+    <navPoint id="f99795d5-cb6b-4568-8e21-c35ae9f88799" playOrder="27">
+      <navLabel>
+        <text>LOS APESTADOS DE TANIT</text>
+      </navLabel>
+      <content src="/rev/2010/11/los-apestados-de-tanit-fernando-jose-cots/"/>
+    </navPoint>
+    <navPoint id="3227dc59-f8c7-4e6a-8e76-6f09e4ece0a8" playOrder="28">
+      <navLabel>
+        <text>DONACIANO</text>
+      </navLabel>
+      <content src="/rev/2011/05/donaciano-fernando-jose-cots/"/>
+    </navPoint>
+    <navPoint id="ba9e4446-d143-4e47-a847-c4bf14116286" playOrder="29">
+      <navLabel>
+        <text>CONVOY</text>
+      </navLabel>
+      <content src="/rev/2012/04/convoy-fernando-jose-cots/"/>
+    </navPoint>
+    <navPoint id="80cde5a3-2f0d-4763-855a-9d441d8b03c3" playOrder="30">
+      <navLabel>
+        <text>CLOTILDE</text>
+      </navLabel>
+      <content src="/rev/2012/09/clotilde-fernando-jose-cots/"/>
+    </navPoint>
+    <navPoint id="56e6325b-9d8d-4afe-81f9-000dc70acd52" playOrder="31">
+      <navLabel>
+        <text>LAS MALAS COPIAS</text>
+      </navLabel>
+      <content src="/rev/192/c-192ensayo1.htm"/>
+    </navPoint>
+    <navPoint id="2db99b7c-eb07-4fb4-95e5-52a4e2878382" playOrder="32">
+      <navLabel>
+        <text>ECOS Y SILENCIOS</text>
+      </navLabel>
+      <content src="/rev/195/c-195ensayo1.htm"/>
+    </navPoint>
+    <navPoint id="02fe3b08-6da1-4556-9f62-217893a4f2bc" playOrder="33">
+      <navLabel>
+        <text>EL GRAN HERMANO Y SUS MODELOS REALES</text>
+      </navLabel>
+      <content src="/rev/199/c-199ensayo1.htm"/>
+    </navPoint>
+    <navPoint id="40db0eed-3714-4408-ac06-0d5ebee67cd9" playOrder="34">
+      <navLabel>
+        <text>EL TRISTE OFICIO DE WINSTON SMITH</text>
+      </navLabel>
+      <content src="/rev/2010/03/el-triste-oficio-de-winston-smith-fernando-jose-cots/"/>
+    </navPoint>
+    <navPoint id="45de06f0-4b4d-4ef0-baad-021eaa6676dd" playOrder="35">
+      <navLabel>
+        <text>LAS GRANDES DUDAS DEL PLANETA ROJO</text>
+      </navLabel>
+      <content src="/rev/2011/08/las-grandes-dudas-del-planeta-rojo-fernando-jose-cots/"/>
+    </navPoint>
+    <navPoint id="218e3425-c7ce-4315-9553-72993c463fad" playOrder="36">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/235/cuento3ilus1.htm"/>
+    </navPoint>
+    <navPoint id="b9747f59-6ed2-4ddb-aca5-0ef8dd8c0c3e" playOrder="37">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/235/cuento4ilus1.htm"/>
+    </navPoint>
+    <navPoint id="ac5edd8a-2491-4724-83ed-ca077441088f" playOrder="38">
+      <navLabel>
+        <text>EL HOMBRE EQUIVOCADO</text>
+      </navLabel>
+      <content src="/rev/2012/04/el-hombre-equivocado-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="239b7808-46e7-4e02-9a5f-a2dd4b2c2535" playOrder="39">
+      <navLabel>
+        <text>EL OTRO MESÍAS</text>
+      </navLabel>
+      <content src="/rev/2012/06/el-otro-mesias-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="ab6eff03-2257-4eb5-a2b8-fa84e335a799" playOrder="40">
+      <navLabel>
+        <text>NOCHES DE BANTIAN</text>
+      </navLabel>
+      <content src="/rev/2012/09/noches-de-bantian-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="599cd560-1567-4857-8074-4cd803ec70f4" playOrder="41">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/235/cuento5ilus1.htm"/>
+    </navPoint>
+    <navPoint id="09a7429a-7e4a-43c2-b417-cff2394fd5c2" playOrder="42">
+      <navLabel>
+        <text>LA VELOCIDAD DE LOS NEUTRINOS</text>
+      </navLabel>
+      <content src="/rev/2012/08/la-velocidad-de-los-neutrinos-juan-carlos-garrido/"/>
+    </navPoint>
+    <navPoint id="e1eaff68-fcf2-48dc-a5f9-dcc99267e8b6" playOrder="43">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/235/cuento6ilus1.htm"/>
+    </navPoint>
+    <navPoint id="cd1ee555-b95c-4577-aaad-958300598a80" playOrder="44">
+      <navLabel>
+        <text>K/T</text>
+      </navLabel>
+      <content src="/rev/2010/07/kt-claudio-guillermo-del-castillo-perez/"/>
+    </navPoint>
+    <navPoint id="f73f5f8e-5cd8-4216-bf26-6321ae26a705" playOrder="45">
+      <navLabel>
+        <text>ESCENARIO 0: VALLE DE CHESSICK</text>
+      </navLabel>
+      <content src="/rev/2011/08/escenario-0-valle-de-chessick-claudio-g-del-castillo/"/>
+    </navPoint>
+    <navPoint id="1cb292e8-4a60-4583-ae81-17fb50ce467c" playOrder="46">
+      <navLabel>
+        <text>ESCENAS DE LA PRESIDENCIA</text>
+      </navLabel>
+      <content src="/rev/2011/10/escenas-de-la-presidencia-claudio-g-del-castillo/"/>
+    </navPoint>
+    <navPoint id="00581338-408f-4319-aa84-b2a7172107e4" playOrder="47">
+      <navLabel>
+        <text>¡ESTÁN AQUÍ!</text>
+      </navLabel>
+      <content src="/rev/2012/03/%c2%a1estan-aqui-claudio-g-del-castillo/"/>
+    </navPoint>
+    <navPoint id="ba8e8bca-55b6-4e75-b249-b64fb6128b4d" playOrder="48">
+      <navLabel>
+        <text>HA MUERTO BROWNHAIR</text>
+      </navLabel>
+      <content src="/rev/2012/09/ha-muerto-brownhair-claudio-g-del-castillo/"/>
+    </navPoint>
+    <navPoint id="d61be479-5bf2-400a-a123-b15215ba7ec2" playOrder="49">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/235/cuento7ilus1.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

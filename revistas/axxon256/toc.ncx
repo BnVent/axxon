@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="c51bf018-11a9-4dab-9a81-e247936b4faf" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.47.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 256</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uf5785931-ff5a-4d02-a9e1-c1f19a9fee7c" playOrder="1">
+      <navLabel>
+        <text>Editorial: Singularidad</text>
+      </navLabel>
+      <content src="c-256Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u41fcb66c-ce0b-4780-bbd8-53641c94676e" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Serafina</text>
+      </navLabel>
+      <content src="c-256Pag02.htm"/>
+    </navPoint>
+    <navPoint id="udbd371a8-d406-4276-92b4-9b5e8881eced" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Dimensiones</text>
+      </navLabel>
+      <content src="c-256Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u1e51a0c6-5172-4827-a8ae-4865f6ccb4cd" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Insectopía</text>
+      </navLabel>
+      <content src="c-256Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u06cc54f6-e827-424c-88ae-9ee2c3312302" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Sombras</text>
+      </navLabel>
+      <content src="c-256Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u0de0faa9-c43e-455d-a407-db47edd792b8" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Reencuentro</text>
+      </navLabel>
+      <content src="c-256Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u9e75cafc-e5d5-4051-b43c-a9cb36fa8d84" playOrder="7">
+      <navLabel>
+        <text>Articulo: El rescate de los dones</text>
+      </navLabel>
+      <content src="c-256Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u60fd228e-55bf-4acb-9b1a-b4f17f9f3541" playOrder="8">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

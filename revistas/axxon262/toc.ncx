@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="5d52c78b-6361-44bd-9e2f-5405301b6380" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.24.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 262</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u26373b28-9493-4584-8c38-318d3c40e8bd" playOrder="1">
+      <navLabel>
+        <text>Editorial: Enero tardío</text>
+      </navLabel>
+      <content src="c-262Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u5b061593-aae9-4589-b5eb-25e4c3fe6595" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Con alegría, conociendo el abismo que hay detrás</text>
+      </navLabel>
+      <content src="c-262Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u30ec976e-6ff4-4a32-b5d8-9a73cc36c9cc" playOrder="3">
+      <navLabel>
+        <text>Artículo: Giger: mi pesadilla favorita</text>
+      </navLabel>
+      <content src="c-262Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ud024c7af-f495-4340-b2bc-9a6ec0a26d11" playOrder="4">
+      <navLabel>
+        <text>Ficciones: La visitante</text>
+      </navLabel>
+      <content src="c-262Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u0943a5f3-cf6f-41ad-a4e6-2847b7220a03" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El encargado del archivo</text>
+      </navLabel>
+      <content src="c-262Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ubffc4e3e-4150-43dc-a0a8-89d3548cf820" playOrder="6">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

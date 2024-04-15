@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="879b576c-3f8a-477c-8722-b2a854627ac6" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.27)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 49</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u9999630a-70f9-4224-a054-d15d47e74b7e" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 49</text>
+      </navLabel>
+      <content src="c-49Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u819850fb-a19b-4f0f-90de-f8f8075aed1f" playOrder="2">
+      <navLabel>
+        <text>Ensayo: Mis experiencias con “Más Allá”</text>
+      </navLabel>
+      <content src="c-49Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uc9c5b46e-7c4d-4632-a4fa-34c3cdbaee07" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Georgia en mi mente</text>
+      </navLabel>
+      <content src="c-49Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uba7f2038-902a-4b65-b165-621549266bbe" playOrder="4">
+      <navLabel>
+        <text>Ventana Cyberpunk: Punks dentro de la Commodore 64: el Cyberpunk en la Argentina</text>
+      </navLabel>
+      <content src="c-49Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u2fc7a9db-3ed7-44a0-a5bc-ef0cb29b6fdb" playOrder="5">
+      <navLabel>
+        <text>Ficciones: La bala moral</text>
+      </navLabel>
+      <content src="c-49Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ubdf91d20-8af9-42fd-98f9-df0dee17f679" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Tango invasor</text>
+      </navLabel>
+      <content src="c-49Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u3e035abf-b3c5-43a1-a5e9-3067a2e9fc32" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Bs. As. llamando</text>
+      </navLabel>
+      <content src="c-49Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u6b07b5ae-8b9d-40bd-9a4c-7656aaf950c7" playOrder="8">
+      <navLabel>
+        <text>Entrevistas: Cuatro no es uno más que tres: Disquisiciones sobre la fiesta de los cuatro años de Axx</text>
+      </navLabel>
+      <content src="c-49Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u7ff8a6b1-5aa4-4f48-ad88-b581c4dbf1f0" playOrder="9">
+      <navLabel>
+        <text>Correo: Correo 49</text>
+      </navLabel>
+      <content src="c-49Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u939c2dcc-ca91-4fff-827e-c0b59d089d84" playOrder="10">
+      <navLabel>
+        <text>Noticias: Una mirada a la realidad</text>
+      </navLabel>
+      <content src="c-49Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u59fcd739-901c-4057-b768-bba215f9c2ed" playOrder="11">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-49Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u115c45e2-6ca3-4803-b0e4-8c3a2d4271c8" playOrder="12">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-49Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u20c6f60e-1e69-4be0-885f-173712117462" playOrder="13">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

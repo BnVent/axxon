@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="548f58ee-5f3c-4ddd-ba9d-c548f96638e5" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.5)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 215</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="aabcf382-7a96-459f-bc8c-49c52bc72abd" playOrder="1">
+      <navLabel>
+        <text>Ficciones - El país que ocupa la isla de Smara</text>
+      </navLabel>
+      <content src="pagina01.htm"/>
+    </navPoint>
+    <navPoint id="a854efb6-1e29-48a0-9645-65f17499c47f" playOrder="2">
+      <navLabel>
+        <text>Ficciones - Centinela II</text>
+      </navLabel>
+      <content src="pagina02.htm"/>
+    </navPoint>
+    <navPoint id="5c274174-ab7a-407e-af81-fff5d866880b" playOrder="3">
+      <navLabel>
+        <text>Ficciones - Sentido</text>
+      </navLabel>
+      <content src="pagina03.htm"/>
+    </navPoint>
+    <navPoint id="9bf0973a-e6c9-4ec4-a4c0-109f1654a77c" playOrder="4">
+      <navLabel>
+        <text>Ficciones - Las alegres comadres de Huixnsor</text>
+      </navLabel>
+      <content src="pagina04.htm"/>
+    </navPoint>
+    <navPoint id="77c9b5f6-66c6-41e9-a711-a19c2c176dad" playOrder="5">
+      <navLabel>
+        <text>Ficciones - Robo hormiga</text>
+      </navLabel>
+      <content src="pagina05.htm"/>
+    </navPoint>
+    <navPoint id="cddbd0a4-009a-4637-bdc1-a5a3486a7ba3" playOrder="6">
+      <navLabel>
+        <text>Ficciones - Las uvas de Severino Roldán</text>
+      </navLabel>
+      <content src="pagina06.htm"/>
+    </navPoint>
+    <navPoint id="178e6396-4d34-4bdc-ad90-92aab1df95c4" playOrder="7">
+      <navLabel>
+        <text>Ficciones - Negocio de réplica</text>
+      </navLabel>
+      <content src="pagina07.htm"/>
+    </navPoint>
+    <navPoint id="532b11c7-5fe9-4f4a-8614-00e1360f42a9" playOrder="8">
+      <navLabel>
+        <text>Ficciones - La Dama de Shallot contempla el Espejo de la Muerte…</text>
+      </navLabel>
+      <content src="pagina08.htm"/>
+    </navPoint>
+    <navPoint id="4040066c-7911-4d78-994a-e70a666df53e" playOrder="9">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="1048d326-71fa-448e-8c1a-3d183270c7c1" playOrder="9">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/215/cuento1ilus1.htm"/>
+    </navPoint>
+    <navPoint id="6d8d82f3-29ed-46ff-a5b3-e09b6683e5cb" playOrder="10">
+      <navLabel>
+        <text>REFLEJOS</text>
+      </navLabel>
+      <content src="/rev/160/c-160cuento15.htm"/>
+    </navPoint>
+    <navPoint id="b95320ee-dd3e-430e-ba6d-f9190b818165" playOrder="11">
+      <navLabel>
+        <text>CONTRA EL TAXISTA</text>
+      </navLabel>
+      <content src="/rev/163/c-163cuento18.htm"/>
+    </navPoint>
+    <navPoint id="f04b964a-b47f-443b-af47-709895f220fe" playOrder="12">
+      <navLabel>
+        <text>EL IDIOMA DE LOS PRÓCERES</text>
+      </navLabel>
+      <content src="/rev/167/c-167cuento5.htm"/>
+    </navPoint>
+    <navPoint id="d4e45905-fdbd-4fd3-bef6-b5df055bee84" playOrder="13">
+      <navLabel>
+        <text>EL JEDI SE VA DE COMPRAS</text>
+      </navLabel>
+      <content src="/rev/169/c-169cuento8.htm"/>
+    </navPoint>
+    <navPoint id="3c0f1819-7a5f-4457-a2f4-717b2c85b90d" playOrder="14">
+      <navLabel>
+        <text>EL EXAMEN MÉDICO</text>
+      </navLabel>
+      <content src="/rev/171/c-171cuento11.htm"/>
+    </navPoint>
+    <navPoint id="e195803c-2e37-4254-bfc4-9452efc8684e" playOrder="15">
+      <navLabel>
+        <text>LA VIDA EN LA GALAXIA</text>
+      </navLabel>
+      <content src="/rev/178/c-178cuento4.htm"/>
+    </navPoint>
+    <navPoint id="3962a33f-3452-42b2-aaf3-859f41ec7d41" playOrder="16">
+      <navLabel>
+        <text>UN MISTERIO URBANO EN ROSARIO, ARGENTINA</text>
+      </navLabel>
+      <content src="/rev/179/c-179cuento7.htm"/>
+    </navPoint>
+    <navPoint id="8b2acc8f-2e51-490e-8c97-50d45ba0ecda" playOrder="17">
+      <navLabel>
+        <text>LA NAVE DE LOS SUEÑOS</text>
+      </navLabel>
+      <content src="/rev/181/c-181cuento7.htm"/>
+    </navPoint>
+    <navPoint id="b3b6199a-8594-43c0-a95b-b70d2a6c6919" playOrder="18">
+      <navLabel>
+        <text>LA SEMANA ALEATORIA: CRÓNICA DE UN EXPERIMENTO SOCIAL</text>
+      </navLabel>
+      <content src="/rev/"/>
+    </navPoint>
+    <navPoint id="6de53a86-0046-4d61-bf13-c18d69569100" playOrder="19">
+      <navLabel>
+        <text>LA VACA NO ES UNA VACA</text>
+      </navLabel>
+      <content src="/rev/198/c-198cuento7.htm"/>
+    </navPoint>
+    <navPoint id="cb32a133-9327-4a19-ab2d-be73d773d177" playOrder="20">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/215/cuento2ilus1.htm"/>
+    </navPoint>
+    <navPoint id="711f3d63-1dee-431c-bd1b-00af3cf3e001" playOrder="21">
+      <navLabel>
+        <text>EL JARDINERO DEL CIELO</text>
+      </navLabel>
+      <content src="/rev/118/c-118ElJardinero.htm"/>
+    </navPoint>
+    <navPoint id="99c33c2d-aefd-4bc8-be91-1531ca89efff" playOrder="22">
+      <navLabel>
+        <text>ARTHUR C. CLARKE Y LA ODISEA DEL HOMBRE</text>
+      </navLabel>
+      <content src="/rev/183/c-183ensayo3.htm"/>
+    </navPoint>
+    <navPoint id="bdb446b7-8647-462e-a81a-caacaaba4aae" playOrder="23">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/215/cuento3ilus1.htm"/>
+    </navPoint>
+    <navPoint id="d3d8b7fb-dadb-4f34-a58e-2fbc5f920da7" playOrder="24">
+      <navLabel>
+        <text>EL MURO</text>
+      </navLabel>
+      <content src="/rev/#10"/>
+    </navPoint>
+    <navPoint id="abe40709-7080-4f9d-b168-25949b975ebb" playOrder="25">
+      <navLabel>
+        <text>FRÁGIL</text>
+      </navLabel>
+      <content src="/rev/#16"/>
+    </navPoint>
+    <navPoint id="422adb45-48ef-4e3f-8750-104c25e78826" playOrder="26">
+      <navLabel>
+        <text>AYER VI MI MUERTE</text>
+      </navLabel>
+      <content src="/rev/153/c-153cuento12.htm#5"/>
+    </navPoint>
+    <navPoint id="84802ef5-399a-476e-9559-97662a9bed7c" playOrder="27">
+      <navLabel>
+        <text>LA VISITA</text>
+      </navLabel>
+      <content src="/rev/#8"/>
+    </navPoint>
+    <navPoint id="e0f8fcd3-fa7a-48ca-a9b2-cff70867d075" playOrder="28">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/215/cuento4ilus1.htm"/>
+    </navPoint>
+    <navPoint id="52f594ef-5bc0-47c8-9c78-875430065e55" playOrder="29">
+      <navLabel>
+        <text>ensayo</text>
+      </navLabel>
+      <content src="/not/146/c-1460017.htm"/>
+    </navPoint>
+    <navPoint id="fe770674-03a9-475b-b233-4541ab4d53f6" playOrder="30">
+      <navLabel>
+        <text>CUANDO LA BASURA NOS TAPE</text>
+      </navLabel>
+      <content src="/rev/169/c-169cuento4.htm"/>
+    </navPoint>
+    <navPoint id="0f86f890-ad90-4525-8cef-6ca5889fb925" playOrder="31">
+      <navLabel>
+        <text>LOS ANTIGUOS MEXICANOS A TRAVES DE SUS RUINAS Y SUS VESTIGIOS</text>
+      </navLabel>
+      <content src="/rev/159/c-159cuento12.htm"/>
+    </navPoint>
+    <navPoint id="7ff37596-fc34-4dad-8df0-154090af41a7" playOrder="32">
+      <navLabel>
+        <text>HIELO</text>
+      </navLabel>
+      <content src="/rev/136/c-136Cuento1.htm"/>
+    </navPoint>
+    <navPoint id="90760f83-dfa4-47e5-8fbd-14521e4ae014" playOrder="33">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/215/cuento5ilus1.htm"/>
+    </navPoint>
+    <navPoint id="58aa7b23-1bd2-4c71-99e2-d7d4f8d44bf1" playOrder="34">
+      <navLabel>
+        <text>Enciclopedia</text>
+      </navLabel>
+      <content src="/wiki/index.php"/>
+    </navPoint>
+    <navPoint id="6962e23d-6f94-40c3-8ad1-14c52c134f6c" playOrder="35">
+      <navLabel>
+        <text>NO, GRACIAS</text>
+      </navLabel>
+      <content src="/rev/141/c-141Uficcion2.htm"/>
+    </navPoint>
+    <navPoint id="5989a1f5-90f1-47b9-95be-4c54d4ff33ff" playOrder="36">
+      <navLabel>
+        <text>CAMBIO</text>
+      </navLabel>
+      <content src="/rev/148/c-148Cuento10.htm"/>
+    </navPoint>
+    <navPoint id="13ec5e76-191f-44dd-9483-bc13c97439d0" playOrder="37">
+      <navLabel>
+        <text>HASTA LA SIGUIENTE</text>
+      </navLabel>
+      <content src="/rev/150/c-150Cuento3.htm"/>
+    </navPoint>
+    <navPoint id="62b5901b-a8ba-4d7e-9851-07ea05936518" playOrder="38">
+      <navLabel>
+        <text>VIAJE AL PASADO</text>
+      </navLabel>
+      <content src="/rev/154/c-154cuento17.htm"/>
+    </navPoint>
+    <navPoint id="515c0bd6-9aea-47bf-ba4e-0e48b1d09959" playOrder="39">
+      <navLabel>
+        <text>EL MORADOR</text>
+      </navLabel>
+      <content src="/rev/155/c-155cuento13.htm"/>
+    </navPoint>
+    <navPoint id="6d894978-7989-4327-8133-65781247dfd1" playOrder="40">
+      <navLabel>
+        <text>EL GUASÓN</text>
+      </navLabel>
+      <content src="/rev/156/c-156cuento4.htm"/>
+    </navPoint>
+    <navPoint id="bc3f8291-8640-40b8-8a52-1ecd47d74390" playOrder="41">
+      <navLabel>
+        <text>FINAL INCIERTO</text>
+      </navLabel>
+      <content src="/rev/157/c-157cuento14.htm"/>
+    </navPoint>
+    <navPoint id="15820337-2646-4521-8f8d-7196bb4be192" playOrder="42">
+      <navLabel>
+        <text>MOTORHOME</text>
+      </navLabel>
+      <content src="/rev/160/c-160cuento7.htm"/>
+    </navPoint>
+    <navPoint id="1f75039b-361b-43c4-99cf-08592d7c37be" playOrder="43">
+      <navLabel>
+        <text>MALOS PENSAMIENTOS</text>
+      </navLabel>
+      <content src="/rev/163/c-163cuento9.htm"/>
+    </navPoint>
+    <navPoint id="e2efcd75-54e8-4e43-ad3e-c27bf93777d8" playOrder="44">
+      <navLabel>
+        <text>EL NÚMERO UNO</text>
+      </navLabel>
+      <content src="/rev/165/c-165cuento7.htm"/>
+    </navPoint>
+    <navPoint id="1b19c229-45d7-41c6-b898-7c75c22bb992" playOrder="45">
+      <navLabel>
+        <text>CAMINATA LUNAR</text>
+      </navLabel>
+      <content src="/rev/167/c-167cuento1.htm"/>
+    </navPoint>
+    <navPoint id="30279188-cabd-467d-a09b-7eb68e8f9f75" playOrder="46">
+      <navLabel>
+        <text>EL DUEÑO DEL BARRIO</text>
+      </navLabel>
+      <content src="/rev/168/c-168cuento3.htm"/>
+    </navPoint>
+    <navPoint id="ebac60b5-05be-433f-94c8-a2ac50bca6a5" playOrder="47">
+      <navLabel>
+        <text>CON UN PIE EN LA TRAMPA</text>
+      </navLabel>
+      <content src="/rev/171/c-171cuento3.htm"/>
+    </navPoint>
+    <navPoint id="e4145051-ca9d-4fbe-bae8-1b856bd764e4" playOrder="48">
+      <navLabel>
+        <text>MORIR DE TRISTEZA</text>
+      </navLabel>
+      <content src="/rev/178/c-178cuento3.htm"/>
+    </navPoint>
+    <navPoint id="dedaf18f-101a-40ba-ba86-8bf16df7c97a" playOrder="49">
+      <navLabel>
+        <text>RAÚL</text>
+      </navLabel>
+      <content src="/rev/180/c-180cuento1.htm#27"/>
+    </navPoint>
+  </navMap>
+</ncx>

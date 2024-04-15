@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="e874dff0-69a4-4800-bef8-62ff5e6bb5fe" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.56)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 28</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="4b47d74c-e64d-4862-b4bb-a503acea7a19" playOrder="1">
+      <navLabel>
+        <text>Editorial - Axxón 28</text>
+      </navLabel>
+      <content src="c-28Pag01.htm"/>
+    </navPoint>
+    <navPoint id="b027f8f8-2e34-42ed-9e46-3793261ef5d7" playOrder="2">
+      <navLabel>
+        <text>Ficciones - Manos pálidas</text>
+      </navLabel>
+      <content src="c-28Pag02.htm"/>
+    </navPoint>
+    <navPoint id="b1bc5b35-d019-46b6-9f25-b0f3b5127739" playOrder="3">
+      <navLabel>
+        <text>Ficciones - El niño brillante del año</text>
+      </navLabel>
+      <content src="c-28Pag03.htm"/>
+    </navPoint>
+    <navPoint id="c729a37f-6fa9-4fff-8493-c5f5ad9a3aaa" playOrder="4">
+      <navLabel>
+        <text>Ficciones - La Luz</text>
+      </navLabel>
+      <content src="c-28Pag04.htm"/>
+    </navPoint>
+    <navPoint id="83071fe8-36c0-40c3-80b4-0910abd045ac" playOrder="5">
+      <navLabel>
+        <text>Ficciones - Proteo</text>
+      </navLabel>
+      <content src="c-28Pag05.htm"/>
+    </navPoint>
+    <navPoint id="0cfa5063-8611-46c3-930c-fad7b076c5cb" playOrder="6">
+      <navLabel>
+        <text>Ficciones - El cuarto 101</text>
+      </navLabel>
+      <content src="c-28Pag06.htm"/>
+    </navPoint>
+    <navPoint id="3ea2a301-146c-4569-b2da-ddc6e76cd7ae" playOrder="7">
+      <navLabel>
+        <text>Ficciones - Operación “Toro Sentado”</text>
+      </navLabel>
+      <content src="c-28Pag07.htm"/>
+    </navPoint>
+    <navPoint id="b6168a9d-050b-443f-ae71-2a042f0a8563" playOrder="8">
+      <navLabel>
+        <text>Correo - Correo 28</text>
+      </navLabel>
+      <content src="c-28Pag08.htm"/>
+    </navPoint>
+    <navPoint id="faf8da7f-2c51-425e-8fe9-d16ad2577321" playOrder="9">
+      <navLabel>
+        <text>Equipo - Equipo Axxón</text>
+      </navLabel>
+      <content src="c-28Pag09.htm"/>
+    </navPoint>
+    <navPoint id="a04974ba-ecd6-431f-b5c5-3b7c5619b2fe" playOrder="10">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

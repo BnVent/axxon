@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="959a4c6d-d12b-4044-8281-54d80280d148" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.21.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 128</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ufffbe1f7-2208-42df-a9b0-566ca166ed2e" playOrder="1">
+      <navLabel>
+        <text>Editorial: Esperanzas</text>
+      </navLabel>
+      <content src="c-128Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ue8de1632-e947-4631-bde1-7fcc8954a47d" playOrder="2">
+      <navLabel>
+        <text>Correo: Correo 128</text>
+      </navLabel>
+      <content src="c-128Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u10fca9da-7b9a-48a1-ad6e-46ac129dfd67" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Ese día</text>
+      </navLabel>
+      <content src="c-128Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u3a07ce8d-59c0-4ec2-8053-9225e0fb15f8" playOrder="4">
+      <navLabel>
+        <text>Divulgación: Salmo 104</text>
+      </navLabel>
+      <content src="c-128Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ua144215b-2bd4-4ab6-97da-835da2fdaf9e" playOrder="5">
+      <navLabel>
+        <text>Sección: Contratapa: Forastero en tierra extraña</text>
+      </navLabel>
+      <content src="c-128Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u80805422-2192-4377-b9f6-732d0e8bfa7c" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Biblioteca popular</text>
+      </navLabel>
+      <content src="c-128Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uf4f38a94-e376-47d2-9904-fc2f9000ae30" playOrder="7">
+      <navLabel>
+        <text>Portfolio: Galería</text>
+      </navLabel>
+      <content src="c-128Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u289c2e2f-65b6-45e1-bef5-52a82db6047d" playOrder="8">
+      <navLabel>
+        <text>Sección: Anacrónicas</text>
+      </navLabel>
+      <content src="c-128Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u97422da4-8324-47d4-90d5-8743cd455e05" playOrder="9">
+      <navLabel>
+        <text>Anacrónicas: Sobre los efectos nocivos de la mezcla de sandía y vino</text>
+      </navLabel>
+      <content src="c-128Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u5fb4df73-25a2-455d-adb2-1ca0279eb060" playOrder="10">
+      <navLabel>
+        <text>Anacrónicas: Allende lo razonable: Los Kuervos</text>
+      </navLabel>
+      <content src="c-128Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u94325087-634a-460c-88c2-2da92c1234be" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Eyeston</text>
+      </navLabel>
+      <content src="c-128Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ud33670e3-1222-44a5-935e-0721d90c43ec" playOrder="12">
+      <navLabel>
+        <text>Artículo: Lem, Dick: Correspondencias</text>
+      </navLabel>
+      <content src="c-128Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u8acb8ab0-30ed-4118-bc22-cc122d37ba9a" playOrder="13">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

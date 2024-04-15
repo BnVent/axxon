@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="95ced21a-a416-4c5e-aa8b-90c07d11ef4c" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.20.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 195</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u65e36bdf-ec93-45a7-a2d7-46dc74aac162" playOrder="1">
+      <navLabel>
+        <text>Editorial: Encuentro Fractal ‘09</text>
+      </navLabel>
+      <content src="c-195Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u6b8be3cc-1030-45d2-8351-9004b4246ece" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-195Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u72b8513f-570f-4862-841d-ad52b50aba30" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Supervivencia</text>
+      </navLabel>
+      <content src="c-195Pag03.htm"/>
+    </navPoint>
+    <navPoint id="udb528458-0491-45d5-aa50-401467d55e98" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Tu alma se encontrará a sí misma sola</text>
+      </navLabel>
+      <content src="c-195Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u635bdfa0-3704-443e-9c88-43ba6b98b8f8" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Familia del veintiuno</text>
+      </navLabel>
+      <content src="c-195Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u6500f2d2-b855-4bcd-ab6f-c80fbde1f46f" playOrder="6">
+      <navLabel>
+        <text>Ficciones: La voz en la puerta</text>
+      </navLabel>
+      <content src="c-195Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u21a91503-59ae-4e2f-86a0-993525f1537c" playOrder="7">
+      <navLabel>
+        <text>Ficciones: El viento y la ceniza</text>
+      </navLabel>
+      <content src="c-195Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u4d0047dc-4de0-4751-9094-266ce6afc98b" playOrder="8">
+      <navLabel>
+        <text>Ensayo: Ecos y silencios</text>
+      </navLabel>
+      <content src="c-195Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ud64537c2-4686-4b99-bdee-760131c7258e" playOrder="9">
+      <navLabel>
+        <text>Axxóncine: Hellboy - El ejército dorado</text>
+      </navLabel>
+      <content src="c-195Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u17f6ae0d-9786-4688-b4a0-f4e55ed82507" playOrder="10">
+      <navLabel>
+        <text>Humor: Don Ramirito: Llega el otoño</text>
+      </navLabel>
+      <content src="c-195Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uc9655f6d-6631-426a-975c-cccd2cf196c6" playOrder="11">
+      <navLabel>
+        <text>Divulgación: No sabe / No contesta</text>
+      </navLabel>
+      <content src="c-195Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u3325ba81-dea9-4549-a61e-96276b09a272" playOrder="12">
+      <navLabel>
+        <text>Ficciones: El Nanaboush</text>
+      </navLabel>
+      <content src="c-195Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u350381d8-5c78-4215-988b-e9bf1eb273c8" playOrder="13">
+      <navLabel>
+        <text>Ficciones: La carrera de supervivencia</text>
+      </navLabel>
+      <content src="c-195Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u90fd3818-24b0-4a18-9e5f-88a354c45df5" playOrder="14">
+      <navLabel>
+        <text>Ficciones: Me iré con las zorras</text>
+      </navLabel>
+      <content src="c-195Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u784a0462-d15b-4ecf-b688-2775a43e2b73" playOrder="15">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-195Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u1614fb3f-9018-4f3a-986b-a025840a08cf" playOrder="16">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

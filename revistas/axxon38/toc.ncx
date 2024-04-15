@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="8953c04b-a991-4867-aab2-0f4081737dc0" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.14.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 38</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ucffef6ba-4caa-46f4-84e6-82780fd338bf" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 38</text>
+      </navLabel>
+      <content src="c-38Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u1e3fb80d-62aa-4a1e-976a-b526f8aa4e7f" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Contá una historia</text>
+      </navLabel>
+      <content src="c-38Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u3d35ff00-a53c-43f6-8f6f-f01f167d35d0" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Océanos de néctar</text>
+      </navLabel>
+      <content src="c-38Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u76e08b9c-ad31-4216-b89b-00c947221ca7" playOrder="4">
+      <navLabel>
+        <text>Seccion: Bits</text>
+      </navLabel>
+      <content src="c-38Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u3a28412c-a99f-4294-83a1-127a65953b2d" playOrder="5">
+      <navLabel>
+        <text>Correo: Axxón 38</text>
+      </navLabel>
+      <content src="c-38Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uf3fe1c9f-72f0-41c2-9ef9-93eb7738b1aa" playOrder="6">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad (15)</text>
+      </navLabel>
+      <content src="c-38Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u0e2a2e20-98fc-4346-843e-80a0f64250bb" playOrder="7">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-38Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u4ad2eaf8-f1fa-4d32-83d6-8511d88c9ea7" playOrder="8">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

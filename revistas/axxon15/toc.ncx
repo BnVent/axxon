@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="a391be73-160b-4a25-98d2-8571efba6113" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.41)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 15</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="be5e1176-acbe-4e2d-9063-37274ab23628" playOrder="1">
+      <navLabel>
+        <text>Editorial - Lo que dicen de Axxón</text>
+      </navLabel>
+      <content src="c-15Pag01.htm"/>
+    </navPoint>
+    <navPoint id="2157e761-7160-479b-b272-fe0ba63e4e39" playOrder="2">
+      <navLabel>
+        <text>Ideario - El diccionario del bitlo</text>
+      </navLabel>
+      <content src="c-15Pag02.htm"/>
+    </navPoint>
+    <navPoint id="aec43580-5d41-4a67-890b-20bddff10d19" playOrder="3">
+      <navLabel>
+        <text>Ficciones - Acuarela en gris</text>
+      </navLabel>
+      <content src="c-15Pag03.htm"/>
+    </navPoint>
+    <navPoint id="3ce114c2-da7e-494d-85d4-22d67181f141" playOrder="4">
+      <navLabel>
+        <text>Ficciones - Los reyes de la arena</text>
+      </navLabel>
+      <content src="c-15Pag04.htm"/>
+    </navPoint>
+    <navPoint id="84979818-151a-4943-9ec1-61260c26eb5a" playOrder="5">
+      <navLabel>
+        <text>Ficciones - Jugar con fuego</text>
+      </navLabel>
+      <content src="c-15Pag05.htm"/>
+    </navPoint>
+    <navPoint id="980e8155-0177-456a-9383-d5659b68271a" playOrder="6">
+      <navLabel>
+        <text>Noticias - Noticias</text>
+      </navLabel>
+      <content src="c-15Pag06.htm"/>
+    </navPoint>
+    <navPoint id="59d7d96a-ff9f-495c-ba9b-f7731bd279e3" playOrder="7">
+      <navLabel>
+        <text>Correo - diciembre de 1990</text>
+      </navLabel>
+      <content src="c-15Pag07.htm"/>
+    </navPoint>
+    <navPoint id="346fb09e-f754-47fa-8a17-6d0d3c87c648" playOrder="8">
+      <navLabel>
+        <text>Equipo - Equipo Axxón</text>
+      </navLabel>
+      <content src="c-15Pag08.htm"/>
+    </navPoint>
+    <navPoint id="99e63b7c-fb5a-4804-95ab-02a33f8d92ae" playOrder="9">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

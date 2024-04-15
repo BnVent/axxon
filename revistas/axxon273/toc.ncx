@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="ae5ddd0a-5d31-49ed-9f51-b32d1ee587ff" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.58.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axx¢n 273</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uGc8J24TsSLIRT4bKuQpviF" playOrder="1">
+      <navLabel>
+        <text>Editorial: Creatividad</text>
+      </navLabel>
+      <content src="c-273Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uEurdxGTKIcvTSPhynAYWGA" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Anales de la Cronofagia</text>
+      </navLabel>
+      <content src="c-273Pag02.htm"/>
+    </navPoint>
+    <navPoint id="urgNsQyoxIzHUg7PhnBZceA" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El remanso de los cipreses</text>
+      </navLabel>
+      <content src="c-273Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uuVfComEZy49L5BtSI5drj6" playOrder="4">
+      <navLabel>
+        <text>Ficciones: One hundred percent</text>
+      </navLabel>
+      <content src="c-273Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uRBf3bFqoroqdL9kzSVVqLA" playOrder="5">
+      <navLabel>
+        <text>Ficciones: ¡Ta-tá, Miseñor!</text>
+      </navLabel>
+      <content src="c-273Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uqU9MproASGfwIfPbBWHYZ8" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Volar</text>
+      </navLabel>
+      <content src="c-273Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ukLIR2KY3gjU8R6U5cCDGS6" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Hebras que se enredan</text>
+      </navLabel>
+      <content src="c-273Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uLQxHptKFccBkGDldeorHQ8" playOrder="8">
+      <navLabel>
+        <text>Ficciones: El Che Guevara viene en ayuda de Hapoel Jerusalem</text>
+      </navLabel>
+      <content src="c-273Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uAotRmmeC3wLs3DRYYCEMGF" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Ovoides</text>
+      </navLabel>
+      <content src="c-273Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uQ4nO2xBLTvcuzdqb8wW7f6" playOrder="10">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="e3b80414-4a3d-4e66-a172-00591a3a50c8" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.41)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 16</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="a1edbc87-4204-4614-9a12-79d3f28bf32b" playOrder="1">
+      <navLabel>
+        <text>Editorial - Axxón 1991</text>
+      </navLabel>
+      <content src="c-16Pag01.htm"/>
+    </navPoint>
+    <navPoint id="525a9821-3a30-4535-b26a-56a9f72f47ce" playOrder="2">
+      <navLabel>
+        <text>Ficciones - Ninguna parte</text>
+      </navLabel>
+      <content src="c-16Pag02.htm"/>
+    </navPoint>
+    <navPoint id="49fd3277-114f-48ff-baa0-99e4250f7d8e" playOrder="3">
+      <navLabel>
+        <text>Ficciones - Por la puerta de atrás del Paraíso</text>
+      </navLabel>
+      <content src="c-16Pag03.htm"/>
+    </navPoint>
+    <navPoint id="387ca391-52ef-4a0c-8d3b-04eeb00598a9" playOrder="4">
+      <navLabel>
+        <text>Ficciones - La creación</text>
+      </navLabel>
+      <content src="c-16Pag04.htm"/>
+    </navPoint>
+    <navPoint id="f3f34c51-0dfd-4ebf-9517-2100980aed98" playOrder="5">
+      <navLabel>
+        <text>Ficciones - En la realidad de un sueño</text>
+      </navLabel>
+      <content src="c-16Pag05.htm"/>
+    </navPoint>
+    <navPoint id="058918de-37d7-4c45-82da-c48d191ffb50" playOrder="6">
+      <navLabel>
+        <text>Ficciones - Una oficina apartada</text>
+      </navLabel>
+      <content src="c-16Pag06.htm"/>
+    </navPoint>
+    <navPoint id="c083f1d1-dfac-4d29-8fcf-e9dd9bb9cccb" playOrder="7">
+      <navLabel>
+        <text>Ficciones - Espacio abierto</text>
+      </navLabel>
+      <content src="c-16Pag07.htm"/>
+    </navPoint>
+    <navPoint id="9711d2c1-08b5-4241-8155-33a9745a48fb" playOrder="8">
+      <navLabel>
+        <text>Galería - Galería</text>
+      </navLabel>
+      <content src="c-16Pag08.htm"/>
+    </navPoint>
+    <navPoint id="d59e92f5-4b50-4ef0-bbbb-4ce9298189d6" playOrder="9">
+      <navLabel>
+        <text>Equipo - Equipo Axxón</text>
+      </navLabel>
+      <content src="c-16Pag09.htm"/>
+    </navPoint>
+    <navPoint id="016b0696-3db7-446a-a7ee-3f0071091c7b" playOrder="10">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

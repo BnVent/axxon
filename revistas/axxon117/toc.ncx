@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="da8a7aed-40b5-4964-9aad-6ddb70432b21" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.14.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 117</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u34ec3cf4-c27d-4e63-a74a-6a816d7bf8ec" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 117</text>
+      </navLabel>
+      <content src="c-117Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ue706a4cc-6f49-4ad3-9aad-efc411f8292a" playOrder="2">
+      <navLabel>
+        <text>Ficciones: La duna del 40º aniversario</text>
+      </navLabel>
+      <content src="c-117Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ucac8a65d-90df-464d-8093-8a28e4406d89" playOrder="3">
+      <navLabel>
+        <text>Correo: Correo 117</text>
+      </navLabel>
+      <content src="c-117Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ud8241ad9-6de4-4cb2-bed0-d169f011b7d8" playOrder="4">
+      <navLabel>
+        <text>Ficciones: La centella cayó y vi los álamos</text>
+      </navLabel>
+      <content src="c-117Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u871d2818-5d2a-43a8-930b-71fd2728fa5d" playOrder="5">
+      <navLabel>
+        <text>Sección: Andernow</text>
+      </navLabel>
+      <content src="c-117Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u5fba1752-9830-4241-952f-e55bce2d6276" playOrder="6">
+      <navLabel>
+        <text>Ensayo: De indios, gauchos y extraterrestres</text>
+      </navLabel>
+      <content src="c-117Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u2736a108-5e36-4ec0-8f55-018d90ee300b" playOrder="7">
+      <navLabel>
+        <text>Ficciones: El interruptor</text>
+      </navLabel>
+      <content src="c-117Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ub5dcd675-2b7a-4cb8-907a-de5e2dfe8f22" playOrder="8">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

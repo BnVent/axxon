@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="c9f369cd-af69-4d86-8d7d-766215794220" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.38)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 85</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u76f7eddb-736d-461e-9d4b-684847a2520e" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-85Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u85c6750c-07f2-4c76-9ff8-af1876e1f49f" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 85</text>
+      </navLabel>
+      <content src="c-85Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u077c1093-6a48-4f93-b91f-2f1430b9705c" playOrder="3">
+      <navLabel>
+        <text>Sección: Tour Macabro</text>
+      </navLabel>
+      <content src="c-85Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u4940b6ec-b2d2-4891-bb71-0aa5fe755d3c" playOrder="4">
+      <navLabel>
+        <text>Ficciones: La tumba vacía</text>
+      </navLabel>
+      <content src="c-85Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u7f008863-a443-47a9-ba07-51efd89df010" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El acantilado o el suplicio de la tormenta</text>
+      </navLabel>
+      <content src="c-85Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u3053d18f-f58d-41d9-a228-2627d41f840b" playOrder="6">
+      <navLabel>
+        <text>Ficciones: El modelo de Pickman</text>
+      </navLabel>
+      <content src="c-85Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u0a0aede7-5811-47f2-a08b-3910c064e2ac" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Penetración subterránea</text>
+      </navLabel>
+      <content src="c-85Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u511b1592-e69e-4f47-8057-34fcfbb16379" playOrder="8">
+      <navLabel>
+        <text>Letras: Mi amigo Satán</text>
+      </navLabel>
+      <content src="c-85Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u6eba5ec8-3ff8-45f4-a1f8-9a7df718cf35" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Cerveza con los amigos</text>
+      </navLabel>
+      <content src="c-85Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u9702c592-f904-47fd-bf39-e06ac9cee863" playOrder="10">
+      <navLabel>
+        <text>Ficciones: El beso siniestro</text>
+      </navLabel>
+      <content src="c-85Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u4bf2aacb-ff46-4bbe-bfae-8058c8917544" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Carne compartida</text>
+      </navLabel>
+      <content src="c-85Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u330510c6-cb92-4241-ad8c-8ac7ac2b3db1" playOrder="13">
+      <navLabel>
+        <text>Ficciones: El último turno</text>
+      </navLabel>
+      <content src="c-85Pag12.htm"/>
+    </navPoint>
+    <navPoint id="ua4c15cad-1ad5-416d-b3de-7b7bf83f9104" playOrder="14">
+      <navLabel>
+        <text>Nota: Axxón: séptimo cumpleaños</text>
+      </navLabel>
+      <content src="c-85Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u523862e5-199f-4c26-b90d-e630040598bd" playOrder="15">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual</text>
+      </navLabel>
+      <content src="c-85Pag14.htm"/>
+    </navPoint>
+    <navPoint id="ub58fdec7-626a-4017-a731-b4d336cb1c05" playOrder="16">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-85Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u64cfcdc5-92df-4f93-a2a6-16f3ac9f65f5" playOrder="17">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-85Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u06e339c3-1744-4fe7-9b62-fc16a373966a" playOrder="18">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="u4e63ed87-f36c-47b1-85d1-dbed4176527a" playOrder="12">
+      <navLabel>
+        <text>[*]</text>
+      </navLabel>
+      <content src="c-85Pag11.htm#id2"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="a63301cb-d231-45d2-8025-ecc833cde125" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.9.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 63</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u6f1f60eb-956d-4317-9a28-14263c3a8834" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-63Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u0772b2b0-7e73-4f1d-9035-82ea522421b4" playOrder="2">
+      <navLabel>
+        <text>Editorial: Una noche especial</text>
+      </navLabel>
+      <content src="c-63Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uf0c40e5b-5160-4b4c-b64e-2ef5ff262b6c" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Inocente Maquiavelo reforzado</text>
+      </navLabel>
+      <content src="c-63Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ud1ed1d82-6920-4778-84a8-6681894ee2f0" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Sociedad anónima</text>
+      </navLabel>
+      <content src="c-63Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uacca33f2-abe3-4a0e-814f-378c96d43220" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Gran Medusa</text>
+      </navLabel>
+      <content src="c-63Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u4304a616-ce82-4b75-b62b-8ae8ea8499f1" playOrder="16">
+      <navLabel>
+        <text>Sección: Tour Macabro (11)</text>
+      </navLabel>
+      <content src="c-63Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u8648d0f8-89d5-4123-9801-b91684e99f46" playOrder="17">
+      <navLabel>
+        <text>Ficciones: Chillando para huir</text>
+      </navLabel>
+      <content src="c-63Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u9ac63f06-50ff-428e-968c-aaeaf654468d" playOrder="18">
+      <navLabel>
+        <text>Ficciones: El fantasma</text>
+      </navLabel>
+      <content src="c-63Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uf8de191f-9ca4-4bb1-8418-37cf2736916e" playOrder="19">
+      <navLabel>
+        <text>Sección: El Portal Fantástico (10)</text>
+      </navLabel>
+      <content src="c-63Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ub91c88c1-6b1e-44ea-b16e-fab4c9c84faf" playOrder="21">
+      <navLabel>
+        <text>Ficciones: El rostro</text>
+      </navLabel>
+      <content src="c-63Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ua0239c3c-47f2-4474-8575-256a3496d2a0" playOrder="22">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual (XIV)</text>
+      </navLabel>
+      <content src="c-63Pag11.htm"/>
+    </navPoint>
+    <navPoint id="uae12acae-e7af-4109-8df9-675e1f79fd20" playOrder="23">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad (36)</text>
+      </navLabel>
+      <content src="c-63Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u4628cb4f-c266-45aa-8eff-3b70041be960" playOrder="41">
+      <navLabel>
+        <text>Sección: ET AL Virtual (7)</text>
+      </navLabel>
+      <content src="c-63Pag13.htm"/>
+    </navPoint>
+    <navPoint id="ubc613122-fdef-409e-930f-8f7d15b21992" playOrder="46">
+      <navLabel>
+        <text>Sección: Competencia acelerada</text>
+      </navLabel>
+      <content src="c-63Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u7095bd64-c80d-44fb-815d-11bece38f489" playOrder="47">
+      <navLabel>
+        <text>Correo: Correo 63</text>
+      </navLabel>
+      <content src="c-63Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u1ec25ff8-e99c-490f-84d2-fb00d806b806" playOrder="48">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-63Pag16.htm"/>
+    </navPoint>
+    <navPoint id="ue2769ba6-0dc6-4faf-b3a0-1baebd47cbe2" playOrder="49">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-63Pag17.htm"/>
+    </navPoint>
+    <navPoint id="uba2f404a-b893-44ce-a15b-36d186a977d7" playOrder="50">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="u7d972b3c-8ac4-4437-8aaa-db663d7b3fb4" playOrder="13">
+      <navLabel>
+        <text>[1]</text>
+      </navLabel>
+      <content src="c-63Pag05.htm#sp"/>
+    </navPoint>
+    <navPoint id="u14328538-c786-46a3-8596-8f891df5594d" playOrder="14">
+      <navLabel>
+        <text>[2]</text>
+      </navLabel>
+      <content src="c-63Pag05.htm#nuts"/>
+    </navPoint>
+    <navPoint id="udc31512a-0288-4e6b-a496-21007424dafb" playOrder="15">
+      <navLabel>
+        <text>[3]</text>
+      </navLabel>
+      <content src="c-63Pag05.htm#herma"/>
+    </navPoint>
+    <navPoint id="u5307e3b0-ee90-49f5-ae77-0612e3ce4e84" playOrder="6">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="c-63Pag05.htm#id1"/>
+    </navPoint>
+    <navPoint id="ue6c4a7ae-2209-40f7-91f9-e96a3ef250f8" playOrder="7">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="c-63Pag05.htm#id2"/>
+    </navPoint>
+    <navPoint id="u8202d0c2-49b4-41f9-ae4e-530d6d1c6438" playOrder="8">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="c-63Pag05.htm#id3"/>
+    </navPoint>
+    <navPoint id="u605e005b-2e86-45df-aba2-9e6edee02f2c" playOrder="9">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="c-63Pag05.htm#id6"/>
+    </navPoint>
+    <navPoint id="ubc15255e-fd2f-4f70-875a-3ad614d6fa36" playOrder="10">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="c-63Pag05.htm#id7"/>
+    </navPoint>
+    <navPoint id="u39830258-e9a7-4d56-8beb-1bd45f2d6d17" playOrder="11">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="c-63Pag05.htm#id8"/>
+    </navPoint>
+    <navPoint id="u840f99c3-de52-4d49-9dfc-c0a52ef8009c" playOrder="12">
+      <navLabel>
+        <text>7</text>
+      </navLabel>
+      <content src="c-63Pag05.htm#id9"/>
+    </navPoint>
+    <navPoint id="ub598d5f8-2af4-4a14-a015-c5123b6c6737" playOrder="20">
+      <navLabel>
+        <text>[*]</text>
+      </navLabel>
+      <content src="c-63Pag09.htm#id2"/>
+    </navPoint>
+    <navPoint id="u99643ed6-e8cf-43e6-988c-7d170202bbc0" playOrder="24">
+      <navLabel>
+        <text>RESEÑANDO EL CIBERESPACIO</text>
+      </navLabel>
+      <content src="c-63Pag12.htm#resenando-el-ciberespacio"/>
+    </navPoint>
+    <navPoint id="u98a6fada-ed82-49b0-bda8-1b6875eb088c" playOrder="25">
+      <navLabel>
+        <text>Juegos en CD ROM</text>
+      </navLabel>
+      <content src="c-63Pag12.htm#juegos-en-cd-rom"/>
+    </navPoint>
+    <navPoint id="u6c37c200-4fc1-47c0-b674-b56938038670" playOrder="26">
+      <navLabel>
+        <text>DUNE</text>
+      </navLabel>
+      <content src="c-63Pag12.htm#dune"/>
+    </navPoint>
+    <navPoint id="ue3f09ffd-8763-4cc6-92ec-44013d871df9" playOrder="27">
+      <navLabel>
+        <text>SIM CITY 2000</text>
+      </navLabel>
+      <content src="c-63Pag12.htm#sim-city-2000"/>
+    </navPoint>
+    <navPoint id="u1ac3022a-2955-439c-82e3-05681b0a7243" playOrder="28">
+      <navLabel>
+        <text>CIENCIA FICCION Y SOCIEDAD</text>
+      </navLabel>
+      <content src="c-63Pag12.htm#ciencia-ficcion-y-sociedad"/>
+    </navPoint>
+    <navPoint id="u0f1caf57-77ff-40fd-a42b-7684a6f91ea7" playOrder="29">
+      <navLabel>
+        <text>DAVID CONTRA GOLIAT: LA MATERIA GRIS SIRVE</text>
+      </navLabel>
+      <content src="c-63Pag12.htm#david-contra-goliat-la-materia-gris-sirve"/>
+    </navPoint>
+    <navPoint id="u85c70e21-e212-471d-884d-bdb5d7f2a68c" playOrder="30">
+      <navLabel>
+        <text>LOS ROLLOS DEL MAR MUERTO EN EL CIBERESPACIO</text>
+      </navLabel>
+      <content src="c-63Pag12.htm#los-rollos-del-mar-muerto-en-el-ciberespacio"/>
+    </navPoint>
+    <navPoint id="u815512d9-efae-4816-8fba-4fe668557d97" playOrder="31">
+      <navLabel>
+        <text>LA COMUNICACION CON LAS PLANTAS</text>
+      </navLabel>
+      <content src="c-63Pag12.htm#la-comunicacion-con-las-plantas"/>
+    </navPoint>
+    <navPoint id="u18b27407-d65a-409e-88ab-5b72eaeef6d7" playOrder="32">
+      <navLabel>
+        <text>RELOJ CON INTERFAZ VISUAL</text>
+      </navLabel>
+      <content src="c-63Pag12.htm#reloj-con-interfaz-visual"/>
+    </navPoint>
+    <navPoint id="u3b1c0ce0-8b40-40c2-9178-eff0c8be9103" playOrder="33">
+      <navLabel>
+        <text>LA RV: UNA MANERA DE ENTRAR A MUNDOS DIFERENTES</text>
+      </navLabel>
+      <content src="c-63Pag12.htm#la-rv-una-manera-de-entrar-a-mundos-diferentes"/>
+    </navPoint>
+    <navPoint id="udd0e0c6f-6e5c-4e4f-84fc-649c15fc7cb7" playOrder="34">
+      <navLabel>
+        <text>EXTRAÑA FORMA DE ARTE ROBOTICO</text>
+      </navLabel>
+      <content src="c-63Pag12.htm#extrana-forma-de-arte-robotico"/>
+    </navPoint>
+    <navPoint id="u09484482-9620-40f1-ae8c-247d3a2eb8a7" playOrder="35">
+      <navLabel>
+        <text>NUEVAS MANERAS DE CODIFICAR INFORMACION</text>
+      </navLabel>
+      <content src="c-63Pag12.htm#nuevas-maneras-de-codificar-informacion"/>
+    </navPoint>
+    <navPoint id="u35bb77c0-413e-4735-8f2b-4e81f81684bb" playOrder="36">
+      <navLabel>
+        <text>LA MUSICA MODERNA Y LA CF</text>
+      </navLabel>
+      <content src="c-63Pag12.htm#la-musica-moderna-y-la-cf"/>
+    </navPoint>
+    <navPoint id="u586e5332-0d46-48db-a3fc-b7578108677e" playOrder="37">
+      <navLabel>
+        <text>MAS SOBRE LA GUERRA DE LAS GALAXIAS</text>
+      </navLabel>
+      <content src="c-63Pag12.htm#mas-sobre-la-guerra-de-las-galaxias"/>
+    </navPoint>
+    <navPoint id="ub16f3420-4369-4756-a9a3-bf895d188d88" playOrder="38">
+      <navLabel>
+        <text>BLADE RUNNER, PELICULA Y MUSICA DE CULTO</text>
+      </navLabel>
+      <content src="c-63Pag12.htm#blade-runner-pelicula-y-musica-de-culto"/>
+    </navPoint>
+    <navPoint id="ue97a6bb6-6e6e-401a-9abc-a3a54d380512" playOrder="39">
+      <navLabel>
+        <text>NEUROMUSICOS</text>
+      </navLabel>
+      <content src="c-63Pag12.htm#neuromusicos"/>
+    </navPoint>
+    <navPoint id="ua9fad6f3-d9d6-4142-bc65-2e6eee4c9ea8" playOrder="40">
+      <navLabel>
+        <text>INTERESANTE HALLAZGO ARQUEOLOGICO-SOCIAL</text>
+      </navLabel>
+      <content src="c-63Pag12.htm#interesante-hallazgo-arqueologico-social"/>
+    </navPoint>
+    <navPoint id="uc6b25584-b822-4ca3-9c47-63d797e79103" playOrder="42">
+      <navLabel>
+        <text>PREMIOS</text>
+      </navLabel>
+      <content src="c-63Pag13.htm#premios"/>
+    </navPoint>
+    <navPoint id="u93f04317-7afc-41be-ba8f-2ed522de6121" playOrder="43">
+      <navLabel>
+        <text>Premio HOMer del Foro de CF de Compuserve</text>
+      </navLabel>
+      <content src="c-63Pag13.htm#premio-homer-del-foro-de-cf-de-compuserve"/>
+    </navPoint>
+    <navPoint id="u5157d00a-b79f-40d5-80e0-c9235df0f4dd" playOrder="44">
+      <navLabel>
+        <text>Menciones BEM 1994</text>
+      </navLabel>
+      <content src="c-63Pag13.htm#menciones-bem-1994"/>
+    </navPoint>
+    <navPoint id="ubcad71d9-f43f-4e4c-bb67-c059c5302909" playOrder="45">
+      <navLabel>
+        <text>III Premio Domingo Santos</text>
+      </navLabel>
+      <content src="c-63Pag13.htm#iii-premio-domingo-santos"/>
+    </navPoint>
+  </navMap>
+</ncx>

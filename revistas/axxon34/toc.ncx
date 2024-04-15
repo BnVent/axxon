@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="0355a7a2-3dc9-4dc6-a70d-c91c74eae3ec" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.58)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 34</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="076ff08c-416c-4e55-a4ff-b0716674188c" playOrder="1">
+      <navLabel>
+        <text>Editorial - Axxón 34</text>
+      </navLabel>
+      <content src="c-34Pag01.htm"/>
+    </navPoint>
+    <navPoint id="09568f88-27dd-4801-9cce-2f296f49ca81" playOrder="2">
+      <navLabel>
+        <text>Ficciones - Astronauta de pueblo</text>
+      </navLabel>
+      <content src="c-34Pag02.htm"/>
+    </navPoint>
+    <navPoint id="daa22a47-33cf-47ad-af88-20d498d1f772" playOrder="3">
+      <navLabel>
+        <text>Ficciones - ¡No pasarán!</text>
+      </navLabel>
+      <content src="c-34Pag03.htm"/>
+    </navPoint>
+    <navPoint id="212a6ea7-10be-452f-b29c-7fa3b4b66aa4" playOrder="4">
+      <navLabel>
+        <text>Ficciones - ¿Quo vadis?</text>
+      </navLabel>
+      <content src="c-34Pag04.htm"/>
+    </navPoint>
+    <navPoint id="197bac70-11a0-474c-8973-154ba3e70a73" playOrder="5">
+      <navLabel>
+        <text>Sección - Una mirada a la realidad (13)</text>
+      </navLabel>
+      <content src="c-34Pag05.htm"/>
+    </navPoint>
+    <navPoint id="86ede3a8-42d9-4a14-9466-9a3dc10303aa" playOrder="6">
+      <navLabel>
+        <text>Ensayo - El mundo de la ciencia ficción: 25 años después</text>
+      </navLabel>
+      <content src="c-34Pag06.htm"/>
+    </navPoint>
+    <navPoint id="b33644d0-d2fa-40d0-bc09-859359aea1a9" playOrder="7">
+      <navLabel>
+        <text>Ficciones - La noche de Hoggy Darn</text>
+      </navLabel>
+      <content src="c-34Pag07.htm"/>
+    </navPoint>
+    <navPoint id="efcf4f37-36aa-467d-90fa-8e106c785674" playOrder="8">
+      <navLabel>
+        <text>Correo - Correo 34</text>
+      </navLabel>
+      <content src="c-34Pag08.htm"/>
+    </navPoint>
+    <navPoint id="8e5e94df-b336-44ae-902e-d9770d999b13" playOrder="9">
+      <navLabel>
+        <text>Anticipos - En próximos números de Axxón</text>
+      </navLabel>
+      <content src="c-34Pag09.htm"/>
+    </navPoint>
+    <navPoint id="5b2ce68e-a7b8-4248-a2f1-495a3c54402b" playOrder="10">
+      <navLabel>
+        <text>Equipo - Equipo Axxón</text>
+      </navLabel>
+      <content src="c-34Pag10.htm"/>
+    </navPoint>
+    <navPoint id="fafa700e-c15b-4920-8879-78901d3fc01f" playOrder="11">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="6795b3f9-5541-4bd6-b4b8-76c0a59224a8" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.36.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 80</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u051aff72-7ed3-43b3-8ea2-a37719996fd8" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-80Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u198db51c-bfd2-44b0-aa0d-00b2f4f0ea39" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 80</text>
+      </navLabel>
+      <content src="c-80Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ufdf9d8cd-7fcd-499c-8efd-97707839347b" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El abismo del espaciotiempo</text>
+      </navLabel>
+      <content src="c-80Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u95cf4306-51a1-4772-a477-aa4f01a16e9d" playOrder="4">
+      <navLabel>
+        <text>Ensayo: Cordwainer Smith, fabulador del futuro mas lejano</text>
+      </navLabel>
+      <content src="c-80Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u728f1e63-45d0-4b55-b6d2-88d7587d8a4f" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Los Observadores viven en vano</text>
+      </navLabel>
+      <content src="c-80Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u89345634-9a49-46cf-bce8-2045dff7a27e" playOrder="6">
+      <navLabel>
+        <text>Ficciones: El hombre diferido</text>
+      </navLabel>
+      <content src="c-80Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u4e3fe2fc-0257-4c32-b4f0-4ba6798b9e09" playOrder="7">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad</text>
+      </navLabel>
+      <content src="c-80Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u595f190f-9805-4eee-845e-a22eb8c73fa1" playOrder="8">
+      <navLabel>
+        <text>Sección: Tour Macabro</text>
+      </navLabel>
+      <content src="c-80Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u0a5f0b9d-cfd3-4031-95f9-fb67d1842969" playOrder="9">
+      <navLabel>
+        <text>Ficciones: El almohadón de plumas</text>
+      </navLabel>
+      <content src="c-80Pag09.htm"/>
+    </navPoint>
+    <navPoint id="udbc6740a-920f-4101-b885-0c5eee50a5c0" playOrder="10">
+      <navLabel>
+        <text>Ficciones: El que esquivaba las balas</text>
+      </navLabel>
+      <content src="c-80Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u2d26b63d-0b8f-4178-847f-084f5b8a8e21" playOrder="11">
+      <navLabel>
+        <text>Letras: Lo que no debería ser</text>
+      </navLabel>
+      <content src="c-80Pag11.htm"/>
+    </navPoint>
+    <navPoint id="uf37c2614-2461-4ddd-ac7b-10d93f0aee0f" playOrder="12">
+      <navLabel>
+        <text>Correo: Correo 80</text>
+      </navLabel>
+      <content src="c-80Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u441564b3-188d-4e86-a54e-8bd8ea491404" playOrder="13">
+      <navLabel>
+        <text>Sección: INFO Córtex</text>
+      </navLabel>
+      <content src="c-80Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u76e7049b-24b6-4c91-960c-023f7b369b7f" playOrder="14">
+      <navLabel>
+        <text>Sección: Revista virtual de Informática</text>
+      </navLabel>
+      <content src="c-80Pag14.htm"/>
+    </navPoint>
+    <navPoint id="ue5f1893c-3b5a-46a7-992a-c2d172a0f58d" playOrder="15">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-80Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u86a768f4-a60f-4df4-a4a4-95d5e0ebb0a2" playOrder="16">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-80Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u2f4be482-97ef-4b05-aadd-11f133daca8c" playOrder="17">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

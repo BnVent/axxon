@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="338ce331-030e-4812-b634-e40e3ab32a6b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.41.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 9</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uffca7834-17f8-4383-bbe4-24ade4a66a89" playOrder="1">
+      <navLabel>
+        <text>Editorial: Axxón 10</text>
+      </navLabel>
+      <content src="c-9Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u88ad4717-655c-4ff2-b789-1279a62ed119" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Aunque caiga un gorrión</text>
+      </navLabel>
+      <content src="c-9Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uc0cd43ac-59cd-46da-8fdc-de12e093c0ac" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Climax máximo</text>
+      </navLabel>
+      <content src="c-9Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u94587764-bd84-4308-88fc-b6fe9a263d03" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Algo ahí arriba me ama</text>
+      </navLabel>
+      <content src="c-9Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uc36667cb-bcde-406b-924a-127d22454317" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Fases</text>
+      </navLabel>
+      <content src="c-9Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u22b076d0-5ce5-41fb-b1cd-5a385aa3bc5d" playOrder="6">
+      <navLabel>
+        <text>Bestiario: Vida de silicio</text>
+      </navLabel>
+      <content src="c-9Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u1687a029-29a2-4e69-82c6-c16098be02de" playOrder="7">
+      <navLabel>
+        <text>Ensayo: Capítulo 10 del libro Idios Kosmos: claves para Philip K. Dick</text>
+      </navLabel>
+      <content src="c-9Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u3c1828b8-3bb5-4435-b384-4a4ba173cb20" playOrder="8">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-9Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ue0c36315-1474-4cee-a2b2-6d46e86c8fad" playOrder="9">
+      <navLabel>
+        <text>Agradecimientos: Agradecimientos</text>
+      </navLabel>
+      <content src="c-9Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u44cd1100-c2fb-423d-ba6f-a5887ff0b5b4" playOrder="10">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-9Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ub160d4e8-a87a-4077-803a-5efaf9d77bcc" playOrder="11">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,1752 @@
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <title>Axxón 83 - SECCIÓN: - Revista virtual de informática</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link href="stylesheet.css" rel="stylesheet" type="text/css"/>
+<link href="page_styles.css" rel="stylesheet" type="text/css"/>
+</head>
+  <body class="calibre">
+
+<div id="main" class="calibre1">
+<h1 class="calibre7">Revista virtual de informática</h1>
+<p class="calibre5"><b class="calibre4">Ricardo M. Forno / Alejandro Alonso</b></p><p class="calibre5"></p>
+<div class="document" id="lenguaje-ensamblador-8086-8088-conclusion">
+<h1 class="title">LENGUAJE ENSAMBLADOR 8086/8088 (conclusión)</h1>
+<!-- # :maxLineLen=120:folding=explicit:mode=rest:wrap=soft:collapseFolds=1:encoding=windows-1252: -->
+<p class="calibre5"><strong class="calibre4">Manejando el alma de la PC</strong></p>
+<p class="calibre5">Ing. Ricardo M. Forno</p>
+<div class="section" id="ejercicios-adicionales">
+<h2 class="indiceautor">EJERCICIOS ADICIONALES</h2>
+<p class="calibre5">Incluiremos acá enunciados de ejercicios para completar la
+práctica del lenguaje Ensamblador. El lector debiera realizar
+su mejor esfuerzo para hallarles solución. Luego podrá
+consultar la solución que suministramos en Soluciones que,
+reiteramos, no es única ni necesariamente la mejor, pero que
+ilustrará algunos conceptos y técnicas.</p>
+<p class="pri1"><strong class="calibre4">23.1. Ejercicio nº 30</strong></p>
+<p class="calibre5">Se trata de escribir una subrutina para obtener la raíz
+cuadrada de un número entero positivo contenido en el par de
+registros DX:AX. Aceptaremos argumentos cuyo valor no exceda
+de 230 - 1, porque argumentos mayores son imposibles de
+procesar con el método que sugeriremos. Si el argumento
+estuviera fuera de rango, se retornará una indicación de
+error con CF = 1; de lo contrario, CF = 0. El resultado
+quedará en BX.</p>
+<p class="calibre5">Sugerimos usar el método de Newton, que dice que si Rn es una
+aproximación a la raíz cuadrada de X, entonces:</p>
+<pre class="literal-block">
+R\ :sub:`n+1` = ( X / R\ :sub:`n` + R\ :sub:`n` ) / 2
+</pre>
+<p class="calibre5">es una aproximación más exacta. La iteración debe terminar
+cuando la diferencia entre dos aproximaciones sucesivas sea 1
+o 0, en valor absoluto.</p>
+<p class="calibre5">Otra posible solución se basa en la identidad:</p>
+<pre class="literal-block">
+(Aprox + 2  (p - 1) )  2 =
+Aprox  2 + Aprox * (2  p) + 2  (2 * (p - 1) )
+</pre>
+<p class="calibre5">Se comienza con una aproximación igual a 0, y se van
+determinando bits del resultado cada vez de menor
+significación. Si se emplea aritmética de doble precisión, es
+posible determinar de esta manera la raíz cuadrada de un
+número sin signo hasta 232 - 1.</p>
+<p class="calibre5">Ambas soluciones pueden verse en SOLUCIONES.</p>
+<p class="calibre5"><strong class="calibre4">23.2. Ejercicio nº 31</strong></p>
+<p class="calibre5">Escribir una subrutina que tome un valor binario en el
+registro AL y lo convierta a dos dígitos BCD (decimales)
+empaquetados, también en AL. Si el contenido de AL fuera
+mayor de 99, debe retornarse una indicación de error con CF =
+1, quedando AL sin alterar.</p>
+<p class="calibre5"><strong class="calibre4">23.3. Ejercicio nº 32</strong></p>
+<p class="calibre5">Escribir una subrutina que busque la primera ocurrencia de
+una subcadena en una cadena. El registro DI contendrá el
+desplazamiento de la cadena, y el SI el de la subcadena. BX
+contendrá la longitud de la cadena, y CX la de la subcadena.</p>
+<p class="calibre5">Si se encuentra la subcadena, se marcará con ZF = 1, y DI
+contendrá el desplazamiento donde se encuentra una secuencia
+igual a la subcadena. Si no se encuentra la subcadena, ZF =
+0, y DI contendrá el desplazamiento desde el último punto de
+búsqueda + 1. Si la subcadena es más larga que la cadena, ZF
+= 0, y DI debe quedar como a la entrada. Si la longitud de la
+subcadena es 0 o ambas longitudes son 0, ZF = 1 y DI queda
+como a la entrada. Si la longitud de la cadena es 0 pero la
+de la subcadena es &gt; 0, ZF = 0 y DI debe quedar como a la
+entrada.</p>
+<p class="calibre5"><strong class="calibre4">23.4. Ejercicio nº 33</strong></p>
+<p class="calibre5">Escribir una subrutina y un ejemplo de programa llamador a la
+misma, tal que, dada una tabla de textos con claves de
+longitud fija y apuntadores de una palabra a las claves,
+ordene los apuntadores de manera que el primero apunte a la
+clave alfabéticamente menor, el segundo a la segunda
+alfabéticamente menor, etc.</p>
+<p class="calibre5">Este planteo es más acorde con la práctica que el de ordenar
+datos de una palabra de longitud, por ejemplo.</p>
+<p class="calibre5"><strong class="calibre4">23.5. Ejercicio nº 34</strong></p>
+<p class="calibre5">La búsqueda binaria se desarrolla sobre una tabla ordenada,
+tal como la que resulta de aplicar la subrutina anterior. Se
+comienza buscando en el medio de la tabla; si se encontró la
+clave, se termina la subrutina con éxito. Si no se encontró,
+de acuerdo con el resultado de la última comparación se busca
+en el medio de la mitad inferior o de la superior de la
+tabla. Se sigue así hasta que la zona de búsqueda quede
+reducida a cero (búsqueda sin éxito) o hasta que se encuentre
+el argumento. El tiempo de búsqueda es proporcional a log
+(N), donde N es el número de elementos de la tabla.</p>
+<p class="calibre5">Debe escribirse una subrutina que lleve a cabo el método
+indicado, así como un programa que la llame.</p>
+<p class="calibre5"><strong class="calibre4">23.6. Ejercicio nº 35</strong></p>
+<p class="calibre5">Escribir una subrutina que tome los n primeros caracteres de
+un texto y los copie repetidos la cantidad de veces necesaria
+para llenar el área que ocupa el texto. SI apuntará al
+comienzo del texto, BX contendrá el valor n, y CX contendrá
+la longitud del área donde se halla el texto (es decir, la
+longitud de una DB donde se desarrollará la copia). Usar
+instrucciones de cadena para lograr mayor velocidad.</p>
+<p class="calibre5"><strong class="calibre4">23.7. Ejercicio nº 36</strong></p>
+<p class="calibre5">Este ejercicio se resuelve de manera similar al anterior. Se
+trata de desplazar un texto n posiciones a la izquierda,
+completando la cola con blancos. DI apuntará al comienzo del
+área que ocupará el texto (es decir, al comienzo de la
+posición que tendrá completada la subrutina), BX contendrá el
+valor n, y CX la longitud del área donde se halla el texto.
+Se eligió DI en vez de SI para contener el apuntador al
+comienzo de la posición final del texto porque DI es el
+índice de destino. Usar instrucciones de cadena para lograr
+mayor velocidad.</p>
+<p class="calibre5">Pueden plantearse dos ejercicios similares a los anteriores:
+uno en el que se copien los últimos (en vez de los primeros)
+n caracteres del texto sobre el mismo texto, y otro en que se
+desplace el texto n caracteres hacia la derecha (en vez de
+hacia la izquierda), completando la cabeza (en vez de la
+cola) con blancos. Las soluciones son similares a las anteriores, realizando el movimiento en forma descendente en vez de
+ascendente.</p>
+<p class="calibre5"><strong class="calibre4">23.8. Microalgoritmos</strong></p>
+<p class="calibre5">En Assembler es posible llegar al mínimo detalle de las
+operaciones para encontrar la manera más eficiente de
+realizarlas. A continuación veremos varios ejercicios que
+muestran maneras ingeniosas de lograr eficiencia en tiempo y
+en espacio.</p>
+<p class="calibre5"><strong class="calibre4">23.9. Ejercicio nº 37</strong></p>
+<p class="calibre5">Escribiremos un fragmento de programa para comparar dos
+palabras con signo en memoria, llamadas Dato1 y Dato2. Si la
+primera es mayor que la segunda, dejaremos 0 en AX; de lo
+contrario, dejaremos 1.</p>
+<p class="calibre5"><strong class="calibre4">23.10. Ejercicio nº 38</strong></p>
+<p class="calibre5">Se trata de escribir un fragmento de programa que, dado un
+número con signo en AX, deje en AX el valor absoluto de dicho
+número.</p>
+<p class="calibre5"><strong class="calibre4">23.11. Ejercicio nº 39</strong></p>
+<p class="calibre5">Deseamos saber cuál es la cantidad de bits 1 que tiene una
+palabra en memoria. Para lograr mayor velocidad, usaremos
+registros en vez de realizar operaciones en memoria. El
+resultado quedará en CL.</p>
+<p class="calibre5"><strong class="calibre4">23.12. Ejercicio nº 40</strong></p>
+<p class="calibre5">Estudiando las soluciones del ejercicio anterior, se
+descubrirá fácilmente una muy ingeniosa para el siguiente
+problema: hallar la mayor potencia de 2 que divide exactamente
+un número en AX. Dejar el resultado en AX. Pueden usarse otros
+registros.</p>
+<p class="calibre5"><strong class="calibre4">23.13. Ejercicio nº 41</strong></p>
+<p class="calibre5">Se trata de determinar si la representación binaria de un
+número en AX tiene dos o más bits 1 consecutivos. Si no los
+tiene, dejar ZF = 1. Si los tiene, dejar ZF = 0.</p>
+<p class="calibre5"><strong class="calibre4">23.14. Ejercicio nº 42</strong></p>
+<p class="calibre5">Este ejercicio es similar al anterior. Se trata de determinar
+si la representación binaria de un número tiene dos o más
+bits 0 consecutivos. Si no los tiene, dejar ZF = 1. Si los
+tiene, dejar ZF = 0.</p>
+</div>
+<div class="section" id="apendice-a-corresponde-a-las-soluciones-ya-publicadas">
+<h2 class="indiceautor">APENDICE A (corresponde a las SOLUCIONES ya publicadas)</h2>
+<p class="calibre5"><strong class="calibre4">24.30. Ejercicio nº 30</strong></p>
+<p class="calibre5">Suministraremos dos versiones de la primera solución para
+esta subrutina, a efectos de ilustrar diversas técnicas.</p>
+<p class="calibre5">El valor de la primera aproximación, 32.768, es necesario
+para que el cociente no exceda de 32.767 y consiguientemente
+un resultado intermedio sea como máximo 65.535, de manera de
+no superar la capacidad de un registro de 16 bits.</p>
+<pre class="literal-block">
+| ; Subrutina para obtener la raíz cuadrada de un número de
+| ;  hasta 30 bits por el método de Newton, primera versión.
+| ; Entrada:   DX:AX contienen el número
+| ; Resultado: BX
+| ; Error:     CF = 1 si el número supera 2 ** 30 - 1
+| Raiz30   PROC   near
+|           push   bp            ; Salvar registros
+|           push   dx
+|           push   ax
+|           test   dh, 0c0h      ; Probar 2 bits superiores
+|           jne    Exceso
+|           mov    bp, sp        ; Indice a la Pila
+|           mov    bx, 8000h     ; R = 32.768
+| Otra:
+|           div    bx            ; X / R
+|           add    ax, bx        ; X / R + R
+|           shr    ax, 1         ; (X / R + R) / 2
+|           sub    bx, ax        ; Ver si | Dif | &lt;= 1
+|           jns    No
+|           neg    bx            ; Invertir signo
+| No:
+|           test   bx, -2        ; Probar primeros 15 bits
+|           mov    bx, ax        ; Preparar próxima
+|           jz     Hecho         ; Resultado del test
+|           mov    ax, [bp]      ; Extraer dividendo
+|           mov    dx, [bp]
+|           jmp    Otra
+| Exceso:
+|           stc                  ; Marcar error
+| Hecho:                        ; Test deja CF = 0
+|           pop    ax            ; Restaurar registros
+|           pop    dx
+|           pop    bp
+|           ret      ; Retornar
+| Raiz30   ENDP
+|
+| ; Subrutina para obtener la raíz cuadrada de un número de
+| ;  hasta 30 bits por el método de Newton, segunda versión.
+| ; Entrada:   DX:AX contienen el número
+| ; Resultado:   BX
+| ; Error:      CF = 1 si el número supera 2 ** 30 - 1
+| Raiz30   PROC   near
+|           test   dh, 0c0h      ; Probar 2 bits superiores
+|           jne    Exceso
+|           push   bp            ; Salvar registros
+|           push   cx
+|           push   dx
+|           push   ax
+|           mov    cx, ax        ; Guardar dividendo
+|           mov    bp, dx
+|           mov    bx, 8000h     ; R = 32.768
+| Otra:
+|           div    bx            ; X / R
+|           add    ax, bx        ; X / R + R
+|           shr    ax, 1         ; (X / R + R) / 2
+|           sub    bx, ax        ; Ver si | Dif | &lt;= 1
+|           cmp    bx, 1
+|           jbe    Hecho1
+|           cmp    bx, -1
+|           mov    bx, ax        ; Preparar próxima
+|           jz     Hecho         ; Deja CF = 0
+|           mov    ax, cx        ; Recuperar dividendo
+|           mov    dx, bp
+|           jmp    Otra
+| Exceso:
+|           stc                  ; Marcar error
+|           ret                  ; Retornar
+| Hecho1:
+|           clc                  ; Marcar sin error
+| Hecho:                        ; Test deja CF = 0
+|           pop    ax            ; Restaurar registros
+|           pop    dx
+|           pop    bp
+|           ret                  ; Retornar
+| Raiz30   ENDP
+</pre>
+<p class="calibre5">En realidad, no conviene exagerar en la búsqueda del
+microsegundo como hemos hecho en esta subrutina, especulando
+con que luego de la comparación, si da igual, CF = 0 para
+ahorrarnos la ejecución de una instrucción CLC.</p>
+<p class="calibre5">La segunda solución sugerida es la que sigue. Es mucho más
+rápida que la anterior, al evitar la división:</p>
+<pre class="literal-block">
+| ; Subrutina para obtener la raíz cuadrada de un número de
+| ;  hasta 32 bits, bit a bit.
+| ; Entrada:   DX:AX contienen el número
+| ; Resultado: BX
+| ; Error:     No se puede producir
+| Raiz32   PROC   near
+|           push   ax            ; Salvar registros
+|           push   dx
+|           push   cx
+|           push   si
+|           push   di
+|           push   bp
+|           push   ds            ; Evitar los prefijos
+|           mov    bx, @code     ;  de contrarrestación
+|           mov    ds, bx        ;  de segmento
+|           ASSUME  DS:@code
+|           mov    Numero, ax    ; Guardar argumento
+|           mov    Numero + 2, dx
+|           xor    bx, bx        ; Raíz = 0
+|           xor    ax, ax        ; Cuadrado = 0
+|           xor    dx, dx
+|           mov    Delta, 4000h  ; Delta = 2  30
+|           xor    bp, bp
+|           mov    ch, 16        ; p = 16
+|           jmp    Salta
+| Itera:
+|           dec    ch            ; p = p - 1
+|           jz     Fin
+|           shr    Delta, 1      ; Delta = Delta / 4
+|           rcr    bp, 1
+|           shr    Delta, 1
+|           rcr    bp, 1
+| Salta:
+|           mov    cl, ch
+|           mov    di, bx        ; Raíz
+|           shl    di, cl        ; Aux = Raíz * 2  p
+|           mov    si, bx        ; Raíz
+|           sub    cl, 16
+|           neg    cl
+|           shr    si, cl        ; Aux = Raíz *.2  p
+|           add    di, bp        ; Aux = Aux + Delta
+|           adc    si, Delta
+|           add    di, ax        ; Aux = Aux + Cuadrado
+|           adc    si, dx
+|           cmp    si, Numero + 2  ; Si Aux &gt; Numero
+|           ja     Itera
+|           jb     Termina
+|           cmp    di, Numero
+|           ja     Itera
+| Termina:
+|           mov    ax, di        ; Cuadrado = Aux
+|           mov    dx, si
+|           mov    di, 1         ; 2  (p - 1)
+|           mov    cl, ch
+|           dec    cl
+|           shl    di, cl
+|           add    bx, di        ; Raíz = Raíz + 2  (p - 1)
+|           jmp    Itera
+| Fin:
+|           pop    ds
+|           pop    bp            ; Restaurar registros
+|           pop    di
+|           pop    si
+|           pop    cx
+|           pop    dx
+|           pop    ax
+|           ret                  ; Retornar
+| Numero   DW   2 DUP (?)
+| Delta    DW   ?
+| Raiz32   ENDP
+</pre>
+<p class="calibre5">Esta subrutina no puede ser usada en forma recursiva ni
+reentrante, pues usa áreas de memoria como almacenamiento
+temporario. Para hacerla recursiva o reentrante, habría que
+usar la Pila, en cambio.</p>
+<p class="calibre5">Para evitar la generación automática de prefijos de
+contrarrestación de segmentos, para Numero y Delta, hemos
+cargado DS con el valor del segmento de código y usado el
+ASSUME correspondiente.</p>
+<p class="calibre5"><strong class="calibre4">24.31. Ejercicio nº 31</strong></p>
+<pre class="literal-block">
+| ; Subrutina para convertir un número binario a 2 dígitos BCD
+| ;  empaquetados.
+| ; Entrada: AL: Contiene un número binario sin signo
+| ; Salida:  AL: Contendrá 2 dígitos BCD empaquetados
+| ; Error:   CF = 1 indica que AL &gt; 99. En tal caso,
+| ;      AL queda sin alterar
+| ;
+| Binbcd   PROC   near
+|           cmp    al, 99         ; Verificar AL &lt; 100
+|           jbe    Salvar
+|           stc                   ; Marcar error
+|           ret                   ; Retornar
+| Salvar:
+|           push   cx             ; Salvar registro
+|           mov    ch, ah         ; Salvar AH
+|           cbw                   ; Extender AL a AX
+|           aam                   ; Dividir por 10
+| ;  Cociente en AH (1er. dígito) y resto en AL (2o. dígito)
+|           mov    cl, 4          ; Preparar desplazamiento
+|           shl    ah, cl         ; Desplazar nibble izq.
+|           or     al, ah         ; Empaquetar. Deja CF = 0
+|           mov    ah, ch         ; Restaurar AH
+|           pop    cx             ; Restaurar registro
+|           ret                   ; Retornar
+| Binbcd   ENDP
+</pre>
+<p class="calibre5"><strong class="calibre4">24.32. Ejercicio nº 32</strong></p>
+<pre class="literal-block">
+| ; Subrutina que busca la primera ocurrencia de una
+| ;  subcadena en una cadena.
+| ; Entrada:   DI contiene el desplazamiento de la cadena
+| ;      SI contiene el desplazamiento de la subcadena
+| ;      BX contiene la longitud de la cadena
+| ;      CX contiene la longitud de la subcadena
+| ; Salida:   Si se encuentra la subcadena:
+| ;      ZF = 1
+| ;      DI = desplazamiento donde se encuentra.
+| ;      Si no se encuentra la subcadena:
+| ;      ZF = 0
+| ;      DI = último desplazamiento + 1
+| ;      Si la subcadena es más larga que la cadena:
+| ;      ZF = 0
+| ;      DI no cambia
+| ;      Si longitud de subcadena = 0 o ambas = 0:
+| ;      ZF = 1
+| ;      DI no cambia
+| ;      Si long. de cadena = 0 y long. subcadena &gt; 0:
+| ;      ZF = 0
+| ;      DI no cambia
+| ; Error:      No hay posibilidad
+| ;
+| Busqsub  PROC  near
+|           and   cx, cx          ; Ver si log. subcadena = 0
+|           je    Salida
+|           cmp   cx, bx          ; Ver si no entra
+|           ja    Salida
+|           push  ax              ; Salvar registros
+|           push  bx
+|           push  cx
+|           push  dx
+|           push  si
+|           push  bp
+|           push  es              ; * Guardar ES
+|           pushf                 ; * Guardar DF
+|           push  ds              ; * Cargar ES
+|           pop   es              ; *
+|           cld                   ; * Dirección ascendente
+|           lea   bx, 1 [bx] [di] ; Dirección final:
+|           sub   bx, cx          ;  BX = BX + DI + 1 - CX
+|           mov   bp, di          ; Guardar apuntador
+|           mov   dx, si          ; Guardar apuntador
+|           mov   ax, cx          ; Guardar cuenta
+| Buscar:
+|           repe  cmpsb           ; Buscar en la cadena
+|           je    Encontro
+|           inc   bp              ; Incrementar apuntador
+|           mov   di, bp          ; Activarlo
+|           mov   si, dx          ; Restaurar apuntador
+|           mov   cx, ax          ; Restaurar cuenta
+|           cmp   di, bx          ; Ver si llegó al fin
+|           jb    Buscar
+|           and   cx, cx          ; Forzar ZF = 0 (CX &lt;&gt; 0)
+| Encontro:
+|           mov   di, bp          ; Ultimo apuntador
+|           lahf                  ; * Salvar ZF
+|           popf                  ; * Restaurar DF
+|           sahf                  ; * Restaurar ZF
+|           pop   es              ; * Restaurar ES
+|           pop   si              ; Restaurar registros
+|           pop   dx
+|           pop   cx
+|           pop   bx
+|           pop   ax
+| Salida:
+|           ret      ; Retornar
+| Busqsub  ENDP
+</pre>
+<p class="calibre5">Es preferible, como se hizo acá, usar los registros
+disponibles como almacenamiento temporario. Se usaron los
+registros AX, CX, DX y BP. Esto fue posible porque alcanzaron
+los registros. Si ello no sucediera, como segunda opción
+puede emplearse la Pila y, como última y no del todo
+recomendable, áreas de memoria en la subrutina (pues eso
+impide que la subrutina sea usada en forma recursiva o
+reentrante).</p>
+<p class="calibre5">Algunas instrucciones de esta subrutina son o no necesarias
+de acuerdo con diversos criterios. Por ejemplo, la
+instrucción CLD puede omitirse si en todo el programa
+principal se usa siempre DF = 0. Se ha cargado el registro ES
+con el valor que hay en DS, ya que se suministró DI como
+desplazamiento de la cadena sin mencionar ES. Podría también
+haberse evitado la carga de ES si en el programa principal ya
+se lo cargó con el valor adecuado. Asimismo, podría haberse
+evitado usar instrucciones para salvar DF y restaurarlo.
+Todas estas instrucciones que podrían haberse omitido están
+marcadas con un asterisco en los comentarios.</p>
+<p class="pri1"><strong class="calibre4">24.33. Ejercicio nº 33</strong></p>
+<p class="calibre5">Este ejercicio puede resolverse con diversos métodos. Algunos
+de estos métodos son eficientes y otros no. Decimos que un
+método es eficiente si ordena en un tiempo proporcional a N x
+log(N), donde N es el número de elementos a ordenar.</p>
+<p class="calibre5">Hemos elegido el método de Heapsort, que no es el más rápido
+en promedio, pero tiene una ventaja: es el más rápido que
+garantiza eficiencia en todos los casos, usando espacio de
+trabajo mínimo (independiente de N).</p>
+<p class="calibre5">La justificación de por qué ordena este método no es
+sencilla. Para comprenderlo, consúltese “The Art of Computer
+Programming”, de D. E. Knuth, párrafo 5.2.3. En el caso de
+dos claves iguales, este método no necesariamente mantiene el
+orden previo (se dice que no es estable).</p>
+<pre class="literal-block">
+| ; Programa que llama a la subrutina de ordenamiento
+|      .MODEL   small
+|      .STACK   100h
+|      .DATA
+| Lclave  EQU    40   ; Longitud de cada clave
+| Ldatos  EQU    100   ; Longitud de cada dato
+| Texto1  DB     Lclave DUP(?)   ; Clave
+|          DB     Ldatos DUP(?)   ; Datos accesorios
+| Texto2  DB     Lclave DUP (?)
+|          DB     Ldatos DUP (?)
+| Texto3  DB     Lclave DUP (?)
+|          DB     Ldatos DUP (?)
+| ................................
+| Texton  DB     Lclave DUP (?)
+|          DB   Ldatos DUP (?)
+| Indices DW     Texto1, Texto2, Texto3, ... , Texton
+| Cant    EQU    ($ - Indices) / 2
+|          .CODE
+| Principal PROC  near
+|          mov     ax, @data
+|          mov     ds, ax         ; Cargar DS
+|          mov     es, ax         ; Cargar ES
+| ; Limpiar área de datos
+|          mov     di, OFFSET Texto1   ; Inicializar
+|          mov     cx, Cant * (Ldatos + Lclave)
+|          cld                    ; Dirección ascendente
+|          mov     al, ' '        ; Inicializar a blanco
+|          rep     stosb          ; Borrar a blancos
+| ; Ingresar claves y datos accesorios
+|          mov     di, Cant + 1   ; Inicializar entrada
+|          mov     si, OFFSET Texto1
+|          mov     bx, 0          ; Entrada estándar
+|          mov     ah, 3fh        ; Función de lectura
+| Ciclo1:
+|          dec     di             ; Ver si terminó ciclo
+|          je      Seguir
+|          mov     cx, Lclave     ; Leer clave
+|          mov     dx, si
+|          int     21h
+|          mov     cx, Ldatos      ; Leer datos accesorios
+|          lea     dx, Lclave [si] ; Dirección de datos
+|          int     21h
+|          add     si, Lclave + Ldatos ; Próximo elemento
+|          jmp     Ciclo1
+| ; Llamar a la subrutina de ordenamiento
+| Seguir:
+|          mov     bx, OFFSET Indices  ; Pasar parámetros
+|          mov     dx, Cant
+|          mov     cx, Lclave
+|          call    Heapsort
+| ; Desplegar claves ordenadas
+|          mov     cx, Lclave
+|          mov     si, OFFSET Indices
+|          mov     bx, 1          ; Salida estándar
+|          mov     ah, 40h        ; Función de despliegue
+| Volver:
+|          cmp     si, OFFSET Indices + Cant * 2
+|          je      Fin
+|          mov     dx, [si]       ; Dirección de clave
+|          int     21h
+|          add     si, 2          ; Próxima clave
+|          jmp     Volver
+| ; Terminar programa
+| Fin:
+|          mov     ah, 4ch        ; Función de terminación
+|          int     21h
+| Principal ENDP
+| ;
+| ; Subrutina de ordenamiento por el método de Heapsort
+| ; Entrada: DX: Contiene la cantidad de elementos
+| ;          BX: Apunta a una lista de apuntadores a los
+| ;              elementos. Cada apuntador tiene 1 palabra.
+| ;              Los elementos se componen de una clave y
+| ;              un área de datos.
+| ;          CX: Contiene la longitud de la clave.
+| ; Salida:  Los apuntadores quedan ordenados, de manera
+| ;          que el primero apunta al elemento de menor
+| ;          clave y el último al de mayor clave.
+| Heapsort  PROC   near
+|            cmp    dx, 1                ; Si 0 o 1 elementos, salir
+|            jbe    Finsort
+|            push   bp                   ; Salvar registros
+|            push   si
+|            push   di
+|            push   dx
+|            push   cx
+|            push   ax
+|            push   es
+|            pushf                       ; Salvar DF
+|            mov    ax, ds               ; Cargar ES
+|            mov    es, ax
+|            cld                         ; Dirección ascendente
+|            mov    Longitud, cx         ; Salvar longitud clave
+| ; Se necesita L = N / 2, pero luego se debe adecuar a palabra
+|            mov    ax, dx               ; L = N / 2
+|            and    ax, -2
+|            mov    Lvar, ax
+| ; También R = N - 1, y luego adecuarlo a palabra
+|            dec    dx                   ; R = N - 1
+|            shl    dx, 1
+|            mov    Rvar, dx
+| Prulim:
+|            cmp    Lvar, 0              ; Si L = 0
+|            je     Segunda
+|            sub    Lvar, 2              ; L = L - 1
+|            mov    di, Lvar             ; S = V (L)
+|            mov    ax, [bx] [di]
+|            mov    Svar, ax
+|            jmp    Main
+| Segunda:
+|            mov    di, Rvar              ; S = V (R)
+|            mov    ax, [bx] [di]
+|            mov    Svar, ax
+|            mov    ax, [bx]              ; V (R) = V (L) (L = 1)
+|            mov    [bx] [di], ax
+|            sub    Rvar, 2               ; R = R - 1
+|            jnz    Transf3               ; Si R &lt;&gt; 0
+| Main:
+|            mov    dx, Lvar              ; J = L
+| Itera:
+|             mov   bp, dx                ; I = J
+|             inc   dx                    ; J = J + J + 1
+|             shl   dx, 1
+|             cmp   dx, Rvar
+|             ja    Transf1               ; Si J &gt; N
+|             je    Comp1                 ; Si J = N
+|             mov   cx, Longitud          ; Si Q(V(J)) &gt;= Q(V(J+1))
+|             mov   si, dx
+|             mov   di, 2 [bx] [si]
+|             mov   si, [bx] [si]
+|             repe  cmpsb
+|             jae   Comp1
+|             add   dx, 2   ; J = J + 1
+| Comp1:
+|             mov   cx, Longitud          ; SI Q (S) &gt;= Q (V (J) )
+|             mov   si, Svar
+|             mov   di, dx
+|             mov   di, [bx] [di]
+|             repe  cmpsb
+|             jae   Transf2
+| Transf1:
+|             mov   di, bp                ; V (I) = S
+|             mov   ax, Svar
+|             mov   [bx] [di], ax
+|             jmp   Prulim
+| Transf2:
+|             mov   si, dx                ; V (I) = V (J)
+|             mov   di, bp
+|             mov   ax, [bx] [si]
+|             mov   [bx] [di], ax
+|             jmp   Itera
+| Transf3:
+|             mov   di, Lvar              ; V (L) = S
+|             mov   ax, Svar
+|             mov   [bx] [di], ax
+|             popf                        ; Restaurar DF
+|             pop   es                    ; Restaurar registros
+|             pop   ax
+|             pop   cx
+|             pop   dx
+|             pop   di
+|             pop   si
+|             pop   bp
+| Finsort:
+|             ret                         ; Retornar
+| Longitud   DW   ?
+| Svar       DW   ?              ; S
+| Lvar       DW   ?              ; L
+| Rvar       DW   ?              ; R
+| Heapsort   ENDP
+|      END     Principal
+</pre>
+<p class="calibre5">Como la longitud de los apuntadores es de 2 bytes, cada vez
+que por ejemplo se incrementa un índice en una unidad es
+necesario incrementar la variable correspondiente en 2. El
+registro BP contiene la variable I y el DX la variable J. Las
+restantes variables han debido ubicarse en memoria, por falta
+de registros. Esto hace que la subrutina no pueda usarse de
+manera recursiva ni reentrante. Si se quisiera que la
+subrutina fuera recursiva o reentrante, estas variables
+deberían se ubicadas en la Pila y tomadas por medio del
+registro BP, que lógicamente ya no podría usarse para una
+variable. Se deja esta modificación al lector.</p>
+<p class="calibre5"><strong class="calibre4">24.34. Ejercicio nº 34</strong></p>
+<pre class="literal-block">
+| ; Programa que llama a la subrutina de búsqueda binaria
+| ;  Se supone que los datos han sido previamente ingresados
+| ;  y ordenados, y que el argumento está almacenado
+|      .MODEL   small
+|      .STACK   100h
+|      .DATA
+| Lclave   EQU    40                   ; Longitud de cada clave
+| Ldatos   EQU    100                  ; Longitud de cada dato
+| Texto1   DB     Lclave DUP(?)        ; Clave
+|           DB     Ldatos DUP(?)        ; Datos accesorios
+| Texto2   DB     Lclave DUP (?)
+|           DB     Ldatos DUP (?)
+| Texto3   DB     Lclave DUP (?)
+|           DB     Ldatos DUP (?)
+| ................................
+| Texton   DB     Lclave DUP (?)
+|           DB     Ldatos DUP (?)
+| Indices  DW     Texto1, Texto2, Texto3, ... , Texton
+| Cant     EQU    ($ - Indices) / 2
+| Argum    DW     Lclave DUP (?)
+| Result   DW     Ldatos DUP (?)
+|           .CODE
+| Prueba   PROC   near
+| ................................
+|           mov    bx, OFFSET Indices   ; Llamar búsqueda
+|           mov    dx, Cant
+|           mov    cx, Lclave
+|           mov    ax, OFFSET Argum
+|           call   Busqbin
+|           jc     Error                ; CF = 1 indica error
+|           mov    cx, Ldatos           ; Preparar movimiento
+|           mov    di, OFFSET Result
+|           lea    si, Lclave [bx]
+|           rep    movsb                ; Copiar resultado
+| ................................
+| Error:
+| ................................
+| Prueba   ENDP
+| ;
+| ; Subrutina de búsqueda binaria
+| ; Entradas: DX: Contiene la cantidad de elementos de
+| ;               la tabla.
+| ;           BX: Apunta a una lista de apuntadores a los
+| ;               elementos. Cada apuntador es una palabra.
+| ;               Los elementos de la tabla se componen de una
+| ;               clave y un área de datos.
+| ;           CX: Contiene la longitud de la clave.
+| ;           AX: Apunta al argumento de búsqueda.
+| ; Salida:   BX: Contendrá un apuntador a la clave que sea
+| ;               igual al argumento. Si hay error, está
+| ;               indefinido.
+| ; Error:    CF = 1 si el argumento no se encuentra.
+| Busqbin  PROC   near
+|           push   ax             ; Salvar registros
+|           push   cx
+|           push   dx             ; J = N
+|           push   si
+|           push   di
+|           push   bp
+|           push   ex
+|           pushf                 ; Salvar DF
+|           mov    ax, ds         ; Cargar ES
+|           mov    es, ax
+|           cld                   ; Dirección ascendente
+|           mov    Long, cx       ; Salvar longitud clave
+|           mov    bp, -1         ; I = -1
+|           mov    Arg, ax        ; Salvar dirección argum.
+| Probar:
+|           mov   ax, dx          ; Si J - I - 1 = 0
+|           sub   ax, bp
+|           dec   ax
+|           jz    Noesta
+|           mov   ax, dx          ; K = (J + I) / 2
+|           add   ax, bp
+|           shr   ax, 1
+|           mov   di, ax
+|           shl   di, 1           ; Ajustar a palabra
+|           mov   di, [bx] [di]   ; Comparar Arg con Q (K)
+|           mov   si, Arg
+|           mov   cx, Long
+|           repe  cmpsb
+|           jb    Alto
+|           ja    Bajo
+|           shl   ax, 1           ; Igual: encontrado
+|           add   bx, ax          ; Ajustar dirección
+|           jmp   Fin             ; Deja CF = 0
+| Alto:
+|           mov   dx, ax          ; J = K
+|           jmp   Probar
+| Bajo:
+|           mov   bp, ax          ; I = K
+|           jmp   Probar
+| Noesta:
+|           stc                   ; Marcar error
+| Fin:
+|           lahf                  ; Salvar CF
+|           popf                  ; Restaurar DF
+|           sahf                  ; Poner CF
+|           pop   bp              ; Restaurar registros
+|           pop   di
+|           pop   si
+|           pop   dx
+|           pop   cx
+|           pop   ax
+|           ret                   ; Retornar
+| Long     DW   ?
+| Arg      DW   ?
+| Busqbin  ENDP
+|      END   Prueba
+</pre>
+<p class="calibre5"><strong class="calibre4">24.35. Ejercicio nº 35</strong></p>
+<p class="calibre5">Esta tarea se realiza moviendo el texto sobre sí mismo,
+desplazado n posiciones hacia la derecha, y efectuando el
+movimiento en forma ascendente. Como, de acuerdo con la
+definición del problema, el texto es direccionado por DS,
+copiaremos DS a ES. Omitiremos salvar la bandera de
+dirección, lo que es habitual.</p>
+<pre class="literal-block">
+| ; Subrutina para copiar los primeros n caracteres de un texto
+| ;  repetidos sobre el mismo texto.
+| ; Entradas:   SI apunta al comienzo del texto.
+| ;             BX contiene el valor n.
+| ;             CX contiene la longitud del área del texto.
+| ; Salida:     El texto queda modificado como se indicó.
+| ; Error:      No hay posibilidad.
+| ;
+| Repite   PROC   near
+|           push   si             ; Salvar registros
+|           push   di
+|           push   cx
+|           push   es
+|           sub    cx, bx         ; Calcular longitud
+|           jbe    Fin
+|           lea    di, [bx] [si]  ; Dirección de destino
+|           push   ds             ; Copiar DS a ES
+|           pop    es
+|           cld                   ; Movimiento ascendente
+|           rep    movsb          ; Copiar
+| Fin:
+|           pop    es             ; Restaurar registros
+|           pop    cx
+|           pop    di
+|           pop    si             ; Modificado por movsb
+|           ret                   ; Retornar
+| Repite   ENDP
+</pre>
+<p class="calibre5"><strong class="calibre4">24.36. Ejercicio nº 36</strong></p>
+<pre class="literal-block">
+| ; Subrutina para desplazar un texto n caracteres hacia la
+| ;  izquierda, completando la cola con blancos.
+| ; Entradas:   DI apunta al comienzo del texto resultado.
+| ;             BX contiene el valor n.
+| ;             CX contiene la longitud del área del texto.
+| ; Salida:     El texto queda modificado como se indicó.
+| ; Error:      No hay posibilidad.
+| ;
+| Desplaza   PROC   near
+|             push   ax           ; Salvar registros
+|             push   si
+|             push   di
+|             push   cx
+|             push   es
+|             mov    ax, ds       ; Copiar DS a ES
+|             mov    es, ax
+|             cld                 ; Movimiento ascendente
+|             sub    cx, bx       ; Calcular longitud
+|             jbe    Borrar
+|             lea    si, [bx] [di] ; Dirección de origen
+|             rep    movsb        ; Desplazar
+| ; DI contiene aquí la dirección de la cola
+|             mov    al, ' '      ; Cargar blanco
+|             mov    cx, bx       ; Cuenta = n
+|             rep    stosb        ; Llenar de blancos
+|             jmp    Fin
+| Borrar:   ; Si n &gt; longitud, borrar todo el texto a blancos
+|             mov    al, ' '      ; Cargar blanco
+|             pop    cx           ; Restaurar valor original
+|             push   cx           ; De vuelta a la Pila
+|             rep    stosb        ; Borrar
+| Fin:
+|             pop    cx           ; Restaurar registros
+|             pop    di
+|             pop    si
+|             pop    es
+|             pop    ax
+|             ret                 ; Retornar
+| Desplaza   ENDP
+| Fin:
+|             pop    es           ; Restaurar registros
+|             pop    cx
+|             pop    di
+|             pop    si           ; Modificado por movsb
+|             ret                 ; Retornar
+| Repite   ENDP
+</pre>
+<p class="pri1"><strong class="calibre4">24.37. Ejercicio nº 37</strong></p>
+<p class="calibre5">Mostraremos en primer lugar la forma de hacerlo que surge
+inmediatamente:</p>
+<pre class="literal-block">
+| ; Comparar dos palabras con signo en memoria. Si la primera
+| ;  es mayor, dejar 0 en AX; de lo contrario, dejar 1.
+|             mov   ax, Dato1
+|             cmp   ax, Dato2
+|             jg    Mayor
+|             mov   ax, 1
+|             jmp   Salida
+| Mayor:
+|             mov   ax, 0
+| Salida:
+| ................................
+</pre>
+<p class="calibre5">Veamos cómo, con un poco de ingenio, puede ahorrarse una
+bifurcación:</p>
+<pre class="literal-block">
+|             mov   ax, Dato1
+|             cmp   ax, Dato2
+|             mov   ax, 0
+|             jg    Salida
+|             mov   ax, 1
+| Salida:
+| ................................
+</pre>
+<p class="calibre5">La moraleja es ésta: si un cómputo tiene dos resultados
+posibles, puede ahorrarse tiempo y espacio suponiendo que uno
+de los resultados es el correcto y corrigiendo luego esta
+suposición si fuera necesario.</p>
+<p class="calibre5">Pero aún no hemos terminado con este simple ejercicio. La
+instrucción xor ax, ax es más corta que mov ax, 0 y hace lo
+mismo. Hay una diferencia, sin embargo: MOV no altera las
+banderas, pero XOR sí, lo que nos obliga a cambiar el sentido
+de la bifurcación condicional:</p>
+<pre class="literal-block">
+|             mov   ax, Dato1
+|             cmp   ax, Dato2
+|             mov   ax, 1
+|             jng   Salida
+|             xor   ax, ax
+| Salida:
+| ................................
+</pre>
+<p class="calibre5">El enunciado del ejercicio decía explícitamente palabras “con
+signo”. En esas condiciones, no parece posible mejorar la
+última solución. Pero veamos qué podríamos hacer si las
+palabras fueran “sin signo”:</p>
+<pre class="literal-block">
+|             mov   ax, Dato2
+|             cmp   ax, Dato1
+|             mov   ax, 1
+|             sbb   ax, 0
+</pre>
+<p class="calibre5">Para ver por qué este fragmento logra lo que deseamos,
+debemos recordar que una comparación equivale a una resta que
+no modifica el operando de destino. La bandera CF indica con
+valor 1 que el segundo operando es mayor que el primero,
+porque hubo un “pedido” en la resta del bit de más alto
+orden. Justamente esta bandera es la que prueban las
+instrucciones JA o JB, que son las que deberíamos usar en una
+comparación sin signo. Pero podemos usar la bandera de otro
+modo: sumándola o restándola con las instrucciones ADC o SBB.
+En este caso, si hubo un “pedido”, Dato1 es mayor que Dato2,
+y AX quedará en 0. En caso contrario, quedará en 1.</p>
+<p class="calibre5"><strong class="calibre4">24.38. Ejercicio nº 38</strong></p>
+<dl class="docutils2">
+<dt class="section">La solución que se presenta inmediatamente es::</dt>
+<dd class="calibre21"><div class="first">
+<div class="section">; Dado un número con signo en AX, dejar en AX su valor</div>
+<div class="section">;  absoluto.</div>
+<div class="line-block1">
+<div class="section">and   ax, ax</div>
+<div class="section">jns   Fin</div>
+<div class="section">neg   ax</div>
+</div>
+<div class="section">Fin:</div>
+<div class="section">…………………………..</div>
+</div>
+</dd>
+</dl>
+<p class="calibre5">Sin embargo, la siguiente solución ingeniosa es más eficiente
+en tiempo y en espacio:</p>
+<pre class="literal-block">
+|             cwd
+|             xor   ax, dx
+|             sub   ax, dx
+</pre>
+<p class="calibre5">Se deja al lector el análisis de por qué funciona este
+método.</p>
+<p class="calibre5">No obstante, esta solución usa un registro adicional (DX)</p>
+<p class="calibre5">Y ambas soluciones comparten un defecto difícil de reparar:
+si se trata de obtener el valor absoluto del máximo número
+negativo representable, el resultado será ese mismo número,
+o sea que no habremos obtenido un número positivo. Un posible
+arreglo para este problema consiste en poner la bandera OF
+para señalar error, lo que es automático en ambas versiones.
+Poner en cambio CF lleva algún trabajo más. Veamos cómo se
+haría en cada una de las versiones:</p>
+<pre class="literal-block">
+|             and   ax, ax
+|             jns   Fin
+|             neg   ax
+|             clc
+|             jns   Fin
+|             stc
+| Fin:
+| ................................
+|
+|             cwd
+|             xor   ax, dx
+|             sub   ax, dx
+|             clc
+|             jns   Fin
+|             stc
+| Fin:
+| ................................
+</pre>
+<p class="pri1"><strong class="calibre4">24.39. Ejercicio nº 39</strong></p>
+<p class="calibre5">Veamos una primera solución:</p>
+<pre class="literal-block">
+| ; Contar la cantidad de bits 1 que tiene una palabra en
+| ;  memoria.
+|             mov   ax, Palabra   ; Cargar palabra
+|             xor   cl, cl        ; Borrar cuenta
+| Doblar:
+|             shl   ax, 1         ; 1 bit a la izquierda
+|             jz    Fin           ; Si es todo 0
+|             adc   cl, 0         ; Contar bit en CF
+|             jmp   Doblar
+| Fin:
+|             adc   cl, 0         ; Ultimo bit
+</pre>
+<p class="calibre5">El método consiste en ir desplazando los bits a CF y contarlos
+desde allí. Debe incluirse al final otra instrucción adc cl, 0
+que sume la bandera CF a la cuenta, pues aun cuando el
+resultado sea 0, puede haber quedado el último bit en CF.</p>
+<p class="calibre5">En algunos procesadores, add ax, ax es más eficiente que shl
+ax, 1, pero la diferencia es mínima.</p>
+<p class="calibre5">Un análisis minucioso nos revela también que, si pudiéramos
+intercambiar el rol de los registros sin afectar el enunciado
+del problema, usando CX para contener la palabra y AL para la
+cuenta, ahorraríamos 1 byte sin cambiar el tiempo de
+ejecución. Esto surge de que adc al, 0 es 1 byte más corta
+que adc cl, 0, y mov cx, Palabra es 1 byte más larga que mov
+ax, Palabra, debido al rol especial que juegan los
+acumuladores AX y AL.</p>
+<p class="calibre5">Pero hay algo más interesante que podemos hacer, sin cambiar
+el enunciado: reducir el ciclo. Veamos cómo:</p>
+<pre class="literal-block">
+|             mov   ax, Palabra   ; Cargar palabra
+|             xor   cl, cl        ; Borrar cuenta
+|             jmp   Doblar        ; Saltar 1a. instrucción
+| Sumar:
+|             adc   cl, 0         ; Contar bit en CF
+| Doblar:
+|             shl   ax, 1         ; 1 bit a la izquierda
+|             jnz   Sumar         ; Si no es todo 0
+|             adc   cl, 0
+</pre>
+<p class="calibre5">No ha aumentado el espacio ocupado y hemos reducido el ciclo
+de 4 a 3 instrucciones.</p>
+<p class="calibre5">La moraleja es ésta: muchas veces es posible sacar una
+bifurcación fuera de un ciclo, saltando inicialmente a un
+punto del medio del mismo. Esto es contrario a la
+programación estructurada, pero en Assembler ello no tiene
+mucha importancia. Además, si esta técnica se utiliza
+sistemáticamente, puede ser incorporada como un modelo más de
+estructuración.</p>
+<p class="calibre5">Pareciera que ya no hay manera de mejorar este fragmento de
+programa, pero sin embargo la hay, recurriendo a un método
+ingenioso. La mejora se basa en que si tomamos un acumulador,
+le restamos 1 y efectuamos un AND con el contenido previo, el
+bit 1 de menor significación se transformará en 0 sin que los
+restantes bits se alteren. En efecto, la resta pone en 0 el
+bit 1 de menor significación, y el AND completa la tarea. Por
+ejemplo:</p>
+<pre class="literal-block">
+|      X:                  10110100
+|      X - 1:              10110011
+|      X AND (X - 1):      10110000
+</pre>
+<p class="calibre5">De esto surge el siguiente fragmento de programa:</p>
+<pre class="literal-block">
+|             mov    ax, Palabra   ; Cargar palabra
+|             and    ax, ax        ; Probar si dato es 0
+|             jz     Fin           ; Si 0, fin
+|             xor    cx, cx        ; Borrar cuenta
+| Probar:
+|             mov    bx, ax
+|             dec    ax
+|             and    ax, bx
+|             loopne Probar        ; Contar bits 1
+|             neg    cx            ; Resultado en CX o CL
+| Fin:
+| ................................
+</pre>
+<p class="calibre5">Si bien el ciclo tiene más instrucciones que en la solución
+anterior, en promedio se ejecutará la mitad de las veces,
+pues lo hará una vez por cada bit 1 del dato.</p>
+<p class="calibre5">Vemos aquí cómo puede emplearse la instrucción LOOPNE de
+manera no estándar. En efecto, hemos cargado 0 en CX, y
+ciclamos mientras el resultado del AND no sea 0. Si el dato
+es originalmente 0, no entramos en el ciclo y CX queda en 0.
+Si hay 1 bit 1, el ciclo se ejecuta una vez y CX queda en -1;
+si hay 2 bits 1, el ciclo se ejecuta 2 veces y CX queda en
+-2; etc. Finalmente se le invierte el signo.</p>
+<p class="calibre5">Aun es posible reducir el tiempo gastado por algunos
+procesadores (80286, 80386, 80486, pero no 8086) reemplazando
+dos instrucciones por LEA y modificando el uso de los
+registros:</p>
+<pre class="literal-block">
+|             mov    bx, Palabra   ; Cargar palabra
+|             and    bx, bx        ; Probar si dato es 0
+|             jz     Fin           ; Si 0, fin
+|             xor    cx, cx        ; Borrar cuenta
+| Probar:
+|             lea    ax, -1 [bx]
+|             and    bx, ax
+|             loopne Probar        ; Contar bits 1
+|             neg    cx            ; Resultado en CX o CL
+| Fin:
+| ................................
+</pre>
+<p class="calibre5"><strong class="calibre4">24.40. Ejercicio nº 40</strong></p>
+<pre class="literal-block">
+| ; Hallar la mayor potencia de 2 que divide exactamente
+| ;  un número en AX. Dejar el resultado en AX.
+|
+|             mov   bx, ax        ; Ejemplo 1010110001110100
+|             dec   bx            ;         1010110001110011
+|             and   bx, ax        ;         1010110001110000
+|             xor   ax, bx        ;         0000000000000100
+</pre>
+<p class="calibre5">Podríamos plantearnos otro ejercicio parecido: hallar la
+menor potencia de 2 que no divide exactamente un número en
+AX. Puede resolverse agregando add ax, ax al final del
+anterior, pero hay una solución más corta:</p>
+<pre class="literal-block">
+| ; Hallar la menor potencia de 2 que no divide exactamente
+| ;  un número en AX. Dejar el resultado en AX.
+|
+|             mov   bx, ax        ; Ejemplo 1010110001110100
+|             dec   bx            ;         1010110001110011
+|             xor   ax, bx        ;         0000000000000111
+|             inc   ax            ;         0000000000001000
+</pre>
+<p class="pri1"><strong class="calibre4">24.41. Ejercicio nº 41</strong></p>
+<pre class="literal-block">
+| ; Si la representación binaria de un número en AX tiene dos
+| ;  o más bits 1 consecutivos, ZF = 0. Si no, ZF = 1.
+|
+|             mov   bx, ax        ; Ejemplo 1010110001101001
+|             add   ax, ax        ;         0101100011010010
+|             test  bx, ax        ;         0000100001000000
+</pre>
+<p class="calibre5"><strong class="calibre4">24.42. Ejercicio nº 42</strong></p>
+<blockquote class="calibre22">
+<div class="first">
+<div class="section">; Si la representación binaria de un número en AX tiene dos</div>
+<div class="section">;  o más bits 0 consecutivos, ZF = 0. Si no, ZF = 1.</div>
+<div class="section"><br class="section"/></div>
+<div class="line-block1">
+<div class="section">not   ax            ; Ejemplo 1010110001101001</div>
+<div class="section">mov   bx, ax        ;         0101001110010110</div>
+<div class="section">add   ax, ax        ;         1010011100101100</div>
+<div class="section">test  bx, ax        ;         0000001100000100</div>
+</div>
+</div>
+</blockquote>
+<p class="calibre5"><strong class="calibre4">25. Apéndice B: Tabla de caracteres ASCII</strong></p>
+<p class="calibre5">La siguiente es una tabla de la codificación de caracteres
+(bytes) en los siguientes sistemas: decimal, hexadecimal y
+binario. (Los caracteres ASCII de esta tabla no es posible
+mostrarlos porque algunos son comandos activos para el
+programa de muestra de esta revista. Es conveniente consultarlos en su manual de DOS, donde los encontrará detallados
+en su totalidad.)</p>
+<pre class="literal-block">
+|     Decimal   Hexadecimal   Binario
+|
+|          0        00        00000000
+|          1        01        00000001
+|          2        02        00000010
+|          3        03        00000011
+|          4        04        00000100
+|          5        05        00000101
+|          6        06        00000110
+|          7        07        00000111
+|          8        08        00001000
+|          9        09        00001001
+|         10        0A        00001010
+|         11        0B        00001011
+|         12        0C        00001100
+|         13        0D        00001101
+|         14        0E        00001110
+|         15        0F        00001111
+|         16        10        00010000
+|         17        11        00010001
+|         18        12        00010010
+|         19        13        00010011
+|         20        14        00010100
+|         21        15        00010101
+|         22        16        00010110
+|         23        17        00010111
+|         24        18        00011000
+|         25        19        00011001
+|         26        1A        00011010
+|         27        1B        00011011
+|         28        1C        00011100
+|         29        1D        00011101
+|         30        1E        00011110
+|         31        1F        00011111
+|         32        20        00100000
+|         33        21        00100001
+|         34        22        00100010
+|         35        23        00100011
+|         36        24        00100100
+|         37        25        00100101
+|         38        26        00100110
+|         39        27        00100111
+|         40        28        00101000
+|         41        29        00101001
+|         42        2A        00101010
+|         43        2B        00101011
+|         44        2C        00101100
+|         45        2D        00101101
+|         46        2E        00101110
+|         47        2F        00101111
+|         48        30        00110000
+|         49        31        00110001
+|         50        32        00110010
+|         51        33        00110011
+|         52        34        00110100
+|         53        35        00110101
+|         54        36        00110110
+|         55        37        00110111
+|         56        38        00111000
+|         57        39        00111001
+|         58        3A        00111010
+|         59        3B        00111011
+|         60        3C        00111100
+|         61        3D        00111101
+|         62        3E        00111110
+|         63        3F        00111111
+|         64        40        01000000
+|         65        41        01000001
+|         66        42        01000010
+|         67        43        01000011
+|         68        44        01000100
+|         69        45        01000101
+|         70        46        01000110
+|         71        47        01000111
+|         72        48        01001000
+|         73        49        01001001
+|         74        4A        01001010
+|         75        4B        01001011
+|         76        4C        01001100
+|         77        4D        01001101
+|         78        4E        01001110
+|         79        4F        01001111
+|         80        50        01010000
+|         81        51        01010001
+|         82        52        01010010
+|         83        53        01010011
+|         84        54        01010100
+|         85        55        01010101
+|         86        56        01010110
+|         87        57        01010111
+|         88        58        01011000
+|         89        59        01011001
+|         90        5A        01011010
+|         91        5B        01011011
+|         92        5C        01011100
+|         93        5D        01011101
+|         94        5E        01011110
+|         95        5F        01011111
+|         96        60        01100000
+|         97        61        01100001
+|         98        62        01100010
+|         99        63        01100011
+|        100        64        01100100
+|        101        65        01100101
+|        102        66        01100110
+|        103        67        01100111
+|        104        68        01101000
+|        105        69        01101001
+|        106        6A        01101010
+|        107        6B        01101011
+|        108        6C        01101100
+|        109        6D        01101101
+|        110        6E        01101110
+|        111        6F        01101111
+|        112        70        01110000
+|        113        71        01110001
+|        114        72        01110010
+|        115        73        01110011
+|        116        74        01110100
+|        117        75        01110101
+|        118        76        01110110
+|        119        77        01110111
+|        120        78        01111000
+|        121        79        01111001
+|        122        7A        01111010
+|        123        7B        01111011
+|        124        7C        01111100
+|        125        7D        01111101
+|        126        7E        01111110
+|        127        7F        01111111
+|        128        80        10000000
+|        129        81        10000001
+|        130        82        10000010
+|        131        83        10000011
+|        132        84        10000100
+|        133        85        10000101
+|        134        86        10000110
+|        135        87        10000111
+|        136        88        10001000
+|        137        89        10001001
+|        138        8A        10001010
+|        139        8B        10001011
+|        140        8C        10001100
+|        141        8D        10001101
+|        142        8E        10001110
+|        143        8F        10001111
+|        144        90        10010000
+|        145        91        10010001
+|        146        92        10010010
+|        147        93        10010011
+|        148        94        10010100
+|        149        95        10010101
+|        150        96        10010110
+|        151        97        10010111
+|        152        98        10011000
+|        153        99        10011001
+|        154        9A        10011010
+|        155        9B        10011011
+|        156        9C        10011100
+|        157        9D        10011101
+|        158        9E        10011110
+|        159        9F        10011111
+|        160        A0        10100000
+|        161        A1        10100001
+|        162        A2        10100010
+|        163        A3        10100011
+|        164        A4        10100100
+|        165        A5        10100101
+|        166        A6        10100110
+|        167        A7        10100111
+|        168        A8        10101000
+|        169        A9        10101001
+|        170        AA        10101010
+|        171        AB        10101011
+|        172        AC        10101100
+|        173        AD        10101101
+|        174        AE        10101110
+|        175        AF        10101111
+|        176        B0        10110000
+|        177        B1        10110001
+|        178        B2        10110010
+|        179        B3        10110011
+|        180        B4        10110100
+|        181        B5        10110101
+|        182        B6        10110110
+|        183        B7        10110111
+|        184        B8        10111000
+|        185        B9        10111001
+|        186        BA        10111010
+|        187        BB        10111011
+|        188        BC        10111100
+|        189        BD        10111101
+|        190        BE        10111110
+|        191        BF        10111111
+|        192        C0        11000000
+|        193        C1        11000001
+|        194        C2        11000010
+|        195        C3        11000011
+|        196        C4        11000100
+|        197        C5        11000101
+|        198        C6        11000110
+|        199        C7        11000111
+|        200        C8        11001000
+|        201        C9        11001001
+|        202        CA        11001010
+|        203        CB        11001011
+|        204        CC        11001100
+|        205        CD        11001101
+|        206        CE        11001110
+|        207        CF        11001111
+|        208        D0        11010000
+|        209        D1        11010001
+|        210        D2        11010010
+|        211        D3        11010011
+|        212        D4        11010100
+|        213        D5        11010101
+|        214        D6        11010110
+|        215        D7        11010111
+|        216        D8        11011000
+|        217        D9        11011001
+|        218        DA        11011010
+|        219        DB        11011011
+|        220        DC        11011100
+|        221        DD        11011101
+|        222        DE        11011110
+|        223        DF        11011111
+|        224        E0        11100000
+|        225        E1        11100001
+|        226        E2        11100010
+|        227        E3        11100011
+|        228        E4        11100100
+|        229        E5        11100101
+|        230        E6        11100110
+|        231        E7        11100111
+|        232        E8        11101000
+|        233        E9        11101001
+|        234        EA        11101010
+|        235        EB        11101011
+|        236        EC        11101100
+|        237        ED        11101101
+|        238        EE        11101110
+|        239        EF        11101111
+|        240        F0        11110000
+|        241        F1        11110001
+|        242        F2        11110010
+|        243        F3        11110011
+|        244        F4        11110100
+|        245        F5        11110101
+|        246        F6        11110110
+|        247        F7        11110111
+|        248        F8        11111000
+|        249        F9        11111001
+|        250        FA        11111010
+|        251        FB        11111011
+|        252        FC        11111100
+|        253        FD        11111101
+|        254        FE        11111110
+|        255        FF        11111111
+</pre>
+<p class="calibre5"><strong class="calibre4">26. Apéndice C: Proceso de las interrupciones</strong></p>
+<p class="calibre5">En lo que sigue se verá una descripción de las interrupciones
+más importantes y sus respectivas rutinas de proceso.</p>
+<p class="calibre5">Trataremos las que son pertinentes para los procesadores 8086
+y 8088, obviando en general las correspondientes a
+procesadores posteriores.</p>
+<p class="calibre5">26.1. Interrupciones de hardware</p>
+<p class="calibre5">En primer lugar, una breve descripción de las interrupciones
+de hardware:</p>
+<ul class="calibre2">
+<li class="calibre3">00H: Error de división.</li>
+<li class="calibre3">01H: Paso a paso. Cuando el bit de Trace (TF) está puesto,
+tras cada instrucción se produce esta interrupción.</li>
+<li class="calibre3">02H: NMI (Non-maskable interrupt). Interrupción no enmascarable. Se produce esta interrupción, que como su nombre lo indica no es afectada por el bit de interrupción (IF), cuando sucede algún evento de absoluta prioridad, por ejemplo un error de memoria.</li>
+<li class="calibre3">03H: Breakpoint. Punto de corte. Se produce al ejecutarse una
+instrucción INT 3, que da entrada al debugger (depurador)</li>
+<li class="calibre3">04H: Overflow. Se produce al ejecutarse una instrucción INTO
+si el bit de exceso (OF) está puesto.</li>
+<li class="calibre3">08H: Timer. Se produce cuando el contador de tiempo (timer)
+llega a 0.</li>
+<li class="calibre3">09H: Teclado. Se genera cuando se reciben datos del teclado.</li>
+</ul>
+<p class="calibre5"><strong class="calibre4">26.2. Interrupciones de software</strong></p>
+<p class="calibre5">Existen muchas de estas interrupciones, pero sólo veremos las
+más importantes. En primer lugar, breves reseñas de las
+interrupciones para llamar al BIOS (Basic Input-Output
+System, Sistema Básico de Entrada-Salida) que reside en el
+ROM. Luego veremos las interrupciones del DOS, que son las
+más usadas, en especial la 21H.</p>
+<p class="calibre5"><strong class="calibre4">26.2.1. Servicios de video del BIOS</strong></p>
+<p class="calibre5">Se llama a estos servicios por medio de la interrupción 10H.
+Antes de ejecutar la interrupción, debe colocarse en AH el
+número de servicio pedido. Estos números son:</p>
+<blockquote class="calibre22">
+<ul class="calibre2">
+<li class="calibre3">00H: Poner modo de video.</li>
+<li class="calibre3">01H: Establecer tamaño del cursor.</li>
+<li class="calibre3">02H: Establecer posición del cursor.</li>
+<li class="calibre3">03H: Leer posición del cursor.</li>
+<li class="calibre3">04H: Leer posición del lápiz luminoso.</li>
+<li class="calibre3">05H: Poner página desplegada activa.</li>
+<li class="calibre3">06H: Mover ventana hacia arriba.</li>
+<li class="calibre3">07H: Mover ventana hacia abajo.</li>
+<li class="calibre3">08H: Leer carácter y atributo.</li>
+<li class="calibre3">09H: Escribir carácter y atributo.</li>
+<li class="calibre3">0AH: Escribir carácter.</li>
+<li class="calibre3">0BH: Poner paleta de 4 colores.</li>
+<li class="calibre3">0CH: Escribir pixel.</li>
+<li class="calibre3">0DH: Leer pixel.</li>
+<li class="calibre3">0EH: Escribir carácter en modo teletipo.</li>
+<li class="calibre3">0FH: Leer modo actual de video.</li>
+<li class="calibre3">10H: Interfaz para paleta de colores.</li>
+<li class="calibre3">11H: Interfaz para generador de caracteres.</li>
+<li class="calibre3">12H: Selección alterna.</li>
+<li class="calibre3">13H: Escribir cadena de caracteres.</li>
+<li class="calibre3">1AH: Leer/escribir código combinado de despliegue.</li>
+<li class="calibre3">1BH: Información de estado</li>
+<li class="calibre3">1CH: Guardar/restaurar estado de video.</li>
+</ul>
+</blockquote>
+<p class="calibre5">Cada uno de estos servicios requiere datos adicionales. Por
+ejemplo, el servicio 00H requiere que en AL se haya cargado
+el código del modo de video que se quiere poner. A su vez, un
+servicio puede dejar resultados. Todos estos datos y
+resultados conforman un conjunto tan extenso como para ser
+objeto de un libro de por sí, y por lo tanto no los veremos
+acá.</p>
+<p class="calibre5"><strong class="calibre4">26.2.2. Servicios de disco del BIOS</strong></p>
+<p class="calibre5">Se llama a estos servicios por medio de la interrupción 13H.
+Antes de ejecutar la interrupción, debe colocarse en AH el
+número de servicio pedido. En general, conviene usar los
+servicios del DOS en lugar de los del BIOS. Los números de
+servicio son los siguientes; algunos se usan para diskettes,
+otros para discos fijos y otros para ambos tipos:</p>
+<blockquote class="calibre22">
+<ul class="calibre2">
+<li class="calibre3">00H: Restaurar el sistema de discos.</li>
+<li class="calibre3">01H: Obtener estado de discos.</li>
+<li class="calibre3">02H: Leer sectores de discos.</li>
+<li class="calibre3">03H: Grabar sectores de discos.</li>
+<li class="calibre3">04H: Verificar sectores de discos.</li>
+<li class="calibre3">05H: Formatear pista de disco.</li>
+<li class="calibre3">06H: Formatear pista de disco fijo.</li>
+<li class="calibre3">07H: Formatear disco fijo.</li>
+<li class="calibre3">08H: Obtener parámetros del drive de disco.</li>
+<li class="calibre3">09H: Inicializar tablas de parámetros del disco fijo.</li>
+<li class="calibre3">0AH: Leer largo.</li>
+<li class="calibre3">0BH: Grabar largo.</li>
+<li class="calibre3">0CH: Buscar un cilindro.</li>
+<li class="calibre3">0DH: Restaurar disco fijo.</li>
+<li class="calibre3">10H: Probar si el disco está listo.</li>
+<li class="calibre3">11H: Recalibrar drive.</li>
+<li class="calibre3">15H: Obtener tipo de disco.</li>
+<li class="calibre3">16H: Ver si se cambió el diskette.</li>
+<li class="calibre3">17H: Poner tipo de diskette.</li>
+<li class="calibre3">18H: Poner el tipo de diskette para formatear.</li>
+<li class="calibre3">19H: Estacionar cabezas lecto-grabadoras.</li>
+<li class="calibre3">1AH: Formatear disco de tipo ESDI.</li>
+</ul>
+</blockquote>
+<p class="calibre5">Como en el caso anterior, cada uno de estos servicios
+requiere datos adicionales, que no podemos describir acá.</p>
+<p class="calibre5"><strong class="calibre4">26.2.3. Servicios de teclado del BIOS</strong></p>
+<p class="calibre5">Se llama a estos servicios por medio de la interrupción 16H.
+Antes de ejecutar la interrupción, debe colocarse en AH el
+número de servicio pedido. Estos números son:</p>
+<blockquote class="calibre22">
+<ul class="calibre2">
+<li class="calibre3">00H: Leer próximo carácter del teclado.</li>
+<li class="calibre3">01H: Informar si hay un carácter listo.</li>
+<li class="calibre3">02H: Obtener estado de las teclas de desplazamiento
+(mayúsculas, control, alteración).</li>
+<li class="calibre3">03H: Poner velocidad de repetición y retraso de comienzo.</li>
+<li class="calibre3">05H: Enviar datos al teclado.</li>
+<li class="calibre3">10H: Lectura del teclado extendido.</li>
+<li class="calibre3">11H: Obtener estado del teclado extendido.</li>
+<li class="calibre3">12H: Obtener estado de desplazamiento de teclado extendido.</li>
+</ul>
+</blockquote>
+<p class="calibre5">Como en los casos anteriores, estos servicios pueden requerir
+datos adicionales y dejar resultados, tema para el cual
+remitimos al lector a libros especializados, por ejemplo el
+ya mencionado “Programmer’s Guide to the IBM PC”, de Peter
+Norton y Richard Wilton.</p>
+<p class="calibre5"><strong class="calibre4">26.2.4. Interrupciones del DOS</strong></p>
+<blockquote class="calibre22">
+<ul class="calibre2">
+<li class="calibre3">20H: Esta interrupción se puede usar para terminar un programa. No obstante, es preferible usar las funciones 00H o 4CH de la interrupción 21H para este fin.</li>
+<li class="calibre3">21H: Ésta es la interrupción más usada, que veremos en detalle más adelante.</li>
+<li class="calibre3">25H: Permite leer sectores específicos de disco o diskette, ignorando la estructura de archivos del DOS. El número de sectores leído se especifica en el registro CX, el número inicial de sector en DX, y la dirección adonde se leerán en DS:BX. El drive se selecciona poniendo un número en AL. Los resultados de la operación se informan en CF (0 bien, 1 error) y los códigos de error aparecen en AL y AH.</li>
+<li class="calibre3">26H: Totalmente similar a la anterior, pero para grabar.</li>
+<li class="calibre3">27H: Termina un programa y lo deja residente. Se usa para agregar temporariamente funciones al DOS, haciendo que por ejemplo responda con acciones específicas a determi- nadas teclas. Es mejor usar en su reemplazo la función 31H de la interrupción 21H.</li>
+</ul>
+</blockquote>
+<p class="calibre5"><strong class="calibre4">26.2.5. Funciones de la interrupción 21H.</strong></p>
+<p class="calibre5">Esta interrupción, con sus múltiples funciones, es la más
+usada. Sólo veremos algunas de estas funciones. El número de
+función debe especificarse en AH.</p>
+<p class="calibre5">Función 00H: Termina un programa sin dejar código de retorno.
+La función 4CH hace lo mismo dejando código de retorno.</p>
+<p class="calibre5">Función 01H: Ingresa un carácter con eco (es decir, toma un
+carácter del teclado y lo muestra en la pantalla). El
+carácter queda el AL. Si AL no contiene 0, se trata de un
+carácter ASCII. Si AL contiene 0, debe llamarse de nuevo a la
+función para obtener un carácter no ASCII (por ejemplo, una
+de las teclas de función o de movimiento). La función queda
+en espera si no se presionó alguna tecla.</p>
+<p class="calibre5">Función 02H: Envía un carácter desde DL a la pantalla.</p>
+<p class="calibre5">Función 05H: Envía un carácter desde DL a la impresora.</p>
+<p class="calibre5">Función 06H: Combinación de entrada y salida. Si DL = FFH, la
+función toma un carácter tecleado sin enviarlo a la pantalla,
+lo deja en AL y pone ZF = 0; si no se tecleó nada, entonces
+ZF = 1. Si DL no vale FFH, entonces la función actúa como
+salida, poniendo el carácter de DL en la pantalla.</p>
+<p class="calibre5">Función 08H: Similar a 01H, pero sin eco a la pantalla.</p>
+<p class="calibre5">Función 09H: Envía una cadena de caracteres a la salida
+estándar (normalmente la pantalla). DS:DX debe apuntar al
+comienzo de la cadena, cuyo fin es marcado por un carácter
+$ (24H). Si se quiere mostrar signos $, deberá usarse la
+función 40H.</p>
+<p class="calibre5">Función 0AH: Entrada desde el teclado con búfer. Esta función
+suministra una cadena de caracteres editada desde el teclado,
+de manera que pueden usarse las teclas de dirección, borre,
+etc. para editar la entrada mientras no se presione CR
+(retorno de carro). DS:DX debe apuntar al búfer. El primer
+byte del búfer indica el tamaño del mismo; el segundo byte
+indicará los bytes realmente leídos; a partir del tercer byte
+ingresarán los datos, cuyo fin es marcado por CR, que no se
+incluye en la cuenta.</p>
+<p class="calibre5">Función 0BH: Verifica estado del teclado. Si hay un carácter
+listo para entrar, AL = FFH. Si no, AL = 0.</p>
+<p class="calibre5">Función 0EH: Selecciona un nuevo drive de discos por defecto.
+El número de drive debe estar en DL. También informa la
+cantidad de drives instalados en AL.</p>
+<p class="calibre5">Función 19H: Muestra disco actual. Lo hace en AL.</p>
+<p class="calibre5">Función 1AH: Establece el área de transferencia (DTA) para
+archivos de disco. La dirección se especifica en DS:DX.</p>
+<p class="calibre5">Función 1BH: Obtiene información del drive actual de discos.
+AL contendrá el número de sectores por grupo; CX contendrá el
+tamaño en bytes de cada sector de disco; DX contendrá el
+número total de grupos en el disco; y DS:BX apuntará a un
+byte que contiene un descriptor del medio de grabación. Debe
+preservarse DS antes de llamar a esta función y restaurarlo
+después.</p>
+<p class="calibre5">Función 25H: Pone un vector de interrupción. Permite
+reemplazar la dirección de comienzo de la subrutina que
+maneja una interrupción. DS:DX debe contener la dirección de
+la nueva subrutina, y AL el número de interrupción.</p>
+<p class="calibre5">Función 2AH: Obtiene la fecha. El resultado va a CX y DX. DH
+contiene el número de mes; DL el día; CX el año (1980 hasta
+2099). AL contiene el día de la semana (0 = domingo).</p>
+<p class="calibre5">Función 2BH: Pone la fecha. La misma se coloca en CX y DX
+como se indica en la función 2AH. Si AL = FFH, se especificó
+una fecha no válida.</p>
+<p class="calibre5">Función 2CH: Obtiene la hora. El resultado va a CX y DX. CH
+contiene la hora; CL los minutos; DH los segundos; y DL las
+centésimas de segundo.</p>
+<p class="calibre5">Función 2DH: Pone la hora. La misma se coloca en CX y DX como
+se indica en la función 2CH. Si AL = FFH, se especificó una
+hora no válida.</p>
+<p class="calibre5">Función 2EH: Pone marca de verificación. Las operaciones de
+grabación de disco pueden ser verificadas o no. Si AL = 01H,
+se verificarán; si AL = 00H, no.</p>
+<p class="calibre5">HANDLES (“manijas”) o FILE DESCRIPTORS (descriptores de
+archivos): Las funciones del DOS aparecidas con el release 2
+usan estos elementos para tener acceso a los archivos. El DOS
+asigna un nuevo número de descriptor cada vez que se crea o
+se abre un archivo. Hay cinco descriptores estándar,
+numerados de 0 a 4, disponibles automáticamente para cada
+programa. Los otros números deben ser creados por el usuario.
+Función 2FH: Obtiene la dirección del área de transferencia
+(DTA) para archivos de disco. La dirección se transfiere a
+ES:BX.</p>
+<p class="calibre5">Función 30H: Obtiene el número de versión del DOS. El número
+principal queda en AL, y el número secundario en AH. BX y CX
+contendrán un número de serie, normalmente 0.</p>
+<p class="calibre5">Función 31H: Termina un programa y lo deja residente.
+Adicionalmente a los servicios de la interrupción 27H,
+permite reservar memoria.</p>
+<p class="calibre5">Función 35H: Devuelve el vector de interrupción para la
+interrupción especificada en AL. El resultado queda en ES:BX.</p>
+<p class="calibre5">Función 36H: Obtiene el espacio libre del disco. DL debe
+contener el número de drive. El resultado queda en los
+registros AX (número de sectores por grupo), CX (número de
+bytes por sector), BX (cantidad de grupos disponibles), y DX
+(cantidad total de grupos).</p>
+<p class="calibre5">Función 38H: Da información dependiente del país (símbolo
+monetario, coma o punto decimal, etc.), y en versión 3 y
+posteriores permite cambiarla. Los detalles son bastante
+extensos, y no los daremos.</p>
+<p class="calibre5">Función 39H: Crea un subdirectorio. Debe suministrársele una
+cadena ASCIIZ (terminada con un carácter nulo) que contenga
+el nombre del nuevo directorio (en formato de senda o path).
+DS:DX deberá contener la dirección de esta cadena. Si hay
+error, CF = 1 y AX contendrá el código de error.</p>
+<p class="calibre5">Función 3AH: Borra un directorio. Los detalles son similares
+a los de la función 39H.</p>
+<p class="calibre5">Función 3BH: Cambia directorio actual. Los detalles son
+similares a los de la función 39H.</p>
+<p class="calibre5">Función 3CH: Crea un archivo. Si el archivo existe, lo trunca
+a longitud 0. Si no existe, lo crea. Para llamarla, úsese una
+cadena ASCIIZ con el nombre del archivo (en formato de
+senda). DS:DX debe apuntar al comienzo de esta cadena. CX
+debe contener el atributo del archivo. Si no hubo error, CF =
+0 y AX contendrá el descriptor (handle). En caso de error,
+pone CF = 1 y deja el código de error en AX.</p>
+<p class="calibre5">Función 3DH: Abre un descriptor. Se le suministra el nombre
+del archivo en una cadena ASCIIZ, a la cual apunta DS:DX. En
+AL se debe poner un código de acceso (que entre otros
+detalles indica si el archivo se leerá, grabará o ambas
+cosas). Si no hubo error, CF = 0 y AX contendrá un
+descriptor. Si hubo error, CF = 1 y AX contendrá el código de
+error.</p>
+<p class="calibre5">Función 3EH: Cierra un descriptor. Con esto se cierra el
+archivo. El descriptor debe estar en BX. Si hubo error, CF =
+1 y AX contendrá el código de error.</p>
+<p class="calibre5">Función 3FH: Lee desde un archivo. BX debe contener el
+descriptor. CX debe contener la cantidad de bytes por leer.
+DS:DX debe apuntar al lugar adonde se leerá. Si no hay error,
+CF = 0 y AX contendrá la cantidad de bytes realmente leídos.
+Si hay error, CF = 1 y AX contendrá el código de error.</p>
+<p class="calibre5">Función 40H: Graba en un archivo. BX debe contener el
+descriptor. CX debe contener la cantidad de bytes por grabar.
+DS:DX debe apuntar a la cadena de bytes por grabar. Cuando se
+completa la operación, se actualiza el apuntador al fin de
+archivo. AX contendrá la cantidad de bytes realmente grabados
+(si CF = 0). Si CF = 0 y AX = CX, no hubo error. SI CF = 0
+pero AX &lt; CX, no hubo suficiente espacio en el disco para
+completar la grabación. Si CF = 1, hubo error y AX contiene
+el código de error.</p>
+<p class="calibre5">Función 41H: Borra un archivo. Se especifica el nombre del
+archivo (no se permiten caracteres comodines * y ?) en una
+cadena ASCIIZ a la que apunta DS:DX. Si hubo error, CF = 1 y
+AX contiene el código de error.</p>
+<p class="calibre5">Función 42H: Mueve el apuntador del archivo (cambia la
+posición de comienzo de lectura o grabación). BX debe
+contener el descriptor. CX:DX debe contener un
+desplazamiento. Si AL = 00H, el desplazamiento es relativo al
+comienzo del archivo; si AL = 01H, el desplazamiento es
+relativo a la ubicación actual del apuntador; si AL = 02H, el
+desplazamiento es relativo al fin del archivo. Si no hubo
+error, CF = 0 y DX:AX contiene el apuntador relativo al
+comienzo del archivo. Si hubo error, CF = 1 y AX contiene un
+código de error. El desplazamiento puede ser negativo.
+Función 43H: Obtiene o coloca atributos de un archivo. DS:DX
+debe apuntar a una cadena ASCIIZ que especifica el archivo
+(no pueden usarse comodines). SI AL = 00H, los atributos
+quedan en CX; si AL = 01H, se ponen los atributos
+especificados en CX. Si hubo error, CF = 1 y AX contiene un
+código de error.</p>
+<p class="calibre5">Función 47H: Obtiene el directorio actual. Colocando un
+número de drive en DL y la dirección de un búfer de 64 bytes
+en DS:SI, esta función trae al búfer una cadena ASCIIZ con el
+nombre y la senda del directorio actual. Si hubo error, CF =
+1 y AX contiene un código de error. Los datos traídos no
+incluyen la letra del drive ni la barra inicial.</p>
+<p class="calibre5">Función 48H: Asigna memoria dinámicamente. BX debe contener
+el número de párrafos requeridos (grupos de 16 bytes que
+comienzan en una dirección múltiplo de 16). Luego de
+ejecutarse esta función, AX contendrá la parte de segmento de
+la dirección del bloque de memoria asignado. Si hubo error,
+CF = 1 y AX contiene un código de error.</p>
+<p class="calibre5">Función 49H: Libera un bloque de memoria. ES debe contener la
+parte de segmento de la dirección donde empieza el bloque. Si
+hubo error, CF = 1 y AX contiene un código de error.</p>
+<p class="calibre5">Función 4AH: Redimensiona un bloque de memoria asignado por
+48H. ES debe contener la parte de segmento de la dirección
+del bloque, y BX el tamaño del bloque en párrafos. Si hubo
+error, CF = 1 y AX contiene un código de error.</p>
+<p class="calibre5">Función 4CH: Termina un programa con un código de retorno. El
+código de retorno debe especificarse en AL, y es retornado
+por el DOS como ERRORLEVEL.</p>
+<p class="calibre5">Función 4EH: Busca primera entrada concordante de directorio.
+DS:DX debe apuntar a una cadena ASCIIZ que contenga la senda
+y el nombre a buscar; puede usarse * y ? en el nombre. CX
+debe contener un atributo. Si se encuentra un nombre que
+concuerde, la DTA quedará con diversos datos que no podemos
+describir acá. Si hubo error, CF = 1 y AX contiene un código
+de error.</p>
+<p class="calibre5">Función 4FH: Busca próxima entrada concordante de directorio.
+Esta función continúa la 4EH. La DTA debe contener los datos
+dejados allí por la 4EH. Si hubo error, CF = 1 y AX contiene
+un código de error.</p>
+<p class="calibre5">Función 54H: Obtiene la marca de verificación. Esta marca
+controla la verificación de discos después de la grabación.
+Luego de la función, AL = 00H indica que no hay verificación,
+y AL = 01 indica que sí la hay.</p>
+<p class="calibre5">Función 56H: Renombra un archivo. Esta función no sólo
+permite renombrar un archivo como el comando REN, sino
+también mover un archivo de un directorio a otro. Las
+especificaciones de los archivos tienen el formato ASCII; la
+especificación vieja debe ser apuntada por DS:DX y la nueva
+por ES:DI. Si hubo error, CF = 1 y AX contiene un código de
+error.</p>
+<p class="calibre5">Función 57H: Obtiene o pone fecha y hora de un archivo. Si AL
+= 00H, se obtienen los datos; si AL = 01H, se ponen. BX debe
+contener el descriptor del archivo (o sea que esta función
+sólo se aplica a archivos ya abiertos). CX y DX contienen la
+hora y la fecha, en el siguiente formato:</p>
+<blockquote class="calibre22">
+<div class="first">
+<div class="section">CX=HORA*2048+MINUTO*12+SEGUNDO/2.</div>
+<div class="section">DX=(AÑO-1980)*512+MES*32+DIA.</div>
+<div class="section">Si hubo error, CF = 1 y AX contiene un código de error.</div>
+</div>
+</blockquote>
+<p class="calibre5">Función 5AH: Crea archivo temporario. El nombre de este
+archivo es formado por el DOS en base a la hora. CX debe
+contener el atributo del archivo, y DS:DX debe apuntar a una
+cadena ASCIIZ con la senda (sin el nombre) del archivo, que
+debe terminar en y tener 13 bytes extra para ubicar el
+nombre del archivo. Si hubo error, CF = 1 y AX contiene un
+código de error. El archivo no es en realidad temporario,
+pues el programa debe borrarlo después de usarlo.</p>
+<p class="calibre5">Función 5BH: Crea un archivo nuevo. Es similar a la función
+3CH, con la diferencia de que si el archivo existe, dará un
+error.</p>
+<hr class="docutils"/>
+<p class="calibre5">Este manual aparecerá en versión completa como libro
+en soporte informático de Ediciones Axxón, agregando
+los archivos de ejemplo, correcciones y ejercicios
+en un formato listo para ser compilados y probar con
+facilidad su funcionamiento.</p>
+</div>
+</div>
+
+</div>
+
+</body>
+</html>

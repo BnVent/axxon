@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Axxón 292</dc:title>
+    <dc:language>es</dc:language>
+    <meta name="calibre:series_index" content="292"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">fe89fa99-39c1-4684-81b2-d140383b769f</dc:identifier>
+    <meta name="calibre:timestamp" content="2020-06-03T15:08:49.197000+00:00"/>
+    <dc:publisher>Ediciones Axxón</dc:publisher>
+    <dc:creator opf:file-as="Desconocido" opf:role="aut">Eduardo Carletti (editor)</dc:creator>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:series" content="Axxón"/>
+  </metadata>
+  <manifest>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="axxon292.htm" id="html" media-type="application/xhtml+xml"/>
+    <item href="c-292Pag01.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="c-292Pag02.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="c-292Pag03.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="c-292Pag04.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="c-292Pag05.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="c-292Pag06.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="c-292Pag07.htm" id="html7" media-type="application/xhtml+xml"/>
+    <item href="c-292Pag08.htm" id="html8" media-type="application/xhtml+xml"/>
+    <item href="c-292Pag09.htm" id="html9" media-type="application/xhtml+xml"/>
+    <item href="axxon.htm" id="html10" media-type="application/xhtml+xml"/>
+    <item href="axxon00.gif" id="added11" media-type="image/gif"/>
+    <item href="292cuento02ilus1ch.jpg" id="added5" media-type="image/jpeg"/>
+    <item href="292cuento04ilus1ch.jpg" id="added8" media-type="image/jpeg"/>
+    <item href="292cuento04ilus2ch.jpg" id="added7" media-type="image/jpeg"/>
+    <item href="292cuento04ilus3ch.jpg" id="added6" media-type="image/jpeg"/>
+    <item href="292cuento06ilus1ch.jpg" id="added9" media-type="image/jpeg"/>
+    <item href="292cuento08ilus1ch.jpg" id="added10" media-type="image/jpeg"/>
+    <item href="band-arg.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="band-esp.jpg" id="added4" media-type="image/jpeg"/>
+    <item href="c-292tapach.jpg" id="added12" media-type="image/jpeg"/>
+    <item href="x-epub.png" id="added13" media-type="image/png"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+    <itemref idref="html1"/>
+    <itemref idref="html2"/>
+    <itemref idref="html3"/>
+    <itemref idref="html4"/>
+    <itemref idref="html5"/>
+    <itemref idref="html6"/>
+    <itemref idref="html7"/>
+    <itemref idref="html8"/>
+    <itemref idref="html9"/>
+    <itemref idref="html10"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

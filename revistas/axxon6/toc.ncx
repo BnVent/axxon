@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="ad4934d2-c7a9-48ca-972c-cf9b0cea0eea" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.41.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 6</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u99b61a7e-066e-467e-a71b-b3a36595aa62" playOrder="1">
+      <navLabel>
+        <text>Editorial: ¡Axxón en camino!</text>
+      </navLabel>
+      <content src="c-6Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u02855c44-af2c-45db-b7f6-4dc861135892" playOrder="2">
+      <navLabel>
+        <text>Historieta: Desert Story</text>
+      </navLabel>
+      <content src="c-6Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u62b7e710-9ae8-41bf-8676-1554e733231f" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Sección especial: cuentos cortos</text>
+      </navLabel>
+      <content src="c-6Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u23502ff4-fbf9-42c2-9188-725a3b222b1e" playOrder="4">
+      <navLabel>
+        <text>Bestiario: La paradoja de las partículas “fundamentales”</text>
+      </navLabel>
+      <content src="c-6Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uc0a1e719-c768-4420-8647-0a5c8cea035f" playOrder="5">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-6Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u15be892d-fc41-448f-8b68-9bf434ec4d5d" playOrder="6">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-6Pag06.htm"/>
+    </navPoint>
+    <navPoint id="udd5eff01-b9c1-4622-82e4-7e7fa7b0280d" playOrder="7">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

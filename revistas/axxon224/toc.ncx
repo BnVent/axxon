@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="bf26afeb-e587-43d5-be8d-351bab0a451b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.29)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 224</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="44471314-b41a-43b9-8ca2-c224d2f638d1" playOrder="1">
+      <navLabel>
+        <text>Presentación - Especial Yoss - Biografía</text>
+      </navLabel>
+      <content src="c-224Pag01.htm"/>
+    </navPoint>
+    <navPoint id="f752c8ad-5430-4b6c-a244-cf23a4a60218" playOrder="2">
+      <navLabel>
+        <text>Ficciones - Cuentan los soldados…</text>
+      </navLabel>
+      <content src="c-224Pag02.htm"/>
+    </navPoint>
+    <navPoint id="48e07814-f46e-4c4d-8c08-aa34927ddb22" playOrder="3">
+      <navLabel>
+        <text>Ficciones - El guardián</text>
+      </navLabel>
+      <content src="c-224Pag03.htm"/>
+    </navPoint>
+    <navPoint id="76ee65df-16da-43b4-af8d-5a32ed517297" playOrder="4">
+      <navLabel>
+        <text>Ensayo - La raza maldita ¿o imposible?</text>
+      </navLabel>
+      <content src="c-224Pag04.htm"/>
+    </navPoint>
+    <navPoint id="06e984ec-d423-40ca-a4ed-0ce29d62dbcc" playOrder="5">
+      <navLabel>
+        <text>Ficciones - La música de las esferas</text>
+      </navLabel>
+      <content src="c-224Pag05.htm"/>
+    </navPoint>
+    <navPoint id="fb1c01f3-80ef-4b0a-9193-9ebcb934c7b8" playOrder="6">
+      <navLabel>
+        <text>Ficciones - Polizones</text>
+      </navLabel>
+      <content src="c-224Pag06.htm"/>
+    </navPoint>
+    <navPoint id="7c0c8d03-f7db-4ec2-805a-2fdbf2c7e1bd" playOrder="7">
+      <navLabel>
+        <text>Ensayo - Idiomas alienígenas: un breve paneo por la ciencia ficción de base lingüística</text>
+      </navLabel>
+      <content src="c-224Pag07.htm"/>
+    </navPoint>
+    <navPoint id="97bc98d3-8897-4640-a13e-4e0c0e95fcc0" playOrder="8">
+      <navLabel>
+        <text>Entrevista - Entrevista a Yoss</text>
+      </navLabel>
+      <content src="c-224Pag08.htm"/>
+    </navPoint>
+    <navPoint id="e63cc0a1-08df-44f0-96e5-1aed82ff9093" playOrder="9">
+      <navLabel>
+        <text>Ficciones - La voz del abismo (parte 1)</text>
+      </navLabel>
+      <content src="c-224Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ecc7bf3e-a5bc-4403-960a-7fdffd36f680" playOrder="10">
+      <navLabel>
+        <text>Ficciones - La voz del abismo (parte 2)</text>
+      </navLabel>
+      <content src="c-224Pag10.htm"/>
+    </navPoint>
+    <navPoint id="37412061-3741-4cf8-bebc-cfbe9b12e4b6" playOrder="11">
+      <navLabel>
+        <text>Ficciones - Volver a Calaforra</text>
+      </navLabel>
+      <content src="c-224Pag11.htm"/>
+    </navPoint>
+    <navPoint id="fc3f33a0-8c2d-4763-bfc4-dbf7c7de45be" playOrder="12">
+      <navLabel>
+        <text>Ficciones - Angélica (parte 1)</text>
+      </navLabel>
+      <content src="c-224Pag12.htm"/>
+    </navPoint>
+    <navPoint id="33be09f0-59d6-49ab-b201-5c357c1f3312" playOrder="13">
+      <navLabel>
+        <text>Ficciones - Angélica (parte 2)</text>
+      </navLabel>
+      <content src="c-224Pag13.htm"/>
+    </navPoint>
+    <navPoint id="339579eb-1645-42a7-ad1c-79925a4160cc" playOrder="14">
+      <navLabel>
+        <text>Ficciones - Angélica (parte 3)</text>
+      </navLabel>
+      <content src="c-224Pag14.htm"/>
+    </navPoint>
+    <navPoint id="7d1f9e8c-bd73-42c4-9979-245dfb6a99ea" playOrder="15">
+      <navLabel>
+        <text>Ficciones - Condonautas (parte 1)</text>
+      </navLabel>
+      <content src="c-224Pag15.htm"/>
+    </navPoint>
+    <navPoint id="6db1e388-3796-49c8-a2c5-8cf162d36350" playOrder="16">
+      <navLabel>
+        <text>Ficciones - Condonautas (parte 2)</text>
+      </navLabel>
+      <content src="c-224Pag16.htm"/>
+    </navPoint>
+    <navPoint id="f283a809-989e-427f-a335-3976bbeea10d" playOrder="17">
+      <navLabel>
+        <text>Ficciones - Condonautas (parte 3)</text>
+      </navLabel>
+      <content src="c-224Pag17.htm"/>
+    </navPoint>
+    <navPoint id="ed48705a-22d6-4ce6-a5c8-ace1ca0f580b" playOrder="18">
+      <navLabel>
+        <text>Ficciones - Condonautas (parte 4)</text>
+      </navLabel>
+      <content src="c-224Pag18.htm"/>
+    </navPoint>
+    <navPoint id="586bef2a-186d-44dc-9b8a-7f93c05b3b76" playOrder="19">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="f1ad5b96-7f95-4638-8656-a8ecd9b14d0f" playOrder="19">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/224/yoss.htm"/>
+    </navPoint>
+    <navPoint id="3a6fd07b-3206-4943-9cd4-7d71128a8287" playOrder="20">
+      <navLabel>
+        <text>EL PERFORMANCE DE LA MUERTE</text>
+      </navLabel>
+      <content src="/rev/110/c-110Performance.htm"/>
+    </navPoint>
+    <navPoint id="b0c38c13-2121-448e-9423-d5f5283069d3" playOrder="21">
+      <navLabel>
+        <text>110</text>
+      </navLabel>
+      <content src="/rev/110/axxon110.htm"/>
+    </navPoint>
+    <navPoint id="03231add-32dd-49a0-ad7c-0428f72be4ed" playOrder="22">
+      <navLabel>
+        <text>LAS CHIMENEAS</text>
+      </navLabel>
+      <content src="/rev/113/c-113LasChimeneas.htm"/>
+    </navPoint>
+    <navPoint id="6714b7f1-98e1-40e2-9e0d-de4d99f4e9eb" playOrder="23">
+      <navLabel>
+        <text>113</text>
+      </navLabel>
+      <content src="/rev/113/axxon113.htm"/>
+    </navPoint>
+    <navPoint id="0961d468-5964-4838-ac4b-8c8dad95f2b1" playOrder="24">
+      <navLabel>
+        <text>ESE DÍA</text>
+      </navLabel>
+      <content src="/rev/128/c-128CuentoEseDia.htm"/>
+    </navPoint>
+    <navPoint id="2a0fb2a2-b17a-415e-842d-db1670b6661f" playOrder="25">
+      <navLabel>
+        <text>128</text>
+      </navLabel>
+      <content src="/rev/128/axxon128.htm"/>
+    </navPoint>
+    <navPoint id="4faaa131-7b83-4b76-9124-241e4aa1cb1c" playOrder="26">
+      <navLabel>
+        <text>EL PRIMER VIAJE DE LA ARGONAUTA</text>
+      </navLabel>
+      <content src="/rev/132/c-132Cuento1.htm"/>
+    </navPoint>
+    <navPoint id="de51207b-468d-4059-a55e-d88212084c2c" playOrder="27">
+      <navLabel>
+        <text>132</text>
+      </navLabel>
+      <content src="/rev/132/axxon132.htm"/>
+    </navPoint>
+    <navPoint id="9c3c61c7-3aac-484d-a1ce-5c7ce4fabbc4" playOrder="28">
+      <navLabel>
+        <text>KAISHAKU</text>
+      </navLabel>
+      <content src="/rev/142/c-142Cuento2.htm"/>
+    </navPoint>
+    <navPoint id="00d1df79-d154-4332-80f4-c3b6c4007f4b" playOrder="29">
+      <navLabel>
+        <text>142</text>
+      </navLabel>
+      <content src="/rev/142/axxon142.htm"/>
+    </navPoint>
+    <navPoint id="901f1888-d565-463a-bd56-686dced6cf3f" playOrder="30">
+      <navLabel>
+        <text>LA CUMBRE DE LA RESPUESTA</text>
+      </navLabel>
+      <content src="/rev/150/c-150Cuento8.htm"/>
+    </navPoint>
+    <navPoint id="90d39735-ba72-4f5d-8c30-609a9a0807ec" playOrder="31">
+      <navLabel>
+        <text>150</text>
+      </navLabel>
+      <content src="/rev/150/axxon150.htm"/>
+    </navPoint>
+    <navPoint id="ade9a333-c07b-44a2-a664-0d9a9a051435" playOrder="32">
+      <navLabel>
+        <text>APOLVENUSINA</text>
+      </navLabel>
+      <content src="/rev/153/c-153cuento3.htm"/>
+    </navPoint>
+    <navPoint id="f174665f-e5ee-40b5-b85c-50640111fdc2" playOrder="33">
+      <navLabel>
+        <text>153</text>
+      </navLabel>
+      <content src="/rev/153/axxon153.htm"/>
+    </navPoint>
+    <navPoint id="c897115f-5ff2-4eaa-8b8f-d949b12faa97" playOrder="34">
+      <navLabel>
+        <text>AMBROTOS</text>
+      </navLabel>
+      <content src="/rev/154/c-154cuento1.htm"/>
+    </navPoint>
+    <navPoint id="ed080aeb-960d-4f35-b1ab-09b562051a60" playOrder="35">
+      <navLabel>
+        <text>154</text>
+      </navLabel>
+      <content src="/rev/154/axxon154.htm"/>
+    </navPoint>
+    <navPoint id="3058f54c-907a-4187-9a5f-2a89fc87cc62" playOrder="36">
+      <navLabel>
+        <text>LÍDER DE LA RED</text>
+      </navLabel>
+      <content src="/rev/155/c-155cuento2.htm"/>
+    </navPoint>
+    <navPoint id="61bba59a-1d47-4e06-9d13-4dc6315ee157" playOrder="37">
+      <navLabel>
+        <text>155</text>
+      </navLabel>
+      <content src="/rev/155/axxon155.htm"/>
+    </navPoint>
+    <navPoint id="8e903f44-d517-4d99-aa93-4339dcb734c4" playOrder="38">
+      <navLabel>
+        <text>EL EFECTO CIBELES</text>
+      </navLabel>
+      <content src="/rev/156/c-156cuento7.htm"/>
+    </navPoint>
+    <navPoint id="2526c975-7ce4-4fb5-90e4-8d34e84e4c67" playOrder="39">
+      <navLabel>
+        <text>156</text>
+      </navLabel>
+      <content src="/rev/156/axxon156.htm"/>
+    </navPoint>
+    <navPoint id="af58c3b1-269b-4d60-80bb-929a48dead49" playOrder="40">
+      <navLabel>
+        <text>LA PRISIÓN</text>
+      </navLabel>
+      <content src="/rev/158/c-158cuento3.htm"/>
+    </navPoint>
+    <navPoint id="da713c15-088a-40c2-98ec-1476a1a6d295" playOrder="41">
+      <navLabel>
+        <text>158</text>
+      </navLabel>
+      <content src="/rev/158/axxon158.htm"/>
+    </navPoint>
+    <navPoint id="067edd17-39c3-4669-85d1-195159a5f643" playOrder="42">
+      <navLabel>
+        <text>UNA MONEDA DE PLATA EN EL BOLSILLO DE LA NOCHE</text>
+      </navLabel>
+      <content src="/rev/160/c-160cuento5.htm"/>
+    </navPoint>
+    <navPoint id="b75e4863-8772-41d4-a181-1afaa42ad301" playOrder="43">
+      <navLabel>
+        <text>160</text>
+      </navLabel>
+      <content src="/rev/160/axxon160.htm"/>
+    </navPoint>
+    <navPoint id="d3fb8726-046c-4ca6-a072-781b857dbe0c" playOrder="44">
+      <navLabel>
+        <text>INSTRUCCIONES SECRETAS PARA LA MISIÓN ALFA: PLIEGO UNO</text>
+      </navLabel>
+      <content src="/rev/161/c-161cuento3.htm"/>
+    </navPoint>
+    <navPoint id="80139933-22de-42a3-b3a1-9139b5d8227c" playOrder="45">
+      <navLabel>
+        <text>161</text>
+      </navLabel>
+      <content src="/rev/161/axxon161.htm"/>
+    </navPoint>
+    <navPoint id="14b49140-2347-4c45-82ed-bcf39b0bb32c" playOrder="46">
+      <navLabel>
+        <text>EL CATETO PROHIBIDO</text>
+      </navLabel>
+      <content src="/rev/164/c-164cuento3.htm"/>
+    </navPoint>
+    <navPoint id="78805fb5-a832-4d35-8034-68f461ab90cb" playOrder="47">
+      <navLabel>
+        <text>164</text>
+      </navLabel>
+      <content src="/rev/164/axxon164.htm"/>
+    </navPoint>
+    <navPoint id="afd49fc5-2efd-4160-a4ed-e3fd82ded9bc" playOrder="48">
+      <navLabel>
+        <text>EN EL BANQUETE DE LA ALIANZA</text>
+      </navLabel>
+      <content src="/rev/167/c-167cuento8.htm"/>
+    </navPoint>
+    <navPoint id="59fb1c23-feeb-4852-bcac-098dff446763" playOrder="49">
+      <navLabel>
+        <text>167</text>
+      </navLabel>
+      <content src="/rev/167/axxon167.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

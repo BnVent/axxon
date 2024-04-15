@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="a71f0398-e6cc-4e77-aa66-cd97f46c9b0c" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.42.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 202</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="urawqrSe2a6ZNtQHTQP65hF" playOrder="1">
+      <navLabel>
+        <text>Editorial: Notita editorial</text>
+      </navLabel>
+      <content src="c-202Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uar7yEpavgWdkh956O3JUXA" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-202Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uN8nGSLOXQs9m5hWYWdIe8G" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Conócete a ti mismo</text>
+      </navLabel>
+      <content src="c-202Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ub7jYBSXhURUqbbeD6vvhW4" playOrder="4">
+      <navLabel>
+        <text>Sección: AxxónCINE (Moon)</text>
+      </navLabel>
+      <content src="c-202Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uJh6YYpDAE6h9mZ6ltm3FO7" playOrder="5">
+      <navLabel>
+        <text>Sección: AxxónCINE (Identidad sustituta)</text>
+      </navLabel>
+      <content src="c-202Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u2FPhtBzFh9ley4XikR6YhG" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Al acecho</text>
+      </navLabel>
+      <content src="c-202Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uk95OM3vLxQ3O8JWIkhmWY2" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Génesis</text>
+      </navLabel>
+      <content src="c-202Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ulABY3rwlOqt4mQgrqxuBd4" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Nutrición natural</text>
+      </navLabel>
+      <content src="c-202Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ue23rUdin5EhWQhlM5NKvRB" playOrder="9">
+      <navLabel>
+        <text>Ensayo: Solarística</text>
+      </navLabel>
+      <content src="c-202Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uPgtJCaxl7dplRyqSjQxnT9" playOrder="10">
+      <navLabel>
+        <text>Crónica: Del Big Bang a Watchmen: Tres días de HISPACON en Huesca (por no mencionar al pollo)</text>
+      </navLabel>
+      <content src="c-202Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uq6xLSIJpzI2PYjT239TXB2" playOrder="11">
+      <navLabel>
+        <text>Ficciones: La verdadera y muy edificante historia de los xeiniformes (o de por qué en el universo no</text>
+      </navLabel>
+      <content src="c-202Pag11.htm"/>
+    </navPoint>
+    <navPoint id="uAoSsUvygaizPJLZs2IU6W6" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Un día en el Infierno</text>
+      </navLabel>
+      <content src="c-202Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u9JeYGdnGqmVrRomNOX5uFH" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Tal vez al pasar Navidad</text>
+      </navLabel>
+      <content src="c-202Pag13.htm"/>
+    </navPoint>
+    <navPoint id="uEZuuCWzTgIJTX4YGZFUjVA" playOrder="14">
+      <navLabel>
+        <text>Ensayo: La Plata y la conexión Jules Verne</text>
+      </navLabel>
+      <content src="c-202Pag14.htm"/>
+    </navPoint>
+    <navPoint id="uFOsWZ9F5wj4jD69NUbRUoE" playOrder="15">
+      <navLabel>
+        <text>Divulgación: El debut del documental. La primera película científica de la historia</text>
+      </navLabel>
+      <content src="c-202Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u6DMxWvlBM7dN7O3LUWAPQG" playOrder="16">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (cincuenta y tres)</text>
+      </navLabel>
+      <content src="c-202Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u9Rf9Jj7tBqxirdAzLyhmuE" playOrder="17">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="8124f8aa-0268-4394-8278-6e247823497c" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.42)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 88</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u6358a115-cd4d-4583-a63d-964c80ed81c7" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-88Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u8059af44-7435-4085-8415-3e190d21c984" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 88</text>
+      </navLabel>
+      <content src="c-88Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uaa2d3701-1496-4d51-a973-b41f78ea01bd" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Las estrellas no están tan lejos</text>
+      </navLabel>
+      <content src="c-88Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ub3262c61-0b1e-467c-b6fd-c7eb76ceeb0d" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Al tiempo del retiro</text>
+      </navLabel>
+      <content src="c-88Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u374f5795-4a40-416f-9afd-bbb6883c50f4" playOrder="5">
+      <navLabel>
+        <text>Ficciones: La umita</text>
+      </navLabel>
+      <content src="c-88Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u625028f6-c25d-4fbf-bc86-3ef09522034f" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Los guerreros de Urachk</text>
+      </navLabel>
+      <content src="c-88Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u673fc9b0-74b6-4c02-9efb-9932b89b3c48" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Cyborg, se necesita</text>
+      </navLabel>
+      <content src="c-88Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u3a6bc5e4-71eb-42ff-b7d7-5a7a418de0a2" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Elefante</text>
+      </navLabel>
+      <content src="c-88Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ueaf062c6-9216-4427-9e9a-2bbde5fca4d4" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Tienda de antigüedades</text>
+      </navLabel>
+      <content src="c-88Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ucd4657b7-0d1e-42bd-8ea5-988846810aa2" playOrder="10">
+      <navLabel>
+        <text>Dossier: Dossier</text>
+      </navLabel>
+      <content src="c-88Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u65af4c94-039d-43ff-9192-67c4c6426019" playOrder="11">
+      <navLabel>
+        <text>Entrevista: Entrevista</text>
+      </navLabel>
+      <content src="c-88Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ub6396be5-b97e-4213-ab8f-e426975d9c98" playOrder="12">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual</text>
+      </navLabel>
+      <content src="c-88Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u173e32c3-71d9-428e-89c9-7dd8819be33f" playOrder="13">
+      <navLabel>
+        <text>Sección: Bits: La RAM inteligente</text>
+      </navLabel>
+      <content src="c-88Pag13.htm"/>
+    </navPoint>
+    <navPoint id="ue270db30-31fc-4acd-847f-db5e8aaafe5a" playOrder="14">
+      <navLabel>
+        <text>Sección: Tecno núcleo: Noticias Sobre El Futuro, Hoy</text>
+      </navLabel>
+      <content src="c-88Pag14.htm"/>
+    </navPoint>
+    <navPoint id="uc2ee56b4-bdf2-425a-aa2e-4cc00a4b9905" playOrder="28">
+      <navLabel>
+        <text>Sección: Tour macabro</text>
+      </navLabel>
+      <content src="c-88Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u270e8bbd-8b1d-4d3a-8773-c39b1337b592" playOrder="29">
+      <navLabel>
+        <text>Ficciones: La leyenda de Sam Chapparell</text>
+      </navLabel>
+      <content src="c-88Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u18728c6c-ecaa-4e62-ae88-f43a7ca70c76" playOrder="30">
+      <navLabel>
+        <text>Galería: Galería</text>
+      </navLabel>
+      <content src="c-88Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u966e30a3-ccb6-45f7-8ca2-9bec52849a2b" playOrder="31">
+      <navLabel>
+        <text>Poesía: Visita nocturna</text>
+      </navLabel>
+      <content src="c-88Pag18.htm"/>
+    </navPoint>
+    <navPoint id="ud300cc49-4da3-4d94-8681-24a25b628273" playOrder="32">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-88Pag19.htm"/>
+    </navPoint>
+    <navPoint id="u118a6857-6337-46a6-a76b-8b4253a24c66" playOrder="33">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-88Pag20.htm"/>
+    </navPoint>
+    <navPoint id="u02d00a94-842b-458b-8d93-a70f2c0225a9" playOrder="34">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="u9d19490c-675c-41dc-8cd9-f6d1683917b3" playOrder="15">
+      <navLabel>
+        <text>INTERNACIONAL</text>
+      </navLabel>
+      <content src="c-88Pag14.htm#internacional"/>
+    </navPoint>
+    <navPoint id="u144dca53-2d76-464e-b909-d4bd710c7dc9" playOrder="16">
+      <navLabel>
+        <text>DE VACACIONES A LA LUNA</text>
+      </navLabel>
+      <content src="c-88Pag14.htm#de-vacaciones-a-la-luna"/>
+    </navPoint>
+    <navPoint id="u4ece40ee-7dc6-46f1-af3b-f9e8a315e65a" playOrder="17">
+      <navLabel>
+        <text>NANO-FORD</text>
+      </navLabel>
+      <content src="c-88Pag14.htm#nano-ford"/>
+    </navPoint>
+    <navPoint id="ua81045d2-e0ce-4d99-8823-42f2f011e3d0" playOrder="18">
+      <navLabel>
+        <text>EL SUEÑO DE REGISTRAR TODO</text>
+      </navLabel>
+      <content src="c-88Pag14.htm#el-sueno-de-registrar-todo"/>
+    </navPoint>
+    <navPoint id="uc245b563-f173-4d5b-9e38-55aa7c5078aa" playOrder="19">
+      <navLabel>
+        <text>LA TIERRA PODRIA SER UN GRAN CEREBRO</text>
+      </navLabel>
+      <content src="c-88Pag14.htm#la-tierra-podria-ser-un-gran-cerebro"/>
+    </navPoint>
+    <navPoint id="ub3a33003-26ef-46a8-b686-9652a5c060ac" playOrder="20">
+      <navLabel>
+        <text>FÁBULAS DE INTERNET</text>
+      </navLabel>
+      <content src="c-88Pag14.htm#fabulas-de-internet"/>
+    </navPoint>
+    <navPoint id="ue9789b1b-27b2-4a02-8a11-5373cece71bb" playOrder="21">
+      <navLabel>
+        <text>MENTE-MÁQUINA</text>
+      </navLabel>
+      <content src="c-88Pag14.htm#mente-maquina"/>
+    </navPoint>
+    <navPoint id="u00b28858-7302-4aaa-a82b-a6790da4470d" playOrder="22">
+      <navLabel>
+        <text>Avances en la conexión directa cerebro-máquina</text>
+      </navLabel>
+      <content src="c-88Pag14.htm#avances-en-la-conexion-directa-cerebro-maquina"/>
+    </navPoint>
+    <navPoint id="ub273696f-fd11-439e-bfec-d81760ddf70b" playOrder="23">
+      <navLabel>
+        <text>MÁS INTERNET</text>
+      </navLabel>
+      <content src="c-88Pag14.htm#mas-internet"/>
+    </navPoint>
+    <navPoint id="u21b99d01-9bbe-41aa-bef8-ad4927deceeb" playOrder="24">
+      <navLabel>
+        <text>REALIDAD VIRTUAL</text>
+      </navLabel>
+      <content src="c-88Pag14.htm#realidad-virtual"/>
+    </navPoint>
+    <navPoint id="u2c66991e-dedb-4418-af3e-4dfdded41127" playOrder="25">
+      <navLabel>
+        <text>VUELCO DE MEMORIA</text>
+      </navLabel>
+      <content src="c-88Pag14.htm#vuelco-de-memoria"/>
+    </navPoint>
+    <navPoint id="u7283c818-969b-426a-9bf5-050f9725bef9" playOrder="26">
+      <navLabel>
+        <text>¿TELEPATIA COMERCIAL?</text>
+      </navLabel>
+      <content src="c-88Pag14.htm#telepatia-comercial"/>
+    </navPoint>
+    <navPoint id="uabfb7895-265b-4f31-9f42-2e3cd9c9d591" playOrder="27">
+      <navLabel>
+        <text>CHISPAZOS</text>
+      </navLabel>
+      <content src="c-88Pag14.htm#chispazos"/>
+    </navPoint>
+  </navMap>
+</ncx>

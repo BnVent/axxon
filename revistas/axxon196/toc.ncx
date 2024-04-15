@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="80a7e2a7-b182-4943-bb96-e8240ced2152" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.20.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 196</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u29f0e158-74ef-43b5-96f0-ae01ad68f335" playOrder="1">
+      <navLabel>
+        <text>Editorial: ¿Cómo nace una afición?</text>
+      </navLabel>
+      <content src="c-196Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u5c14af96-1191-4def-bd12-384c8cc8f2e8" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-196Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u970f680c-ecfa-47c4-9fbf-63bcccd80ee2" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Anoche-Ser</text>
+      </navLabel>
+      <content src="c-196Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ubf1651b7-d248-4e32-b81d-a039f42668d7" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El espejo</text>
+      </navLabel>
+      <content src="c-196Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ub5f32693-d9f1-4c1e-a7cd-6e1ddd51403d" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Duendes</text>
+      </navLabel>
+      <content src="c-196Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ua010db97-270b-48de-ac0a-c737fb8a7232" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Siempre estaré para ti</text>
+      </navLabel>
+      <content src="c-196Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u8fe117d0-eab3-450f-bf62-f53d3339992f" playOrder="7">
+      <navLabel>
+        <text>Ficciones: E. T. - V.</text>
+      </navLabel>
+      <content src="c-196Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u0b075c61-aa6e-430b-be57-81302a5d7f4d" playOrder="8">
+      <navLabel>
+        <text>Ensayo: Distopía fáunica</text>
+      </navLabel>
+      <content src="c-196Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u901c2701-6f7f-49c4-8e73-8873e4298d22" playOrder="9">
+      <navLabel>
+        <text>Axxóncine: Outlander</text>
+      </navLabel>
+      <content src="c-196Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ub7ee2027-343b-4784-bae2-cbd39bd319c4" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Ficción breve (47)</text>
+      </navLabel>
+      <content src="c-196Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u42cecc8a-d27c-4ff4-b488-733b9371ce6f" playOrder="11">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-196Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ueaca0ae4-df67-44b8-974f-6f8c96056ce4" playOrder="12">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

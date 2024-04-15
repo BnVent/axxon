@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="0563c288-1dde-4c9d-82da-1874d9a54d24" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.8.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 114</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u9b5ab3d1-3d88-4e49-93b9-0a7344c76add" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 114</text>
+      </navLabel>
+      <content src="c-114Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u2a21fa4d-9657-45a8-8f78-f2f49f554708" playOrder="2">
+      <navLabel>
+        <text>Ficciones: La puerta</text>
+      </navLabel>
+      <content src="c-114Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uf58e5d97-89e9-45d4-aa56-c42d344b853e" playOrder="3">
+      <navLabel>
+        <text>Ensayo: En el país de Nomeacuerdo. ¿Ovnis en la Edad Media?</text>
+      </navLabel>
+      <content src="c-114Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u7ab45c3b-91f0-4517-ad9f-1b3a0bf2229c" playOrder="4">
+      <navLabel>
+        <text>Correo: Correo 114</text>
+      </navLabel>
+      <content src="c-114Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u2c2388ed-203c-4316-8f38-3463805153bd" playOrder="5">
+      <navLabel>
+        <text>Ciencia: El Sol</text>
+      </navLabel>
+      <content src="c-114Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u7632d2c3-600a-4ecb-a7a1-88d76a51a222" playOrder="6">
+      <navLabel>
+        <text>Sección: Andernow</text>
+      </navLabel>
+      <content src="c-114Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u38695f72-f8fb-4a89-bc93-c428eb345d94" playOrder="24">
+      <navLabel>
+        <text>Ficciones: La virgen ahogada conoce al monstruo de Frankenstein</text>
+      </navLabel>
+      <content src="c-114Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ua3f073b7-6cd8-4c65-b869-9b24484a6b0e" playOrder="25">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="u0ecc299b-588e-456e-8e0b-240dc7c41127" playOrder="8">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-114solilus01.jpg"/>
+    </navPoint>
+    <navPoint id="u79e54649-4c81-426a-a958-1bfcad980877" playOrder="9">
+      <navLabel>
+        <text>Estrella</text>
+      </navLabel>
+      <content src="c-114Pag05.htm#01"/>
+    </navPoint>
+    <navPoint id="ub2d1746a-d657-4e5c-b787-787433068c37" playOrder="10">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-114soliluscomp.jpg"/>
+    </navPoint>
+    <navPoint id="u76e84fa9-bf23-4c66-aa96-22984ca32548" playOrder="11">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-114solmanchas.jpg"/>
+    </navPoint>
+    <navPoint id="uda78a94a-59a6-4839-b394-4e69c38feab9" playOrder="12">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-114solerupcion.mpg"/>
+    </navPoint>
+    <navPoint id="u7f53c498-2ee3-487a-aefa-121c0b040234" playOrder="13">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-114solaboreal1.jpg"/>
+    </navPoint>
+    <navPoint id="u995f88a8-bcc9-4f84-83cf-c5415a6fe9c9" playOrder="14">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-114solaboreal2.jpg"/>
+    </navPoint>
+    <navPoint id="u9438b78a-7efe-4502-9c81-a51a6fb769b1" playOrder="15">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-114solaboreal3.jpg"/>
+    </navPoint>
+    <navPoint id="u55c49142-5650-44aa-aeab-89cde8ea3f86" playOrder="7">
+      <navLabel>
+        <text>TEATRO DE REVISTAS</text>
+      </navLabel>
+      <content src="c-114Pag06.htm#teatro-de-revistas"/>
+    </navPoint>
+    <navPoint id="u931a7158-6d6c-410f-9c13-e613ac99f2b2" playOrder="8">
+      <navLabel>
+        <text>JUEGOMANÍA</text>
+      </navLabel>
+      <content src="c-114Pag06.htm#juegomania"/>
+    </navPoint>
+    <navPoint id="u9c05c3b5-c919-4fab-b444-de28ebc79ed2" playOrder="9">
+      <navLabel>
+        <text>Spiderman</text>
+      </navLabel>
+      <content src="c-114Pag06.htm#spiderman"/>
+    </navPoint>
+    <navPoint id="u05dd287c-13a5-4c43-8509-57c4cb00a2f1" playOrder="10">
+      <navLabel>
+        <text>COUNTER-STRIKE 1.04</text>
+      </navLabel>
+      <content src="c-114Pag06.htm#counter-strike-1-04"/>
+    </navPoint>
+    <navPoint id="u5b6453ef-27fd-4ce4-bd11-d424ae39d5f0" playOrder="11">
+      <navLabel>
+        <text>CHICADELY</text>
+      </navLabel>
+      <content src="c-114Pag06.htm#chicadely"/>
+    </navPoint>
+    <navPoint id="u125a7821-77cb-49b1-9f65-344660dbb60f" playOrder="12">
+      <navLabel>
+        <text>VAYAMOS POR PARTES, FRANKIE</text>
+      </navLabel>
+      <content src="c-114Pag06.htm#vayamos-por-partes-frankie"/>
+    </navPoint>
+    <navPoint id="udb0475d4-7af0-45f8-91d8-bb25eb5d34ff" playOrder="13">
+      <navLabel>
+        <text>LA LUNA DE HUESO</text>
+      </navLabel>
+      <content src="c-114Pag06.htm#la-luna-de-hueso"/>
+    </navPoint>
+    <navPoint id="u0a34d2bf-e26a-445e-a5fa-ed1e355774e0" playOrder="14">
+      <navLabel>
+        <text>LOS MONSTRUOS DE LAS AMÉRICAS 1</text>
+      </navLabel>
+      <content src="c-114Pag06.htm#los-monstruos-de-las-americas-1"/>
+    </navPoint>
+    <navPoint id="u5fe5c22e-9b2b-4e80-9ce3-1014403e0a46" playOrder="15">
+      <navLabel>
+        <text>BIGFOOT</text>
+      </navLabel>
+      <content src="c-114Pag06.htm#bigfoot"/>
+    </navPoint>
+    <navPoint id="uf13f2398-95e6-4a4b-ba49-f674ebe9711f" playOrder="16">
+      <navLabel>
+        <text>MOTHMAN</text>
+      </navLabel>
+      <content src="c-114Pag06.htm#mothman"/>
+    </navPoint>
+    <navPoint id="ua8e4ec7d-7290-4c94-8919-65cb73c77f66" playOrder="17">
+      <navLabel>
+        <text>BIGHEAD</text>
+      </navLabel>
+      <content src="c-114Pag06.htm#bighead"/>
+    </navPoint>
+    <navPoint id="udda21afa-9780-43c1-b68d-6632f4acf813" playOrder="18">
+      <navLabel>
+        <text>La Luna de Papel</text>
+      </navLabel>
+      <content src="c-114Pag06.htm#la-luna-de-papel"/>
+    </navPoint>
+    <navPoint id="u55d0ac00-1c41-4bf7-ba4e-ed92a50db345" playOrder="19">
+      <navLabel>
+        <text>AMO</text>
+      </navLabel>
+      <content src="c-114Pag06.htm#amo"/>
+    </navPoint>
+    <navPoint id="u741875ac-ad00-4f53-82c8-ffd70474f8a4" playOrder="20">
+      <navLabel>
+        <text>EL LABORATORIO DEL DOCTOR ELEPHANT</text>
+      </navLabel>
+      <content src="c-114Pag06.htm#el-laboratorio-del-doctor-elephant"/>
+    </navPoint>
+    <navPoint id="uac8e71a5-dfb8-4959-9231-45e68820d86f" playOrder="21">
+      <navLabel>
+        <text>LA CUARTA PARED</text>
+      </navLabel>
+      <content src="c-114Pag06.htm#la-cuarta-pared"/>
+    </navPoint>
+    <navPoint id="u23735dfb-2b53-4d21-b9a7-688adbff9a57" playOrder="22">
+      <navLabel>
+        <text>GRAN CONCURSO GRAN</text>
+      </navLabel>
+      <content src="c-114Pag06.htm#gran-concurso-gran"/>
+    </navPoint>
+    <navPoint id="uc9dba05d-4b31-4d08-8612-6bfd5c6d8b1b" playOrder="23">
+      <navLabel>
+        <text>Más Sangre para la Diosa</text>
+      </navLabel>
+      <content src="c-114Pag06.htm#mas-sangre-para-la-diosa"/>
+    </navPoint>
+    <navPoint id="ub86c241e-b094-4421-b706-3d5d2fc867a5" playOrder="33">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-114anderimagen13.jpg"/>
+    </navPoint>
+  </navMap>
+</ncx>

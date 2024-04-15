@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="cb7373e8-aeef-47ef-9d93-6e5dc56b575a" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.62)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 39</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="49c86912-bd68-4c39-b555-ccc2b412ebbf" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 39</text>
+      </navLabel>
+      <content src="c-39Pag01.htm"/>
+    </navPoint>
+    <navPoint id="671958b9-bd41-44be-974b-1c67e39cc508" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Su segura servidora</text>
+      </navLabel>
+      <content src="c-39Pag02.htm"/>
+    </navPoint>
+    <navPoint id="d4633e45-92d1-46a5-9eed-6d612489b434" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Ezequiel segun Melissa</text>
+      </navLabel>
+      <content src="c-39Pag03.htm"/>
+    </navPoint>
+    <navPoint id="87010b51-e2ab-4ee9-bb2e-4f52e45f48d2" playOrder="4">
+      <navLabel>
+        <text>Correo: Correo 39</text>
+      </navLabel>
+      <content src="c-39Pag04.htm"/>
+    </navPoint>
+    <navPoint id="23e636bc-1c2a-4b13-a57c-ee623f9aa5b1" playOrder="5">
+      <navLabel>
+        <text>Sección: Bits: La vida en el monitor</text>
+      </navLabel>
+      <content src="c-39Pag05.htm"/>
+    </navPoint>
+    <navPoint id="385e2fdb-b4d8-4371-b2bf-63b7f0d58716" playOrder="6">
+      <navLabel>
+        <text>Índice: Índice de los numeros 30 al 39 de Axxón</text>
+      </navLabel>
+      <content src="c-39Pag06.htm"/>
+    </navPoint>
+    <navPoint id="c0eba1ae-d5c5-4bb7-90f1-dde019d2785a" playOrder="7">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-39Pag07.htm"/>
+    </navPoint>
+    <navPoint id="f20b7aaf-1147-4545-91e2-139c369dfd41" playOrder="8">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

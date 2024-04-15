@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="07b4beb7-bd8c-4102-970c-59b15f855e2f" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.68)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 46</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="d3066ee3-2f37-42a8-ae71-3bdc05242909" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 46</text>
+      </navLabel>
+      <content src="c-46Pag01.htm"/>
+    </navPoint>
+    <navPoint id="f5df7f5d-a608-4b54-86ca-137aa37375a8" playOrder="2">
+      <navLabel>
+        <text>Ficciones: El silbido del viento en la ventana</text>
+      </navLabel>
+      <content src="c-46Pag02.htm"/>
+    </navPoint>
+    <navPoint id="58e43f97-8725-4746-99d8-cfc58805565e" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El decimocuarto día</text>
+      </navLabel>
+      <content src="c-46Pag03.htm"/>
+    </navPoint>
+    <navPoint id="20c826d9-dc3e-45ce-9dfa-d6347debdc18" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Destino del universo…</text>
+      </navLabel>
+      <content src="c-46Pag04.htm"/>
+    </navPoint>
+    <navPoint id="e9be7adc-1bac-4e74-b907-06dd11f56852" playOrder="5">
+      <navLabel>
+        <text>Ficciones: En el comienzo</text>
+      </navLabel>
+      <content src="c-46Pag05.htm"/>
+    </navPoint>
+    <navPoint id="d52921b2-0485-449f-94a7-b440cd121ff4" playOrder="6">
+      <navLabel>
+        <text>Correo: Correo 46</text>
+      </navLabel>
+      <content src="c-46Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ec649267-47f4-4456-8fa6-d6025281aa9b" playOrder="7">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-46Pag07.htm"/>
+    </navPoint>
+    <navPoint id="459408d8-d22a-45db-93a0-046fbff5b4d7" playOrder="8">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-46Pag08.htm"/>
+    </navPoint>
+    <navPoint id="81a08ef2-1455-45b4-9548-63eb3506c9be" playOrder="9">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

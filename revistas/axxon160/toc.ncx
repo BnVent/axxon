@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="6eebda53-24cf-4cb1-b07f-1c6396b7f131" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.38.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 160</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u48f422a1-a7a2-4c63-878d-b1eceff52cc7" playOrder="1">
+      <navLabel>
+        <text>Editorial: El poder del divague</text>
+      </navLabel>
+      <content src="c-160Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u235a9f38-cec9-4942-a41b-f10219e32cf9" playOrder="2">
+      <navLabel>
+        <text>Correo: Correo 160</text>
+      </navLabel>
+      <content src="c-160Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u0dc50ea4-2a56-42b5-b459-49b259798bf1" playOrder="3">
+      <navLabel>
+        <text>Divulgación: La segunda expedición de Byrd</text>
+      </navLabel>
+      <content src="c-160Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u0a1f16e6-f4de-400c-836d-46d5d0708258" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El negro</text>
+      </navLabel>
+      <content src="c-160Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u7a646a1f-bd13-4814-bc29-a41488275bbc" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Viejo Barrio</text>
+      </navLabel>
+      <content src="c-160Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u68601593-abf2-4c27-b0c5-4fff4e9611a9" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Un planeta camino a Aldahir</text>
+      </navLabel>
+      <content src="c-160Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u2cde6e20-ab3c-4e6f-9ba9-b68190052ae8" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Empalme en la cinta de Moebius</text>
+      </navLabel>
+      <content src="c-160Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ua8bf43f8-c65b-4b1b-94b8-288c4269557d" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Una moneda de plata en el bolsillo de la noche</text>
+      </navLabel>
+      <content src="c-160Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u005f0908-9cfb-4961-9f15-8317c7d55564" playOrder="9">
+      <navLabel>
+        <text>Ensayo: Octavia Butler, un encuentro</text>
+      </navLabel>
+      <content src="c-160Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ud419d9cf-cc7f-4a45-8701-d8ef805c90a3" playOrder="10">
+      <navLabel>
+        <text>Ensayo: El carácter político de la Ciencia Ficción uruguaya</text>
+      </navLabel>
+      <content src="c-160Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u9b012513-9266-4876-92d4-9aca4fd56bf7" playOrder="11">
+      <navLabel>
+        <text>Sección: Batiburrillo de ciencia y cultura</text>
+      </navLabel>
+      <content src="c-160Pag11.htm"/>
+    </navPoint>
+    <navPoint id="uaf8e5e5c-1697-45ee-a89b-48bae60d8c4c" playOrder="12">
+      <navLabel>
+        <text>Batiburrillo: Me la sé lunga</text>
+      </navLabel>
+      <content src="c-160Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u0719ce92-6814-46fc-9ff4-0798b1995c84" playOrder="13">
+      <navLabel>
+        <text>Batiburrillo: Biblio-rata: Hewlett Packard y el Ministerio de Sanación y Fe</text>
+      </navLabel>
+      <content src="c-160Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u288583e7-17c6-4748-bd01-1bc4e790675a" playOrder="14">
+      <navLabel>
+        <text>Batiburrillo: Figuritas: Especies en peligro: Cerdo Arborícola de Guzmania (recurso de amparo)</text>
+      </navLabel>
+      <content src="c-160Pag14.htm"/>
+    </navPoint>
+    <navPoint id="ub4e7e414-d188-458a-a458-a11878e3c811" playOrder="15">
+      <navLabel>
+        <text>Ficciones: Ficción breve (veintitrés)</text>
+      </navLabel>
+      <content src="c-160Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u5b7c0d67-95ea-40ba-b05e-53ff9a2de5c1" playOrder="16">
+      <navLabel>
+        <text>Ficciones: Motorhome</text>
+      </navLabel>
+      <content src="c-160Pag16.htm"/>
+    </navPoint>
+    <navPoint id="ufc1229c9-0ea1-4b1d-9b45-db6b7e587ddd" playOrder="17">
+      <navLabel>
+        <text>Ficciones: El viajero</text>
+      </navLabel>
+      <content src="c-160Pag17.htm"/>
+    </navPoint>
+    <navPoint id="uac5fac9d-6bad-4c2f-97c7-c0ffaa630f60" playOrder="18">
+      <navLabel>
+        <text>Ficciones: El umbral</text>
+      </navLabel>
+      <content src="c-160Pag18.htm"/>
+    </navPoint>
+    <navPoint id="ub66743fd-00bb-42e1-8b3a-738c21539e21" playOrder="19">
+      <navLabel>
+        <text>Ficciones: Procónsul</text>
+      </navLabel>
+      <content src="c-160Pag19.htm"/>
+    </navPoint>
+    <navPoint id="u6988bdcc-20c8-4578-b5d0-84df95494c48" playOrder="20">
+      <navLabel>
+        <text>Ficciones: Turismo de guerra</text>
+      </navLabel>
+      <content src="c-160Pag20.htm"/>
+    </navPoint>
+    <navPoint id="u535dc3c5-e47e-45a9-bff8-aac55ea2d541" playOrder="21">
+      <navLabel>
+        <text>Ficciones: No regrets</text>
+      </navLabel>
+      <content src="c-160Pag21.htm"/>
+    </navPoint>
+    <navPoint id="u7aef431d-e667-410d-bbba-a6e7d676777c" playOrder="22">
+      <navLabel>
+        <text>Ficciones: Zip</text>
+      </navLabel>
+      <content src="c-160Pag22.htm"/>
+    </navPoint>
+    <navPoint id="ufc82285f-91d5-4229-8050-106a3eb7ca35" playOrder="23">
+      <navLabel>
+        <text>Ficciones: Mis vecinas</text>
+      </navLabel>
+      <content src="c-160Pag23.htm"/>
+    </navPoint>
+    <navPoint id="u2a2ec85e-8af8-437b-9a8c-23b8f7df615e" playOrder="24">
+      <navLabel>
+        <text>Ficciones: Ficción breve (veinticuatro)</text>
+      </navLabel>
+      <content src="c-160Pag24.htm"/>
+    </navPoint>
+    <navPoint id="u26507706-7fc0-4489-ac83-068652d4838e" playOrder="25">
+      <navLabel>
+        <text>Ficciones: Quiramir</text>
+      </navLabel>
+      <content src="c-160Pag25.htm"/>
+    </navPoint>
+    <navPoint id="u726815ab-c552-4121-8e73-7e2569a6126b" playOrder="26">
+      <navLabel>
+        <text>Ficciones: Gabriel García Márquez había muerto</text>
+      </navLabel>
+      <content src="c-160Pag26.htm"/>
+    </navPoint>
+    <navPoint id="ud1a41ff9-01e1-4565-9459-c5e246e07943" playOrder="27">
+      <navLabel>
+        <text>Ficciones: Crónica de la masacre</text>
+      </navLabel>
+      <content src="c-160Pag27.htm"/>
+    </navPoint>
+    <navPoint id="uf2a3bffd-5bb7-4085-a662-d3a4fd91a088" playOrder="28">
+      <navLabel>
+        <text>Ficciones: Máxima adaptabilidad</text>
+      </navLabel>
+      <content src="c-160Pag28.htm"/>
+    </navPoint>
+    <navPoint id="ucda6be98-9f96-4313-972c-80fa9ac62a84" playOrder="29">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

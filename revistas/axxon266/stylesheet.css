@@ -1,0 +1,461 @@
+.aligncenter {
+    height: auto;
+    width: 640px
+    }
+.alignleft {
+    height: 10px;
+    width: 30px
+    }
+.alignleft1 {
+    height: 14px;
+    width: 30px
+    }
+.articulo {
+    display: block;
+    font-family: Verdana, Arial, Sans Serif;
+    line-height: 130%;
+    text-align: justify
+    }
+.autor {
+    display: block;
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 3em;
+    margin: 0;
+    padding: 2px
+    }
+.autor1 {
+    display: block;
+    text-align: justify;
+    text-indent: 0;
+    margin: 5px 0 0;
+    padding: 0
+    }
+.biografia {
+    background: white;
+    background-color: white;
+    color: #a00000;
+    display: block;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 0.83333em;
+    font-weight: bold;
+    text-align: justify;
+    width: 99%;
+    margin: 0;
+    border: #e0e0e0 dotted thin;
+    padding: 0
+    }
+.biografia1 {
+    background: white;
+    background-color: white;
+    color: #a00000;
+    display: block;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: justify;
+    width: 99%;
+    margin: 0;
+    border: #e0e0e0 dotted thin;
+    padding: 0
+    }
+.bl {
+    color: #fff;
+    display: block;
+    font-size: 0.625em;
+    line-height: 1.2;
+    margin: 5px 0 0;
+    padding: 0
+    }
+.bl1 {
+    color: #fff;
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0;
+    padding: 2px
+    }
+.bl2 {
+    color: #fff;
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 3em;
+    margin: 0;
+    padding: 2px
+    }
+.cajatitulo {
+    background-color: white;
+    display: block;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-top: 0.3em;
+    text-indent: 0;
+    margin: 0 0 1em;
+    border: #e0e0e0 dotted thin
+    }
+.calibre {
+    background: white;
+    display: block;
+    font-size: 1em;
+    width: 99%;
+    margin: 0 5pt;
+    padding: 0
+    }
+.calibre1 {
+    background: white;
+    display: block;
+    width: 99%;
+    margin: 0;
+    padding: 0
+    }
+.calibre2 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre3 {
+    display: list-item
+    }
+.calibre4 {
+    font-weight: bold
+    }
+.calibre5 {
+    display: block;
+    margin: 5px 0 0;
+    padding: 0
+    }
+.calibre6 {
+    color: gray;
+    display: block;
+    height: 2px;
+    margin: 0.5em auto;
+    border: currentColor inset 1px
+    }
+.calibre7 {
+    background: white;
+    color: black;
+    display: block;
+    font-size: 1em;
+    width: 99%;
+    margin: 0 5pt;
+    padding: 0
+    }
+.calibre8 {
+    background: white;
+    display: block;
+    width: 99%;
+    margin: 0;
+    border: rgb(128, 192, 192) solid 1px;
+    padding: 0
+    }
+.calibre9 {
+    background-color: white;
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    height: 14px;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.calibre10 {
+    display: table-row-group;
+    vertical-align: middle
+    }
+.calibre11 {
+    display: table-row;
+    vertical-align: inherit
+    }
+.calibre12 {
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: inherit;
+    padding: 1px
+    }
+.calibre13 {
+    font-family: Verdana;
+    font-size: 0.83333em
+    }
+.calibre14 {
+    height: auto;
+    width: 240px
+    }
+.calibre15 {
+    font-style: italic
+    }
+.calibre16 {
+    color: #00f;
+    display: block;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0.67em 0
+    }
+.calibre17 {
+    color: #800080;
+    display: block;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0.83em 0
+    }
+.calibre18 {
+    display: block;
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0;
+    padding: 2px
+    }
+.calibre19 {
+    text-decoration: none
+    }
+.calibre20 {
+    height: auto;
+    width: 200px
+    }
+.calibre21 {
+    color: lightred
+    }
+.calibre22 {
+    color: black
+    }
+.calibre23 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.67em 0
+    }
+.calibre24 {
+    display: block;
+    text-align: center
+    }
+.calibre25 {
+    float: none;
+    height: auto;
+    width: 680px
+    }
+.calibre26 {
+    font-size: 0.83333em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre27 {
+    height: auto;
+    width: 300px
+    }
+.calibre28 {
+    font-size: 0.83333em
+    }
+.calibre29 {
+    display: block;
+    font-size: 1em;
+    text-align: right;
+    text-indent: 3em;
+    margin: 0;
+    padding: 2px
+    }
+.calibre30 {
+    display: block;
+    font-size: 1em;
+    text-align: right;
+    text-indent: 0;
+    margin: 0;
+    padding: 2px
+    }
+.calibre31 {
+    height: auto;
+    width: auto
+    }
+.calibre32 {
+    display: block;
+    margin: 1em 0
+    }
+.calibre33 {
+    display: block;
+    list-style-type: circle;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0
+    }
+.caratula {
+    display: block;
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    padding: 0
+    }
+.cartel {
+    background: inherited;
+    display: block;
+    height: inherited;
+    margin-left: inherited;
+    margin-right: inherited;
+    width: inherited
+    }
+.centrado {
+    display: block;
+    font-size: 1em;
+    text-align: center;
+    text-indent: 0;
+    margin: 0;
+    padding: 2px
+    }
+.colofon {
+    background: white;
+    display: block;
+    text-align: right;
+    text-indent: 0;
+    width: 99%;
+    margin: 0;
+    padding: 0
+    }
+.cuento {
+    display: block;
+    font-family: "Times New Roman", "Times Roman", serif;
+    line-height: 130%;
+    text-indent: 2em;
+    padding: 0
+    }
+.editorial {
+    display: block;
+    line-height: 120%;
+    text-indent: 0
+    }
+.indiceautor {
+    display: block;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.83em 0
+    }
+.indicetitulo {
+    color: #406070;
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0.67em 0 0.67em auto
+    }
+.pri {
+    display: block;
+    text-indent: 0;
+    margin: 2em 0 0;
+    padding: 0
+    }
+.pri1 {
+    display: block;
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 0;
+    margin: 3em 0 0;
+    padding: 0
+    }
+.pri2 {
+    display: block;
+    padding-top: 0.3em
+    }
+.resize {
+    display: block
+    }
+.titulo-edit {
+    color: #007080;
+    display: block;
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0.67em 0
+    }
+.traductor {
+    display: block;
+    font-size: 0.83333em;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0;
+    padding: 2px
+    }
+.tumbnail {
+    background-color: transparent;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-top-style: none;
+    border-top-width: medium;
+    display: block;
+    float: right;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 0.625em;
+    margin-left: 15px;
+    text-align: center;
+    text-indent: 0;
+    width: 210px;
+    padding: 0
+    }
+.tumbnail1 {
+    background-color: transparent;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-top-style: none;
+    border-top-width: medium;
+    display: block;
+    float: right;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 0.625em;
+    margin-left: 15px;
+    text-align: center;
+    text-indent: 0;
+    width: 210px;
+    padding: 0.3em 0 0
+    }
+.tumbnail2 {
+    background-color: transparent;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-top-style: none;
+    border-top-width: medium;
+    display: block;
+    float: right;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 0.625em;
+    margin-left: 15px;
+    text-align: center;
+    text-indent: 0;
+    width: 310px;
+    padding: 0
+    }
+.vinculo {
+    color: #333;
+    display: block;
+    font-size: 1em;
+    font-weight: 500;
+    line-height: 1.2;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 3em;
+    margin: 0;
+    padding: 2px
+    }
+.pcalibre1:first-letter {
+    font-size: 120%;
+    font-style: italic;
+    font-weight: bold
+    }
+.pcalibre:first-letter {
+    font-size: 120%;
+    font-weight: bold
+    }

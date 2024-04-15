@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="dc0d1326-8908-4b50-a3e0-835525bb6718" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.9.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 115</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u5993cde9-110f-44bc-8a14-57e6eca69038" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 115</text>
+      </navLabel>
+      <content src="c-115Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ub90c57a0-4737-45e3-af88-db8be8b84372" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Música en las venas</text>
+      </navLabel>
+      <content src="c-115Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uebad885c-b08d-4b25-a16c-091488a2d148" playOrder="3">
+      <navLabel>
+        <text>Ensayo: ¿Hay alguien ahí?</text>
+      </navLabel>
+      <content src="c-115Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u83182298-c067-47da-8e01-c5580a3f14f6" playOrder="4">
+      <navLabel>
+        <text>Correo: Correo 115</text>
+      </navLabel>
+      <content src="c-115Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uf80d8ab1-f6d1-4351-85fa-ee5bb4290026" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Disfrutar de esa manera</text>
+      </navLabel>
+      <content src="c-115Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u7b0ade2a-9e6f-4163-9f11-472d6806a331" playOrder="6">
+      <navLabel>
+        <text>Sección: Andernow</text>
+      </navLabel>
+      <content src="c-115Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uf1b68a47-631d-40bf-a7af-7cad57fe6093" playOrder="23">
+      <navLabel>
+        <text>Ficciones: Status Quo</text>
+      </navLabel>
+      <content src="c-115Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u5bf55734-674c-4db6-8168-e96bc71ff981" playOrder="24">
+      <navLabel>
+        <text>Galería: Galería</text>
+      </navLabel>
+      <content src="c-115Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uacc07372-a6b7-48e8-be87-4f67f4eaace2" playOrder="25">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="uba3efc32-4f28-4759-82c1-4d3eddc07470" playOrder="7">
+      <navLabel>
+        <text>TEATRO DE REVISTAS</text>
+      </navLabel>
+      <content src="c-115Pag06.htm#teatro-de-revistas"/>
+    </navPoint>
+    <navPoint id="u18a2a477-84c7-41f8-9bb3-32e5701f898e" playOrder="8">
+      <navLabel>
+        <text>CREEPSHOW</text>
+      </navLabel>
+      <content src="c-115Pag06.htm#creepshow"/>
+    </navPoint>
+    <navPoint id="u88917407-2226-4dc7-8769-a01ccb22c92e" playOrder="9">
+      <navLabel>
+        <text>JUEGOMANÍA</text>
+      </navLabel>
+      <content src="c-115Pag06.htm#juegomania"/>
+    </navPoint>
+    <navPoint id="u53a7589d-2541-4f1a-9b90-f2b28d9e3a7d" playOrder="10">
+      <navLabel>
+        <text>LARA CROFT (Mi amor ha vuelto): The Angel of Darkness</text>
+      </navLabel>
+      <content src="c-115Pag06.htm#lara-croft-mi-amor-ha-vuelto-the-angel-of-darkness"/>
+    </navPoint>
+    <navPoint id="ua71e386e-6fa5-4912-b4db-af2eb3b77176" playOrder="11">
+      <navLabel>
+        <text>THE DARK ANGEL</text>
+      </navLabel>
+      <content src="c-115Pag06.htm#the-dark-angel"/>
+    </navPoint>
+    <navPoint id="u220e1136-5f8d-422f-9d35-e515080b88b5" playOrder="12">
+      <navLabel>
+        <text>VAYAMOS POR PARTES, FRANKIE</text>
+      </navLabel>
+      <content src="c-115Pag06.htm#vayamos-por-partes-frankie"/>
+    </navPoint>
+    <navPoint id="ua129de5a-4a61-4004-975c-82bd68a8d1d1" playOrder="13">
+      <navLabel>
+        <text>La Pared Delgada</text>
+      </navLabel>
+      <content src="c-115Pag06.htm#la-pared-delgada"/>
+    </navPoint>
+    <navPoint id="ue5d1ba25-d9d2-4dad-9c2f-5bbb326f2af9" playOrder="14">
+      <navLabel>
+        <text>LA LUNA DE HUESO</text>
+      </navLabel>
+      <content src="c-115Pag06.htm#la-luna-de-hueso"/>
+    </navPoint>
+    <navPoint id="uf0ea4d81-5a48-4ffc-82ff-3ec1ec2033db" playOrder="15">
+      <navLabel>
+        <text>LAS SIRENAS</text>
+      </navLabel>
+      <content src="c-115Pag06.htm#las-sirenas"/>
+    </navPoint>
+    <navPoint id="u1dd82a11-298c-4963-bfe7-725c7a0d7f32" playOrder="16">
+      <navLabel>
+        <text>La Luna de Miel</text>
+      </navLabel>
+      <content src="c-115Pag06.htm#la-luna-de-miel"/>
+    </navPoint>
+    <navPoint id="uba911fe4-417e-4fd0-94bf-f8d23901b2fd" playOrder="17">
+      <navLabel>
+        <text>EL LABORATORIO DEL DOCTOR ELEPHANT</text>
+      </navLabel>
+      <content src="c-115Pag06.htm#el-laboratorio-del-doctor-elephant"/>
+    </navPoint>
+    <navPoint id="u2183ccb0-881a-498c-9362-e906140615cf" playOrder="18">
+      <navLabel>
+        <text>GRAN CONCURSO GRAN - Especial MURGA</text>
+      </navLabel>
+      <content src="c-115Pag06.htm#gran-concurso-gran-especial-murga"/>
+    </navPoint>
+    <navPoint id="u75a55952-93e1-49ad-98fb-6b443f29a62e" playOrder="19">
+      <navLabel>
+        <text>Sin título 2</text>
+      </navLabel>
+      <content src="c-115Pag06.htm#sin-titulo-2"/>
+    </navPoint>
+    <navPoint id="ub406194d-0651-44a4-af96-eed9a12973c2" playOrder="20">
+      <navLabel>
+        <text>Pasos</text>
+      </navLabel>
+      <content src="c-115Pag06.htm#pasos"/>
+    </navPoint>
+    <navPoint id="u9f64a39f-467a-4d84-bc2e-1055f5ab3250" playOrder="21">
+      <navLabel>
+        <text>La matraca y el microscopio</text>
+      </navLabel>
+      <content src="c-115Pag06.htm#la-matraca-y-el-microscopio"/>
+    </navPoint>
+    <navPoint id="ub7f4fb03-07c2-4a80-b0d9-4850b9e6e15d" playOrder="22">
+      <navLabel>
+        <text>(Sin título)</text>
+      </navLabel>
+      <content src="c-115Pag06.htm#sin-titulo"/>
+    </navPoint>
+    <navPoint id="u48e1ac45-76b9-46b9-8b89-cfa0d1682e1e" playOrder="25">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-115gal01.htm"/>
+    </navPoint>
+    <navPoint id="ue14625b0-466d-41e1-a193-ed14cec8c52b" playOrder="26">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-115gal02.htm"/>
+    </navPoint>
+    <navPoint id="ube23f084-af41-4073-9017-b80a60285027" playOrder="27">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-115gal04.htm"/>
+    </navPoint>
+    <navPoint id="u1cc9fadc-f29c-4080-acd8-20a6f3015d5a" playOrder="28">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-115gal03.htm"/>
+    </navPoint>
+    <navPoint id="u0afc84d0-73a1-413d-8931-64af0ce29714" playOrder="29">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-115gal05.htm"/>
+    </navPoint>
+    <navPoint id="u755bdc65-9034-4384-a1e8-16cc84392433" playOrder="30">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-115gal06.htm"/>
+    </navPoint>
+    <navPoint id="ud8a00bd5-9774-42bb-a4be-05cf039b6b89" playOrder="31">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-115gal08.htm"/>
+    </navPoint>
+    <navPoint id="uc1e9f428-0c75-4558-9dd2-d0e4ba45d021" playOrder="32">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-115gal10.htm"/>
+    </navPoint>
+    <navPoint id="u7aefb572-dd38-4d8b-850c-d0875b569337" playOrder="33">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-115gal09.htm"/>
+    </navPoint>
+    <navPoint id="u00dc4d1c-3549-413d-8375-ce5a31ed9989" playOrder="34">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="c-115gal07.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

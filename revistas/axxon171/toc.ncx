@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="41352edd-cd97-4411-bafa-cbf4ac80c667" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 171</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u8d9531e7-d72c-4bbf-8b99-2b231f2a05b5" playOrder="1">
+      <navLabel>
+        <text>Editorial: La lucha y los logros</text>
+      </navLabel>
+      <content src="c-171Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u2f3fda1c-0b6f-43c3-8c78-035d0c8b7da5" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-171Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u5aaeba6b-d56b-4722-ae9a-898fd3d846d4" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Chocolate Heist</text>
+      </navLabel>
+      <content src="c-171Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u32b9239e-8368-4c8f-b05c-f1034101354a" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Nunca beses a un extraño</text>
+      </navLabel>
+      <content src="c-171Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uc952984f-834b-47fb-8c85-c4aa2ab49c61" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Con un pie en la trampa</text>
+      </navLabel>
+      <content src="c-171Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u66b8aae8-55cd-4457-b518-06d580570f8b" playOrder="6">
+      <navLabel>
+        <text>Entrevista: El precio justo de Yoss</text>
+      </navLabel>
+      <content src="c-171Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uf146b9d7-d4ae-4eed-b64e-aa7636412ea5" playOrder="7">
+      <navLabel>
+        <text>Ficciones: El monstruo y la damisela de Chrysale</text>
+      </navLabel>
+      <content src="c-171Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ua9474da6-eca8-4106-abc0-159783055dfd" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Lobos errantes</text>
+      </navLabel>
+      <content src="c-171Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uc9aa6fef-4146-4b13-995f-bed3c887e609" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Gabardinas en agosto</text>
+      </navLabel>
+      <content src="c-171Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u9a49846d-601e-4a51-8b12-7048382d1b98" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Naturaleza humana</text>
+      </navLabel>
+      <content src="c-171Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u260ca6e7-eed1-4f5c-9b1c-7186b8e3109d" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Parálisis</text>
+      </navLabel>
+      <content src="c-171Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u40007cf8-ac77-492f-82dc-9cfa8f4fd5e6" playOrder="12">
+      <navLabel>
+        <text>Ficciones: La seguridad del esclavo</text>
+      </navLabel>
+      <content src="c-171Pag12.htm"/>
+    </navPoint>
+    <navPoint id="uc686a4ff-5627-453c-a330-54a1fd90b354" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Todo-Yo ™</text>
+      </navLabel>
+      <content src="c-171Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u22e824da-36ff-422e-ae5e-1b973109b339" playOrder="14">
+      <navLabel>
+        <text>Divulgación: Chicxulub</text>
+      </navLabel>
+      <content src="c-171Pag14.htm"/>
+    </navPoint>
+    <navPoint id="uc1fbb324-344a-43d1-a54b-2e29c00ce073" playOrder="15">
+      <navLabel>
+        <text>Ensayo: Ciencia-ficción italiana: el estado del arte</text>
+      </navLabel>
+      <content src="c-171Pag15.htm"/>
+    </navPoint>
+    <navPoint id="ud592f2ac-f420-4bed-9f6b-687d0df96f05" playOrder="16">
+      <navLabel>
+        <text>Entrevista: Una conversación con Nancy Jane Moore</text>
+      </navLabel>
+      <content src="c-171Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u8bfeb223-8399-4030-a565-b10e380a8b6e" playOrder="17">
+      <navLabel>
+        <text>Ensayo: La críptica Ciencia Ficción</text>
+      </navLabel>
+      <content src="c-171Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u582f3462-d3e0-4547-84e6-f3ec04ac1884" playOrder="18">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (32)</text>
+      </navLabel>
+      <content src="c-171Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u94eaa4fd-5635-4aec-9fa5-6bdf89c802b5" playOrder="19">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-171Pag19.htm"/>
+    </navPoint>
+    <navPoint id="u8d04fae1-ceef-4560-acfc-6a399a9be2b1" playOrder="20">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

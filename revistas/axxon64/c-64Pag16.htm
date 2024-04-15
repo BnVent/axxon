@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <title>Axxón 64 - SECCIÓN: - Informática</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link href="stylesheet.css" type="text/css" rel="stylesheet"/>
+<link href="page_styles.css" type="text/css" rel="stylesheet"/>
+</head>
+  <body class="calibre">
+
+<div id="main" class="calibre1">
+<h1 class="calibre7">Informática</h1>
+<p class="calibre5"><b class="calibre4">Eduardo J. Carletti</b></p><p class="calibre5"></p>
+<div class="document">
+<!-- # :maxLineLen=120:folding=explicit:mode=rest:wrap=soft:collapseFolds=1:encoding=windows-1252: -->
+<p class="resumen1">Veamos esta vez la descripción de una
+nueva tecnología antes de tenerla
+sobre el mostrador de los proveedores.
+El concepto VLIW puede ser la solución
+que permita a las PC seguir creciendo
+como nos tienen acostumbrados.</p>
+<div class="line" id="el-concepto-vliw-mas-alla-del-risc">
+<h2 class="indiceautor">El concepto VLIW: más alla del RISC</h2>
+<p class="calibre5"><strong class="calibre4">Steve G. Steinberg</strong></p>
+<p class="pri">Ya se observan signos de que la próxima
+generación de microprocesadores será
+radicalmente diferente de los actuales
+procesadores RISC (Reduced Instruction Set
+Computers = Computadoras con Conjunto
+Reducido de Intrucciones). [Ver nota en Axxón
+61]. Los nuevos procesadores, casi seguro,
+estarán basados en otra sigla de cuatro
+letras: VLIW (Very Large Instruction Word),
+sigla del inglés que en castellano se traduce
+como Procesadores de Palabra de Instrucción
+Muy Grande.</p>
+<p class="calibre5">El concepto ha estado dando vueltas desde
+los primeros años de la década del ochenta, y
+fue considerado por varias compañías. Ahora
+Joseph Fisher y Bob Rau, dos estrellas del
+concepto VLIW, trabajan en su desarrollo para
+una <em class="calibre9">joint venture</em> entre Hewlett-Packard e
+Intel, y se dice que también Digital e IBM
+estarían en carrera tras esta nueva
+tecnología.</p>
+<p class="calibre5">La performance actual de los procesadores
+se basa en la ecuación fundamental de la
+arquitectura de las computadoras: el tiempo
+requerido para correr un programa es igual al
+número de intrucciones que contiene
+multiplicado por el número promedio de ciclos
+de reloj requeridos para cada instrucción y
+por la duración de un período de reloj. (Un
+período de reloj es como el latido de corazón
+de un microprocesador: cada pulso dispara un
+paso de computación). En este caso, todas las
+mejoras de performance se logran reduciendo
+uno o más de esos factores.</p>
+<p class="calibre5">En el caso de los procesadores CISC
+(Complex Instruction Set Computer =
+Computadora con Conjunto Complejo de
+Instrucciones), la idea era reducir el primer
+factor —el número de instrucciones-haciendo que instrucciones únicas realicen
+tareas complejas. El problema es que se
+aumentaban los otros dos factores. Esto llevó
+a la solución implementada en los RISC [para
+mayores detalles ver nota sobre RISC (y CISC)
+en Axxón-61], procesadores con instrucciones
+simples y un reloj más rápido que compensa el
+aumento del número de instrucciones de un
+programa. Esta solución trabaja bien, pero
+tiene un límite. La velocidad de los chips
+nunca aumenta más que un 25 por ciento cada
+año. Para lograr una performance mayor se
+debe incrementar la cantidad de transistores
+que se pueden incluir dentro de un chip.</p>
+<p class="calibre5">La primera respuesta surgió a fines de los
+80: los procesadores RISC superescalares. Un
+microprocesador es como una fábrica provista
+de alrededor de una docena de secciones, en
+cada una de las cuales se cumple una tarea
+única (por ejemplo, una sección de éstas
+maneja todas las sumas). Si un procesador
+tiene dos copias de una de las secciones,
+puede trabajar en dos intrucciones al mismo
+tiempo. Esta solución tiene un aspecto
+seductor: uno duplica el número de secciones
+y obtiene el doble de performance.</p>
+<p class="calibre5">Pero no es tan fácil. Una instrucción que
+suma dos números puede preceder a otra que
+necesite usar el resultado de dicha suma. La
+segunda instrucción no se puede ejecutar
+hasta que se haya completado la ejecución de
+la primera. Los procesadores superescalares
+deben detectar estas dependencias y
+asegurarse de que sólo se ejecuten
+simultáneamente aquellas intrucciones que son
+independientes. Y esto trae como resultado el
+problema clave que enfrentan los diseñadores:
+cuantas más instrucciones se pretenden
+ejecutar en forma simultánea, más
+dependencias se deberán comprobar en cada
+ciclo. Los diseñadores se encuentran con que
+deben elegir entre diferentes formas de
+implementar el concepto, tales como la de la
+empresa Digital, cuyo procesador AXP21064a
+corre a 275 MHz pero puede ejecutar sólo dos
+instrucciones a la vez, o la de IBM, cuyo
+POWER2 corre a 71.5 MHz pero puede ejecutar
+hasta seis instrucciones simultáneas.</p>
+<p class="calibre5">El concepto VLIW da solución a la
+necesidad de elegir entre un método y otro,
+permitiendo ejecutar instrucciones
+simultáneas a altas velocidades de proceso.
+Esto es así porque se está gastando mucho
+dinero en su desarrollo. El concepto VLIW
+sigue una máxima popular en la comunidad del
+hardware: saca las cosas difíciles del
+hardware y ponlas en software. En lugar de
+hacer que el microprocesador se fije al vuelo
+qué instrucciones son dependientes, haz que
+el compilador —la herramienta que traduce
+desde un lenguaje de alto nivel a
+instrucciones de máquina— se ocupe de
+hacerlo.</p>
+<p class="calibre5">De modo que un compilador para un
+hipotético procesador VLIW de 16 vías primero
+convertirá un programa de lenguaje C o
+Fortran en instrucciones de máquina estándar
+(del tipo RISC). Luego recorre estas
+instrucciones y “pega” 16 de ellas en un
+conjunto, creando una instrucción muy larga.
+El compilador es capaz de determinar si las
+instrucciones dependientes se pueden
+ejecutar, ya que conoce exactamente cuántos
+ciclos se toma una instrucción para generar
+un resultado. Cuando se corre el programa
+compilado, el procesador agarra cada
+instrucción larga de una vez y, sin perder
+tiempo en analizar las dependencias, rutea de
+inmediato las 16 partes que la componen a
+cada una de las secciones correspondientes.</p>
+<p class="calibre5">El procesador VLIW en sí es casi idéntico a
+uno superescalar, pero carece del circuito de
+comprobación de dependencia y su instrucción
+es más ancha.</p>
+<p class="calibre5">Ahora bien, en base a algunos
+significativos resultados de diseño, hay dos
+problemas que persisten. El primero es que
+los compiladores actuales encuentren
+raramente más de cuatro instrucciones
+independientes por ciclo. Por esta razón
+Joseph Fisher, quien acuñó el término VLIW,
+ha dicho que este concepto sólo da aumentos
+significativos de velocidad en los programas
+científicos, más predecibles.</p>
+<p class="calibre5">El segundo problema es más sutil, y es
+tanto un problema de mercado como de diseño.
+Estamos acostumbrados a que los procesadores
+sean compatibles con sus predecesores: si un
+programa corre en un 386 de 25 MHz, también
+correrá en un 486 de 50 MHz. Esto no es</p>
+<p class="calibre5">cierto para los procesadores VLIW. Hay que
+recordar que un compilador VLIW alinea las
+instrucciones en base al número exacto de
+ciclos necesarios para ejecutar cada una de
+ellas. Si se corre un programa de estos en un
+procesador cuya unidad de multiplicación es
+más rápida que aquel para el que fue
+compilado, las instrucciones pueden quedar
+fuera de orden, causando resultados
+impredecibles. Si se le pueden dar crédito a
+ciertas sugerencias que provienen de Hewlett
+Packard, es posible preservar la
+compatibilidad con procesadores anteriores
+usando emulación de hardware, aunque sea con
+algún sacrificio en la performance.</p>
+<p class="calibre5">Será necesario tener buena suerte e
+invertir algunos centenares de millones en
+investigación, pero el concepto VLIW
+permitirá lograr que las performances sigan
+con su crecimiento exponencial por lo menos
+por 5 o 10 años más. Esto se logrará
+aprovechando al máximo la velocidad del chip
+con hardware sencillo y eficiente, y logrando
+densidades mayores de transistores por chip,
+que pueden duplicar la cantidad de secciones
+por procesador. Pero el resultado más
+importante del concepto VLIW será logrado con
+un trabajo en común de los diseñadores de
+hardware y los que hacen los compiladores. Es
+una relación que nunca fue tan cercana como
+debería haber sido, y puede llevar a
+impresionantes desarrollos en el futuro.</p>
+<blockquote class="calibre15">
+<div class="line-block">
+<div class="line">Título original: <em class="calibre9">VLIW: Beyond RISC</em></div>
+<div class="line">© Steve G. Steinberg - 1994</div>
+<div class="line">Traducido (y adaptado) por Eduardo Carletti</div>
+</div>
+</blockquote>
+<!-- This data file has been placed in the public domain. -->
+<!-- Derived from the Unicode character mappings available from
+<http://www.w3.org/2003/entities/xml/>.
+Processed by unicode2rstsubs.py, part of Docutils:
+<http://docutils.sourceforge.net>. -->
+</div>
+</div>
+
+</div>
+
+</body>
+</html>

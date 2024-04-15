@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="cc5250f9-c77b-479a-903e-f77bb6b1f0ed" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.14.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 120</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u650766c5-a59e-4c3e-a2dc-6c2a1b184860" playOrder="1">
+      <navLabel>
+        <text>Aclaración: Este número</text>
+      </navLabel>
+      <content src="c-120Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u2c472b69-e86f-4319-bd04-7425ba534771" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 120</text>
+      </navLabel>
+      <content src="c-120Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ue6f06bef-0a0f-4cf9-998d-935226e8b60e" playOrder="3">
+      <navLabel>
+        <text>Correo: Correo 120</text>
+      </navLabel>
+      <content src="c-120Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u63e1bc32-c025-4f14-a985-70e031b30c88" playOrder="4">
+      <navLabel>
+        <text>Recreaciones: El Gaucho de los Anillos (1)</text>
+      </navLabel>
+      <content src="c-120Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u34496cc6-2b79-406e-aac4-c3ad789d9660" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Cuentos de Horror a la Hora de Dormir</text>
+      </navLabel>
+      <content src="c-120Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ucfd6db55-c444-4de0-811d-14b7cb88c775" playOrder="6">
+      <navLabel>
+        <text>Entrevista: Entrevista con Alejandro Alonso, ganador del premio UPC 2002</text>
+      </navLabel>
+      <content src="c-120Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u428033ca-809f-48d2-9ef3-e9b2388f4894" playOrder="7">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

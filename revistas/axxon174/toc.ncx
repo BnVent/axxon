@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="772dee96-dd14-4d77-8de2-890aeaf0ebb5" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 174</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ua66f807d-d6c3-4a58-ab73-605ccb714415" playOrder="1">
+      <navLabel>
+        <text>Editorial: Imaginación libre: creatividad explosiva</text>
+      </navLabel>
+      <content src="c-174Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u43e0a046-14cd-4081-96cc-5028f50845e9" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-174Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u9355f482-88b7-4483-b6ff-b2a079ffed06" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El hombre infalible</text>
+      </navLabel>
+      <content src="c-174Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uc7ffaf5e-0843-4a58-b594-70c9d62b4a4c" playOrder="4">
+      <navLabel>
+        <text>Novela: El sueño de los Césares: XII - Los paredones de hielo</text>
+      </navLabel>
+      <content src="c-174Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u5cee49dc-68ed-4761-be80-1beba4625c8b" playOrder="5">
+      <navLabel>
+        <text>Novela: El sueño de los Césares: XIII - Haliford conoce que el lago de los témpanos no es el Viedma</text>
+      </navLabel>
+      <content src="c-174Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u79321ade-78b7-49ac-b69a-302c70a5e395" playOrder="6">
+      <navLabel>
+        <text>Novela: El sueño de los Césares: XIV - La montaña azul junto al ancho lago</text>
+      </navLabel>
+      <content src="c-174Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u4615e50f-a491-4f4a-b9aa-1ceb733adadf" playOrder="7">
+      <navLabel>
+        <text>Novela: El sueño de los Césares: XV - A los pies de la “Montaña que humea”</text>
+      </navLabel>
+      <content src="c-174Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u8e8ea0db-e212-4d3b-96d0-c1d9f51e748e" playOrder="8">
+      <navLabel>
+        <text>Novela: El sueño de los Césares: XVI - Una toldería</text>
+      </navLabel>
+      <content src="c-174Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u7c630f7d-b4f6-48c3-b53e-3ff9da8444ea" playOrder="9">
+      <navLabel>
+        <text>Novela: El sueño de los Césares: XVII - El puente</text>
+      </navLabel>
+      <content src="c-174Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u3247f6c4-bb29-4d87-8779-f511ad30d5a1" playOrder="10">
+      <navLabel>
+        <text>Novela: El sueño de los Césares: XVIII - El paso de Huincalef</text>
+      </navLabel>
+      <content src="c-174Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uac975cb8-29ec-44c9-8eea-68e50e026a1e" playOrder="11">
+      <navLabel>
+        <text>Novela: El sueño de los Césares: XIX - El trueno del conquistador</text>
+      </navLabel>
+      <content src="c-174Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u99a181aa-78e5-4562-a4af-4d5849a5ec2e" playOrder="12">
+      <navLabel>
+        <text>Novela: El sueño de los Césares: XX - Sólo un anciano en la ciudad</text>
+      </navLabel>
+      <content src="c-174Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u17832e01-e84b-4fe3-9dfc-cc9fcc578b94" playOrder="13">
+      <navLabel>
+        <text>Novela: El sueño de los Césares: XXI - El oro de los Césares</text>
+      </navLabel>
+      <content src="c-174Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u75fd35bd-d74e-4125-be45-e7208d34a416" playOrder="14">
+      <navLabel>
+        <text>Novela: El sueño de los Césares: XXII - La carga de los Konakuref</text>
+      </navLabel>
+      <content src="c-174Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u9dacb6b4-7fd8-4e7a-81bd-c31ed2dad372" playOrder="15">
+      <navLabel>
+        <text>Novela: El sueño de los Césares: XXIII - La borrasca</text>
+      </navLabel>
+      <content src="c-174Pag15.htm"/>
+    </navPoint>
+    <navPoint id="uda5aac05-7fbb-4ba4-8a3a-cf05aae5cf0b" playOrder="16">
+      <navLabel>
+        <text>Novela: El sueño de los Césares: XXIV - Visita a la tierra de las manzanas. Arribo al pais de los co</text>
+      </navLabel>
+      <content src="c-174Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u05ac20d8-a799-48f1-810a-e0ab409e12ff" playOrder="17">
+      <navLabel>
+        <text>Novela: El sueño de los Césares: XXV - Genealogía</text>
+      </navLabel>
+      <content src="c-174Pag17.htm"/>
+    </navPoint>
+    <navPoint id="ua6c8c0df-e296-4e38-86f3-8fb85770aae6" playOrder="18">
+      <navLabel>
+        <text>Novela: El sueño de los Césares: XXVI - La sociedad de los cohuenches</text>
+      </navLabel>
+      <content src="c-174Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u56729fce-5d6e-4010-9b62-c8a80d1acb1f" playOrder="19">
+      <navLabel>
+        <text>Axxóncine: Una mirada a la oscuridad</text>
+      </navLabel>
+      <content src="c-174Pag19.htm"/>
+    </navPoint>
+    <navPoint id="u76e77395-d2da-41bb-af7d-4728cce30c27" playOrder="20">
+      <navLabel>
+        <text>Divulgación: ¡Tigre, tigre!</text>
+      </navLabel>
+      <content src="c-174Pag20.htm"/>
+    </navPoint>
+    <navPoint id="u1ead1ee3-0cff-4bc8-ad5a-b74c82222ceb" playOrder="21">
+      <navLabel>
+        <text>Ficciones: Cuenta regresiva</text>
+      </navLabel>
+      <content src="c-174Pag21.htm"/>
+    </navPoint>
+    <navPoint id="u059e61f6-1cc8-4e1c-b141-e2818e639e9b" playOrder="22">
+      <navLabel>
+        <text>Ensayo: Historia de la Ciencia Ficción Uruguaya (4): Tarik Carson, un escritor de raza</text>
+      </navLabel>
+      <content src="c-174Pag22.htm"/>
+    </navPoint>
+    <navPoint id="ud96b6294-a20a-4648-a01d-5d10b365697a" playOrder="23">
+      <navLabel>
+        <text>Ficciones: El capitán, el piloto y la sirena</text>
+      </navLabel>
+      <content src="c-174Pag23.htm"/>
+    </navPoint>
+    <navPoint id="u8295e37c-1c7d-47c9-a6c8-38842a8078d9" playOrder="24">
+      <navLabel>
+        <text>Clásico: La máscara de la Muerte Roja</text>
+      </navLabel>
+      <content src="c-174Pag24.htm"/>
+    </navPoint>
+    <navPoint id="uf6c7d7e2-9243-4734-bf39-a5f663212b00" playOrder="25">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-174Pag25.htm"/>
+    </navPoint>
+    <navPoint id="u15512bc8-e8e5-4676-9c25-aa9c5c5e011c" playOrder="26">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

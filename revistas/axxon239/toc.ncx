@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="5786b729-e6aa-4804-a863-62527e719a85" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.21)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 239</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uad0098d9-8a09-46c8-87c3-0bfd7fec7ae3" playOrder="1">
+      <navLabel>
+        <text>Editorial: La punta del iceberg</text>
+      </navLabel>
+      <content src="c-239Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ue5a86cbe-14ff-4c68-b913-0c7f88d723e6" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Así permanece hermosa Lisa Marie (Anticuada canción para sonámbulos)</text>
+      </navLabel>
+      <content src="c-239Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u8d79398e-8663-4170-a624-a957e32cdd5f" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Huesos</text>
+      </navLabel>
+      <content src="c-239Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u3d728119-427f-49ba-a902-ee67913702f8" playOrder="4">
+      <navLabel>
+        <text>Entrevista: Entrevista a Fraga</text>
+      </navLabel>
+      <content src="c-239Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u7b8c2ad0-c394-4a57-95a8-76f5d92f210d" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Shopping infinito</text>
+      </navLabel>
+      <content src="c-239Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ua2915a47-a60f-4e93-8566-ade89b2630d4" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Buenos Aires bajo el río</text>
+      </navLabel>
+      <content src="c-239Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u1e4e0f62-0d76-42c2-b1d5-39ed34c0577a" playOrder="7">
+      <navLabel>
+        <text>Ficciones: A la deriva</text>
+      </navLabel>
+      <content src="c-239Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u16ab2926-b434-4a89-87e4-9d82fbd4be0c" playOrder="8">
+      <navLabel>
+        <text>Ficciones: La peor pesadilla</text>
+      </navLabel>
+      <content src="c-239Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u9baebea8-8c26-4d07-816c-d92a7a5b2409" playOrder="9">
+      <navLabel>
+        <text>Ficciones: El viejo de la puerta</text>
+      </navLabel>
+      <content src="c-239Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uf43384cb-eeb1-4430-a323-a70726e79e06" playOrder="10">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="u01d3eb72-f13c-4124-82c2-c3152e4ea27c" playOrder="10">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/239/cuento3ilus1.htm"/>
+    </navPoint>
+    <navPoint id="u842ecfab-69c2-4e69-b769-c7049ef82977" playOrder="11">
+      <navLabel>
+        <text>EL HOMBRE EQUIVOCADO</text>
+      </navLabel>
+      <content src="/rev/2012/04/el-hombre-equivocado-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="u55ee5c10-83bf-4a20-82f5-f1666546b366" playOrder="12">
+      <navLabel>
+        <text>EL OTRO MESÍAS</text>
+      </navLabel>
+      <content src="/rev/2012/06/el-otro-mesias-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="u01b8a5f4-f1df-4e4c-be70-3618e8e02766" playOrder="13">
+      <navLabel>
+        <text>NOCHES DE BANTIAN</text>
+      </navLabel>
+      <content src="/rev/2012/09/noches-de-bantian-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="ua70f9a13-a760-493c-b7ba-b062733d9767" playOrder="14">
+      <navLabel>
+        <text>LA NOCHE DE TEMPOAL</text>
+      </navLabel>
+      <content src="/rev/2012/10/la-noche-de-tempoal-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="u5732bc62-4845-4295-b66f-99815446191f" playOrder="15">
+      <navLabel>
+        <text>AHÍ FUERA</text>
+      </navLabel>
+      <content src="/rev/2012/11/ahi-fuera-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="ud78f9e52-1732-42c5-873c-32d2539d8abd" playOrder="16">
+      <navLabel>
+        <text>DESPOJOS</text>
+      </navLabel>
+      <content src="/rev/2012/12/despojos-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="u78ed39f5-4f9b-40a8-8f67-7619a5f84b32" playOrder="17">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/239/cuento4ilus1.htm"/>
+    </navPoint>
+    <navPoint id="u765650c3-6afc-4945-9860-fd74cf2787c5" playOrder="18">
+      <navLabel>
+        <text>Ondas Fraguianas</text>
+      </navLabel>
+      <content src="/fraga/fraguianas.htm"/>
+    </navPoint>
+    <navPoint id="ue7f143a6-cffe-4148-adee-cf7ddf654768" playOrder="19">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/239/cuento5ilus1.htm"/>
+    </navPoint>
+    <navPoint id="u73130d8f-06e7-457a-b132-2005f5f4cf8c" playOrder="20">
+      <navLabel>
+        <text>AUTOCLONACIÓN REVERSA</text>
+      </navLabel>
+      <content src="/rev/191/c-191cuento4.htm"/>
+    </navPoint>
+    <navPoint id="u9ac97f19-4a01-4b93-a083-39f0c326ef40" playOrder="21">
+      <navLabel>
+        <text>EL GUALICHO</text>
+      </navLabel>
+      <content src="/rev/"/>
+    </navPoint>
+    <navPoint id="ubaf0fab8-f8d0-44c5-8316-6925ce2a8138" playOrder="22">
+      <navLabel>
+        <text>EL PSICOPOMPO</text>
+      </navLabel>
+      <content src="/rev/2011/06/el-psicopompo-guillermo-vidal/"/>
+    </navPoint>
+    <navPoint id="u5c0b6cf5-835a-4c51-aa47-efa82447a875" playOrder="23">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/239/cuento6ilus1.htm"/>
+    </navPoint>
+    <navPoint id="ua7150b19-daac-41db-be4a-c31d4abea3bc" playOrder="24">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/239/cuento6ilus3.htm"/>
+    </navPoint>
+    <navPoint id="u84e09c37-f30a-4a42-bff4-84aeacbae1f8" playOrder="25">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/239/cuento6ilus2.htm"/>
+    </navPoint>
+    <navPoint id="u9620026d-2465-4936-b793-c9ee34902259" playOrder="26">
+      <navLabel>
+        <text>LA SOCIEDAD DE LOS OVOS</text>
+      </navLabel>
+      <content src="/rev/2011/10/la-sociedad-de-los-ovos-cristian-j-caravello/"/>
+    </navPoint>
+    <navPoint id="u98ba63ff-f202-4dbc-9060-cae27d1365c1" playOrder="27">
+      <navLabel>
+        <text>EL ENIGMA DEL BAR DE LOS VIEJOS Y LOS GATOS</text>
+      </navLabel>
+      <content src="/rev/2012/01/el-enigma-del-bar-de-los-viejos-y-los-gatos-cristian-j-caravello/"/>
+    </navPoint>
+    <navPoint id="u5bbc88ca-ae16-4871-ba35-544c0ed997d7" playOrder="28">
+      <navLabel>
+        <text>EL INFINITADOR</text>
+      </navLabel>
+      <content src="/rev/2012/04/el-infinitador-cristian-caravello/"/>
+    </navPoint>
+    <navPoint id="uf758773d-ba79-4e54-b199-967f812a3152" playOrder="29">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/239/cuento7ilus1.htm"/>
+    </navPoint>
+    <navPoint id="u0df3ed39-02c2-4a38-b4cd-6383c3bd66a2" playOrder="30">
+      <navLabel>
+        <text>Enciclopedia</text>
+      </navLabel>
+      <content src="/wiki/index.php"/>
+    </navPoint>
+    <navPoint id="u37c34d57-7590-4de2-964e-e56cb5fbd300" playOrder="31">
+      <navLabel>
+        <text>NO, GRACIAS</text>
+      </navLabel>
+      <content src="/rev/141/c-141Uficcion2.htm"/>
+    </navPoint>
+    <navPoint id="ue9186c9c-7291-4e2d-be2f-c44038b4d699" playOrder="32">
+      <navLabel>
+        <text>CAMBIO</text>
+      </navLabel>
+      <content src="/rev/148/c-148Cuento10.htm"/>
+    </navPoint>
+    <navPoint id="u9b457bca-8dec-4efe-b869-01826a13f746" playOrder="33">
+      <navLabel>
+        <text>HASTA LA SIGUIENTE</text>
+      </navLabel>
+      <content src="/rev/150/c-150Cuento3.htm"/>
+    </navPoint>
+    <navPoint id="u595af129-0667-47f9-ad6b-935df1a1cceb" playOrder="34">
+      <navLabel>
+        <text>VIAJE AL PASADO</text>
+      </navLabel>
+      <content src="/rev/154/c-154cuento17.htm"/>
+    </navPoint>
+    <navPoint id="u896c7c2d-38f5-4af5-900a-6b5ba0428f0d" playOrder="35">
+      <navLabel>
+        <text>EL MORADOR</text>
+      </navLabel>
+      <content src="/rev/155/c-155cuento13.htm"/>
+    </navPoint>
+    <navPoint id="u3a57aed7-ee0a-4f98-8fcf-ed67364bd4ed" playOrder="36">
+      <navLabel>
+        <text>EL GUASÓN</text>
+      </navLabel>
+      <content src="/rev/156/c-156cuento4.htm"/>
+    </navPoint>
+    <navPoint id="u6734367d-703f-4d1f-a156-e876584f9583" playOrder="37">
+      <navLabel>
+        <text>FINAL INCIERTO</text>
+      </navLabel>
+      <content src="/rev/157/c-157cuento14.htm"/>
+    </navPoint>
+    <navPoint id="u1a3fee78-128a-4bed-ae65-0df2779ef668" playOrder="38">
+      <navLabel>
+        <text>MOTORHOME</text>
+      </navLabel>
+      <content src="/rev/160/c-160cuento7.htm"/>
+    </navPoint>
+    <navPoint id="ua9285a65-5431-407d-99cc-faa220632e84" playOrder="39">
+      <navLabel>
+        <text>MALOS PENSAMIENTOS</text>
+      </navLabel>
+      <content src="/rev/163/c-163cuento9.htm"/>
+    </navPoint>
+    <navPoint id="u3f3cc084-5fe9-4448-9527-99a6c476c8d4" playOrder="40">
+      <navLabel>
+        <text>EL NÚMERO UNO</text>
+      </navLabel>
+      <content src="/rev/165/c-165cuento7.htm"/>
+    </navPoint>
+    <navPoint id="u9b8df5f8-8b60-40f3-ac62-b89acdef72bf" playOrder="41">
+      <navLabel>
+        <text>CAMINATA LUNAR</text>
+      </navLabel>
+      <content src="/rev/167/c-167cuento1.htm"/>
+    </navPoint>
+    <navPoint id="u8a8e1521-6c5e-4e67-a003-083a44e41aa9" playOrder="42">
+      <navLabel>
+        <text>LA PRIMERA VEZ</text>
+      </navLabel>
+      <content src="/rev/167/c-167cuento5.htm"/>
+    </navPoint>
+    <navPoint id="uc7621e6d-944a-4e94-8f4e-95d2e42b6f75" playOrder="43">
+      <navLabel>
+        <text>EL DUEÑO DEL BARRIO</text>
+      </navLabel>
+      <content src="/rev/168/c-168cuento3.htm"/>
+    </navPoint>
+    <navPoint id="uacb7e91c-99a1-41d7-90a4-766168dd3973" playOrder="44">
+      <navLabel>
+        <text>CON UN PIE EN LA TRAMPA</text>
+      </navLabel>
+      <content src="/rev/171/c-171cuento3.htm"/>
+    </navPoint>
+    <navPoint id="u1871e86c-6eb6-4abb-a687-b095f552b3f8" playOrder="45">
+      <navLabel>
+        <text>MORIR DE TRISTEZA</text>
+      </navLabel>
+      <content src="/rev/178/c-178cuento3.htm"/>
+    </navPoint>
+    <navPoint id="u16dd8ebd-6f15-4ccf-80b0-8190a760876e" playOrder="46">
+      <navLabel>
+        <text>RAÚL</text>
+      </navLabel>
+      <content src="/rev/180/c-180cuento1.htm#27"/>
+    </navPoint>
+    <navPoint id="uab2cc8b1-4c86-42ec-8501-13873f6d3219" playOrder="47">
+      <navLabel>
+        <text>EL OTRO</text>
+      </navLabel>
+      <content src="/rev/#12"/>
+    </navPoint>
+    <navPoint id="u16b69e3d-c5a2-4675-8842-a53a1157ce0d" playOrder="48">
+      <navLabel>
+        <text>ROBO HORMIGA</text>
+      </navLabel>
+      <content src="/rev/2011/02/robo-hormiga-hernan-dominguez-nimo/"/>
+    </navPoint>
+    <navPoint id="u517faae9-ffba-4a76-9dcd-19229e5cc2b4" playOrder="49">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/239/cuento8ilus1.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

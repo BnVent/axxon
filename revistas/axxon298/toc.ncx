@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta name="dtb:uid" content="13cda22c-f0b6-4ee0-a30c-5022633557ff"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (5.21.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Axxón 298</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u5VKMjCb8N7myE3Uv26dsU8" playOrder="1">
+      <navLabel>
+        <text>Editorial: Semiautomágico</text>
+      </navLabel>
+      <content src="c-298Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uV8eUubWy4Ws6wJWyNwMLZ4" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Breve ejemplario de hábitos reproductivos alienígenas</text>
+      </navLabel>
+      <content src="c-298Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uvGWqHZ4zLAAAM4MnDKS2e7" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Descansar en paz</text>
+      </navLabel>
+      <content src="c-298Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uQGprltyQrNL62rHkiiKWjF" playOrder="4">
+      <navLabel>
+        <text>Ensayo: Utopía: aproximación a la escena del crimen del deseo</text>
+      </navLabel>
+      <content src="c-298Pag04.htm"/>
+    </navPoint>
+    <navPoint id="unVRRke5ccuLXezdNooUkJC" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Las catacumbas</text>
+      </navLabel>
+      <content src="c-298Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uReTxSRmo2Gf6QqCrz32HsC" playOrder="6">
+      <navLabel>
+        <text>Ficciones: No hay que revivir Hawái</text>
+      </navLabel>
+      <content src="c-298Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uSHFZsfxLZZX3e97nO3VCQ3" playOrder="7">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="dd49a1ee-8f83-498a-8c5c-ed6c400bfe0f" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.38.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 137</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u8e37e032-8ab2-4b68-b67e-484d0bffdcd1" playOrder="1">
+      <navLabel>
+        <text>Editorial: Mentiras S.A.</text>
+      </navLabel>
+      <content src="c-137Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u7069ce89-99ca-4b88-bcd8-6cee9a83d35f" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas Axxonitas</text>
+      </navLabel>
+      <content src="c-137Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u9b2e1c9c-01fb-4d60-9089-814d8831cdfa" playOrder="3">
+      <navLabel>
+        <text>Ficciones: La noche de la rata</text>
+      </navLabel>
+      <content src="c-137Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u9bf18653-3254-41cf-9544-178e18ea5b89" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Combustión externa</text>
+      </navLabel>
+      <content src="c-137Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ue4002a5b-2c0f-4c9d-bb39-2dbf0410491f" playOrder="5">
+      <navLabel>
+        <text>Divulgación: Los elusivos etruscos</text>
+      </navLabel>
+      <content src="c-137Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uf819f1d2-11cc-4d8e-a5b5-0983c329a64d" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Vagos recuerdos</text>
+      </navLabel>
+      <content src="c-137Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ucf76908d-5f2b-481c-b382-375bbc28919e" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Contra la pared de ladrillos</text>
+      </navLabel>
+      <content src="c-137Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u5ac643e2-27a5-4e70-bc85-14a5fcc32f5c" playOrder="8">
+      <navLabel>
+        <text>Contratapa: Las estrellas mi destino</text>
+      </navLabel>
+      <content src="c-137Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u4fcb6b17-a9b6-42e1-9397-0b7b0eff8bc4" playOrder="9">
+      <navLabel>
+        <text>Sección: Anacrónicas</text>
+      </navLabel>
+      <content src="c-137Pag09.htm"/>
+    </navPoint>
+    <navPoint id="udec4766b-c14f-4f7a-9ac1-a48b64db23b4" playOrder="10">
+      <navLabel>
+        <text>Anacrónicas: Decálogo para evitar el bloqueo creativo</text>
+      </navLabel>
+      <content src="c-137Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u05a6fc59-6667-4901-8983-2a3ac50609e1" playOrder="11">
+      <navLabel>
+        <text>Anacrónicas: Las Heroicrónicas - Primera parte</text>
+      </navLabel>
+      <content src="c-137Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u60904d7e-130d-409d-8aec-63967795c5d2" playOrder="12">
+      <navLabel>
+        <text>Uficción: Crónicas del Quincunce</text>
+      </navLabel>
+      <content src="c-137Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u9c3ab785-39d7-4cc6-8a83-d56e57d778df" playOrder="13">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

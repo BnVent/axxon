@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="ca1dd929-e4e6-4d36-8ea3-a03d59bace88" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.37.1)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 154</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ue6fbb339-476c-422b-9f49-16c028e10ffa" playOrder="1">
+      <navLabel>
+        <text>Editorial: ¿Más que nunca?</text>
+      </navLabel>
+      <content src="c-154Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ud0b553a2-e168-4103-a32c-030e60530ef5" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-154Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u3ea70c46-1961-4511-ba65-8d5be646cc38" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Ambrotos</text>
+      </navLabel>
+      <content src="c-154Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u319637da-602c-47c5-a55f-e1f882500a91" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Perdido</text>
+      </navLabel>
+      <content src="c-154Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u0f180281-62e1-4475-8c47-2d4db01b7234" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Astroastrología</text>
+      </navLabel>
+      <content src="c-154Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u2e2b9b20-924f-4585-b1b6-28add63cad13" playOrder="6">
+      <navLabel>
+        <text>Crónica: Wiscon 29, ciencia-ficción y feminismo</text>
+      </navLabel>
+      <content src="c-154Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u7e8688e5-03f7-4c72-97cc-b9a5b656db77" playOrder="7">
+      <navLabel>
+        <text>Divulgación: Los caminos inescrutables</text>
+      </navLabel>
+      <content src="c-154Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uf7a335f7-af9e-459f-a372-f4cdbda8ca7a" playOrder="8">
+      <navLabel>
+        <text>Ficciones: No me miren</text>
+      </navLabel>
+      <content src="c-154Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ufe80ab33-4be7-4cf7-a0ab-53a71bf85639" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Tiempo treinta y tres</text>
+      </navLabel>
+      <content src="c-154Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uc82bd988-dbfb-4770-b5a2-28f671fe0a2c" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Editor</text>
+      </navLabel>
+      <content src="c-154Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u613c6aec-c448-4322-8f99-e591c327002b" playOrder="11">
+      <navLabel>
+        <text>Ficciones: To Be Frost</text>
+      </navLabel>
+      <content src="c-154Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u7dd0dc72-8233-4abf-8c36-4091c7a353b8" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Anubis</text>
+      </navLabel>
+      <content src="c-154Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u520122e7-7dcb-43b1-9bfe-935bdcabdcf0" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Los jinetes del aire</text>
+      </navLabel>
+      <content src="c-154Pag13.htm"/>
+    </navPoint>
+    <navPoint id="ucab0ed7b-2427-44d9-a5b5-1c00579ef856" playOrder="14">
+      <navLabel>
+        <text>Ficciones: Hay horror en los ojos de Caín</text>
+      </navLabel>
+      <content src="c-154Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u4974e865-fa16-4ebb-8f67-ee840fcd6722" playOrder="15">
+      <navLabel>
+        <text>Ficciones: Khunta</text>
+      </navLabel>
+      <content src="c-154Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u650fac62-1b7a-42d1-a9b4-9fde8ba0dbb4" playOrder="16">
+      <navLabel>
+        <text>Ficciones: Bumper Sticker y la princesa emplumada</text>
+      </navLabel>
+      <content src="c-154Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u6e377bfb-719d-4058-9dae-901a6c78db24" playOrder="17">
+      <navLabel>
+        <text>Ficciones: El hombre del circo</text>
+      </navLabel>
+      <content src="c-154Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u12176517-2eb6-4b7c-aeff-e53171e32636" playOrder="18">
+      <navLabel>
+        <text>Ficciones: La sonrisa de Strauss</text>
+      </navLabel>
+      <content src="c-154Pag18.htm"/>
+    </navPoint>
+    <navPoint id="uee3a69ef-fe49-4b9c-80a2-524365ffdebb" playOrder="19">
+      <navLabel>
+        <text>Ficciones: La conquista mágica de América</text>
+      </navLabel>
+      <content src="c-154Pag19.htm"/>
+    </navPoint>
+    <navPoint id="uf30a9e7b-01ab-4d6b-9cb0-7a38e984066b" playOrder="20">
+      <navLabel>
+        <text>Ficciones: Pleamar</text>
+      </navLabel>
+      <content src="c-154Pag20.htm"/>
+    </navPoint>
+    <navPoint id="u8ac8fbeb-b478-4a2c-b65a-f3e9af8bd452" playOrder="21">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (15)</text>
+      </navLabel>
+      <content src="c-154Pag21.htm"/>
+    </navPoint>
+    <navPoint id="ue48a9909-f10d-420f-8787-785a3fc51bff" playOrder="22">
+      <navLabel>
+        <text>Clásico: El nuevo acelerador</text>
+      </navLabel>
+      <content src="c-154Pag22.htm"/>
+    </navPoint>
+    <navPoint id="ub74f105f-d2e7-4ea3-9701-a15bc55056df" playOrder="23">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

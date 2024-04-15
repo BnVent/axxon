@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="6d94dac9-44d3-4dd4-9b97-fcb3dffa596c" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.13.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 29</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ugOxaqyNbJtBIAYogVeS3s5" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 29</text>
+      </navLabel>
+      <content src="c-29Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ubJKwqNsKsI4xH54c4LT7rE" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Programa 1014</text>
+      </navLabel>
+      <content src="c-29Pag02.htm"/>
+    </navPoint>
+    <navPoint id="udJcCGfegVeZIYQcZ2ZHOmE" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Lo que te come</text>
+      </navLabel>
+      <content src="c-29Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uudJZxGKNnOdqsNptSRnI7D" playOrder="4">
+      <navLabel>
+        <text>Noticias: Crónica del otro lado del charco</text>
+      </navLabel>
+      <content src="c-29Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u9kcGZk6EIdCr3YZ9g62FT8" playOrder="5">
+      <navLabel>
+        <text>Correo: Correo 29</text>
+      </navLabel>
+      <content src="c-29Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uMwBhHgqC9PT3o87mdAFgJ6" playOrder="6">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad (8)</text>
+      </navLabel>
+      <content src="c-29Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uHLAgsBx2HeUesme5xsFnj6" playOrder="7">
+      <navLabel>
+        <text>Índice: Indice de los números 20 a 29 de Axxón</text>
+      </navLabel>
+      <content src="c-29Pag07.htm"/>
+    </navPoint>
+    <navPoint id="urIlKxyVvXzA3OYQHxtLLb4" playOrder="8">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-29Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ugW3kN8BQLfeKd54ybEAxlF" playOrder="9">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

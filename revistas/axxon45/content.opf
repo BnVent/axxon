@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Axxón 45</dc:title>
+    <meta name="calibre:timestamp" content="2021-01-25T17:09:41.168892+00:00"/>
+    <dc:language>es</dc:language>
+    <dc:creator opf:file-as="Desconocido" opf:role="aut">Eduardo Carletti (editor)</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">cc005345-795c-466e-be7f-2fc6bf677cdd</dc:identifier>
+    <dc:publisher>Ediciones Axxón</dc:publisher>
+    <meta name="calibre:series" content="Axxón"/>
+    <meta name="calibre:series_index" content="45"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="cover" href="cover.jpg" media-type="image/jpeg"/>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html" href="axxon45.htm" media-type="application/xhtml+xml"/>
+    <item id="html1" href="c-45Pag01.htm" media-type="application/xhtml+xml"/>
+    <item id="html2" href="c-45Pag02.htm" media-type="application/xhtml+xml"/>
+    <item id="html3" href="c-45Pag03.htm" media-type="application/xhtml+xml"/>
+    <item id="html4" href="c-45Pag04.htm" media-type="application/xhtml+xml"/>
+    <item id="html5" href="c-45Pag05.htm" media-type="application/xhtml+xml"/>
+    <item id="html6" href="c-45Pag06.htm" media-type="application/xhtml+xml"/>
+    <item id="html7" href="c-45Pag07.htm" media-type="application/xhtml+xml"/>
+    <item id="html8" href="c-45Pag08.htm" media-type="application/xhtml+xml"/>
+    <item id="html9" href="axxon.htm" media-type="application/xhtml+xml"/>
+    <item id="added10" href="axxon00.gif" media-type="image/gif"/>
+    <item id="added11" href="c-45tapach.jpg" media-type="image/jpeg"/>
+    <item id="added2" href="c-ejc0.jpg" media-type="image/jpeg"/>
+    <item id="added3" href="axxon-45_001.png" media-type="image/png"/>
+    <item id="added5" href="axxon-45_002.png" media-type="image/png"/>
+    <item id="added6" href="axxon-45_003.png" media-type="image/png"/>
+    <item id="added7" href="axxon-45_004.png" media-type="image/png"/>
+    <item id="added8" href="axxon-45_005.png" media-type="image/png"/>
+    <item id="added12" href="x-epub.png" media-type="image/png"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+    <itemref idref="html1"/>
+    <itemref idref="html2"/>
+    <itemref idref="html3"/>
+    <itemref idref="html4"/>
+    <itemref idref="html5"/>
+    <itemref idref="html6"/>
+    <itemref idref="html7"/>
+    <itemref idref="html8"/>
+    <itemref idref="html9"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="titlepage.xhtml" title="Cover"/>
+  </guide>
+</package>

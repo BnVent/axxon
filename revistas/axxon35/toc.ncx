@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="e3a87915-fcdf-4a5d-8f4a-5659c6ba5a63" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.13.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 35</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uiMc5sbBuiJI8XsCQyzb2e7" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 35</text>
+      </navLabel>
+      <content src="c-35Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u23KD5QWSDqWJW6bZE4KYQF" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Los perros</text>
+      </navLabel>
+      <content src="c-35Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uJKFuBDAyxBl2uObosTBw74" playOrder="3">
+      <navLabel>
+        <text>Ensayo: Visiones, apariciones y arrebatos. La formación del mito OVNI</text>
+      </navLabel>
+      <content src="c-35Pag03.htm"/>
+    </navPoint>
+    <navPoint id="udjGEh2OiNFyeeLXuapyWe8" playOrder="4">
+      <navLabel>
+        <text>Correo: Correo 35</text>
+      </navLabel>
+      <content src="c-35Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uXMHeVFb986Blwp3Cyufl78" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Cleon el emperador</text>
+      </navLabel>
+      <content src="c-35Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uRVu78IDsZa8WDdzosxg6G3" playOrder="6">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-35Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uhnXWb5c2WW32gqRXcxzA95" playOrder="7">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-35Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uxkhKJJcDQJgXvzL5TV4zHF" playOrder="8">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

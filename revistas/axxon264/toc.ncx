@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="a6f7a4bb-bbd1-4e6c-9bde-e38e48d83466" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.36.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 264</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ufcde24fb-f232-4bcd-95a0-a35b3d2e37fe" playOrder="1">
+      <navLabel>
+        <text>Pre-Editorial: Escrito en el agua</text>
+      </navLabel>
+      <content src="c-264Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ud6c1a8ba-7b57-4f10-8822-cfa618fb8289" playOrder="2">
+      <navLabel>
+        <text>Editorial: Charla entre amigos y otros privilegios</text>
+      </navLabel>
+      <content src="c-264Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u8dd8df1e-6cf6-46ab-8bfa-099bd79d7e77" playOrder="3">
+      <navLabel>
+        <text>Entrevista: Entrevista a Claudia De Bella</text>
+      </navLabel>
+      <content src="c-264Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u0624c578-195c-4089-ae42-cf2748770e6b" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Conversaciones con un caballo mecánico</text>
+      </navLabel>
+      <content src="c-264Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u314da55f-5a42-468b-a361-24ef593ba33c" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (setenta y seis)</text>
+      </navLabel>
+      <content src="c-264Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u1da104c6-ce96-4020-914d-bcdd3f556b44" playOrder="6">
+      <navLabel>
+        <text>Ficciones: El sustento</text>
+      </navLabel>
+      <content src="c-264Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u8af23b71-5929-493a-8033-02f9bf01b36f" playOrder="7">
+      <navLabel>
+        <text>Ficciones: En una casa en la calle Londres</text>
+      </navLabel>
+      <content src="c-264Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ucbe880c9-c249-4266-a6c8-ed38b760129b" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Intersticios</text>
+      </navLabel>
+      <content src="c-264Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u84b7910d-30d2-45b8-ad35-2575e8f1deed" playOrder="9">
+      <navLabel>
+        <text>Artículo: Violando la primera ley</text>
+      </navLabel>
+      <content src="c-264Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u2d69894f-c660-45a9-9d21-4a431992a865" playOrder="10">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

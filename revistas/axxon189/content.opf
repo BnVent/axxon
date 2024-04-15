@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <meta name="calibre:series" content="Axxón"/>
+    <meta name="calibre:series_index" content="189"/>
+    <meta name="cover" content="cover"/>
+    <dc:publisher>Ediciones Axxón</dc:publisher>
+    <dc:creator opf:file-as="Desconocido" opf:role="aut">Eduardo Carletti (editor)</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">2a16c699-34ce-4373-b68e-d6153c1df32b</dc:identifier>
+    <meta name="calibre:timestamp" content="2015-10-18T00:55:14.207000+00:00"/>
+    <dc:language>es</dc:language>
+    <dc:title>Axxón 189</dc:title>
+  </metadata>
+  <manifest>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="axxon.htm" id="html15" media-type="application/xhtml+xml"/>
+    <item href="axxon00.gif" id="added67" media-type="image/gif"/>
+    <item href="axxon189.htm" id="html" media-type="application/xhtml+xml"/>
+    <item href="c-189Pag01.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="c-189Pag02.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="c-189Pag03.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="c-189Pag04.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="c-189Pag05.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="c-189Pag06.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="c-189Pag07.htm" id="html7" media-type="application/xhtml+xml"/>
+    <item href="c-189Pag08.htm" id="html8" media-type="application/xhtml+xml"/>
+    <item href="c-189Pag09.htm" id="html9" media-type="application/xhtml+xml"/>
+    <item href="c-189Pag10.htm" id="html10" media-type="application/xhtml+xml"/>
+    <item href="c-189Pag11.htm" id="html11" media-type="application/xhtml+xml"/>
+    <item href="c-189Pag12.htm" id="html12" media-type="application/xhtml+xml"/>
+    <item href="c-189Pag13.htm" id="html13" media-type="application/xhtml+xml"/>
+    <item href="c-189Pag14.htm" id="html14" media-type="application/xhtml+xml"/>
+    <item href="c-189cuento1ilus1ch.jpg" id="added4" media-type="image/jpeg"/>
+    <item href="c-189cuento2ilus1ch.jpg" id="added5" media-type="image/jpeg"/>
+    <item href="c-189cuento3ilus1ch.jpg" id="added6" media-type="image/jpeg"/>
+    <item href="c-189cuento4ilus1ch.jpg" id="added7" media-type="image/jpeg"/>
+    <item href="c-189div003.jpg" id="added8" media-type="image/jpeg"/>
+    <item href="c-189div004.jpg" id="added9" media-type="image/jpeg"/>
+    <item href="c-189div005.jpg" id="added10" media-type="image/jpeg"/>
+    <item href="c-189div007.jpg" id="added11" media-type="image/jpeg"/>
+    <item href="c-189div008.jpg" id="added12" media-type="image/jpeg"/>
+    <item href="c-189div010.jpg" id="added13" media-type="image/jpeg"/>
+    <item href="c-189div012.jpg" id="added14" media-type="image/jpeg"/>
+    <item href="c-189div014.jpg" id="added15" media-type="image/jpeg"/>
+    <item href="c-189div016.jpg" id="added16" media-type="image/jpeg"/>
+    <item href="c-189div018.jpg" id="added17" media-type="image/jpeg"/>
+    <item href="c-189div020.jpg" id="added18" media-type="image/jpeg"/>
+    <item href="c-189div021.jpg" id="added19" media-type="image/jpeg"/>
+    <item href="c-189div024.jpg" id="added20" media-type="image/jpeg"/>
+    <item href="c-189div025.jpg" id="added21" media-type="image/jpeg"/>
+    <item href="c-189div028.jpg" id="added22" media-type="image/jpeg"/>
+    <item href="c-189div030.jpg" id="added23" media-type="image/jpeg"/>
+    <item href="c-189div032.jpg" id="added24" media-type="image/jpeg"/>
+    <item href="c-189div034.jpg" id="added25" media-type="image/jpeg"/>
+    <item href="c-189div036.jpg" id="added26" media-type="image/jpeg"/>
+    <item href="c-189div038.jpg" id="added27" media-type="image/jpeg"/>
+    <item href="c-189div039.gif" id="added28" media-type="image/gif"/>
+    <item href="c-189div040.gif" id="added29" media-type="image/gif"/>
+    <item href="c-189div042.gif" id="added30" media-type="image/gif"/>
+    <item href="c-189div044.jpg" id="added31" media-type="image/jpeg"/>
+    <item href="c-189div045.gif" id="added32" media-type="image/gif"/>
+    <item href="c-189div047.jpg" id="added33" media-type="image/jpeg"/>
+    <item href="c-189div049.jpg" id="added34" media-type="image/jpeg"/>
+    <item href="c-189div051.jpg" id="added35" media-type="image/jpeg"/>
+    <item href="c-189div053.gif" id="added36" media-type="image/gif"/>
+    <item href="c-189div055.jpg" id="added37" media-type="image/jpeg"/>
+    <item href="c-189div056.jpg" id="added38" media-type="image/jpeg"/>
+    <item href="c-189div057.jpg" id="added39" media-type="image/jpeg"/>
+    <item href="c-189div060.jpg" id="added40" media-type="image/jpeg"/>
+    <item href="c-189div062.jpg" id="added41" media-type="image/jpeg"/>
+    <item href="c-189div064.jpg" id="added42" media-type="image/jpeg"/>
+    <item href="c-189div066.jpg" id="added43" media-type="image/jpeg"/>
+    <item href="c-189div068.jpg" id="added44" media-type="image/jpeg"/>
+    <item href="c-189div069.jpg" id="added45" media-type="image/jpeg"/>
+    <item href="c-189div070.jpg" id="added46" media-type="image/jpeg"/>
+    <item href="c-189div072.jpg" id="added47" media-type="image/jpeg"/>
+    <item href="c-189div073.jpg" id="added48" media-type="image/jpeg"/>
+    <item href="c-189div074.jpg" id="added49" media-type="image/jpeg"/>
+    <item href="c-189div076.jpg" id="added50" media-type="image/jpeg"/>
+    <item href="c-189div077.jpg" id="added51" media-type="image/jpeg"/>
+    <item href="c-189div079.jpg" id="added52" media-type="image/jpeg"/>
+    <item href="c-189div081.jpg" id="added53" media-type="image/jpeg"/>
+    <item href="c-189ensayo1d.jpg" id="added55" media-type="image/jpeg"/>
+    <item href="c-189ensayo1i.jpg" id="added54" media-type="image/jpeg"/>
+    <item href="c-189ensayo2d.jpg" id="added57" media-type="image/jpeg"/>
+    <item href="c-189ensayo2i.jpg" id="added56" media-type="image/jpeg"/>
+    <item href="c-189humor20080901.jpg" id="added58" media-type="image/jpeg"/>
+    <item href="c-189humor20080902.jpg" id="added59" media-type="image/jpeg"/>
+    <item href="c-189humor20080903.jpg" id="added60" media-type="image/jpeg"/>
+    <item href="c-189humor20080904.jpg" id="added61" media-type="image/jpeg"/>
+    <item href="c-189humor20080905.jpg" id="added62" media-type="image/jpeg"/>
+    <item href="c-189humor20080906.jpg" id="added63" media-type="image/jpeg"/>
+    <item href="c-189humor20080908.jpg" id="added64" media-type="image/jpeg"/>
+    <item href="c-189humor20080909.jpg" id="added65" media-type="image/jpeg"/>
+    <item href="c-189humor20080910.jpg" id="added66" media-type="image/jpeg"/>
+    <item href="c-189tapach.jpg" id="added68" media-type="image/jpeg"/>
+    <item href="c-ejc3.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="x-epub.png" id="added69" media-type="image/png"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+    <itemref idref="html1"/>
+    <itemref idref="html2"/>
+    <itemref idref="html3"/>
+    <itemref idref="html4"/>
+    <itemref idref="html5"/>
+    <itemref idref="html6"/>
+    <itemref idref="html7"/>
+    <itemref idref="html8"/>
+    <itemref idref="html9"/>
+    <itemref idref="html10"/>
+    <itemref idref="html11"/>
+    <itemref idref="html12"/>
+    <itemref idref="html13"/>
+    <itemref idref="html14"/>
+    <itemref idref="html15"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

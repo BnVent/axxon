@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="4290cf10-25b2-4016-afa2-80df9c314dd1" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.48.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 268</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uUnYSC76eXP5lrRexECqHzD" playOrder="1">
+      <navLabel>
+        <text>Editorial: Mundo ordinario</text>
+      </navLabel>
+      <content src="c-268Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u5FhkEYr6DXBiS5WG4P5ItA" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Crónica de las caricias</text>
+      </navLabel>
+      <content src="c-268Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uMjGqYH7dmiRXSJ27RGEq22" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Las brujas de Carhué</text>
+      </navLabel>
+      <content src="c-268Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uiLku8tzHanYW8INAB5lFaB" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Purgatorio</text>
+      </navLabel>
+      <content src="c-268Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uWYYovOxyMfZO5C9PijOhy3" playOrder="5">
+      <navLabel>
+        <text>Ficciones: La cría humana</text>
+      </navLabel>
+      <content src="c-268Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uykBtMI9EFAsyDT9jnOZTGC" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Lo que puedo ver por la ventana</text>
+      </navLabel>
+      <content src="c-268Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uqBepTGQEyBGddTgY5Igsn3" playOrder="7">
+      <navLabel>
+        <text>Ficciones: La Vieja Vizcacha</text>
+      </navLabel>
+      <content src="c-268Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u7lSvervqDEiFXgAJgCiYSF" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Bárbaros</text>
+      </navLabel>
+      <content src="c-268Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uqIpBeGw6PGVO39SDuSIZZA" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Dyonisos</text>
+      </navLabel>
+      <content src="c-268Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u2mPYpXwp5WVSreioq3rw37" playOrder="10">
+      <navLabel>
+        <text>Ficciones: El capítulo 21</text>
+      </navLabel>
+      <content src="c-268Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uKulS6aYjmRfpfRS4OnPfPH" playOrder="11">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-268Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u4z7RSLQ4ZkRRe69sQLsAE7" playOrder="12">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

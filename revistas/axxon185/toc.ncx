@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="04a9c3ab-2d99-4bbe-a243-b2d5084fdb17" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.41.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 185</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ua5cb99f6-4093-4c43-a88a-800831ba9bf6" playOrder="1">
+      <navLabel>
+        <text>Editorial: Mayo en Axxón</text>
+      </navLabel>
+      <content src="c-185Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ub20857dd-b833-4f9e-880a-2acc3df58cbe" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Dreamtheatre</text>
+      </navLabel>
+      <content src="c-185Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u3b5ebc84-e8a1-4415-8859-50c12d87bcd1" playOrder="3">
+      <navLabel>
+        <text>Ficciones: La flor de simbelmín</text>
+      </navLabel>
+      <content src="c-185Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u13c0bad8-edf5-4300-a4fc-f4974b7e445c" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Autómata de Buenos Aires</text>
+      </navLabel>
+      <content src="c-185Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u2d47b150-e59c-460d-b35f-bdd6c626fd5c" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El sable fugaz, al filo del viento</text>
+      </navLabel>
+      <content src="c-185Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u1407fb6c-d4af-4d85-8399-9bd6268d37a4" playOrder="6">
+      <navLabel>
+        <text>Divulgación: Sapo de otro pozo</text>
+      </navLabel>
+      <content src="c-185Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ub7d59ccb-2fba-40c7-a891-da7dba3fad8c" playOrder="7">
+      <navLabel>
+        <text>Entrevista: Entrevista con Bruce McAllister</text>
+      </navLabel>
+      <content src="c-185Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u67b51eba-e644-4881-a18b-ec9fd6f0cd7a" playOrder="8">
+      <navLabel>
+        <text>Ensayo: Un novedoso tipo de Literatura</text>
+      </navLabel>
+      <content src="c-185Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u240319da-c42a-4c92-9825-45a100f71e8b" playOrder="9">
+      <navLabel>
+        <text>Ensayo: Un experimento de un millón de años</text>
+      </navLabel>
+      <content src="c-185Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u3a74f9b8-f172-424c-9929-40a5b21ea562" playOrder="10">
+      <navLabel>
+        <text>Axxóncine: eXistenZ</text>
+      </navLabel>
+      <content src="c-185Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uf35a4395-d669-49ab-a622-ef2c225cb6ae" playOrder="11">
+      <navLabel>
+        <text>Ficciones: D.T.</text>
+      </navLabel>
+      <content src="c-185Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ua7bc06e4-2930-4a9a-ac56-85f5f848a5a4" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Dr. Melther, mercader de sueños</text>
+      </navLabel>
+      <content src="c-185Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u84a7f5da-1682-4391-9ac3-582ba3c37436" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Blaze Kitoko</text>
+      </navLabel>
+      <content src="c-185Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u2de3722f-bfb2-436a-b06d-9ee6d7cdda0d" playOrder="14">
+      <navLabel>
+        <text>Ficciones: Abrirse paso</text>
+      </navLabel>
+      <content src="c-185Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u789d59fa-fbdc-4fda-949e-97ac7b6351e3" playOrder="15">
+      <navLabel>
+        <text>Ficciones: Presión</text>
+      </navLabel>
+      <content src="c-185Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u3ffd09e5-bb43-4643-a637-16d6504eaf70" playOrder="16">
+      <navLabel>
+        <text>Clásico: Más allá del Río Negro</text>
+      </navLabel>
+      <content src="c-185Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u6a248c98-eb3d-45b7-a2f3-534ac6678c7d" playOrder="17">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-185Pag17.htm"/>
+    </navPoint>
+    <navPoint id="ue3b4b10a-1ef4-4fdb-bc16-a1a47ef8a26e" playOrder="18">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="60c29650-0ffd-4ea1-8ccf-899297636cb6" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.16.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 198</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ub5c74576-1c5e-4746-aa28-54ab11161f84" playOrder="1">
+      <navLabel>
+        <text>Editorial: Aquí estamos</text>
+      </navLabel>
+      <content src="c-198Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u9dca1aa2-bf8c-4815-8575-8787589e99a4" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas Axxónicas</text>
+      </navLabel>
+      <content src="c-198Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u89aad507-05c6-486f-aecb-624976de734a" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El mate te hace pensar cuando estás solo</text>
+      </navLabel>
+      <content src="c-198Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uf19200e9-e40b-4b12-b719-98971a1ea6fa" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Ping Bang</text>
+      </navLabel>
+      <content src="c-198Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u16f7e129-d4e9-45bc-beee-805635983c64" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El agujero</text>
+      </navLabel>
+      <content src="c-198Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uff6305d4-7b05-49bb-891f-dd7ce057b6cd" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Los amantes de piedra</text>
+      </navLabel>
+      <content src="c-198Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u7839516f-f6b7-496b-9b1e-a9e6931c344f" playOrder="7">
+      <navLabel>
+        <text>Ficciones: El terminal</text>
+      </navLabel>
+      <content src="c-198Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u008c1bcf-80e1-4f7c-a3fa-f57c70836855" playOrder="8">
+      <navLabel>
+        <text>Divulgación: ¿Estamos solos?</text>
+      </navLabel>
+      <content src="c-198Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u126ea282-9b23-4241-b1bb-1ebc86a035f4" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (49)</text>
+      </navLabel>
+      <content src="c-198Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ube02ba90-928a-4db0-9f66-57524ec6bb94" playOrder="10">
+      <navLabel>
+        <text>Ensayo: 40 años de adolescencia</text>
+      </navLabel>
+      <content src="c-198Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u31e56702-7c2c-477b-8b5d-ebde3aca3214" playOrder="11">
+      <navLabel>
+        <text>Axxóncine: ¿Quieres ser John Malkovich?</text>
+      </navLabel>
+      <content src="c-198Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ucd45cec5-36f3-4292-92f9-5ced28ff3b29" playOrder="12">
+      <navLabel>
+        <text>Ficciones: La vaca no es una vaca</text>
+      </navLabel>
+      <content src="c-198Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u02d0616d-7387-4158-b383-60f50164028d" playOrder="13">
+      <navLabel>
+        <text>Ficciones: El lago</text>
+      </navLabel>
+      <content src="c-198Pag13.htm"/>
+    </navPoint>
+    <navPoint id="uc9f98dee-11e5-4044-bfd2-9f95939a2f7c" playOrder="14">
+      <navLabel>
+        <text>Ficciones: Una cuestión de balística</text>
+      </navLabel>
+      <content src="c-198Pag14.htm"/>
+    </navPoint>
+    <navPoint id="ua334b3b8-a271-44c2-bfaf-446a43c3bd4d" playOrder="15">
+      <navLabel>
+        <text>Ficciones: La subasta</text>
+      </navLabel>
+      <content src="c-198Pag15.htm"/>
+    </navPoint>
+    <navPoint id="uc0d22255-5005-46f8-ac79-fe6a64ea7ae6" playOrder="16">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-198Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u2b2d9369-02b7-4fe4-b6d9-fa6ce0edf20f" playOrder="17">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

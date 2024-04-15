@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="2446992b-1a13-4b0b-8b2e-5099671c07fa" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.14.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 212</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u4a707bbc-72dd-44d9-9ac4-7004f374b5d1" playOrder="1">
+      <navLabel>
+        <text>Ficciones: Los apestados de Tanit</text>
+      </navLabel>
+      <content src="c-212Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u7086b872-7821-443d-90fa-340d12a7808c" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Los que no saben morir</text>
+      </navLabel>
+      <content src="c-212Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u16c07cb0-60db-4df0-86c4-c8d8dd3905a0" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Ella</text>
+      </navLabel>
+      <content src="c-212Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u63fecd1d-1602-4f5e-beee-25b66d9a462f" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El Tatuador</text>
+      </navLabel>
+      <content src="c-212Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u00ef84a1-cb44-4343-b854-939bda6fcf34" playOrder="5">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-212Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u7b98be24-60ed-47a6-b180-81e9e0c8e616" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Francotiradores</text>
+      </navLabel>
+      <content src="c-212Pag06.htm"/>
+    </navPoint>
+    <navPoint id="udb4c6086-6663-4cc0-9ecb-663f3af9464a" playOrder="7">
+      <navLabel>
+        <text>Ficciones: El instante en que se pierde aquello que se ha perdido ya</text>
+      </navLabel>
+      <content src="c-212Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uf9ed4dc5-e88d-4533-8c57-09d221645a88" playOrder="8">
+      <navLabel>
+        <text>Editorial: Reflexiones</text>
+      </navLabel>
+      <content src="c-212Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u6ee0fe01-6179-459a-9cd3-88c415b651e8" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Norte profundo</text>
+      </navLabel>
+      <content src="c-212Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u478f93af-1e54-4ae0-bb00-4252a1135f38" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Ocaso y desaparición de Ciudad Lejana</text>
+      </navLabel>
+      <content src="c-212Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uc38651a9-aed7-447f-a2b4-8e88848695a4" playOrder="11">
+      <navLabel>
+        <text>Ficciones: R.G.B.</text>
+      </navLabel>
+      <content src="c-212Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u30c4d924-af44-4efa-a2e6-6435b10170db" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Trashpunk (parte 1)</text>
+      </navLabel>
+      <content src="c-212Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u46033448-2140-49bd-bf22-fc1649112a9e" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Trashpunk (parte 2)</text>
+      </navLabel>
+      <content src="c-212Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u43d80b61-8a7c-471a-930c-541ab5a1a0f3" playOrder="14">
+      <navLabel>
+        <text>Ficciones: Trashpunk (parte 3)</text>
+      </navLabel>
+      <content src="c-212Pag14.htm"/>
+    </navPoint>
+    <navPoint id="udd20795f-12d8-4e8f-ba88-aea16b953c70" playOrder="15">
+      <navLabel>
+        <text>Ficciones: Trashpunk (parte 4 y final)</text>
+      </navLabel>
+      <content src="c-212Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u0fb3127c-cd72-42d8-919a-f452b9cff1db" playOrder="16">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="2d319d63-24f5-4fb4-9920-eafe1ee00a81" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.41.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 182</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u30cedd73-6b97-4157-9415-8adea67c8379" playOrder="1">
+      <navLabel>
+        <text>Editorial: “Otra vez”</text>
+      </navLabel>
+      <content src="c-182Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u7a298794-4248-43ad-9140-f04aee6c9975" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-182Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uca2a7c63-333c-4d12-87c3-b4b1b28d0177" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Tiempo de descuento</text>
+      </navLabel>
+      <content src="c-182Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u5a362455-c1ee-4ebf-b5f3-0e439a0769a1" playOrder="4">
+      <navLabel>
+        <text>Ficciones: En su salsa</text>
+      </navLabel>
+      <content src="c-182Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uc9b91595-dfd5-4680-8237-ff26ab63f286" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Cinco variaciones</text>
+      </navLabel>
+      <content src="c-182Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ub6ddb0cc-49c6-4542-9f9d-f5301f4b225f" playOrder="6">
+      <navLabel>
+        <text>Ficciones: La angustia —y no bromeo— de Dios</text>
+      </navLabel>
+      <content src="c-182Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ucf536a57-3427-4406-bb19-73d17996cb5d" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (39)</text>
+      </navLabel>
+      <content src="c-182Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ua6f7c5f3-f313-4a8c-89c7-c20840faf037" playOrder="8">
+      <navLabel>
+        <text>Ensayo: El uso y abuso del relato policial en “Tlön, Uqbar, Orbis Tertius”</text>
+      </navLabel>
+      <content src="c-182Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u1ecf3aea-2a4d-47c3-84ac-0a7cd98f6c80" playOrder="9">
+      <navLabel>
+        <text>Entrevista: Entrevista con el escritor Antonio Mora Vélez</text>
+      </navLabel>
+      <content src="c-182Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uaac37c03-b349-434a-ac43-99306f96efc0" playOrder="10">
+      <navLabel>
+        <text>Divulgación: Una joya en el aire</text>
+      </navLabel>
+      <content src="c-182Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u6d3fb54c-e554-49e0-9668-323f12303322" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Hotel Imperial</text>
+      </navLabel>
+      <content src="c-182Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u4fbebbfd-ce97-43a7-aeaa-c2666a28c215" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Cabeza cableada</text>
+      </navLabel>
+      <content src="c-182Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u8a0349ea-cf87-40d4-9403-f5fecb565231" playOrder="13">
+      <navLabel>
+        <text>Axxóncine: Sweeney Todd: El Barbero Demoníaco de la Calle Fleet</text>
+      </navLabel>
+      <content src="c-182Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u8a1da504-dd97-489e-9a84-4d17fc75fb7e" playOrder="14">
+      <navLabel>
+        <text>Clásico: El Psychon</text>
+      </navLabel>
+      <content src="c-182Pag14.htm"/>
+    </navPoint>
+    <navPoint id="ue360ed5f-49c7-49f1-9746-c06efb6f6f2a" playOrder="15">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-182Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u0e27674b-1e38-41cc-a7e0-5cc5b3921610" playOrder="16">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

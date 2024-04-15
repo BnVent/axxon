@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="b50fd930-ff08-4e37-b220-35aca3eea1ee" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.38)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 83</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u2617e9e2-3729-4887-a125-c348a03f31f5" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-83Pag01.htm"/>
+    </navPoint>
+    <navPoint id="udd001d17-9ee6-4bb2-9d92-19821129f08f" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 83</text>
+      </navLabel>
+      <content src="c-83Pag02.htm"/>
+    </navPoint>
+    <navPoint id="udface9f4-c674-45e0-9be7-89ea7d649108" playOrder="3">
+      <navLabel>
+        <text>Ficciones: La canción de Samantha</text>
+      </navLabel>
+      <content src="c-83Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uf3ffda44-92ba-43b7-9d88-92882035ac6e" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Corre hacia mí</text>
+      </navLabel>
+      <content src="c-83Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u632856b1-7c51-44a9-a60d-710c2bdb4908" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El caos ambiguo del lugar</text>
+      </navLabel>
+      <content src="c-83Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ucbab8988-3192-4767-a159-67844967d325" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Paz y rutina</text>
+      </navLabel>
+      <content src="c-83Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ua84e8ba0-e178-4adf-b44a-a6a8b4ef22fe" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Vástago de furia y tiempo</text>
+      </navLabel>
+      <content src="c-83Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u16c04865-5f60-418b-92fe-9ef2327c4362" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Destellos en vidrio azul</text>
+      </navLabel>
+      <content src="c-83Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uc8357832-6d8c-4bb6-95cc-bf76636c7126" playOrder="10">
+      <navLabel>
+        <text>Ficciones: La maza y el hacha</text>
+      </navLabel>
+      <content src="c-83Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ubf4feff0-0ba5-49d3-aec5-394eb075c615" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Leyenda</text>
+      </navLabel>
+      <content src="c-83Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u305ef384-7e1b-4d65-9d04-c4eb5deaa283" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Sí, acepto</text>
+      </navLabel>
+      <content src="c-83Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u0aa0923f-9c56-441b-b2ac-7cc120593f05" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Caperucita Roja en el siglo XXV</text>
+      </navLabel>
+      <content src="c-83Pag12.htm"/>
+    </navPoint>
+    <navPoint id="uefa39107-b505-46bd-b842-9fb568dafb97" playOrder="14">
+      <navLabel>
+        <text>Ficciones: Cinco flores para Alicia</text>
+      </navLabel>
+      <content src="c-83Pag13.htm"/>
+    </navPoint>
+    <navPoint id="ud24d3077-767a-4145-869a-581e26dd3d91" playOrder="15">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual</text>
+      </navLabel>
+      <content src="c-83Pag14.htm"/>
+    </navPoint>
+    <navPoint id="uec2781c7-e451-4311-95d9-f07dfd6b33d0" playOrder="16">
+      <navLabel>
+        <text>Ensayo: Alien-Notion I: Cómo eliminar a un alien sin necesidad de apretar el gatillo</text>
+      </navLabel>
+      <content src="c-83Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u3c23d2e6-4153-41bc-ac8a-02b33d513e0d" playOrder="17">
+      <navLabel>
+        <text>Correo: Correo 83</text>
+      </navLabel>
+      <content src="c-83Pag16.htm"/>
+    </navPoint>
+    <navPoint id="uad296b52-e3d0-4423-9da4-993fef23841f" playOrder="18">
+      <navLabel>
+        <text>Sección: Revista virtual de informática</text>
+      </navLabel>
+      <content src="c-83Pag17.htm"/>
+    </navPoint>
+    <navPoint id="udd227df9-333d-4931-81e4-ac02dd3e77d4" playOrder="19">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-83Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u04188cb1-a8b7-42b2-ae12-9a55dcae3dce" playOrder="20">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-83Pag19.htm"/>
+    </navPoint>
+    <navPoint id="uc48f1460-891f-40ae-9f7f-b3c6c27a9ef3" playOrder="21">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="u4c7bd73f-8c71-428e-99ad-9986c9b1f35f" playOrder="8">
+      <navLabel>
+        <text>[*]</text>
+      </navLabel>
+      <content src="c-83Pag07.htm#id2"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="44b681d8-4fd8-4ada-b995-c681f76bfe9e" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.37)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 243</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u358928ae-24f5-4f67-b828-3cd9830c14e2" playOrder="1">
+      <navLabel>
+        <text>Editorial: Puertas</text>
+      </navLabel>
+      <content src="c-243Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uebac9cfb-371b-4b79-ba61-74110adab554" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Nieve</text>
+      </navLabel>
+      <content src="c-243Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uebcccbf0-5b3f-4ecf-b06e-c74921ef00c5" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El lápiz</text>
+      </navLabel>
+      <content src="c-243Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ub662b537-9e8e-45ad-b543-9aaea8d752dc" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Las oportunidades perdidas</text>
+      </navLabel>
+      <content src="c-243Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u8c8168e6-d5c6-4ea9-94f1-d258807262c0" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El gran Mirobi</text>
+      </navLabel>
+      <content src="c-243Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u1e117200-a4d1-43a1-9370-72445c3897ef" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Las enseñanzas de Gan Bao</text>
+      </navLabel>
+      <content src="c-243Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u54ef5f5c-b10f-4b8d-b6a0-2693502557fd" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Cuento de papel y tinta azul</text>
+      </navLabel>
+      <content src="c-243Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uf4bb2e35-0364-4cb2-9ed3-7d55f5dd470b" playOrder="8">
+      <navLabel>
+        <text>Ficciones: El probador</text>
+      </navLabel>
+      <content src="c-243Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u594dea7c-ea9a-4c5e-9aee-3e60481dc9ac" playOrder="9">
+      <navLabel>
+        <text>Ficciones: El historiador</text>
+      </navLabel>
+      <content src="c-243Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ue94b69dd-caff-4d09-9e6b-65ac55ebddf9" playOrder="10">
+      <navLabel>
+        <text>Ficciones: ¿Ha oído llorar a los lobos?</text>
+      </navLabel>
+      <content src="c-243Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u2779c22a-8585-4104-b298-b74c749fc9ba" playOrder="11">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="u178db8eb-99ab-416f-af3d-6b758e8abfa4" playOrder="11">
+      <navLabel>
+        <text>Unnamed</text>
+      </navLabel>
+      <content src="/rev/243/cuento2ilus1.htm"/>
+    </navPoint>
+    <navPoint id="u4342ff05-4650-4add-a605-d15e710abcda" playOrder="12">
+      <navLabel>
+        <text>Unnamed</text>
+      </navLabel>
+      <content src="/rev/243/cuento3ilus1.htm"/>
+    </navPoint>
+    <navPoint id="uac0bdc90-dbf9-48c7-9d3c-f8c1421f7304" playOrder="13">
+      <navLabel>
+        <text>Enciclopedia</text>
+      </navLabel>
+      <content src="/wiki/index.php"/>
+    </navPoint>
+    <navPoint id="ud62c635f-ab10-4069-af41-1077a453ae1d" playOrder="14">
+      <navLabel>
+        <text>JINETES</text>
+      </navLabel>
+      <content src="/rev/163/c-163cuento6.htm"/>
+    </navPoint>
+    <navPoint id="ufdbabd7d-ff85-4bbf-ab88-3a8ceb992d33" playOrder="15">
+      <navLabel>
+        <text>SEOL</text>
+      </navLabel>
+      <content src="/rev/165/c-165cuento6.htm"/>
+    </navPoint>
+    <navPoint id="ub673335c-03fe-4bcf-b28d-bd9c42c056f8" playOrder="16">
+      <navLabel>
+        <text>TANGOSPACIO</text>
+      </navLabel>
+      <content src="/rev/168/c-168cuento13.htm"/>
+    </navPoint>
+    <navPoint id="u4e689ecd-fa9f-4f6e-8f7b-317f65a3474e" playOrder="17">
+      <navLabel>
+        <text>ROBOPSIQUIATRA 10.203.911</text>
+      </navLabel>
+      <content src="/rev/169/c-169cuento2.htm"/>
+    </navPoint>
+    <navPoint id="u21d9b1da-0e3a-4cd8-8fcd-b085f9b9bbc4" playOrder="18">
+      <navLabel>
+        <text>PAN-RAKIB</text>
+      </navLabel>
+      <content src="/rev/170/c-170cuento8.htm#5"/>
+    </navPoint>
+    <navPoint id="ufb8d6621-4d59-4226-8746-5dd137ec6cb6" playOrder="19">
+      <navLabel>
+        <text>CERRADA</text>
+      </navLabel>
+      <content src="/rev/179/c-179cuento8.htm"/>
+    </navPoint>
+    <navPoint id="u3666d394-49cc-429f-8c28-0c03b2adb151" playOrder="20">
+      <navLabel>
+        <text>EL EFECTO TORTUGA</text>
+      </navLabel>
+      <content src="/rev/180/c-180cuento3.htm"/>
+    </navPoint>
+    <navPoint id="u82face0d-dd83-447e-94e0-994349f0691e" playOrder="21">
+      <navLabel>
+        <text>EL G</text>
+      </navLabel>
+      <content src="/rev/187/c-187cuento5.htm"/>
+    </navPoint>
+    <navPoint id="u70896915-b195-4f85-9635-e4e5a70ac766" playOrder="22">
+      <navLabel>
+        <text>DEVENIR</text>
+      </navLabel>
+      <content src="/rev/194/c-194cuento5.htm"/>
+    </navPoint>
+    <navPoint id="ufb2de3c2-511e-45dc-83c2-25876ba958cf" playOrder="23">
+      <navLabel>
+        <text>LA INMUTABILIDAD DE LOS CICLOS</text>
+      </navLabel>
+      <content src="/rev/2010/01/la-inmutabilidad-de-los-ciclos-ricardo-giorno/"/>
+    </navPoint>
+    <navPoint id="u3e661d9a-9d1f-4bae-8e77-e3518a19c4b6" playOrder="24">
+      <navLabel>
+        <text>EL REGRESO DE MANÉ</text>
+      </navLabel>
+      <content src="/rev/2010/05/el-regreso-de-mane-ricardo-giorno/"/>
+    </navPoint>
+    <navPoint id="u3883b182-b170-4475-85c1-df02b7ff57a1" playOrder="25">
+      <navLabel>
+        <text>PARÁBOLA DE LA YARARÁ</text>
+      </navLabel>
+      <content src="/rev/2011/04/parabola-de-la-yarara-ricardo-giorno/"/>
+    </navPoint>
+    <navPoint id="u1357218c-833a-492e-b431-3161df714dc1" playOrder="26">
+      <navLabel>
+        <text>LA GARRA DEL JAGUAR</text>
+      </navLabel>
+      <content src="/rev/2011/06/la-garra-del-jaguar-ricardo-giorno/"/>
+    </navPoint>
+    <navPoint id="u2383b93d-48f0-475d-8bef-a1344623ba05" playOrder="27">
+      <navLabel>
+        <text>MARCELO DI MARCO</text>
+      </navLabel>
+      <content src="/rev/2011/09/entrevista-a-marcelo-di-marco-por-ricardo-german-giorno/"/>
+    </navPoint>
+    <navPoint id="u8752fd55-7490-4e05-9504-458d3468210e" playOrder="28">
+      <navLabel>
+        <text>YOSS</text>
+      </navLabel>
+      <content src="/rev/2011/11/entrevista-a-yoss-por-ricardo-german-giorno/"/>
+    </navPoint>
+    <navPoint id="u9e7225e8-7cfd-4beb-bd52-60f88f0f8ff0" playOrder="29">
+      <navLabel>
+        <text>EDUARDO CARLETTI</text>
+      </navLabel>
+      <content src="/rev/2012/01/entrevista-a-eduardo-j-carletti-por-ricardo-german-giorno/"/>
+    </navPoint>
+    <navPoint id="u45202b32-7dac-491f-8b0a-1e9b01565f5b" playOrder="30">
+      <navLabel>
+        <text>VÍCTOR CONDE</text>
+      </navLabel>
+      <content src="/rev/2012/03/entrevista-a-victor-conde-por-ricardo-german-giorno/"/>
+    </navPoint>
+    <navPoint id="ua64d2f20-24c5-480b-8d49-f33f7739b10e" playOrder="31">
+      <navLabel>
+        <text>PABLO DOBRININ</text>
+      </navLabel>
+      <content src="/rev/2012/05/entrevista-a-pablo-dobrinin-ricardo-german-giorno/"/>
+    </navPoint>
+    <navPoint id="u90f79394-f69c-4133-a060-c408ccc79cd1" playOrder="32">
+      <navLabel>
+        <text>M. C. CARPER</text>
+      </navLabel>
+      <content src="/rev/2012/07/entrevista-a-m-c-carper-ricardo-german-giorno/"/>
+    </navPoint>
+    <navPoint id="ue55b6706-5bb1-4b5d-9bd5-b6273f7eccf2" playOrder="33">
+      <navLabel>
+        <text>ANTONIO MORA VÉLEZ</text>
+      </navLabel>
+      <content src="/rev/2012/12/entrevista-a-antonio-mora-velez-ricardo-giorno/"/>
+    </navPoint>
+    <navPoint id="u9def5e47-842a-4932-8c70-459bdffb7ed5" playOrder="34">
+      <navLabel>
+        <text>FRAGA</text>
+      </navLabel>
+      <content src="/rev/2013/02/entrevista-a-fraga-ricardo-giorno/"/>
+    </navPoint>
+    <navPoint id="uf0c63a79-84ec-48f6-8ef0-d0fbbe1ced98" playOrder="35">
+      <navLabel>
+        <text>LAURA PONCE</text>
+      </navLabel>
+      <content src="/rev/2013/03/entrevista-a-laura-ponce-ricardo-giorno/"/>
+    </navPoint>
+    <navPoint id="uf77082c2-c63d-4365-804d-8e9806adb40b" playOrder="36">
+      <navLabel>
+        <text>LUIS PESTARINI</text>
+      </navLabel>
+      <content src="/rev/2013/04/entrevista-a-luis-pestarini-ricardo-german-giorno/"/>
+    </navPoint>
+    <navPoint id="u849b0afb-a804-4226-8acd-a4c54cd944dc" playOrder="37">
+      <navLabel>
+        <text>TERESA PILAR MIRA DE ECHEVERRÍA</text>
+      </navLabel>
+      <content src="/rev/2013/05/entrevista-a-teresa-pilar-mira-de-echeverria-ricardo-giorno/"/>
+    </navPoint>
+    <navPoint id="u973e1ccb-7623-4d5f-8fa4-83270a36327c" playOrder="38">
+      <navLabel>
+        <text>Unnamed</text>
+      </navLabel>
+      <content src="/rev/243/cuento4ilus1.htm"/>
+    </navPoint>
+    <navPoint id="ubc5fe151-719d-4988-a8eb-72ed1a2fd0ae" playOrder="39">
+      <navLabel>
+        <text>LOS DESPOJADOS</text>
+      </navLabel>
+      <content src="/rev/2013/04/los-despojados-enrique-jose-decarli/"/>
+    </navPoint>
+    <navPoint id="u688ba9f5-c627-4d74-a314-701623054233" playOrder="40">
+      <navLabel>
+        <text>PALOMAR</text>
+      </navLabel>
+      <content src="/rev/2013/05/palomar-enrique-jose-decarli/"/>
+    </navPoint>
+    <navPoint id="u165d2197-9fd1-4a6b-b08f-560081d97ecd" playOrder="41">
+      <navLabel>
+        <text>Unnamed</text>
+      </navLabel>
+      <content src="/rev/243/cuento5ilus1.htm"/>
+    </navPoint>
+    <navPoint id="ucbaf07cd-2b97-4efe-b135-0ebe710f2145" playOrder="42">
+      <navLabel>
+        <text>TEMPUS FUGIT</text>
+      </navLabel>
+      <content src="/rev/2010/12/tempus-fugit-carlos-perez-jara/"/>
+    </navPoint>
+    <navPoint id="u23b34270-da51-44b3-aad8-484fa58edfb6" playOrder="43">
+      <navLabel>
+        <text>LEGADO</text>
+      </navLabel>
+      <content src="/rev/2011/07/legado-carlos-perez-jara/"/>
+    </navPoint>
+    <navPoint id="u4da490d0-4b84-4f42-95ab-cf31a25fd48b" playOrder="44">
+      <navLabel>
+        <text>AL OTRO LADO DE LA LLANURA</text>
+      </navLabel>
+      <content src="/rev/2011/10/al-otro-lado-de-la-llanura-carlos-perez-jara/"/>
+    </navPoint>
+    <navPoint id="u614a6ea6-5b84-41e1-85ce-9ab09a03beb8" playOrder="45">
+      <navLabel>
+        <text>LA DECIMOTERCERA CLÁUSULA</text>
+      </navLabel>
+      <content src="/rev/2012/01/la-decimotercera-clausula-carlos-perez-jara/"/>
+    </navPoint>
+    <navPoint id="u424e89ae-015f-4720-806b-cbe2864ea71a" playOrder="46">
+      <navLabel>
+        <text>HIJA DE HELISURPA</text>
+      </navLabel>
+      <content src="/rev/2012/04/hija-de-helisurpa-carlos-perez-jara/"/>
+    </navPoint>
+    <navPoint id="ub88243c1-de59-43d1-9815-3d525c18914a" playOrder="47">
+      <navLabel>
+        <text>PURGATORIO</text>
+      </navLabel>
+      <content src="/rev/2012/08/purgatorio-carlos-perez-jara/"/>
+    </navPoint>
+    <navPoint id="u2a10c6da-0cc3-4db3-b92b-ac471bacad5f" playOrder="48">
+      <navLabel>
+        <text>ESPÍRITUS Y MARIONETAS</text>
+      </navLabel>
+      <content src="/rev/2012/12/espiritus-y-marionetas-carlos-perez-jara/"/>
+    </navPoint>
+    <navPoint id="ue1c17fdf-c75a-4552-9b16-da42581b7034" playOrder="49">
+      <navLabel>
+        <text>ORILÁN</text>
+      </navLabel>
+      <content src="/rev/2013/03/orilan-carlos-perez-jara/"/>
+    </navPoint>
+  </navMap>
+</ncx>

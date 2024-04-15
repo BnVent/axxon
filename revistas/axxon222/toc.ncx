@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="6f2dbc03-9375-408b-9401-e817096fc42d" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.20)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 222</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="b8157b87-718d-4a5e-897f-40eb552906f0" playOrder="1">
+      <navLabel>
+        <text>Ficciones - Veneno</text>
+      </navLabel>
+      <content src="c-222Pag01.htm"/>
+    </navPoint>
+    <navPoint id="9c8bad74-192a-488f-9d89-fd63a4efd2b7" playOrder="2">
+      <navLabel>
+        <text>Ficciones - Enseñando a leer a Pie Grande</text>
+      </navLabel>
+      <content src="c-222Pag02.htm"/>
+    </navPoint>
+    <navPoint id="d4e75830-5c44-4803-8b28-25971e916f7b" playOrder="3">
+      <navLabel>
+        <text>Ficciones - Tierna infancia</text>
+      </navLabel>
+      <content src="c-222Pag03.htm"/>
+    </navPoint>
+    <navPoint id="b10f73c1-fa33-4405-b5e1-fec1aac5b6fe" playOrder="4">
+      <navLabel>
+        <text>Ficciones - La teoría del budín inglés</text>
+      </navLabel>
+      <content src="c-222Pag04.htm"/>
+    </navPoint>
+    <navPoint id="31f2df65-d252-4b3e-bf1a-29a3aabaaa72" playOrder="5">
+      <navLabel>
+        <text>Entrevista - Entrevista a Marcelo Di Marco</text>
+      </navLabel>
+      <content src="c-222Pag05.htm"/>
+    </navPoint>
+    <navPoint id="efb6d109-a702-4ca1-9ca9-11fbd424ca68" playOrder="6">
+      <navLabel>
+        <text>Ficciones - Blue</text>
+      </navLabel>
+      <content src="c-222Pag06.htm"/>
+    </navPoint>
+    <navPoint id="831be80e-d2c0-464f-b296-20f2b0db84be" playOrder="7">
+      <navLabel>
+        <text>Ficciones - La variante biológica</text>
+      </navLabel>
+      <content src="c-222Pag07.htm"/>
+    </navPoint>
+    <navPoint id="0d1d864f-d165-4e1a-b7f2-c5b94f2e0579" playOrder="8">
+      <navLabel>
+        <text>Ficciones - Ficción Breve (sesenta y cuatro)</text>
+      </navLabel>
+      <content src="c-222Pag08.htm"/>
+    </navPoint>
+    <navPoint id="87592a9c-0cf7-4dba-af8a-64486dcd9331" playOrder="9">
+      <navLabel>
+        <text>Editorial - “El poder de la palabra”</text>
+      </navLabel>
+      <content src="c-222Pag09.htm"/>
+    </navPoint>
+    <navPoint id="270b04dd-c3fd-4b12-856c-f387fcda120d" playOrder="10">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="30eee9b5-6f59-4198-8af1-c31dcb30cf05" playOrder="10">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/222/cuento1ilus1.htm"/>
+    </navPoint>
+    <navPoint id="e3db6a46-5771-44f5-ac85-06d22c05ba4c" playOrder="11">
+      <navLabel>
+        <text>LINAJE</text>
+      </navLabel>
+      <content src="/rev/175/c-175cuento1.htm"/>
+    </navPoint>
+    <navPoint id="8bf564fe-573f-466b-a1a2-a373d5bcc699" playOrder="12">
+      <navLabel>
+        <text>HÉROE, LA PELÍCULA</text>
+      </navLabel>
+      <content src="/rev/177/c-177cuento3.htm"/>
+    </navPoint>
+    <navPoint id="b4b8c84a-0444-44a4-80d7-bfe5cbd40c81" playOrder="13">
+      <navLabel>
+        <text>EL LADO OSCURO DE LA LUNA</text>
+      </navLabel>
+      <content src="/rev/104/c-104Cuento1.htm"/>
+    </navPoint>
+    <navPoint id="15eba9d8-9326-4b1d-9b76-50b842c990c7" playOrder="14">
+      <navLabel>
+        <text>MIS VECINAS</text>
+      </navLabel>
+      <content src="/rev/160/c-160cuento14.htm"/>
+    </navPoint>
+    <navPoint id="a3fa1684-ce01-4f0c-8fb3-097de273e391" playOrder="15">
+      <navLabel>
+        <text>ZARZA</text>
+      </navLabel>
+      <content src="/rev/167/c-167cuento6.htm"/>
+    </navPoint>
+    <navPoint id="afac04e6-2db2-4a00-96ef-68fbe894e0a9" playOrder="16">
+      <navLabel>
+        <text>LAS UVAS DE SEVERINO ROLDÁN</text>
+      </navLabel>
+      <content src="/rev/"/>
+    </navPoint>
+    <navPoint id="5c8c3931-5d1a-4664-b736-e955084593ea" playOrder="17">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/222/cuento2ilus1.htm"/>
+    </navPoint>
+    <navPoint id="e61a9273-ed53-46e0-9088-ba1bff7792f2" playOrder="18">
+      <navLabel>
+        <text>LUCY Y EL MONSTRUO</text>
+      </navLabel>
+      <content src="/rev/#1"/>
+    </navPoint>
+    <navPoint id="e0c7be6a-c321-44a3-994b-84c5479f3a7c" playOrder="19">
+      <navLabel>
+        <text>CRIATURAS TRANSLÚCIDAS</text>
+      </navLabel>
+      <content src="/rev/172/c-172cuento2.htm"/>
+    </navPoint>
+    <navPoint id="7c2d1eda-432a-4b57-9d82-f448d2901eb3" playOrder="20">
+      <navLabel>
+        <text>ALGO EN EL LAGO</text>
+      </navLabel>
+      <content src="/rev/129/c-129CuentoAlgoenelLago.htm"/>
+    </navPoint>
+    <navPoint id="1626ec57-a871-4a99-a053-09f1e5526ca5" playOrder="21">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/222/cuento3ilus1.htm"/>
+    </navPoint>
+    <navPoint id="44a9c857-b4e2-4c40-a529-dc28e3c6b9b7" playOrder="22">
+      <navLabel>
+        <text>ROJO FEDERAL</text>
+      </navLabel>
+      <content src="/rev/134/c-134Cuento1.htm"/>
+    </navPoint>
+    <navPoint id="29cc9951-d4c4-4044-83af-7a30c27ab284" playOrder="23">
+      <navLabel>
+        <text>EL BAILE DE LAS VÍCTIMAS</text>
+      </navLabel>
+      <content src="/rev/169/c-169cuento15.htm"/>
+    </navPoint>
+    <navPoint id="7b56579a-68b5-45d5-8ed2-d27bf5cfdc6e" playOrder="24">
+      <navLabel>
+        <text>EL VAMPIRO</text>
+      </navLabel>
+      <content src="/rev/175/c-175cuento10.htm"/>
+    </navPoint>
+    <navPoint id="d3e333df-cc58-4f19-bc43-853e36aa0a25" playOrder="25">
+      <navLabel>
+        <text>EN DEUDA CON EL BARROCO</text>
+      </navLabel>
+      <content src="/rev/198/c-198cuento6.htm#14"/>
+    </navPoint>
+    <navPoint id="40d598d7-35e6-4fc8-9822-4a46b9312c69" playOrder="26">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/222/cuento4ilus1.htm"/>
+    </navPoint>
+    <navPoint id="bf81a2be-c597-456a-9e2f-f88e542e4812" playOrder="27">
+      <navLabel>
+        <text>ENCUENTRO FALLIDO</text>
+      </navLabel>
+      <content src="/rev/161/c-161cuento1.htm"/>
+    </navPoint>
+    <navPoint id="4650cca2-f38e-4482-ae31-3c24a196f380" playOrder="28">
+      <navLabel>
+        <text>INSTRUCCIONES SECRETAS PARA LA MISION ALFA: PLIEGO UNO</text>
+      </navLabel>
+      <content src="/rev/161/c-161cuento3.htm"/>
+    </navPoint>
+    <navPoint id="a3c46aef-5a24-4b49-b7bf-24d49ca5e5f8" playOrder="29">
+      <navLabel>
+        <text>TRES VECES MÁS PEQUEÑO</text>
+      </navLabel>
+      <content src="/rev/163/c-163cuento11.htm"/>
+    </navPoint>
+    <navPoint id="3b5c8b00-453c-4861-ae79-93e0580df5dd" playOrder="30">
+      <navLabel>
+        <text>EL MONSTRUO Y LA DAMISELA DE CHRYSALE</text>
+      </navLabel>
+      <content src="/rev/171/c-171cuento4.htm"/>
+    </navPoint>
+    <navPoint id="370c2b20-a5b0-4fa4-a973-4679542e3954" playOrder="31">
+      <navLabel>
+        <text>AMOR CARNAL</text>
+      </navLabel>
+      <content src="/rev/187/c-187cuento1.htm"/>
+    </navPoint>
+    <navPoint id="4c78cd5c-5d44-483d-b8c1-ba6ecbe833a1" playOrder="32">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/222/cuento6ilus1.htm"/>
+    </navPoint>
+    <navPoint id="7965eabc-ff4f-4006-95bb-be3942113bae" playOrder="33">
+      <navLabel>
+        <text>EL JARDÍN</text>
+      </navLabel>
+      <content src="/rev/169/c-169cuento8.htm#4"/>
+    </navPoint>
+    <navPoint id="fab9824a-1f19-4130-a640-86207f1b79a3" playOrder="34">
+      <navLabel>
+        <text>EL REGRESO DEL CAPITÁN RAYO</text>
+      </navLabel>
+      <content src="/rev/161/c-161cuento7.htm"/>
+    </navPoint>
+    <navPoint id="d9a34cad-df08-4d6d-992f-ca30fdff9eee" playOrder="35">
+      <navLabel>
+        <text>LOS FESTEJOS DEL FIN DEL MUNDO</text>
+      </navLabel>
+      <content src="/rev/164/c-164cuento6.htm"/>
+    </navPoint>
+    <navPoint id="c08e9d66-76e9-4956-845e-08e8b85df7e1" playOrder="36">
+      <navLabel>
+        <text>UN PUNTO NEGRO, CELESTE</text>
+      </navLabel>
+      <content src="/rev/165/c-165cuento3.htm#8"/>
+    </navPoint>
+    <navPoint id="ce1b611a-2af7-44b1-a76c-90c662831d2a" playOrder="37">
+      <navLabel>
+        <text>CHUSO</text>
+      </navLabel>
+      <content src="/rev/#12"/>
+    </navPoint>
+    <navPoint id="4fbfde59-ef23-4208-bed2-7b5284435711" playOrder="38">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/222/cuento7ilus1.htm"/>
+    </navPoint>
+    <navPoint id="d1534205-43d3-4843-a2fd-33738a6453ab" playOrder="39">
+      <navLabel>
+        <text>Axxón 93</text>
+      </navLabel>
+      <content src="/c-93.htm"/>
+    </navPoint>
+    <navPoint id="53ed4787-3e6e-4d81-82b3-9528b69cb7bc" playOrder="40">
+      <navLabel>
+        <text>SOBRE DESAYUNOS Y ENTROPÍA</text>
+      </navLabel>
+      <content src="/rev/194/c-194cuento1.htm"/>
+    </navPoint>
+    <navPoint id="619623ce-b103-4d95-91a6-cfb63f33f3c3" playOrder="41">
+      <navLabel>
+        <text>PAISAJE CON GRUPO Y MUJER</text>
+      </navLabel>
+      <content src="/rev/194/c-194cuento8.htm"/>
+    </navPoint>
+    <navPoint id="e4bb5afd-2b8c-4fde-871e-cd6b2214c7f0" playOrder="42">
+      <navLabel>
+        <text>EL VIENTO Y LA CENIZA</text>
+      </navLabel>
+      <content src="/rev/195/c-195cuento5.htm"/>
+    </navPoint>
+    <navPoint id="d431070d-ec4a-4cb1-b1d1-4955cd8c2869" playOrder="43">
+      <navLabel>
+        <text>DUENDES</text>
+      </navLabel>
+      <content src="/rev/196/c-196cuento3.htm"/>
+    </navPoint>
+    <navPoint id="e08bbc4f-5e92-4004-af25-691b6fcdc04b" playOrder="44">
+      <navLabel>
+        <text>MARIO LEVRERO: EL OTRO Y YO</text>
+      </navLabel>
+      <content src="/rev/188/c-188ensayo1.htm"/>
+    </navPoint>
+    <navPoint id="56dedae9-3abf-42bb-be44-98d117bae0d8" playOrder="45">
+      <navLabel>
+        <text>RÉQUIEM POR THOMAS M. DISCH</text>
+      </navLabel>
+      <content src="/rev/189/c-189ensayo1.htm"/>
+    </navPoint>
+    <navPoint id="92bc8a77-a96f-4a5b-98a9-e9a5cca57da1" playOrder="46">
+      <navLabel>
+        <text>DISTOPÍA FÁUNICA</text>
+      </navLabel>
+      <content src="/rev/196/c-196ensayo1.htm"/>
+    </navPoint>
+    <navPoint id="d590e2c7-8084-4b4c-897d-0eee203b2cbe" playOrder="47">
+      <navLabel>
+        <text>LA LLAMADA DE CTHULHU</text>
+      </navLabel>
+      <content src="/rev/165/c-165cuento9.htm"/>
+    </navPoint>
+    <navPoint id="02fcea62-76e5-4b82-8081-d093edc4a08b" playOrder="48">
+      <navLabel>
+        <text>Verba et Umbra</text>
+      </navLabel>
+      <content src="www.verbaetumbra.blogspot.com"/>
+    </navPoint>
+  </navMap>
+</ncx>

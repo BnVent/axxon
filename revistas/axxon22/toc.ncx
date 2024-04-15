@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="6eb909f1-f8ce-44b9-808e-7728f845532e" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.38.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 22</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u89555fe2-22c2-4ed0-ac5f-8d118aa6797e" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 22</text>
+      </navLabel>
+      <content src="c-22Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u55703c65-4477-4561-a0be-5767273d80df" playOrder="2">
+      <navLabel>
+        <text>Ficciones: El oro de Tiresias</text>
+      </navLabel>
+      <content src="c-22Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u9e1c7fff-adba-48c6-8231-6aa59abd189e" playOrder="3">
+      <navLabel>
+        <text>Ficciones: La casita de pájaros vacía</text>
+      </navLabel>
+      <content src="c-22Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u933e07fb-19d1-410b-8c32-28df60783162" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Visiones</text>
+      </navLabel>
+      <content src="c-22Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uc3e2c724-8d1f-4f15-9e7b-e4cb014ccdd2" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Otra colina / El hombre que no encontraba el mar</text>
+      </navLabel>
+      <content src="c-22Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u3bdb1528-efdb-447a-b869-bc26bc8e685b" playOrder="6">
+      <navLabel>
+        <text>Sección: Disquisiciones inocuas (4)</text>
+      </navLabel>
+      <content src="c-22Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u66ce7315-1af5-40af-9d36-1cc3aa44d232" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Rompecabezas</text>
+      </navLabel>
+      <content src="c-22Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u892e11ed-6bd1-40d7-ae8f-3b21a128098e" playOrder="8">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-22Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u0cda1a1d-6a2d-442b-aa91-17aa86ae9b86" playOrder="9">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad (5)</text>
+      </navLabel>
+      <content src="c-22Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u5d50994b-e5cb-4769-b48d-c3dedca46dba" playOrder="10">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-22Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u7ccdbb21-3aa6-46cc-93a9-08cf8b7d8b24" playOrder="11">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

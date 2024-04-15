@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="f7205059-a609-4752-88ca-ebd20b78612b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.14.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 122</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u59df6fd6-df2a-4b30-9ea0-062e7bbdca89" playOrder="1">
+      <navLabel>
+        <text>Editorial: Axxón 122</text>
+      </navLabel>
+      <content src="c-122Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u7100efc8-333f-4042-b619-1d2b54dee338" playOrder="2">
+      <navLabel>
+        <text>Correo: Correo 122</text>
+      </navLabel>
+      <content src="c-122Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u2dc48415-21d6-47d3-bc0a-87db0ad50a6d" playOrder="3">
+      <navLabel>
+        <text>Ficciones: La danza de los espíritus</text>
+      </navLabel>
+      <content src="c-122Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u90d9a411-3eab-42ec-86c2-930ea11bb638" playOrder="4">
+      <navLabel>
+        <text>Portfolio: Galería</text>
+      </navLabel>
+      <content src="c-122Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u29356978-cd10-416c-8efa-d8bc4afb23a4" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Las mujeres</text>
+      </navLabel>
+      <content src="c-122Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u65dd9ebd-8341-48d9-b3c3-7468295c9e2e" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Cuerpo y alma</text>
+      </navLabel>
+      <content src="c-122Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u2fec11ed-c07b-42c5-a6e1-1d000259ca6c" playOrder="7">
+      <navLabel>
+        <text>Recreaciones: El Gaucho de los Anillos (3)</text>
+      </navLabel>
+      <content src="c-122Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ucb2ea235-3a49-4397-8b01-17cfb2aca101" playOrder="8">
+      <navLabel>
+        <text>Sección: Andernow</text>
+      </navLabel>
+      <content src="c-122Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u837d0dfb-1a98-4e26-b364-a99782cf2cdc" playOrder="9">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

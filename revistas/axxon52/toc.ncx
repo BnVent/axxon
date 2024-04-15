@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="43a3856c-83a0-4ccc-aeac-c4493eefc462" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.7)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 52</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="885bba02-021f-4bd0-851f-7fdc35285526" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-52Pag01.htm"/>
+    </navPoint>
+    <navPoint id="da488ba2-ca82-4397-a3c1-a55069fb7629" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 52</text>
+      </navLabel>
+      <content src="c-52Pag02.htm"/>
+    </navPoint>
+    <navPoint id="57013f67-b52b-47e2-a6b6-4ba4bf8c327d" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Y difícil de dominar</text>
+      </navLabel>
+      <content src="c-52Pag03.htm"/>
+    </navPoint>
+    <navPoint id="91eef986-1a07-4679-a844-4b5956c4077a" playOrder="4">
+      <navLabel>
+        <text>Seccion: Tour Macabro</text>
+      </navLabel>
+      <content src="c-52Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ce438390-2567-4b76-b73c-cb86e7281cb6" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Perro, gata y bebé</text>
+      </navLabel>
+      <content src="c-52Pag05.htm"/>
+    </navPoint>
+    <navPoint id="e4a21aed-11e1-4d01-82c0-89dcec9edfa0" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Escuchen</text>
+      </navLabel>
+      <content src="c-52Pag06.htm"/>
+    </navPoint>
+    <navPoint id="c187f79c-3e9e-4a84-a4f5-859b56085b83" playOrder="7">
+      <navLabel>
+        <text>Ficciones: La camada</text>
+      </navLabel>
+      <content src="c-52Pag07.htm"/>
+    </navPoint>
+    <navPoint id="8b6e1f28-420f-4e25-a971-8a68adc3960e" playOrder="8">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual (III)</text>
+      </navLabel>
+      <content src="c-52Pag08.htm"/>
+    </navPoint>
+    <navPoint id="df5cc254-2666-4b5c-bdcc-917c5f9db4f8" playOrder="9">
+      <navLabel>
+        <text>Seccion: Una mirada a la realidad</text>
+      </navLabel>
+      <content src="c-52Pag09.htm"/>
+    </navPoint>
+    <navPoint id="59c7a00b-4b0f-4dd9-af6e-4a0e1bf26bda" playOrder="10">
+      <navLabel>
+        <text>Correo: Correo 52</text>
+      </navLabel>
+      <content src="c-52Pag10.htm"/>
+    </navPoint>
+    <navPoint id="6417b543-01b5-4fb1-9406-8df7835961e5" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Date una vuelta por el lado salvaje</text>
+      </navLabel>
+      <content src="c-52Pag11.htm"/>
+    </navPoint>
+    <navPoint id="7d99a6e1-5a91-412a-a3d3-5f7e2c398de4" playOrder="12">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-52Pag12.htm"/>
+    </navPoint>
+    <navPoint id="a3712075-9809-460c-83d6-dd524f7fe7e3" playOrder="13">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-52Pag13.htm"/>
+    </navPoint>
+    <navPoint id="b7639aee-f06d-4e14-9720-4781568b0fd0" playOrder="14">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

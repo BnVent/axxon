@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="c60a9eb7-4116-45fe-a7e2-afe9d52a2850" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.28.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 130</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u2f99334e-f85e-4e67-bf8c-d81fb6260f3a" playOrder="1">
+      <navLabel>
+        <text>Editorial: Un mundo que se cae</text>
+      </navLabel>
+      <content src="c-130Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ue62ce7cd-ccf4-4639-9657-b730ec515b30" playOrder="2">
+      <navLabel>
+        <text>Correo: Correo 130</text>
+      </navLabel>
+      <content src="c-130Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u4fce049f-bfe2-481b-8de8-b3fb6bdb5469" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Códigos foráneos</text>
+      </navLabel>
+      <content src="c-130Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u27f448ab-1cd5-4990-816d-a449d7cbd117" playOrder="4">
+      <navLabel>
+        <text>Divulgación: La Enfermedad de Holt-Oram: Pulgarizando los índices</text>
+      </navLabel>
+      <content src="c-130Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uf1a9c084-4577-4c0c-ace0-b25d6a1dc335" playOrder="5">
+      <navLabel>
+        <text>Sección: Anacrónicas</text>
+      </navLabel>
+      <content src="c-130Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uf21520d7-0382-465f-8a5a-5aae8951f2c9" playOrder="6">
+      <navLabel>
+        <text>Anacrónicas: El misterio del Club Sirio-Libanés</text>
+      </navLabel>
+      <content src="c-130Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u8b212de0-8e24-40c4-a44c-47195302cbae" playOrder="7">
+      <navLabel>
+        <text>Anacrónicas: El rincón alternativo: La cloroterapia</text>
+      </navLabel>
+      <content src="c-130Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u1db82e43-6cfd-40e0-a2cf-8aba72f59813" playOrder="8">
+      <navLabel>
+        <text>Anacrónicas: El Gaucho de los Anillos (11)</text>
+      </navLabel>
+      <content src="c-130Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u3e35bd45-9d63-4a29-9987-311b7ab6b38e" playOrder="9">
+      <navLabel>
+        <text>Galería: Galería de arte</text>
+      </navLabel>
+      <content src="c-130Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uf030ae92-c560-4dfa-9d3e-1205f879c1bf" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Un asunto de mierda</text>
+      </navLabel>
+      <content src="c-130Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ucd473af8-4cf2-4cf6-b6b4-65bc82689a19" playOrder="11">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

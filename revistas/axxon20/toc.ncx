@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="cbe34190-88c8-4bcf-919e-58e684b9d1fc" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.10.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 20</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u098f1bd0-8815-48a2-96c2-a753b000adfc" playOrder="1">
+      <navLabel>
+        <text>Advertencia: Sobre la versión e-book</text>
+      </navLabel>
+      <content src="c-20Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u081a9bcf-3d6c-487e-a613-89ceab601dde" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 20</text>
+      </navLabel>
+      <content src="c-20Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u4d552112-b6cc-4a4d-8a4a-186f4f52f4ac" playOrder="3">
+      <navLabel>
+        <text>Notas: Viajes por el tiempo, ¿son posibles? (1ª parte)</text>
+      </navLabel>
+      <content src="c-20Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u844b4146-f8e7-4f67-a45f-28222c5bbbe2" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Interés compuesto</text>
+      </navLabel>
+      <content src="c-20Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u16dc50b9-f054-4bea-b893-75ddc07a39a3" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Divina locura</text>
+      </navLabel>
+      <content src="c-20Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u09dbb6df-debf-4119-b472-81bdbc44112e" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Gu ta gutarrak</text>
+      </navLabel>
+      <content src="c-20Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u80e0522d-c9fd-4950-a1cb-70b6a8fd4889" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Todos ustedes, zombis</text>
+      </navLabel>
+      <content src="c-20Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u56c16dc1-f503-46cd-863d-438325e83e82" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Al universo no le gusta</text>
+      </navLabel>
+      <content src="c-20Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ub1ea751c-e2b3-4349-8dad-afcad02ff96b" playOrder="9">
+      <navLabel>
+        <text>Ficciones: El sonido de un trueno</text>
+      </navLabel>
+      <content src="c-20Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u15fbf7ca-13ce-490a-bf1c-b2d9da1d724d" playOrder="10">
+      <navLabel>
+        <text>Ficciones: La muerte del capitan Salgari</text>
+      </navLabel>
+      <content src="c-20Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uaafe4860-b21b-4cc4-910e-4516a419b465" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Los hombres que mataron a Mahoma</text>
+      </navLabel>
+      <content src="c-20Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ueafee074-946e-4caf-b23a-e52d9e0c32e2" playOrder="12">
+      <navLabel>
+        <text>Ficciones: El final</text>
+      </navLabel>
+      <content src="c-20Pag12.htm"/>
+    </navPoint>
+    <navPoint id="uaa40577d-cc2e-4a96-aa50-bfec1b6c45ab" playOrder="13">
+      <navLabel>
+        <text>Historieta: El humor de Quino y el tiempo</text>
+      </navLabel>
+      <content src="c-20Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u97bd7d11-f06f-4046-b33b-0e6750b5c0c1" playOrder="14">
+      <navLabel>
+        <text>Correo: Correo</text>
+      </navLabel>
+      <content src="c-20Pag14.htm"/>
+    </navPoint>
+    <navPoint id="udb4d902b-9af4-4213-b39e-35abe8047308" playOrder="15">
+      <navLabel>
+        <text>Bestiario: Un túnel en el tiempo</text>
+      </navLabel>
+      <content src="c-20Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u308ae198-deac-4c1a-8990-ca6a83d4e60f" playOrder="16">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-20Pag16.htm"/>
+    </navPoint>
+    <navPoint id="uaa1e9b39-e7cd-4ab3-a898-7332097f2eaa" playOrder="17">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

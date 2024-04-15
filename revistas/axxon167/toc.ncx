@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="1a9225af-29f6-4639-9209-e84f9e0678b1" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 167</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u9771f05e-3f83-4244-b7a3-157ef4542aca" playOrder="1">
+      <navLabel>
+        <text>Editorial: Preguntas y respuestas</text>
+      </navLabel>
+      <content src="c-167Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u9be282ed-f11b-4873-b327-6c37ab9812ba" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-167Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u2bf00357-b865-40d5-be21-adf77d1a0e9b" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Caminata lunar</text>
+      </navLabel>
+      <content src="c-167Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u3c05a56b-00a4-4532-8dfa-4c281374f603" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Despierta entre las estrellas</text>
+      </navLabel>
+      <content src="c-167Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ue6ed8881-6742-422b-9dc0-afaf20d2e8c8" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Observador</text>
+      </navLabel>
+      <content src="c-167Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u917cd7e1-c1cd-4530-8bd3-1a6d1213e5e9" playOrder="6">
+      <navLabel>
+        <text>Ficciones: El pueblo que salió de la nada</text>
+      </navLabel>
+      <content src="c-167Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ua7e06d9c-277a-4a63-bfc8-11c0e5e34cd0" playOrder="7">
+      <navLabel>
+        <text>Divulgación: El depredador más feroz</text>
+      </navLabel>
+      <content src="c-167Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u76bb1ad4-1de0-40f1-b6b4-0fac110555b5" playOrder="8">
+      <navLabel>
+        <text>Entrevista: Entrevista con Kit Reed</text>
+      </navLabel>
+      <content src="c-167Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u0611759a-7460-49d4-ae67-5887b320136e" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Veinte breves viajes por el tiempo</text>
+      </navLabel>
+      <content src="c-167Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u206ab899-2d5c-4f8e-b629-e796f665a322" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Zarza</text>
+      </navLabel>
+      <content src="c-167Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ud7761da0-14ce-41bb-9ad8-b420fa2e70f9" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Mala copia</text>
+      </navLabel>
+      <content src="c-167Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u8b352e2f-6bf2-41a5-9f0c-977219a8fc81" playOrder="12">
+      <navLabel>
+        <text>Ficciones: En el banquete de la alianza</text>
+      </navLabel>
+      <content src="c-167Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u74a86cdd-31ff-4bae-af95-d59e40b75812" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Dismnesia temporal</text>
+      </navLabel>
+      <content src="c-167Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u41a72dd9-9934-4259-8942-0bad787d93f6" playOrder="14">
+      <navLabel>
+        <text>Ficciones: Apoyo psicológico</text>
+      </navLabel>
+      <content src="c-167Pag14.htm"/>
+    </navPoint>
+    <navPoint id="uf67206be-7357-431a-b9ca-463de9c6a4e0" playOrder="15">
+      <navLabel>
+        <text>Ficciones: Soporte vital</text>
+      </navLabel>
+      <content src="c-167Pag15.htm"/>
+    </navPoint>
+    <navPoint id="uf238eca3-0d0e-4586-a30f-b38486bcb239" playOrder="16">
+      <navLabel>
+        <text>Sección: AnaCrónicas</text>
+      </navLabel>
+      <content src="c-167Pag16.htm"/>
+    </navPoint>
+    <navPoint id="uc0d0889d-440c-40ad-8c99-3bca052b963f" playOrder="17">
+      <navLabel>
+        <text>Anacrónicas: La yunta’e torres (16)</text>
+      </navLabel>
+      <content src="c-167Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u53ae547b-ef21-4b31-b348-6d60d746ad71" playOrder="18">
+      <navLabel>
+        <text>Anacrónicas: La yunta’e torres (17)</text>
+      </navLabel>
+      <content src="c-167Pag18.htm"/>
+    </navPoint>
+    <navPoint id="ud34edeb8-c26e-48c4-96e6-23472e6c1ef8" playOrder="19">
+      <navLabel>
+        <text>Clásico: El mortal inmortal</text>
+      </navLabel>
+      <content src="c-167Pag19.htm"/>
+    </navPoint>
+    <navPoint id="u7fb273cc-4ea0-4a35-88a7-a7f945f59f9a" playOrder="20">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

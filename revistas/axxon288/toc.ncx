@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="72f2a9fc-e986-4e3a-9da4-6b78b62309d0" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.17.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 288</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uMBwe4JxUlw8wxdjF5ixVDH" playOrder="1">
+      <navLabel>
+        <text>Ficciones: Impulso</text>
+      </navLabel>
+      <content src="c-288Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uehu83f2SEZzDZgQs4kSvPE" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Tasmania</text>
+      </navLabel>
+      <content src="c-288Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ugezngYECVUwQGrumwkZlL7" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Colapso</text>
+      </navLabel>
+      <content src="c-288Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uDeD3iIBCXCNanRGPrcU8g8" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Eres único</text>
+      </navLabel>
+      <content src="c-288Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uj2JYYUdbqh9BCqzTSyaDJH" playOrder="5">
+      <navLabel>
+        <text>Ficciones: La alergia de Nilo Comodore</text>
+      </navLabel>
+      <content src="c-288Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uenPgqBu4g2H9JYtPQZxJO6" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Manifestación de consciencia</text>
+      </navLabel>
+      <content src="c-288Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uDgtfdDV6jbHGdqkqip9WcE" playOrder="7">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-288Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ufY6xl2PWDaZ2eOopIaNoaB" playOrder="8">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

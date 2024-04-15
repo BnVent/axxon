@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="2daa05e8-7f3f-4635-b31f-dc3fa54d08ac" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.41.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 265</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u3d36119d-0590-4edf-9463-d5054c37f64c" playOrder="1">
+      <navLabel>
+        <text>Editorial: Veintisiete primaveras</text>
+      </navLabel>
+      <content src="c-265Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u4de3bb86-04c1-4fc3-9cc6-4792131624ec" playOrder="2">
+      <navLabel>
+        <text>Entrevista: Entrevista a Marcelo Huerta</text>
+      </navLabel>
+      <content src="c-265Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u3e7bef33-561b-4a29-9b2f-7d83048b03bd" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Paula y el olvido</text>
+      </navLabel>
+      <content src="c-265Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u66c198ff-5404-440f-81d1-25020793f21c" playOrder="4">
+      <navLabel>
+        <text>Ficciones: La máquina del tiempo</text>
+      </navLabel>
+      <content src="c-265Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u658457ed-3036-4ae8-a57e-c36898959b10" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Época de muda</text>
+      </navLabel>
+      <content src="c-265Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u648798da-0552-4e76-814a-6c9f790dd8e5" playOrder="6">
+      <navLabel>
+        <text>Ficciones: La máscara del tiempo</text>
+      </navLabel>
+      <content src="c-265Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ueb029f1f-e640-4ea7-88ad-72eb5dfd172c" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Recurrencia</text>
+      </navLabel>
+      <content src="c-265Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ud5cf2190-1315-440a-83e8-06c1caac8ba4" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (setenta y siete)</text>
+      </navLabel>
+      <content src="c-265Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u105bb7a0-477b-413f-990e-6d7ee5bbd7b5" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Se veía venir o algo parecido</text>
+      </navLabel>
+      <content src="c-265Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u4ffec3e4-89de-4ec1-a2ab-c4042a7388e8" playOrder="10">
+      <navLabel>
+        <text>Ficciones: La Selva de la Incandescente Felicidad</text>
+      </navLabel>
+      <content src="c-265Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u50697c0f-d9df-4203-b96d-17027a878d1a" playOrder="11">
+      <navLabel>
+        <text>Ficciones: La puerta en el monte</text>
+      </navLabel>
+      <content src="c-265Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u72beea32-0ca7-462b-9ece-be76597006dd" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Trasplante de cabeza</text>
+      </navLabel>
+      <content src="c-265Pag12.htm"/>
+    </navPoint>
+    <navPoint id="uace81e9c-bbc4-4bd6-a2cd-15ecd94dd2dc" playOrder="13">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-265Pag13.htm"/>
+    </navPoint>
+    <navPoint id="ud74f7dd2-a542-4d04-a6bd-897fbf65aa9e" playOrder="14">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

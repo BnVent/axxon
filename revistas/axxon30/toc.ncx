@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="8ce64071-5159-47c2-affa-8540ee4b1565" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.56)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 30</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="45a8d9a9-32e3-4bf0-8a19-e3aa6fc12ab4" playOrder="1">
+      <navLabel>
+        <text>Editorial - Editorial 30</text>
+      </navLabel>
+      <content src="c-30Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ec125ef5-521d-4dce-a737-8de7b29a7615" playOrder="2">
+      <navLabel>
+        <text>Ficciones - Paseo presidencial</text>
+      </navLabel>
+      <content src="c-30Pag02.htm"/>
+    </navPoint>
+    <navPoint id="fcbb1a78-0ae5-41e2-94b0-72e57c8fef30" playOrder="3">
+      <navLabel>
+        <text>Ficciones - Guión de una novela nunca escrita</text>
+      </navLabel>
+      <content src="c-30Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ad1f10b3-aad4-4802-a7d4-ab010f308313" playOrder="4">
+      <navLabel>
+        <text>Ficciones - Luz negra</text>
+      </navLabel>
+      <content src="c-30Pag04.htm"/>
+    </navPoint>
+    <navPoint id="5d04ca78-5924-44d8-be94-de3eb522dfd1" playOrder="5">
+      <navLabel>
+        <text>Ficciones - Historia clónica</text>
+      </navLabel>
+      <content src="c-30Pag05.htm"/>
+    </navPoint>
+    <navPoint id="bf8605c1-4402-4ecc-8c01-51342da4b599" playOrder="6">
+      <navLabel>
+        <text>Ficciones - Introducción a “The Golden Man”</text>
+      </navLabel>
+      <content src="c-30Pag06.htm"/>
+    </navPoint>
+    <navPoint id="f2b820e4-314e-4db6-9edb-0ad871c5ebdf" playOrder="11">
+      <navLabel>
+        <text>Ensayo - APENDICE (del libro “Idios Kosmos: Claves para Philip K. Dick”)</text>
+      </navLabel>
+      <content src="c-30Pag07.htm"/>
+    </navPoint>
+    <navPoint id="389962b4-1021-4b25-841a-f636aa5adc59" playOrder="47">
+      <navLabel>
+        <text>Correo - Correo 30</text>
+      </navLabel>
+      <content src="c-30Pag08.htm"/>
+    </navPoint>
+    <navPoint id="28a9c42f-99d9-4d5b-8884-53318462571e" playOrder="48">
+      <navLabel>
+        <text>Sección - Una mirada a la realidad</text>
+      </navLabel>
+      <content src="c-30Pag09.htm"/>
+    </navPoint>
+    <navPoint id="07a5f71b-682f-43bd-bfd4-176f0d1f898e" playOrder="49">
+      <navLabel>
+        <text>Equipo - Equipo Axxón</text>
+      </navLabel>
+      <content src="c-30Pag10.htm"/>
+    </navPoint>
+    <navPoint id="001ce89f-5812-496a-9767-3c7f263736f6" playOrder="50">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="aa4a6f2b-90bf-4d45-a230-c47721d7b7e5" playOrder="9">
+      <navLabel>
+        <text>*</text>
+      </navLabel>
+      <content src="c-30Pag06.htm#id3"/>
+    </navPoint>
+    <navPoint id="93810f56-79cd-4f58-b691-c53575316495" playOrder="10">
+      <navLabel>
+        <text>†</text>
+      </navLabel>
+      <content src="c-30Pag06.htm#id4"/>
+    </navPoint>
+    <navPoint id="1457c655-162b-4726-be86-8028f9b24c75" playOrder="7">
+      <navLabel>
+        <text>[*]</text>
+      </navLabel>
+      <content src="c-30Pag06.htm#id1"/>
+    </navPoint>
+    <navPoint id="b850a0ad-8577-4b87-a6f0-91751a1c5b4b" playOrder="8">
+      <navLabel>
+        <text>[†]</text>
+      </navLabel>
+      <content src="c-30Pag06.htm#id2"/>
+    </navPoint>
+    <navPoint id="a289b928-1974-4c2d-8397-6ed380a73119" playOrder="17">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id31"/>
+    </navPoint>
+    <navPoint id="776c8acb-c6e0-470c-8c0c-85be711dbf35" playOrder="18">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id32"/>
+    </navPoint>
+    <navPoint id="9ffff38c-b280-41c8-a900-673fc7dec79f" playOrder="19">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id33"/>
+    </navPoint>
+    <navPoint id="abe72c84-d82e-4603-a202-bd5ba8d994e4" playOrder="20">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id34"/>
+    </navPoint>
+    <navPoint id="3ce4cb77-3276-4548-bac7-f4b4f9eaba53" playOrder="21">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id35"/>
+    </navPoint>
+    <navPoint id="2767c43a-a553-4d4a-9800-4c5bded66910" playOrder="22">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id36"/>
+    </navPoint>
+    <navPoint id="edd7bfb8-c248-49e5-b242-dd9da6af7bc3" playOrder="23">
+      <navLabel>
+        <text>7</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id37"/>
+    </navPoint>
+    <navPoint id="c60055d1-3ac4-40c9-84e3-539d199d88ca" playOrder="24">
+      <navLabel>
+        <text>8</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id38"/>
+    </navPoint>
+    <navPoint id="b2d079f6-75d3-4855-bec9-d5493c3f249a" playOrder="25">
+      <navLabel>
+        <text>9</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id39"/>
+    </navPoint>
+    <navPoint id="1989aff5-ee1f-4a19-a134-6e9870d35da7" playOrder="26">
+      <navLabel>
+        <text>10</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id40"/>
+    </navPoint>
+    <navPoint id="cea14688-eea6-4104-b145-7d9b7aa088fa" playOrder="27">
+      <navLabel>
+        <text>11</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id41"/>
+    </navPoint>
+    <navPoint id="eedde9cf-1880-43d9-b972-ddad7c277af2" playOrder="28">
+      <navLabel>
+        <text>12</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id42"/>
+    </navPoint>
+    <navPoint id="f5f55b86-7215-4c9f-8bcb-5684fbb02023" playOrder="29">
+      <navLabel>
+        <text>13</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id43"/>
+    </navPoint>
+    <navPoint id="2fba6463-356a-496f-890e-e46bde53530f" playOrder="30">
+      <navLabel>
+        <text>14</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id44"/>
+    </navPoint>
+    <navPoint id="6b0d5584-aa2d-48f9-be9a-7fbefb523122" playOrder="31">
+      <navLabel>
+        <text>15</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id45"/>
+    </navPoint>
+    <navPoint id="835d82d7-c62f-4883-9ce1-e72f1fc48005" playOrder="32">
+      <navLabel>
+        <text>16</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id46"/>
+    </navPoint>
+    <navPoint id="9e5f851f-0548-4fa2-83e6-b7b71044e7f6" playOrder="33">
+      <navLabel>
+        <text>17</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id47"/>
+    </navPoint>
+    <navPoint id="95836d4a-a823-49a4-9ebf-a6927cafa95d" playOrder="34">
+      <navLabel>
+        <text>18</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id48"/>
+    </navPoint>
+    <navPoint id="485b2d92-38e2-4b72-8468-7919e82a0a57" playOrder="35">
+      <navLabel>
+        <text>19</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id49"/>
+    </navPoint>
+    <navPoint id="e7cdc329-d875-4fba-8134-8298018bb7dc" playOrder="36">
+      <navLabel>
+        <text>20</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id50"/>
+    </navPoint>
+    <navPoint id="96f98da7-e50d-49c5-9855-668b7078f4f5" playOrder="37">
+      <navLabel>
+        <text>21</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id51"/>
+    </navPoint>
+    <navPoint id="872a751f-bf2f-47bb-a27b-51fac2aec81c" playOrder="38">
+      <navLabel>
+        <text>22</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id52"/>
+    </navPoint>
+    <navPoint id="7344100e-82f0-4a5a-aeb8-293217a9efd3" playOrder="39">
+      <navLabel>
+        <text>23</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id53"/>
+    </navPoint>
+    <navPoint id="3df0f78f-9a3a-4c61-873a-ef82ba0b88e4" playOrder="40">
+      <navLabel>
+        <text>24</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id54"/>
+    </navPoint>
+    <navPoint id="57806e54-63b6-4f71-848b-a5ec4b9e95b4" playOrder="41">
+      <navLabel>
+        <text>25</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id55"/>
+    </navPoint>
+    <navPoint id="16e83fa2-338e-4afe-be3c-55711a67bb21" playOrder="42">
+      <navLabel>
+        <text>26</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id56"/>
+    </navPoint>
+    <navPoint id="98ab4368-f4b0-44d7-9c11-5e9dcd7af8c6" playOrder="43">
+      <navLabel>
+        <text>27</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id57"/>
+    </navPoint>
+    <navPoint id="3211383e-f7c9-4cbb-a0ef-348ace0c73e7" playOrder="44">
+      <navLabel>
+        <text>29</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id59"/>
+    </navPoint>
+    <navPoint id="0f0df2f7-1010-4331-ac98-41dc578f79e1" playOrder="45">
+      <navLabel>
+        <text>30</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id60"/>
+    </navPoint>
+    <navPoint id="f668e299-e021-4feb-aa64-3462669a859a" playOrder="46">
+      <navLabel>
+        <text>31</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id61"/>
+    </navPoint>
+    <navPoint id="a75db973-860c-4177-84a3-cc71da471179" playOrder="12">
+      <navLabel>
+        <text>[1]</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id1"/>
+    </navPoint>
+    <navPoint id="69bcd6cd-f4ce-4ad9-bff3-dffb24ffc839" playOrder="13">
+      <navLabel>
+        <text>[2]</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id2"/>
+    </navPoint>
+    <navPoint id="1a8d088c-5dea-481b-a98c-913dd404a8dd" playOrder="14">
+      <navLabel>
+        <text>[3]</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id3"/>
+    </navPoint>
+    <navPoint id="08787535-4eb8-4275-922e-95cede421f65" playOrder="15">
+      <navLabel>
+        <text>[4]</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id4"/>
+    </navPoint>
+    <navPoint id="800f96cd-0415-41b5-aaa1-f4ccea25d80b" playOrder="16">
+      <navLabel>
+        <text>[5]</text>
+      </navLabel>
+      <content src="c-30Pag07.htm#id5"/>
+    </navPoint>
+  </navMap>
+</ncx>

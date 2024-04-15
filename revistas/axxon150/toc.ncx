@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="d23e88ea-2622-4255-8385-be4431df0b0b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.38.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 150</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ud40ba99f-8e5c-40e0-a6a3-a5da1cf5f0d6" playOrder="1">
+      <navLabel>
+        <text>Editorial: Por ciento cincuenta más</text>
+      </navLabel>
+      <content src="c-150Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u928fb3fd-0156-4435-b2a8-db39127e3c27" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxonitas</text>
+      </navLabel>
+      <content src="c-150Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u7a064f42-9125-4509-a9ec-54bb11ace94b" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Los nombres de la luz (novela)</text>
+      </navLabel>
+      <content src="c-150Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ud9bb4b44-851f-4890-85cd-44da59872b4d" playOrder="4">
+      <navLabel>
+        <text>Divulgación: El efecto “K19”</text>
+      </navLabel>
+      <content src="c-150Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ufbc6bccf-2ce9-4129-9d82-388ce42b6482" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (6)</text>
+      </navLabel>
+      <content src="c-150Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u1194456b-8d1a-4b1d-abf3-510c55e2f5e8" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (7)</text>
+      </navLabel>
+      <content src="c-150Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u1727c098-72f8-4538-94a3-d48bf6a4f1ca" playOrder="7">
+      <navLabel>
+        <text>Ensayo: Límites en la ciencia ficción norteamericana</text>
+      </navLabel>
+      <content src="c-150Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u8aa1565f-d5c6-4d0c-91e2-f18b9f581ffa" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Genoma</text>
+      </navLabel>
+      <content src="c-150Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ua9e0ca6c-dcab-45ff-a682-1db10e197e78" playOrder="9">
+      <navLabel>
+        <text>Ficciones: El boleto</text>
+      </navLabel>
+      <content src="c-150Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u94032b55-4dd5-43fe-a825-6d79af4c37f7" playOrder="10">
+      <navLabel>
+        <text>Ensayo: Temblar es un placer</text>
+      </navLabel>
+      <content src="c-150Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u787b6197-832a-4df8-b427-f6df12f18283" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Futuro dominintencional</text>
+      </navLabel>
+      <content src="c-150Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u6bcdb7bc-3fd2-4689-b410-c5cabb9a104a" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Señora de las estancias</text>
+      </navLabel>
+      <content src="c-150Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u493e4445-4f98-41bd-b10e-733c49dd485a" playOrder="13">
+      <navLabel>
+        <text>Ficciones: La cumbre de la respuesta</text>
+      </navLabel>
+      <content src="c-150Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u61496dbc-f2b1-42ed-bdb0-c07cba9a4273" playOrder="14">
+      <navLabel>
+        <text>Ficciones: La muerte interior</text>
+      </navLabel>
+      <content src="c-150Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u9c84495e-4bf1-4142-b304-a4cf0c5b3531" playOrder="15">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (8)</text>
+      </navLabel>
+      <content src="c-150Pag15.htm"/>
+    </navPoint>
+    <navPoint id="uf99f9180-0ca8-486f-ae65-681ad2494045" playOrder="16">
+      <navLabel>
+        <text>Ficciones: Que Dios y la Patria</text>
+      </navLabel>
+      <content src="c-150Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u807a65b6-135b-4377-b45a-f830f1eebb05" playOrder="17">
+      <navLabel>
+        <text>Ficciones: Manuscrito encontrado en un manicomio</text>
+      </navLabel>
+      <content src="c-150Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u813571e0-bab6-46d1-8d28-f7850a983b99" playOrder="18">
+      <navLabel>
+        <text>Ficciones: Cordero en salsa</text>
+      </navLabel>
+      <content src="c-150Pag18.htm"/>
+    </navPoint>
+    <navPoint id="uf0d4e260-190b-4a1b-ad9b-cd25aca8e19f" playOrder="19">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

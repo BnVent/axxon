@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="a334f56c-2440-4bd7-96be-0af23ef4890a" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.13)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 104</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="7e8f02ca-def3-4e7b-9018-e7303da1f04c" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 104</text>
+      </navLabel>
+      <content src="c-104Pag01.htm"/>
+    </navPoint>
+    <navPoint id="829c9f20-541f-4966-af22-8bf8a23fa974" playOrder="2">
+      <navLabel>
+        <text>Ficciones: El lado oscuro de la luna</text>
+      </navLabel>
+      <content src="c-104Pag02.htm"/>
+    </navPoint>
+    <navPoint id="a80d4db9-1a5d-4ef3-88bb-ce667cbad03d" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Secreto de confesión</text>
+      </navLabel>
+      <content src="c-104Pag03.htm"/>
+    </navPoint>
+    <navPoint id="6f7115dc-b2b6-4544-999e-7e150c4ed463" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El rescate</text>
+      </navLabel>
+      <content src="c-104Pag04.htm"/>
+    </navPoint>
+    <navPoint id="91b364a2-9341-4f8d-b01e-6e8b89209d0c" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El hombre del traje gris</text>
+      </navLabel>
+      <content src="c-104Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ab7a6379-a4ac-4a08-9088-8e866b520b99" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Refriega que derruye mis entrañas</text>
+      </navLabel>
+      <content src="c-104Pag06.htm"/>
+    </navPoint>
+    <navPoint id="442c7ea5-cf6e-4e54-91ad-db5cace04459" playOrder="7">
+      <navLabel>
+        <text>Sección: El portal fantástico</text>
+      </navLabel>
+      <content src="c-104Pag07.htm"/>
+    </navPoint>
+    <navPoint id="67bca5c8-392a-4927-92bb-01cf3ad1126e" playOrder="8">
+      <navLabel>
+        <text>Ficciones: El invierno de 1311</text>
+      </navLabel>
+      <content src="c-104Pag08.htm"/>
+    </navPoint>
+    <navPoint id="b2e712e2-4faf-4979-ac63-77f4eda0bd9e" playOrder="9">
+      <navLabel>
+        <text>Sección: Tour macabro</text>
+      </navLabel>
+      <content src="c-104Pag09.htm"/>
+    </navPoint>
+    <navPoint id="d2abd8e4-9441-4c16-9452-b85279e5452c" playOrder="10">
+      <navLabel>
+        <text>Ficciones: La leyenda de Sam: La noche final</text>
+      </navLabel>
+      <content src="c-104Pag10.htm"/>
+    </navPoint>
+    <navPoint id="4acc6f66-582a-4f24-8cf8-06d1a61ed695" playOrder="11">
+      <navLabel>
+        <text>Letras: Letras de temas de Venom</text>
+      </navLabel>
+      <content src="c-104Pag11.htm"/>
+    </navPoint>
+    <navPoint id="c9c49dd4-7f8e-4303-a244-649ca78cdcea" playOrder="12">
+      <navLabel>
+        <text>Sección: El ojo y la mano</text>
+      </navLabel>
+      <content src="c-104Pag12.htm"/>
+    </navPoint>
+    <navPoint id="faddc457-3a96-4168-a272-cd175c2cf2f6" playOrder="13">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

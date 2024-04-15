@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="f2411fb0-d9af-421d-b876-83e22cf372cd" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.36.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 153</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u3ae15816-305e-454f-bd8d-6dd8be6b188c" playOrder="1">
+      <navLabel>
+        <text>Editorial: Los tornillos de la realidad</text>
+      </navLabel>
+      <content src="c-153Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ufb30eb9a-1e67-4cb8-9476-a85b800a7240" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-153Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u8a21729b-8cd8-44e2-9223-a270b8b90121" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Lucy en el país de los monstruos</text>
+      </navLabel>
+      <content src="c-153Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u571ab156-c2f2-467c-b0a0-eb48abd9d39a" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El hombre que leía la página siguiente</text>
+      </navLabel>
+      <content src="c-153Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u73b08085-0fe7-404e-bab4-81936273fbad" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Apolvenusina</text>
+      </navLabel>
+      <content src="c-153Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ueef03054-550f-4aeb-b97d-5a8dd1a6d127" playOrder="6">
+      <navLabel>
+        <text>Divulgación: El bramido del Minotauro</text>
+      </navLabel>
+      <content src="c-153Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ub839c6b3-7fa8-441b-a826-98dc0ad0ad3b" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Especial: “Mi propia muerte”</text>
+      </navLabel>
+      <content src="c-153Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u0f18a80a-1689-499b-a1ba-1eb8159a0ae0" playOrder="8">
+      <navLabel>
+        <text>Ficciones: La entrevista</text>
+      </navLabel>
+      <content src="c-153Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u248a5175-d7e7-4287-bac4-99ed59069512" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Fuera del río, lejos del mar</text>
+      </navLabel>
+      <content src="c-153Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u8e2d213b-257e-4846-8748-fc415ee3d3b9" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Ojo en el cielo</text>
+      </navLabel>
+      <content src="c-153Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uc1ddf163-0198-472f-ab56-359ca0477dd8" playOrder="11">
+      <navLabel>
+        <text>Ensayo: Superarse o morir - El criterio de la ciencia ficción</text>
+      </navLabel>
+      <content src="c-153Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ubbbb746a-06a5-417d-9e91-6b76219d8fad" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Otra tragedia griega</text>
+      </navLabel>
+      <content src="c-153Pag12.htm"/>
+    </navPoint>
+    <navPoint id="ua2a26b72-b016-4852-926b-f092931bd5c1" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (catorce)</text>
+      </navLabel>
+      <content src="c-153Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u19b22ace-6633-4cab-9ce2-ae9ceab1e654" playOrder="14">
+      <navLabel>
+        <text>Ficciones: Filosofía de vida en Gandea</text>
+      </navLabel>
+      <content src="c-153Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u5fc992d5-8df7-46e8-bdb7-75d70d57ddb6" playOrder="15">
+      <navLabel>
+        <text>Ficciones: La biblia de Maltavos</text>
+      </navLabel>
+      <content src="c-153Pag15.htm"/>
+    </navPoint>
+    <navPoint id="ubb14afcc-8b35-47a0-940c-81b802b61ea3" playOrder="16">
+      <navLabel>
+        <text>Sección: Anacrónicas</text>
+      </navLabel>
+      <content src="c-153Pag16.htm"/>
+    </navPoint>
+    <navPoint id="ud40ae816-828c-4c76-9060-60b17cc4da89" playOrder="17">
+      <navLabel>
+        <text>Anacrónicas: La yunta ‘e torres (9)</text>
+      </navLabel>
+      <content src="c-153Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u43d47943-57e0-40dc-86a4-a70e732f0c6a" playOrder="18">
+      <navLabel>
+        <text>Ficciones: Especial: “Mi propia muerte” (2)</text>
+      </navLabel>
+      <content src="c-153Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u666d80b5-32d1-439e-a510-fca15d362cae" playOrder="19">
+      <navLabel>
+        <text>Clásico: El Rojo</text>
+      </navLabel>
+      <content src="c-153Pag19.htm"/>
+    </navPoint>
+    <navPoint id="u41fd0243-1cf9-4c1f-9300-2b3ab65c475e" playOrder="20">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

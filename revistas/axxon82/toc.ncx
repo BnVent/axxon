@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="352096bf-cba0-432b-bf65-c2bba3e78876" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.35)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 82</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ue8f3ecc3-e80e-4dc9-ac35-c75ddc633fe7" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 82</text>
+      </navLabel>
+      <content src="c-82Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ub95a95b1-9316-49e9-a5e1-d90b351c5244" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Un hombre del pueblo</text>
+      </navLabel>
+      <content src="c-82Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ub1a52876-b341-42b1-994d-961c96451c97" playOrder="3">
+      <navLabel>
+        <text>Ficciones: La liberación de una mujer</text>
+      </navLabel>
+      <content src="c-82Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u14592756-6c49-4cfd-9ea0-9551743c7441" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Raquel enamorada</text>
+      </navLabel>
+      <content src="c-82Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u77ba0724-9321-4392-933a-66cb678552b4" playOrder="5">
+      <navLabel>
+        <text>Correo: Correo 82</text>
+      </navLabel>
+      <content src="c-82Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ufd965335-b58a-4934-bb64-e8c3254149a2" playOrder="6">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-82Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uda69dd9f-cd3c-4c88-a1ed-7d099660d806" playOrder="7">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-82Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ub68f7d2a-a50f-4004-b6ab-796f849afce9" playOrder="8">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

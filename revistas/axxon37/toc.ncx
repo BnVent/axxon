@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta name="dtb:uid" content="6ea30c95-f200-4a91-be6f-f778c0ac00a7"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (5.10.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Axxón 37</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uWAWKUFQXKorVL9ByVPvFoB" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 37</text>
+      </navLabel>
+      <content src="c-37Pag01.htm"/>
+    </navPoint>
+    <navPoint id="up3E7c7ehORPJSHQqMVyJqG" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Descubrimiento</text>
+      </navLabel>
+      <content src="c-37Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uCTYkDZns3tjpBmHIQgFfnB" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Sobre la pata del centauro</text>
+      </navLabel>
+      <content src="c-37Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u3fht6xcyVRCyOBeBuy7DD5" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Mate de cultivo</text>
+      </navLabel>
+      <content src="c-37Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uWQvtXO52DbcBTEbFpLMZN2" playOrder="5">
+      <navLabel>
+        <text>Sección: Bits</text>
+      </navLabel>
+      <content src="c-37Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uwXoZ9vicTOjcQNHTcgCFVH" playOrder="6">
+      <navLabel>
+        <text>Correo: Correo 37</text>
+      </navLabel>
+      <content src="c-37Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uNYyQmfdIzxAR5ebIZaihM7" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Breve historia de un naufragio</text>
+      </navLabel>
+      <content src="c-37Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uH6Y67bMQMbReJGY3vMnac9" playOrder="8">
+      <navLabel>
+        <text>Ficciones: El deyani</text>
+      </navLabel>
+      <content src="c-37Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uzStumngGJVOk2XJqhaGKR6" playOrder="9">
+      <navLabel>
+        <text>Ensayo: Ciencia-ficción: La búsqueda de un criterio de demarcación</text>
+      </navLabel>
+      <content src="c-37Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u42dDr32CB79GtgIsMwZjdA" playOrder="10">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad (14)</text>
+      </navLabel>
+      <content src="c-37Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uNT2J3dniynQBJMYKdM7MO5" playOrder="11">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-37Pag11.htm"/>
+    </navPoint>
+    <navPoint id="uTC2kPBYSdWDf5L6BQM6Qx8" playOrder="12">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

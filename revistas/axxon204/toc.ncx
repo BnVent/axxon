@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="a826bec6-eaae-49c4-b9a6-c3aad5cf36ed" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.16.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 204</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u45052385-f266-4f35-b190-defdcedd1e01" playOrder="1">
+      <navLabel>
+        <text>Editorial: El conservadurismo y la muerte</text>
+      </navLabel>
+      <content src="c-204Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uc6a2452b-01c6-4b8f-a1fc-ff319e4b8882" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-204Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ud6ae6c0e-134e-4b9f-879d-34d378ce025e" playOrder="3">
+      <navLabel>
+        <text>Axxóncine: Avatar</text>
+      </navLabel>
+      <content src="c-204Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u30cfe9e1-042e-4a12-b820-3a64f3b25990" playOrder="4">
+      <navLabel>
+        <text>Ficciones: La huida</text>
+      </navLabel>
+      <content src="c-204Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u09d9a9a1-686f-4f7e-ab60-b72b0456b3bc" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Mientras dormís, vivo</text>
+      </navLabel>
+      <content src="c-204Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u171a1010-860e-4243-8e83-8a098347f3b5" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Correspondencia hallada en un pedazo de bolsillo del delantal de una maestra intergalácti</text>
+      </navLabel>
+      <content src="c-204Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ucd7f8cd1-cde5-4ad1-a1da-ad55ab6b515c" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Las marcas del diablo</text>
+      </navLabel>
+      <content src="c-204Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ud649fd29-f4e4-493a-84c6-b7bf872b7c99" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Nanobots en el césped</text>
+      </navLabel>
+      <content src="c-204Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u45c48cd2-085a-4d0f-a98b-22ed030c4f92" playOrder="9">
+      <navLabel>
+        <text>Ficciones: El conservacionista</text>
+      </navLabel>
+      <content src="c-204Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ucdcfc8c3-9a98-485c-a0e5-9637a620ff17" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Radio maldita</text>
+      </navLabel>
+      <content src="c-204Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u7f0d1058-68e9-4988-ad4e-13440ff4ac02" playOrder="11">
+      <navLabel>
+        <text>Artículo: Love story</text>
+      </navLabel>
+      <content src="c-204Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u5ffc3cfd-dd77-4e91-b8c3-59cef8c382db" playOrder="12">
+      <navLabel>
+        <text>Artículo: H.G. Wells y las semillas de la imaginación</text>
+      </navLabel>
+      <content src="c-204Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u08dc9baa-1eb0-4910-a904-4a08948c8d27" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Adela y Marcos (Amor y Muerte)</text>
+      </navLabel>
+      <content src="c-204Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u02d3c692-ab48-47b3-85fe-2ba838af97c9" playOrder="14">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (cincuenta y cinco)</text>
+      </navLabel>
+      <content src="c-204Pag14.htm"/>
+    </navPoint>
+    <navPoint id="ued5db408-eb95-4a0d-b642-bfc00a8060ab" playOrder="15">
+      <navLabel>
+        <text>Ficciones: hWord</text>
+      </navLabel>
+      <content src="c-204Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u7ca1d396-2313-40aa-8edb-15f0eb69010f" playOrder="16">
+      <navLabel>
+        <text>Ficciones: El cosmonauta azul</text>
+      </navLabel>
+      <content src="c-204Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u5763d36f-9e7f-4827-a918-42442541798c" playOrder="17">
+      <navLabel>
+        <text>Ficciones: La inmutabilidad de los ciclos</text>
+      </navLabel>
+      <content src="c-204Pag17.htm"/>
+    </navPoint>
+    <navPoint id="uc98b9453-a54c-4178-a089-cf29532178f0" playOrder="18">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

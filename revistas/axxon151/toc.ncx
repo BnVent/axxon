@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="5689c857-add0-476e-8dd4-9ea927a8b507" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.36.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 151</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ua26f28c6-0489-4ddd-a64f-1d08f3149b66" playOrder="1">
+      <navLabel>
+        <text>Editorial: Veloces mutaciones</text>
+      </navLabel>
+      <content src="c-151Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ue1e9b4c9-349e-40c5-b998-3f3ded9b79a1" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-151Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ub46dd952-2dc7-4df2-8fbd-33812ed28a61" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Bach ha muerto</text>
+      </navLabel>
+      <content src="c-151Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ua86e4a81-a562-42c7-9d69-aa7c1a7e4126" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Desde la jaula</text>
+      </navLabel>
+      <content src="c-151Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u22719f72-26af-4601-8351-1b48a40f58d1" playOrder="5">
+      <navLabel>
+        <text>Divulgación: El desconocido de Tri-Cities</text>
+      </navLabel>
+      <content src="c-151Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u4a8fe1dd-8531-45f9-8cb0-046e3c62cd1f" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (9)</text>
+      </navLabel>
+      <content src="c-151Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u67db63bc-ffe6-4a3e-99b7-267fbf27b3c4" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Resplandores</text>
+      </navLabel>
+      <content src="c-151Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u1df3c172-7ea3-4bad-9f64-f045b5e63127" playOrder="8">
+      <navLabel>
+        <text>Ficciones: El hombre que guiaba escritores perdidos</text>
+      </navLabel>
+      <content src="c-151Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u2ddeafa6-dc3b-4628-8b42-5c74c7ca9756" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (10)</text>
+      </navLabel>
+      <content src="c-151Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ud6743fc6-25af-4631-9a32-adfe38623cbc" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Para que el mundo no caiga como una pluma</text>
+      </navLabel>
+      <content src="c-151Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ue718f5c2-7900-4af2-b45e-bff7fbf9669e" playOrder="11">
+      <navLabel>
+        <text>Ficciones: La invasión</text>
+      </navLabel>
+      <content src="c-151Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u04e8458c-9957-4ad0-916e-7c6f84b422f5" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Uñas blancas</text>
+      </navLabel>
+      <content src="c-151Pag12.htm"/>
+    </navPoint>
+    <navPoint id="ua7b94c25-bb62-4d57-ab4e-5d3d58743d20" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Las dramaticas aventuras de Wozzek, el perro individual</text>
+      </navLabel>
+      <content src="c-151Pag13.htm"/>
+    </navPoint>
+    <navPoint id="ua7ee5e01-a47b-403b-825f-5afe06260f23" playOrder="14">
+      <navLabel>
+        <text>Sección: Anacrónicas</text>
+      </navLabel>
+      <content src="c-151Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u8a0d07f2-496e-4081-aae3-b47195299b7c" playOrder="15">
+      <navLabel>
+        <text>Anacrónicas: Anacrónicas News</text>
+      </navLabel>
+      <content src="c-151Pag15.htm"/>
+    </navPoint>
+    <navPoint id="ud1c0452c-3019-48ff-98cb-b1794dfbb481" playOrder="16">
+      <navLabel>
+        <text>Anacrónicas: El Gran Director</text>
+      </navLabel>
+      <content src="c-151Pag16.htm"/>
+    </navPoint>
+    <navPoint id="ub454dd59-6956-4457-8079-4838eb36dd1e" playOrder="17">
+      <navLabel>
+        <text>Anacrónicas: La yunta’e torres</text>
+      </navLabel>
+      <content src="c-151Pag17.htm"/>
+    </navPoint>
+    <navPoint id="ude2ec59c-ea9e-4bf2-b8e2-75b866153d86" playOrder="18">
+      <navLabel>
+        <text>Uficción: La nube negra</text>
+      </navLabel>
+      <content src="c-151Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u11af1d7d-9a30-4b38-91d1-ddc7281f141e" playOrder="19">
+      <navLabel>
+        <text>Ficciones: Balneario</text>
+      </navLabel>
+      <content src="c-151Pag19.htm"/>
+    </navPoint>
+    <navPoint id="u8b459b53-43a3-4b7a-871c-d29e8fa57aaa" playOrder="20">
+      <navLabel>
+        <text>Ficciones: Metamorfosis</text>
+      </navLabel>
+      <content src="c-151Pag20.htm"/>
+    </navPoint>
+    <navPoint id="u7467bdea-6932-407d-96a9-b41eaec55d4b" playOrder="21">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

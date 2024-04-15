@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="ea115413-ab94-4c1a-9e20-1915afd5d334" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.8)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 55</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="36b3638a-f32c-40ae-9cd4-31ef7c3f83a0" playOrder="1">
+      <navLabel>
+        <text>Premios: Premios</text>
+      </navLabel>
+      <content src="c-55Pag01.htm"/>
+    </navPoint>
+    <navPoint id="37e43985-3d77-4909-ab04-de4f28516ae5" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 55</text>
+      </navLabel>
+      <content src="c-55Pag02.htm"/>
+    </navPoint>
+    <navPoint id="8c38af0d-52a3-4ae8-806e-ed98f2c42383" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Procustos</text>
+      </navLabel>
+      <content src="c-55Pag03.htm"/>
+    </navPoint>
+    <navPoint id="e9c2d83f-2794-4813-b33c-4c607494a6f9" playOrder="5">
+      <navLabel>
+        <text>Ensayo: Pasame la banana</text>
+      </navLabel>
+      <content src="c-55Pag04.htm"/>
+    </navPoint>
+    <navPoint id="48aef4c2-1633-4c91-9934-5d2fc72add5d" playOrder="6">
+      <navLabel>
+        <text>Sección: El portal fantástico - 3</text>
+      </navLabel>
+      <content src="c-55Pag05.htm"/>
+    </navPoint>
+    <navPoint id="c8d13f5d-9388-4d26-bda0-146ba1e27201" playOrder="7">
+      <navLabel>
+        <text>Ficciones: La mejor manera de enamorarse</text>
+      </navLabel>
+      <content src="c-55Pag06.htm"/>
+    </navPoint>
+    <navPoint id="4ecd6cbe-8d6d-4152-b856-1e56e4535e2a" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Una misión más</text>
+      </navLabel>
+      <content src="c-55Pag07.htm"/>
+    </navPoint>
+    <navPoint id="7a2bcefd-d01a-41f9-b981-95a461055b02" playOrder="9">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual (VI)</text>
+      </navLabel>
+      <content src="c-55Pag08.htm"/>
+    </navPoint>
+    <navPoint id="b468f94d-64b6-4c9a-9e03-936ee19a2b6c" playOrder="10">
+      <navLabel>
+        <text>Sección: Tour Macabro (3)</text>
+      </navLabel>
+      <content src="c-55Pag09.htm"/>
+    </navPoint>
+    <navPoint id="6c34b36b-350f-4fb3-8a80-201d7b974a0b" playOrder="11">
+      <navLabel>
+        <text>Ficciones: La indisposición</text>
+      </navLabel>
+      <content src="c-55Pag10.htm"/>
+    </navPoint>
+    <navPoint id="f63c94a2-5629-4356-9bfb-43894cc7b276" playOrder="12">
+      <navLabel>
+        <text>Ficciones: El escuerzo</text>
+      </navLabel>
+      <content src="c-55Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ecf0f9b9-3491-40f0-837b-a627867e981e" playOrder="13">
+      <navLabel>
+        <text>Correo: Correo 55</text>
+      </navLabel>
+      <content src="c-55Pag12.htm"/>
+    </navPoint>
+    <navPoint id="cbae56ee-cc8b-4704-a109-c961399610cf" playOrder="14">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad</text>
+      </navLabel>
+      <content src="c-55Pag13.htm"/>
+    </navPoint>
+    <navPoint id="eb01eea3-a4ff-471e-b98c-30a438687045" playOrder="15">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-55Pag14.htm"/>
+    </navPoint>
+    <navPoint id="ded19f9b-85ea-49ef-b795-b6ce456da293" playOrder="16">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-55Pag15.htm"/>
+    </navPoint>
+    <navPoint id="4361eafd-d82a-4051-8b25-2e405dd11cad" playOrder="17">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="88f50f2f-1388-4eed-9b01-d682b55908b0" playOrder="4">
+      <navLabel>
+        <text>[1]</text>
+      </navLabel>
+      <content src="c-55Pag03.htm#wunderland"/>
+    </navPoint>
+  </navMap>
+</ncx>

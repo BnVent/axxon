@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="910d4671-5838-423f-ac05-d3defa4cebb8" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.14.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 121</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ua43e4855-803d-40bf-bd11-6ed020328ee8" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 121</text>
+      </navLabel>
+      <content src="c-121Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u1b0389dc-6c95-4fca-bd96-4b0c5f529c9d" playOrder="2">
+      <navLabel>
+        <text>Correo: Correo 121</text>
+      </navLabel>
+      <content src="c-121Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ucba12ccc-dc8f-4652-9ac5-8aa4f1e43108" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Más allá del sueño: Testimonio</text>
+      </navLabel>
+      <content src="c-121Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u43f51a50-cdfc-4d6a-9f77-f341f5c2455b" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El misterio de los Cayos de la Florida</text>
+      </navLabel>
+      <content src="c-121Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u3cfb48c3-3c6d-44ba-8855-7d67b77245cc" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Encuentro con John</text>
+      </navLabel>
+      <content src="c-121Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uaac8550a-6aa3-4e61-a933-ec2dbcb3edb3" playOrder="6">
+      <navLabel>
+        <text>Ficciones: La traslación</text>
+      </navLabel>
+      <content src="c-121Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u50d85e08-66e1-46f2-b85b-74172e56914f" playOrder="7">
+      <navLabel>
+        <text>Sección: Andernow</text>
+      </navLabel>
+      <content src="c-121Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u6d0bb02b-3dc8-4d1c-87d7-b94e70331abd" playOrder="8">
+      <navLabel>
+        <text>Ficciones: El Gaucho de los Anillos (2)</text>
+      </navLabel>
+      <content src="c-121Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u2ac8ce59-a92f-4049-97da-dda1aeb76ad7" playOrder="9">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

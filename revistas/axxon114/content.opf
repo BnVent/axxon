@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Ediciones Axxón</dc:publisher>
+    <meta name="calibre:series_index" content="114"/>
+    <dc:language>es</dc:language>
+    <dc:creator opf:file-as="Desconocido" opf:role="aut">Eduardo Carletti (editor)</dc:creator>
+    <meta name="calibre:timestamp" content="2013-10-27T23:34:30.395000+00:00"/>
+    <dc:title>Axxón 114</dc:title>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:series" content="Axxón"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">0563c288-1dde-4c9d-82da-1874d9a54d24</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="axxon.htm" id="html8" media-type="application/xhtml+xml"/>
+    <item href="axxon00.gif" id="added43" media-type="image/gif"/>
+    <item href="axxon114.htm" id="html" media-type="application/xhtml+xml"/>
+    <item href="band-arg.jpg" id="added3" media-type="image/jpeg"/>
+    <item href="band-mex.jpg" id="added41" media-type="image/jpeg"/>
+    <item href="c-114Pag01.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="c-114Pag02.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="c-114Pag03.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="c-114Pag04.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="c-114Pag05.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="c-114Pag06.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="c-114Pag07.htm" id="html7" media-type="application/xhtml+xml"/>
+    <item href="c-114anderfotoa.jpg" id="added39" media-type="image/jpeg"/>
+    <item href="c-114anderimagen1.jpg" id="added22" media-type="image/jpeg"/>
+    <item href="c-114anderimagen10.jpg" id="added31" media-type="image/jpeg"/>
+    <item href="c-114anderimagen11.jpg" id="added32" media-type="image/jpeg"/>
+    <item href="c-114anderimagen12.jpg" id="added33" media-type="image/jpeg"/>
+    <item href="c-114anderimagen13.jpg" id="added34" media-type="image/jpeg"/>
+    <item href="c-114anderimagen13ch.jpg" id="added35" media-type="image/jpeg"/>
+    <item href="c-114anderimagen14.jpg" id="added36" media-type="image/jpeg"/>
+    <item href="c-114anderimagen15.jpg" id="added37" media-type="image/jpeg"/>
+    <item href="c-114anderimagen16.jpg" id="added38" media-type="image/jpeg"/>
+    <item href="c-114anderimagen17ch.jpg" id="added40" media-type="image/jpeg"/>
+    <item href="c-114anderimagen2.jpg" id="added23" media-type="image/jpeg"/>
+    <item href="c-114anderimagen3.jpg" id="added24" media-type="image/jpeg"/>
+    <item href="c-114anderimagen4.jpg" id="added25" media-type="image/jpeg"/>
+    <item href="c-114anderimagen5ch.jpg" id="added26" media-type="image/jpeg"/>
+    <item href="c-114anderimagen6ch.jpg" id="added27" media-type="image/jpeg"/>
+    <item href="c-114anderimagen7.jpg" id="added28" media-type="image/jpeg"/>
+    <item href="c-114anderimagen8.jpg" id="added29" media-type="image/jpeg"/>
+    <item href="c-114anderimagen9.jpg" id="added30" media-type="image/jpeg"/>
+    <item href="c-114iluspc1.jpg" id="added5" media-type="image/jpeg"/>
+    <item href="c-114solaboreal1.jpg" id="added15" media-type="image/jpeg"/>
+    <item href="c-114solaboreal1ch.jpg" id="added16" media-type="image/jpeg"/>
+    <item href="c-114solaboreal2.jpg" id="added17" media-type="image/jpeg"/>
+    <item href="c-114solaboreal2ch.jpg" id="added18" media-type="image/jpeg"/>
+    <item href="c-114solaboreal3.jpg" id="added19" media-type="image/jpeg"/>
+    <item href="c-114solaboreal3ch.jpg" id="added20" media-type="image/jpeg"/>
+    <item href="c-114solerupcion.jpg" id="added14" media-type="image/jpeg"/>
+    <item href="c-114solerupcion.mpg" id="added13" media-type="video/mpeg"/>
+    <item href="c-114solilus01.jpg" id="added7" media-type="image/jpeg"/>
+    <item href="c-114solilus01ch.jpg" id="added8" media-type="image/jpeg"/>
+    <item href="c-114soliluscomp.jpg" id="added9" media-type="image/jpeg"/>
+    <item href="c-114soliluscompch.jpg" id="added10" media-type="image/jpeg"/>
+    <item href="c-114solmanchas.jpg" id="added11" media-type="image/jpeg"/>
+    <item href="c-114solmanchasch.jpg" id="added12" media-type="image/jpeg"/>
+    <item href="c-114soltabla.gif" id="added21" media-type="image/gif"/>
+    <item href="c-114tapach.jpg" id="added44" media-type="image/jpeg"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="pais-arg.jpg" id="added4" media-type="image/jpeg"/>
+    <item href="pais-mex.jpg" id="added42" media-type="image/jpeg"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="x-epub.png" id="added45" media-type="image/png"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+    <itemref idref="html1"/>
+    <itemref idref="html2"/>
+    <itemref idref="html3"/>
+    <itemref idref="html4"/>
+    <itemref idref="html5"/>
+    <itemref idref="html6"/>
+    <itemref idref="html7"/>
+    <itemref idref="html8"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

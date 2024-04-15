@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="e7d7705e-7249-4f69-bc3e-5af7ca220560" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.17.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 287</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ugiHB9mrRpmaeiHUTV3ZHl7" playOrder="1">
+      <navLabel>
+        <text>Presentación: Una cierta argentinidad futura</text>
+      </navLabel>
+      <content src="c-287Pag01.htm"/>
+    </navPoint>
+    <navPoint id="un9ilhaHoZrECY3sP7XnBiE" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Los Santos conspiradores del tiempo: Introducción, I, II, III</text>
+      </navLabel>
+      <content src="c-287Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uaMKH54gYNA55MVsfIOfYi9" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Los Santos conspiradores del tiempo: IV, V, VI, VII</text>
+      </navLabel>
+      <content src="c-287Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uKRHDU8pq93rst76kDN5mA7" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Los Santos conspiradores del tiempo: VIII, IX, X, XI</text>
+      </navLabel>
+      <content src="c-287Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uuXeNBwLqGmuWqzrSZOb8g8" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Los Santos conspiradores del tiempo: XII, XIV, XV, Epílogo</text>
+      </navLabel>
+      <content src="c-287Pag05.htm"/>
+    </navPoint>
+    <navPoint id="utMDF4Ru2QmodxDWjZGr5s8" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Lo que mueve al cuerpo</text>
+      </navLabel>
+      <content src="c-287Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ulclZZAjhk2ttQSu3OKyAgA" playOrder="7">
+      <navLabel>
+        <text>Ficciones: 1256</text>
+      </navLabel>
+      <content src="c-287Pag07.htm"/>
+    </navPoint>
+    <navPoint id="umYjWRTxf29UMPqYElbXjO2" playOrder="8">
+      <navLabel>
+        <text>Ficciones: En el principio fue el verbo</text>
+      </navLabel>
+      <content src="c-287Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uyw6ojIRNN3MEdVWwxGdWR9" playOrder="9">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-287Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uJtbUvq5n8pAu8sd47KEwt8" playOrder="10">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

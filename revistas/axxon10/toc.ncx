@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="b233d48a-8e6f-42db-91d6-490355047402" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.41.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 10</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uae74e6ec-64af-4003-8faa-6d6ed4486ab3" playOrder="1">
+      <navLabel>
+        <text>Editorial: Axxón 10</text>
+      </navLabel>
+      <content src="c-10Pag01.htm"/>
+    </navPoint>
+    <navPoint id="udc9656b4-1131-4d33-b653-b3a9131ce6f1" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Cae una lágrima</text>
+      </navLabel>
+      <content src="c-10Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ucb6c01c7-7477-43a3-9304-65e6266c650c" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Nombres propuestos para el planeta: Decepción/Desengaño</text>
+      </navLabel>
+      <content src="c-10Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u7c0a1025-3d7d-49f7-9346-216ddfd9569f" playOrder="4">
+      <navLabel>
+        <text>Ficciones: La anciana señorita Macbeth</text>
+      </navLabel>
+      <content src="c-10Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u8312b479-e0ca-4152-819f-95cb5a6c52de" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Reflexiones sobre una sexualidad futura</text>
+      </navLabel>
+      <content src="c-10Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u81b2b60b-8ebd-472e-b56c-fe91bcecc35f" playOrder="6">
+      <navLabel>
+        <text>Ficciones: El libro de arena</text>
+      </navLabel>
+      <content src="c-10Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u7e84b35f-4ecf-4bf9-8baf-7bf94f253bdd" playOrder="7">
+      <navLabel>
+        <text>Bestiario: Nanotecnología</text>
+      </navLabel>
+      <content src="c-10Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uac6d2fb9-6916-4e1d-8130-b725ca9b2603" playOrder="8">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-10Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ub1d39d55-62ca-41cd-86aa-fd56c5132f49" playOrder="9">
+      <navLabel>
+        <text>Sección: Disquisiciones Inocuas</text>
+      </navLabel>
+      <content src="c-10Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u78c1366c-8d8c-45ea-98bf-4588942efc56" playOrder="10">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-10Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ua38aed4f-f4e8-40e3-b4b8-401bccf27d43" playOrder="11">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

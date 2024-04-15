@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="fafee695-e2d6-4fe4-a46f-a19fc2952b23" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.56.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axx¢n 272</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uOOCe5qlk59kfNdZ8Hnxrh6" playOrder="1">
+      <navLabel>
+        <text>Editorial: Este Abril</text>
+      </navLabel>
+      <content src="c-272Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uACZrsV87yn8LmCMxXotyjE" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Blinker</text>
+      </navLabel>
+      <content src="c-272Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uy4vp6OF2PNtqb8aXwcaMWB" playOrder="3">
+      <navLabel>
+        <text>Ficciones: La tía Merkel</text>
+      </navLabel>
+      <content src="c-272Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u9QB52zUXaWXG2SkGMSMRHB" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Receta para una dieta</text>
+      </navLabel>
+      <content src="c-272Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ugXYeaFUSyPxd2lVRpB2j94" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El abismo</text>
+      </navLabel>
+      <content src="c-272Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uRVol2ELt84H85jIhzsbo23" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Regreso a Alba</text>
+      </navLabel>
+      <content src="c-272Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uOQb5ux22PBCYXdlkzK6dh7" playOrder="7">
+      <navLabel>
+        <text>Ficciones: El frente de batalla</text>
+      </navLabel>
+      <content src="c-272Pag07.htm"/>
+    </navPoint>
+    <navPoint id="utaMBhEFNFeUYd4QGwS5pzC" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Fiebre (Una historia de amor ‘Body Horror’)</text>
+      </navLabel>
+      <content src="c-272Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uzP27ui9jHpfAiyVcBNkBI7" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Volver de Venus</text>
+      </navLabel>
+      <content src="c-272Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uAsLp85GPn8PDVsCnxLYTF9" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Quemando plomo</text>
+      </navLabel>
+      <content src="c-272Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uKFlURfNMPw57mWhzogs529" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Animales de compañía</text>
+      </navLabel>
+      <content src="c-272Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u4D7HoEL5JYz73X9iBH8aQ9" playOrder="12">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

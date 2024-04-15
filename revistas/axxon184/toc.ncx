@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="29bf6374-f3ef-4d5b-8f14-fab1b98b015e" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 184</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u7b424375-1bb3-41df-8ed5-af5039a632c3" playOrder="1">
+      <navLabel>
+        <text>Editorial: “Hambre… aquí no”</text>
+      </navLabel>
+      <content src="c-184Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ue58c52a5-8ee6-419c-8f78-dd27ec10f89a" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Gus</text>
+      </navLabel>
+      <content src="c-184Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uf36dde0e-e6d4-429e-8281-798426eebe22" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El Hombre de las Algas</text>
+      </navLabel>
+      <content src="c-184Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uc8c1b40a-b345-4ac7-a39c-cbd5a30057cf" playOrder="4">
+      <navLabel>
+        <text>Ficciones: La muerte en Alic 5</text>
+      </navLabel>
+      <content src="c-184Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u190d1547-e931-4b94-816f-ed85648d608c" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El sacrificio</text>
+      </navLabel>
+      <content src="c-184Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u97a70c61-11ea-4633-8ab3-19920f86097c" playOrder="6">
+      <navLabel>
+        <text>Ensayo: La cultura de lo aparente en La muerte como efecto secundario</text>
+      </navLabel>
+      <content src="c-184Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u95fd3e88-6e9e-47ac-a523-28f97288ba42" playOrder="7">
+      <navLabel>
+        <text>Ensayo: Analogías Textuales. 1984, George Orwell</text>
+      </navLabel>
+      <content src="c-184Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u1e00d7f9-6cda-4763-9e8d-6d252db9f69f" playOrder="8">
+      <navLabel>
+        <text>Axxóncine: El orfanato</text>
+      </navLabel>
+      <content src="c-184Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u02b72c91-7d43-4ba1-9337-5b58bbd922f7" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (41)</text>
+      </navLabel>
+      <content src="c-184Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ud0e84ffe-d02d-4e29-8fa9-422e9474cf1d" playOrder="10">
+      <navLabel>
+        <text>Divulgación: El Niño de Turkana</text>
+      </navLabel>
+      <content src="c-184Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u6f9831f4-a6a5-4ef6-b77c-ff7fbd90c91a" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Dextrógiro</text>
+      </navLabel>
+      <content src="c-184Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u2cca0c7d-df8b-417d-80e5-06755bf4cfa8" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Bailarines</text>
+      </navLabel>
+      <content src="c-184Pag12.htm"/>
+    </navPoint>
+    <navPoint id="uc86dc315-6793-4394-9b3c-30808e5f6734" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Adangêliön</text>
+      </navLabel>
+      <content src="c-184Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u48aa4231-5db3-4d13-9c58-af28ec6c5eed" playOrder="14">
+      <navLabel>
+        <text>Ficciones: Cánticos para la tierna infancia</text>
+      </navLabel>
+      <content src="c-184Pag14.htm"/>
+    </navPoint>
+    <navPoint id="ue2014cd0-8f53-4981-9d66-682bc7a54c29" playOrder="15">
+      <navLabel>
+        <text>Ficciones: El recado cumplido</text>
+      </navLabel>
+      <content src="c-184Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u444e265a-0272-4acb-910d-aaa1304dae97" playOrder="16">
+      <navLabel>
+        <text>Clásico: La mano</text>
+      </navLabel>
+      <content src="c-184Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u43dcec2f-a22b-4f72-a497-9bd6bb6fa666" playOrder="17">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

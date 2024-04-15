@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="2e639d1c-0da8-4671-b280-ecb4ac95438b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.12.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 140</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u6e06a0af-952e-4df4-9d51-f25e5bb6b881" playOrder="1">
+      <navLabel>
+        <text>Editorial: Educación</text>
+      </navLabel>
+      <content src="c-140Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u644f7140-b078-47a8-aeb0-8dc24afa4948" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxonitas</text>
+      </navLabel>
+      <content src="c-140Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u3b7d3da2-dcff-4c2e-81cc-9798ea2ba03f" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El payaso de porcelana</text>
+      </navLabel>
+      <content src="c-140Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u2a11ba12-b786-4824-8bf3-bdcdf288aebb" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Tara 2011</text>
+      </navLabel>
+      <content src="c-140Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u8f277311-c2a5-4243-9915-6a590687de41" playOrder="5">
+      <navLabel>
+        <text>Divulgación: El manuscrito Voynich</text>
+      </navLabel>
+      <content src="c-140Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u7e2cf94b-e380-4cb1-94ee-b341831dcaf2" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Invitación</text>
+      </navLabel>
+      <content src="c-140Pag06.htm"/>
+    </navPoint>
+    <navPoint id="udcd644d3-4fe9-4a71-93d0-e219001cca5a" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Espora</text>
+      </navLabel>
+      <content src="c-140Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ue3c604ed-72d4-47bd-a7e1-195ca0e75130" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Una tarea escolar</text>
+      </navLabel>
+      <content src="c-140Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u0b43c629-fb72-4c0a-a96e-d7f8f92eb98b" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Propiedad horizontal</text>
+      </navLabel>
+      <content src="c-140Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u769ba6bd-566a-46a2-8c98-e824ffcc5626" playOrder="10">
+      <navLabel>
+        <text>Portfolio: Marcelo Claudio Frontera</text>
+      </navLabel>
+      <content src="c-140Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u756c560f-ad52-44d2-be00-f0e37a4dd0c7" playOrder="11">
+      <navLabel>
+        <text>Sección: UKrónicas</text>
+      </navLabel>
+      <content src="c-140Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ua58b1f6b-a089-42e5-bd76-03f4b6d01f0d" playOrder="12">
+      <navLabel>
+        <text>Ficciones: El rostro desnudo</text>
+      </navLabel>
+      <content src="c-140Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u906ee2e8-2bd3-4281-9cfc-8b46573e3d8f" playOrder="13">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

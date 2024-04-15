@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="429d0f09-3d21-4b33-831c-b9ee838bb812" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.41.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 187</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u1daa7208-715f-4bec-bae3-c14c0e8dc708" playOrder="1">
+      <navLabel>
+        <text>Editorial: Grande, ¡grande!, ¡GRANDE!</text>
+      </navLabel>
+      <content src="c-187Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u2ad55d80-48de-4d38-a65d-1ef0fb4d0c0a" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-187Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u2473c8e2-5c52-4365-a2eb-ff6120c8d2a4" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Amor carnal</text>
+      </navLabel>
+      <content src="c-187Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ufd19e17b-6e97-438c-9026-4763ae9429c8" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El extraño caso del señor Wilson</text>
+      </navLabel>
+      <content src="c-187Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ua2dbd8e4-59c7-492a-962b-72e557cac634" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Reality</text>
+      </navLabel>
+      <content src="c-187Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u6cea529b-7de4-4b08-a477-a88af7fea6de" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Burros más veloces que la luz</text>
+      </navLabel>
+      <content src="c-187Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u122939b9-a8fd-4f6d-b6cc-15782834e1ec" playOrder="7">
+      <navLabel>
+        <text>Ficciones: El G</text>
+      </navLabel>
+      <content src="c-187Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uec66b36a-f184-496c-b586-bc3e937b1f2a" playOrder="8">
+      <navLabel>
+        <text>Divulgación: Inmigrantes ilegales</text>
+      </navLabel>
+      <content src="c-187Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uee9bdaa2-46ca-4c80-8d46-a91d3bd08d1f" playOrder="9">
+      <navLabel>
+        <text>Axxóncine: Indiana Jones y el Reino de la Calavera de Cristal</text>
+      </navLabel>
+      <content src="c-187Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u1451a7dd-a4eb-4d0c-b716-0f241c64eb2a" playOrder="10">
+      <navLabel>
+        <text>Ensayo: Las distopías de Thomas Disch</text>
+      </navLabel>
+      <content src="c-187Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ua9f37df5-e308-46f0-b152-e8aed8246945" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (43)</text>
+      </navLabel>
+      <content src="c-187Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ueca20786-8cbd-451a-ab1c-aead3053cf1c" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Penúltimo disparo</text>
+      </navLabel>
+      <content src="c-187Pag12.htm"/>
+    </navPoint>
+    <navPoint id="ub7685777-a11a-4d82-82ea-dc8dab6d4dad" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Estimado desconocido</text>
+      </navLabel>
+      <content src="c-187Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u1403f4c0-8495-404a-8f75-eedf834b94b7" playOrder="14">
+      <navLabel>
+        <text>Ficciones: Expreso infinito</text>
+      </navLabel>
+      <content src="c-187Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u51eb1d75-2936-49d5-ae73-78f7e391ad95" playOrder="15">
+      <navLabel>
+        <text>Ficciones: Ruinas de neón</text>
+      </navLabel>
+      <content src="c-187Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u90a3fd99-f625-4855-8367-f66b6aee729c" playOrder="16">
+      <navLabel>
+        <text>Clásico: El pantano de la Luna</text>
+      </navLabel>
+      <content src="c-187Pag16.htm"/>
+    </navPoint>
+    <navPoint id="ue2a9d1b4-a7b8-4214-99fa-03b059f3c5cf" playOrder="17">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-187Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u6803604f-634f-4ad2-9702-ee13871e3ee4" playOrder="18">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

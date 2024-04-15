@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="7fea97b1-d445-4ffa-b9bf-6046e5547be7" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 178</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u78e4c837-040f-46bc-875c-75b7886f9f7e" playOrder="1">
+      <navLabel>
+        <text>Editorial: Abriendo puertas</text>
+      </navLabel>
+      <content src="c-178Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u5a766e5b-c58b-498a-bcfb-376efab0e6a4" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-178Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u1992ade3-a65d-4115-a146-205620453940" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Bodas de Plata</text>
+      </navLabel>
+      <content src="c-178Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ua5d2af82-cbe7-4805-bb2e-88581f5fbbce" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El Cuento Universal</text>
+      </navLabel>
+      <content src="c-178Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uebc27eb4-536b-48ce-b19f-eac17b799f88" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Morir de tristeza</text>
+      </navLabel>
+      <content src="c-178Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ua62abf8b-4f02-4f4d-acc6-4541a698a506" playOrder="6">
+      <navLabel>
+        <text>Divulgación: El Experimento Stanford</text>
+      </navLabel>
+      <content src="c-178Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ua6753f2b-a8ec-46b6-b4d9-5f62c7cd2001" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (34)</text>
+      </navLabel>
+      <content src="c-178Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u00f5f787-9b14-4f8c-a55d-064dd824eb03" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Cambio de suerte</text>
+      </navLabel>
+      <content src="c-178Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u3c9820ee-83f8-45a9-b25f-38f22c83ebb7" playOrder="9">
+      <navLabel>
+        <text>Ficciones: S. G. 7.0</text>
+      </navLabel>
+      <content src="c-178Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ud9f32858-d012-40c8-8f03-3a6e512d8c74" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Hilos de fuego</text>
+      </navLabel>
+      <content src="c-178Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ua381d63f-320f-4657-bf95-fb47ef4e692f" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Ectoplasmia</text>
+      </navLabel>
+      <content src="c-178Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u1add444a-8c05-4e46-a9fb-bde1439e95f5" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Sunny Rose y el vendedor de espejos</text>
+      </navLabel>
+      <content src="c-178Pag12.htm"/>
+    </navPoint>
+    <navPoint id="ubdbfe6cf-a384-494b-93fc-99f532e6e0e8" playOrder="13">
+      <navLabel>
+        <text>Ficciones: El brujo</text>
+      </navLabel>
+      <content src="c-178Pag13.htm"/>
+    </navPoint>
+    <navPoint id="uaa38d2d7-496e-4717-a8be-cc43d170b5c4" playOrder="14">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (35)</text>
+      </navLabel>
+      <content src="c-178Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u2da71c29-4d6b-49d2-b6e2-eb9160ab435d" playOrder="15">
+      <navLabel>
+        <text>Axxóncine: Invasores</text>
+      </navLabel>
+      <content src="c-178Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u771d0675-5a17-4876-aab0-1dd7abb00428" playOrder="16">
+      <navLabel>
+        <text>Clásico: Los piratas fantasmas</text>
+      </navLabel>
+      <content src="c-178Pag16_split_000.htm"/>
+    </navPoint>
+    <navPoint id="uf7eb6721-0ea6-41cf-b494-b4639d538180" playOrder="17">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-178Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u65fcd993-11e4-4f27-a3fa-b83c7fc6ecd6" playOrder="18">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

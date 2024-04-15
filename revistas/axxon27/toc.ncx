@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="149e9b3d-1c3b-4620-b479-78eaa1b5947c" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 27</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="59789af0-b78a-4296-9751-7b4f394c7cf3" playOrder="1">
+      <navLabel>
+        <text>Editorial - Editorial 27</text>
+      </navLabel>
+      <content src="c-27Pag01.htm"/>
+    </navPoint>
+    <navPoint id="9e0eb7e4-1d7b-49d5-9ab2-cc480a5180ae" playOrder="2">
+      <navLabel>
+        <text>Ficciones - Escape perfecto</text>
+      </navLabel>
+      <content src="c-27Pag02.htm"/>
+    </navPoint>
+    <navPoint id="27e413db-7de1-4402-82b7-72c1c10f0b06" playOrder="4">
+      <navLabel>
+        <text>Ficciones - Visión</text>
+      </navLabel>
+      <content src="c-27Pag03.htm"/>
+    </navPoint>
+    <navPoint id="47712a12-27de-4203-805e-fa4c4fa02508" playOrder="5">
+      <navLabel>
+        <text>Ficciones - Vejez</text>
+      </navLabel>
+      <content src="c-27Pag04.htm"/>
+    </navPoint>
+    <navPoint id="bcbc2139-8923-4268-be1b-790a0a31c0ec" playOrder="6">
+      <navLabel>
+        <text>Ficciones - Hoy o mañana</text>
+      </navLabel>
+      <content src="c-27Pag05.htm"/>
+    </navPoint>
+    <navPoint id="5c1e1028-37c5-4ded-92a1-f67fa2ec2847" playOrder="7">
+      <navLabel>
+        <text>Ficciones - La Balada de las Estrellas</text>
+      </navLabel>
+      <content src="c-27Pag06.htm"/>
+    </navPoint>
+    <navPoint id="b5c7fd42-d904-4f28-88e0-9a4b43c144c9" playOrder="8">
+      <navLabel>
+        <text>Correo - Correo 27</text>
+      </navLabel>
+      <content src="c-27Pag07.htm"/>
+    </navPoint>
+    <navPoint id="4119faa0-ca5e-482c-b8e9-7e1decedbf4e" playOrder="9">
+      <navLabel>
+        <text>Ficciones - Lo mortal Circu</text>
+      </navLabel>
+      <content src="c-27Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ba26e5b7-7cf8-4759-b67a-35ae98c2f261" playOrder="10">
+      <navLabel>
+        <text>Equipo - Equipo Axxón</text>
+      </navLabel>
+      <content src="c-27Pag09.htm"/>
+    </navPoint>
+    <navPoint id="8c5f9260-b6be-4e37-81cb-fa6fb8c18cb0" playOrder="11">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="2c15741c-17ba-475b-a6c6-f3f1d8829da4" playOrder="3">
+      <navLabel>
+        <text>[*]</text>
+      </navLabel>
+      <content src="c-27Pag02.htm#id2"/>
+    </navPoint>
+  </navMap>
+</ncx>

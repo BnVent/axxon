@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta name="dtb:uid" content="f1e64aef-75dd-440a-8102-2e5d0b92406b"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (5.10.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Axxón 77</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uPqWIEQfUHvPPrDQMxVNhiB" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-77Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uXjfdR9oZLIBtvmEnlSoPOD" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 77</text>
+      </navLabel>
+      <content src="c-77Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uRbBecjrkCqIq7JLl7wPt6H" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Trueno Negro</text>
+      </navLabel>
+      <content src="c-77Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uGtQcir9TmEWvjIrCzKkg86" playOrder="4">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual</text>
+      </navLabel>
+      <content src="c-77Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uwUOEf6ymhGqp5oIKWNYI4G" playOrder="5">
+      <navLabel>
+        <text>Correo: Correo 77</text>
+      </navLabel>
+      <content src="c-77Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uDZCObaipAj28oQKyjgDiA7" playOrder="6">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad</text>
+      </navLabel>
+      <content src="c-77Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u3CPZGcvAEYWoSo9ZkvlGqC" playOrder="7">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-77Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u4ANr5D2rUxSErDMbhJYhM5" playOrder="8">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-77Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uSkgPOj36SVAJOoKcRicWP5" playOrder="9">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

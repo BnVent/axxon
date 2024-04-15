@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <meta name="cover" content="cover"/>
+    <dc:title>Axxón 263</dc:title>
+    <dc:language>es</dc:language>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">2ab59436-0aab-4c2f-878f-fb133b54a111</dc:identifier>
+    <meta name="calibre:series_index" content="263"/>
+    <meta name="calibre:timestamp" content="2015-06-14T23:20:16.675000+00:00"/>
+    <dc:creator opf:file-as="Desconocido" opf:role="aut">Eduardo Carletti (editor)</dc:creator>
+    <meta name="calibre:series" content="Axxón"/>
+    <dc:publisher>Ediciones Axxón</dc:publisher>
+  </metadata>
+  <manifest>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="263alealoentrevista1ch.jpg" id="added8" media-type="image/jpeg"/>
+    <item href="263alealonsoch.jpg" id="added4" media-type="image/jpeg"/>
+    <item href="263cuento1ilus1ch.jpg" id="added7" media-type="image/jpeg"/>
+    <item href="263editcdjv.jpg" id="added3" media-type="image/jpeg"/>
+    <item href="263lorenach.jpg" id="added9" media-type="image/jpeg"/>
+    <item href="263novelailus1ch.jpg" id="added6" media-type="image/jpeg"/>
+    <item href="axxon.htm" id="html10" media-type="application/xhtml+xml"/>
+    <item href="axxon00.gif" id="added10" media-type="image/gif"/>
+    <item href="axxon263.htm" id="html" media-type="application/xhtml+xml"/>
+    <item href="band-arg.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="c-263Pag01.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="c-263Pag02.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="c-263Pag03.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="c-263Pag04.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="c-263Pag05.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="c-263Pag06.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="c-263Pag07.htm" id="html7" media-type="application/xhtml+xml"/>
+    <item href="c-263Pag08.htm" id="html8" media-type="application/xhtml+xml"/>
+    <item href="c-263Pag09.htm" id="html9" media-type="application/xhtml+xml"/>
+    <item href="c-263tapach.jpg" id="added11" media-type="image/jpeg"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="x-epub.png" id="added12" media-type="image/png"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+    <itemref idref="html1"/>
+    <itemref idref="html2"/>
+    <itemref idref="html3"/>
+    <itemref idref="html4"/>
+    <itemref idref="html5"/>
+    <itemref idref="html6"/>
+    <itemref idref="html7"/>
+    <itemref idref="html8"/>
+    <itemref idref="html9"/>
+    <itemref idref="html10"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

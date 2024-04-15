@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="07dc2a01-d324-489a-b94c-50122fa856e2" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.34.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 145</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u42855135-9187-4d5f-a3c1-2378fedf9049" playOrder="1">
+      <navLabel>
+        <text>Editorial: Soldados y generales</text>
+      </navLabel>
+      <content src="c-145Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u9fe0c2ac-0adf-4c9f-8363-8377a121eb83" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxonitas</text>
+      </navLabel>
+      <content src="c-145Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u63d70e27-8e2b-4ae3-bde5-93297e4cc29e" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El perfil</text>
+      </navLabel>
+      <content src="c-145Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u3c4f706f-4bf5-41d7-9d35-bd63bc3d1b20" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Tiempo, Maldita Daga</text>
+      </navLabel>
+      <content src="c-145Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u1bd8ef0e-0c55-4351-96e9-eed177452d76" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Vuelta al hogar</text>
+      </navLabel>
+      <content src="c-145Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u352677ca-0dc7-4a10-a32c-0c8d3f87b52b" playOrder="6">
+      <navLabel>
+        <text>Ficciones: La búsqueda de la verdad</text>
+      </navLabel>
+      <content src="c-145Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uc1276378-df1e-4f28-a95d-9ef98145afc2" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Las entrañas elásticas del conquistador</text>
+      </navLabel>
+      <content src="c-145Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u0f1b54ce-1332-4e7c-9599-7307a265f0e8" playOrder="8">
+      <navLabel>
+        <text>Divulgación: El hombre elefante</text>
+      </navLabel>
+      <content src="c-145Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u83d127ab-f179-4bed-9a46-9385b964813a" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Confusión macabra</text>
+      </navLabel>
+      <content src="c-145Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u71a4d42d-562d-4ba3-80fe-2a44c6ec20c6" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Nunca trabajes para un extraño</text>
+      </navLabel>
+      <content src="c-145Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u705db33d-31e3-4758-ac95-eed01d79a805" playOrder="11">
+      <navLabel>
+        <text>Ficciones: La máquina verde</text>
+      </navLabel>
+      <content src="c-145Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u55961076-8459-4d92-92c8-516cae6f4b48" playOrder="12">
+      <navLabel>
+        <text>Ficciones: T’Ayl siempre-fría</text>
+      </navLabel>
+      <content src="c-145Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u2531ca80-a9e5-469d-9e32-a75126559def" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Inferencia probabilística</text>
+      </navLabel>
+      <content src="c-145Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u7a6750ca-6877-466b-80ca-32f18d2ed05e" playOrder="14">
+      <navLabel>
+        <text>Sección: Anacrónicas</text>
+      </navLabel>
+      <content src="c-145Pag14.htm"/>
+    </navPoint>
+    <navPoint id="uea700170-5c94-4ecf-abf4-e76cfe9ba5df" playOrder="15">
+      <navLabel>
+        <text>Anacrónicas: Desbaratan comando subversivo</text>
+      </navLabel>
+      <content src="c-145Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u57b305b3-36c5-4717-935c-7a0a4bc7ba65" playOrder="16">
+      <navLabel>
+        <text>Anacrónicas: Subterror</text>
+      </navLabel>
+      <content src="c-145Pag16.htm"/>
+    </navPoint>
+    <navPoint id="uf955d90d-e363-453c-a0a9-53929be394c9" playOrder="17">
+      <navLabel>
+        <text>Anacrónicas: La yunta’e torres (4)</text>
+      </navLabel>
+      <content src="c-145Pag17.htm"/>
+    </navPoint>
+    <navPoint id="ud5c4549b-1134-4209-baa5-f5373afd7528" playOrder="18">
+      <navLabel>
+        <text>Uficción: Frankenstein 2004</text>
+      </navLabel>
+      <content src="c-145Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u027c4ce6-6e6c-489c-8e8e-45a5e050de07" playOrder="19">
+      <navLabel>
+        <text>Uficción: La rosa blanca de Bonaparte</text>
+      </navLabel>
+      <content src="c-145Pag19.htm"/>
+    </navPoint>
+    <navPoint id="u0c689dcb-85dd-4007-a937-0a84a71d05af" playOrder="20">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

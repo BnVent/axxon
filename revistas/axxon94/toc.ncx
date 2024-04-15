@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="044ab073-9212-4059-85d8-9c0b1f56637e" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.15.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 94</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ufddf4f0e-c4f1-45c3-9379-9d17830a5ffd" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-94Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ue1d41bc9-676c-4242-8847-13628a6a9275" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 94</text>
+      </navLabel>
+      <content src="c-94Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u2d8a933a-efea-45b5-8806-936b6f038524" playOrder="3">
+      <navLabel>
+        <text>Ficciones: La casa en Tierra Mayor</text>
+      </navLabel>
+      <content src="c-94Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ud4e7a58d-6a3a-4993-bcf9-ad2233d2c52c" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Imágenes de un verano</text>
+      </navLabel>
+      <content src="c-94Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uc6a38f11-2713-4d18-aaa4-07e043875b3a" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Destrúyenos porque nos amas</text>
+      </navLabel>
+      <content src="c-94Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uf5829f7c-8ee9-4c35-9eae-03233c532243" playOrder="6">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual</text>
+      </navLabel>
+      <content src="c-94Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ueb013227-45d2-4bc3-bfcc-926e0ba87e6f" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Río de acero ardiente</text>
+      </navLabel>
+      <content src="c-94Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u4df6534d-b2f3-4c4d-bd74-a1b254cf75b5" playOrder="8">
+      <navLabel>
+        <text>Sección: Tour Macabro</text>
+      </navLabel>
+      <content src="c-94Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ufef585ef-ad26-4112-bd5e-d79c17a5961c" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Scum</text>
+      </navLabel>
+      <content src="c-94Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u526e4de1-650b-4733-b110-271de97cef67" playOrder="10">
+      <navLabel>
+        <text>Canción: Doctor Jekyll</text>
+      </navLabel>
+      <content src="c-94Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u42a67c8c-8470-4664-b65d-0a2d2cbe4cab" playOrder="11">
+      <navLabel>
+        <text>Poema: El sonámbulo</text>
+      </navLabel>
+      <content src="c-94Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u88e1d90d-0406-4243-bb84-cd98d5e2dbb0" playOrder="12">
+      <navLabel>
+        <text>Galería: Galería de arte</text>
+      </navLabel>
+      <content src="c-94Pag12.htm"/>
+    </navPoint>
+    <navPoint id="uacb26ad4-236d-4497-abd0-f1f172171eaa" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Bitácoras</text>
+      </navLabel>
+      <content src="c-94Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u1d4d84ff-7d88-4d66-a69a-0267d53434c7" playOrder="14">
+      <navLabel>
+        <text>Sección: Xanadú</text>
+      </navLabel>
+      <content src="c-94Pag14.htm"/>
+    </navPoint>
+    <navPoint id="uf460ac39-857d-443f-a002-7662b0d2094d" playOrder="15">
+      <navLabel>
+        <text>Ficciones: Las letanías de Satán</text>
+      </navLabel>
+      <content src="c-94Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u6de22a7f-00c2-45c2-bf0a-78b2a1964c1e" playOrder="16">
+      <navLabel>
+        <text>Poesía: Vlad, el príncipe</text>
+      </navLabel>
+      <content src="c-94Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u9840cbf3-07aa-42e8-9220-da509029ebcf" playOrder="17">
+      <navLabel>
+        <text>Sección: Undernow!</text>
+      </navLabel>
+      <content src="c-94Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u069d75a0-472b-428d-95db-de07f08100a6" playOrder="18">
+      <navLabel>
+        <text>Sección: INFO Córtex</text>
+      </navLabel>
+      <content src="c-94Pag18.htm"/>
+    </navPoint>
+    <navPoint id="ue8ecb213-a8e9-48c3-9f7b-942cd86f40e7" playOrder="19">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-94Pag19.htm"/>
+    </navPoint>
+    <navPoint id="u5d0866e8-48af-4be2-9bbc-34b0f9bc2447" playOrder="20">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-94Pag20.htm"/>
+    </navPoint>
+    <navPoint id="uf7310e1f-cdba-41b7-8c34-f82923bdad76" playOrder="21">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

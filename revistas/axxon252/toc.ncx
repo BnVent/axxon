@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="44687f40-0f89-4390-bb97-7be7bec19ca9" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.31.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 252</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u613ce033-1fa8-47a7-877a-13ebf2c86346" playOrder="1">
+      <navLabel>
+        <text>Editorial: Musa esquiva</text>
+      </navLabel>
+      <content src="c-252Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u55634ae9-6443-424e-a2ed-1f25948c6a02" playOrder="2">
+      <navLabel>
+        <text>Ficciones: En las mejores manos</text>
+      </navLabel>
+      <content src="c-252Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u31961246-92d2-4369-920b-c4b3bda0d30a" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Cántico de un amante que gira bajo girasoles una mañana de primavera</text>
+      </navLabel>
+      <content src="c-252Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u71c18440-e495-4f16-87db-8aae1ee12252" playOrder="4">
+      <navLabel>
+        <text>Ficciones: La cucarachada</text>
+      </navLabel>
+      <content src="c-252Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u1fb2c246-cc89-4487-8873-e008880d71f9" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Robot eterno</text>
+      </navLabel>
+      <content src="c-252Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u8118843d-1fdc-4a7e-bb78-57c04e7e5394" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Noly</text>
+      </navLabel>
+      <content src="c-252Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uc8707b67-db2e-473a-9208-30e080e18c2a" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Ángeles Caínes</text>
+      </navLabel>
+      <content src="c-252Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u07035117-0299-4d0e-91c9-de139a7a5495" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Ídolos de plata</text>
+      </navLabel>
+      <content src="c-252Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uf176b552-9b58-4d13-b659-9deedbaf5810" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Majestuoso Dios Púrpura</text>
+      </navLabel>
+      <content src="c-252Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ucd535ff5-8365-409e-89bd-680ec414f793" playOrder="10">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

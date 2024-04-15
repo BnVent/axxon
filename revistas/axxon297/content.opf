@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Axxón 297</dc:title>
+    <meta name="calibre:timestamp" content="2021-08-28T15:16:38.954399+00:00"/>
+    <dc:language>es</dc:language>
+    <dc:creator opf:file-as="Desconocido" opf:role="aut">Eduardo Carletti (editor)</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">7a1a87fe-9c63-4f59-8b41-a89f04ca51db</dc:identifier>
+    <dc:publisher>Ediciones Axxón</dc:publisher>
+    <meta name="calibre:series" content="Axxón"/>
+    <meta name="calibre:series_index" content="297"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="cover" href="cover.jpg" media-type="image/jpeg"/>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html" href="axxon297.htm" media-type="application/xhtml+xml"/>
+    <item id="html1" href="c-297Pag01.htm" media-type="application/xhtml+xml"/>
+    <item id="html2" href="c-297Pag02.htm" media-type="application/xhtml+xml"/>
+    <item id="html3" href="c-297Pag03.htm" media-type="application/xhtml+xml"/>
+    <item id="html4" href="c-297Pag04.htm" media-type="application/xhtml+xml"/>
+    <item id="html5" href="c-297Pag05.htm" media-type="application/xhtml+xml"/>
+    <item id="html6" href="c-297Pag06.htm" media-type="application/xhtml+xml"/>
+    <item id="html7" href="c-297Pag07.htm" media-type="application/xhtml+xml"/>
+    <item id="html8" href="c-297Pag08.htm" media-type="application/xhtml+xml"/>
+    <item id="html9" href="c-297Pag09.htm" media-type="application/xhtml+xml"/>
+    <item id="html10" href="c-297Pag10.htm" media-type="application/xhtml+xml"/>
+    <item id="html11" href="axxon.htm" media-type="application/xhtml+xml"/>
+    <item id="added16" href="axxon00.gif" media-type="image/gif"/>
+    <item id="added5" href="297cuento02ilus1ch.jpg" media-type="image/jpeg"/>
+    <item id="added7" href="297cuento03ilus1ch.jpg" media-type="image/jpeg"/>
+    <item id="added8" href="297cuento03ilus2ch.jpg" media-type="image/jpeg"/>
+    <item id="added10" href="297cuento04ilus1ch.jpg" media-type="image/jpeg"/>
+    <item id="added15" href="297cuento09ilus1ch.jpg" media-type="image/jpeg"/>
+    <item id="added2" href="band-arg.jpg" media-type="image/jpeg"/>
+    <item id="added9" href="band-cub.jpg" media-type="image/jpeg"/>
+    <item id="added6" href="band-usa.jpg" media-type="image/jpeg"/>
+    <item id="added17" href="c-297tapach.jpg" media-type="image/jpeg"/>
+    <item id="added3" href="mghsm2009.jpg" media-type="image/jpeg"/>
+    <item id="added11" href="logobati.png" media-type="image/png"/>
+    <item id="added12" href="me-la-se-lunga.png" media-type="image/png"/>
+    <item id="added13" href="starlogo-nuevo.png" media-type="image/png"/>
+    <item id="added14" href="tipsytops.png" media-type="image/png"/>
+    <item id="added18" href="x-epub.png" media-type="image/png"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+    <itemref idref="html1"/>
+    <itemref idref="html2"/>
+    <itemref idref="html3"/>
+    <itemref idref="html4"/>
+    <itemref idref="html5"/>
+    <itemref idref="html6"/>
+    <itemref idref="html7"/>
+    <itemref idref="html8"/>
+    <itemref idref="html9"/>
+    <itemref idref="html10"/>
+    <itemref idref="html11"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="titlepage.xhtml" title="Cover"/>
+  </guide>
+</package>

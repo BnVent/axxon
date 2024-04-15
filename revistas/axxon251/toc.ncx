@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="aa635b4b-0207-475b-b1a4-58ace5dffc41" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.25.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 251</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="udf259767-aff2-4c01-afff-82303409a76f" playOrder="1">
+      <navLabel>
+        <text>Editorial: Un bosque</text>
+      </navLabel>
+      <content src="c-251Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u5631c86e-e4fa-434e-988d-e187e61f8a12" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Mediodía</text>
+      </navLabel>
+      <content src="c-251Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uf3ddacbd-ec16-446f-8b89-bb82f32a8ddf" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Trabajo nocturno</text>
+      </navLabel>
+      <content src="c-251Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u0441843f-f4bd-48d5-9918-7221c32b5910" playOrder="4">
+      <navLabel>
+        <text>Ficciones: La espiral</text>
+      </navLabel>
+      <content src="c-251Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u1933a7ed-8c41-49d3-a93a-b8f332d2b51b" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El recolector</text>
+      </navLabel>
+      <content src="c-251Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ud98ef215-ca38-4bed-8dcf-4a85f6459985" playOrder="6">
+      <navLabel>
+        <text>Ficciones: El hotel de los suicidas</text>
+      </navLabel>
+      <content src="c-251Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ud1d9aee8-4758-4d4e-ab8e-2ff8b0a272c8" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Desde la habitación del sur</text>
+      </navLabel>
+      <content src="c-251Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u3cb8762a-9aba-4a0e-844f-92c87d707340" playOrder="8">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

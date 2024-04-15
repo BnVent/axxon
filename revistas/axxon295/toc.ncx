@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta name="dtb:uid" content="fa4dd84e-dee4-4cc9-819c-f0779b3b948b"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (5.7.1)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Axxón 295</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uJAfmhAwm53ZIeqFuYxidw9" playOrder="1">
+      <navLabel>
+        <text>Editorial: Cumpleaños reflexivo</text>
+      </navLabel>
+      <content src="c-295Pag01.htm"/>
+    </navPoint>
+    <navPoint id="usATG3mLqeqTxki66jPj4R8" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Por error</text>
+      </navLabel>
+      <content src="c-295Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uNLlLpbiO8ifjWL3mK95jZ5" playOrder="3">
+      <navLabel>
+        <text>Sección: Batiburrillo</text>
+      </navLabel>
+      <content src="c-295Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uJIoTxvd6kTNQpNbVM5IoJE" playOrder="4">
+      <navLabel>
+        <text>Sección: Batiburrillo - Editorial</text>
+      </navLabel>
+      <content src="c-295Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uet5c8Km5rf8oZTQ9rvuY6F" playOrder="5">
+      <navLabel>
+        <text>Sección: Me la sé lunga</text>
+      </navLabel>
+      <content src="c-295Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uj4n9oms7pchXdQDSybesm2" playOrder="6">
+      <navLabel>
+        <text>Sección: Una estrella en el hielo: Paradox</text>
+      </navLabel>
+      <content src="c-295Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uCxp2DnBN7bBuKeRYR5zQMD" playOrder="7">
+      <navLabel>
+        <text>Sección: Los tips &amp; tops de Ana: 10 hábitos que harán que tu vida cambie para mejor</text>
+      </navLabel>
+      <content src="c-295Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u2s7McLGqRcLvZDFoM8ZgNG" playOrder="8">
+      <navLabel>
+        <text>Ficciones: El marchitamiento</text>
+      </navLabel>
+      <content src="c-295Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uJMWBa4bSqLPojbFmhUA5DD" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Correrías por el tiempo</text>
+      </navLabel>
+      <content src="c-295Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uTHJG9VkD3S8k4LaU56yYX6" playOrder="10">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-295Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uhR3596ZldCeGgpkQlMAqV8" playOrder="11">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

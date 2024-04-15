@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="e3c554ba-f411-4de5-818d-27bc750b1f30" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.41.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 4</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ub55e6aa5-be6d-4a2b-a584-10d339c0a2cc" playOrder="1">
+      <navLabel>
+        <text>Editorial: Frederik Pohl y Axxón</text>
+      </navLabel>
+      <content src="c-4Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u0beac25e-b5fb-47dd-b42f-be3e99ce07dc" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Día Millón</text>
+      </navLabel>
+      <content src="c-4Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u29a5d1f7-efd6-45ce-a85f-778af95529e2" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Sobrevivientes</text>
+      </navLabel>
+      <content src="c-4Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u5a232746-7aee-4d3f-b462-8ac56f0850c1" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Perverso</text>
+      </navLabel>
+      <content src="c-4Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u506349e1-0fde-4ed2-b93a-ae0239ba42b6" playOrder="5">
+      <navLabel>
+        <text>Ficciones: La reunión</text>
+      </navLabel>
+      <content src="c-4Pag05.htm"/>
+    </navPoint>
+    <navPoint id="udf89502f-5efa-4b10-8188-7243f38c4e5d" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Nosotros los comprados</text>
+      </navLabel>
+      <content src="c-4Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u8be8c07e-7fee-4ea6-9067-e9260362dc42" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Posdata a «Pórtico»</text>
+      </navLabel>
+      <content src="c-4Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u33dbd796-e5ca-4b14-be03-740edc4d092b" playOrder="8">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-4Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u9e1841a3-db99-4f4e-9411-3d9de25eadd0" playOrder="9">
+      <navLabel>
+        <text>Juegos: Sopa de letras</text>
+      </navLabel>
+      <content src="c-4Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ue4ef73db-cd4c-49ff-911f-fe6c517a2001" playOrder="10">
+      <navLabel>
+        <text>Crónica: Impresiones de un arribo accidentado</text>
+      </navLabel>
+      <content src="c-4Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u974e4de1-1283-480d-a7a6-66f1a87c8f4a" playOrder="11">
+      <navLabel>
+        <text>Crónica: Imágenes de la visita de Pohl</text>
+      </navLabel>
+      <content src="c-4Pag11.htm"/>
+    </navPoint>
+    <navPoint id="uc8e507be-6828-4e97-ab94-b46039684d9c" playOrder="12">
+      <navLabel>
+        <text>Crónica: Encuentro Cercano</text>
+      </navLabel>
+      <content src="c-4Pag12.htm"/>
+    </navPoint>
+    <navPoint id="ua25baa22-3c28-404c-97f2-7718367e4431" playOrder="13">
+      <navLabel>
+        <text>Crónica: Experiencias</text>
+      </navLabel>
+      <content src="c-4Pag13.htm"/>
+    </navPoint>
+    <navPoint id="uc124dbf2-c8d8-4f42-ba34-45f7255e2701" playOrder="14">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-4Pag14.htm"/>
+    </navPoint>
+    <navPoint id="ude93ba32-4c9e-4e1b-89ba-cf1fc2b0d5be" playOrder="15">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-4Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u3766a6ad-d66c-4af3-a937-25c36f53687f" playOrder="16">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

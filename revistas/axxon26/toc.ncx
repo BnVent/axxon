@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="6b29a2d3-03f9-47f6-9707-cdf884326a63" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 26</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="2648a844-be02-492e-9533-d2fb31d346fb" playOrder="1">
+      <navLabel>
+        <text>Editorial - Axxón 26</text>
+      </navLabel>
+      <content src="c-26Pag01.htm"/>
+    </navPoint>
+    <navPoint id="85717981-21a3-4c0b-91a2-b0295671b098" playOrder="2">
+      <navLabel>
+        <text>Novedades - Actividades del CACyF</text>
+      </navLabel>
+      <content src="c-26Pag02.htm"/>
+    </navPoint>
+    <navPoint id="e0c2610e-cf8b-45b2-adeb-fa823ab888b4" playOrder="3">
+      <navLabel>
+        <text>Ficciones - Mundo blanco</text>
+      </navLabel>
+      <content src="c-26Pag03.htm"/>
+    </navPoint>
+    <navPoint id="8172b092-5427-484a-a768-ebe8ae416973" playOrder="4">
+      <navLabel>
+        <text>Ensayo - Computadoras que escriben ciencia ficción</text>
+      </navLabel>
+      <content src="c-26Pag04.htm"/>
+    </navPoint>
+    <navPoint id="0b696c30-d63a-4b0f-a36a-110bda22377d" playOrder="5">
+      <navLabel>
+        <text>Ficciones - La hora de los niños</text>
+      </navLabel>
+      <content src="c-26Pag05.htm"/>
+    </navPoint>
+    <navPoint id="e3a48439-ef77-4e36-940c-4783ad5e33bf" playOrder="6">
+      <navLabel>
+        <text>Ensayo - Ciencia Ficción en América Latina</text>
+      </navLabel>
+      <content src="c-26Pag06.htm"/>
+    </navPoint>
+    <navPoint id="84a995ce-d60f-4a58-ad23-b8fb8e23c789" playOrder="7">
+      <navLabel>
+        <text>Ficciones - Taurino</text>
+      </navLabel>
+      <content src="c-26Pag07.htm"/>
+    </navPoint>
+    <navPoint id="1db106a0-e052-4a20-a365-7f208b0ed3f3" playOrder="8">
+      <navLabel>
+        <text>Correo - Correo 26</text>
+      </navLabel>
+      <content src="c-26Pag08.htm"/>
+    </navPoint>
+    <navPoint id="c2e3ed75-8d81-48b6-a4b1-2c35efb390ea" playOrder="9">
+      <navLabel>
+        <text>Secciones - Disquisiciones Inocuas (6)</text>
+      </navLabel>
+      <content src="c-26Pag09.htm"/>
+    </navPoint>
+    <navPoint id="e0596cc3-abcb-4dbd-9fab-0c50db46a1ed" playOrder="10">
+      <navLabel>
+        <text>Equipo - Equipo Axxón</text>
+      </navLabel>
+      <content src="c-26Pag10.htm"/>
+    </navPoint>
+    <navPoint id="6a9db084-07cc-413f-a199-7e2eea8092b3" playOrder="11">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

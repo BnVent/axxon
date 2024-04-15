@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="d331675c-1671-4085-9b53-eacd548c28f7" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.31)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 242</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u7b01e291-d1cb-453c-864d-572ee2c4cf41" playOrder="1">
+      <navLabel>
+        <text>Editorial: Mayo otoñal</text>
+      </navLabel>
+      <content src="c-242Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u62ab7354-8987-4fba-94b4-211498179e41" playOrder="2">
+      <navLabel>
+        <text>Entrevista: Entrevista a Teresa Pilar Mira de Echeverría</text>
+      </navLabel>
+      <content src="c-242Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u1c6aa47b-7aa8-42d6-b8ed-643284f97725" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Otoño</text>
+      </navLabel>
+      <content src="c-242Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u1de8bc49-29eb-48f9-aa60-1fd70bc358d3" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El juego de las ratas y el dragón</text>
+      </navLabel>
+      <content src="c-242Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ue81b8c56-6124-49aa-b92b-ba2d36f895d8" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Palomar</text>
+      </navLabel>
+      <content src="c-242Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u850858a8-1a8b-48cc-9d5a-99e9ef51bf18" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (setenta)</text>
+      </navLabel>
+      <content src="c-242Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u40479e43-a217-4d90-a76c-34ef0da430be" playOrder="7">
+      <navLabel>
+        <text>Ficciones: El deseo del discípulo</text>
+      </navLabel>
+      <content src="c-242Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u341cfdc7-058e-4355-80af-6c864de282c1" playOrder="8">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="u6c8e684e-3b23-4a2f-a614-d7ec0a911313" playOrder="8">
+      <navLabel>
+        <text>Unnamed</text>
+      </navLabel>
+      <content src="/rev/242/cuento3ilus1.htm"/>
+    </navPoint>
+    <navPoint id="ue426008e-abc0-432d-b15b-cec3f246b34d" playOrder="9">
+      <navLabel>
+        <text>INTERCAMBIO JUSTO</text>
+      </navLabel>
+      <content src="/rev/171/c-171cuento11.htm"/>
+    </navPoint>
+    <navPoint id="u78a8301a-18f3-4632-8dc0-f1621361d6d0" playOrder="10">
+      <navLabel>
+        <text>DEXTRÓGIRO</text>
+      </navLabel>
+      <content src="/rev/184/c-184cuento6.htm"/>
+    </navPoint>
+    <navPoint id="uf935b27d-5494-44ed-a183-cf5c0729b8b6" playOrder="11">
+      <navLabel>
+        <text>PÚLSAR</text>
+      </navLabel>
+      <content src="/rev/2010/06/pulsar-teresa-p-mira-de-echeverria/"/>
+    </navPoint>
+    <navPoint id="uf3c12b2b-9e57-4482-9f11-a7c18bc2c668" playOrder="12">
+      <navLabel>
+        <text>HOGAR, EXTRAÑO HOGAR —LOS MODELOS DE FAMILIA DENTRO DE LA CIENCIA FICCIÓN—</text>
+      </navLabel>
+      <content src="/rev/2012/08/hogar-extrano-hogar-los-modelos-de-familia-dentro-de-la-ciencia-ficcion-dra-teresa-p-mira-de-echeverria/"/>
+    </navPoint>
+    <navPoint id="ud27dac5b-b7f7-4787-ad6e-82e7176ec0a9" playOrder="13">
+      <navLabel>
+        <text>Unnamed</text>
+      </navLabel>
+      <content src="/rev/242/cuento4ilus1.htm"/>
+    </navPoint>
+    <navPoint id="uaa0f204d-f01d-49fe-b856-b9ae373477f6" playOrder="14">
+      <navLabel>
+        <text>Unnamed</text>
+      </navLabel>
+      <content src="/rev/242/cuento5ilus1.htm"/>
+    </navPoint>
+    <navPoint id="u16772a77-fc2f-49ca-a30b-b3725ec2d449" playOrder="15">
+      <navLabel>
+        <text>LOS DESPOJADOS</text>
+      </navLabel>
+      <content src="/rev/2013/04/los-despojados-enrique-jose-decarli/"/>
+    </navPoint>
+    <navPoint id="u014564b6-d222-4120-8b69-93b4458bd5a0" playOrder="16">
+      <navLabel>
+        <text>Unnamed</text>
+      </navLabel>
+      <content src="/rev/242/cuento7ilus1.htm"/>
+    </navPoint>
+    <navPoint id="ubd7d823c-39e6-426c-8b39-b61b2f347059" playOrder="17">
+      <navLabel>
+        <text>EL SALUDO</text>
+      </navLabel>
+      <content src="/rev/192/c-192cuento3.htm"/>
+    </navPoint>
+    <navPoint id="u5b063400-3b32-47a8-9fb8-44a76a278905" playOrder="18">
+      <navLabel>
+        <text>EL HOLOCAUSTO DEL BÁRBARO</text>
+      </navLabel>
+      <content src="/rev/2010/02/el-holocausto-del-barbaro-juan-manuel-valitutti/"/>
+    </navPoint>
+    <navPoint id="udffcc82f-f2ca-4b73-a7ec-8af7abf027d4" playOrder="19">
+      <navLabel>
+        <text>AL FINAL DE LA TARDE</text>
+      </navLabel>
+      <content src="/rev/2011/06/al-final-de-la-tarde-juan-manuel-valitutti/"/>
+    </navPoint>
+    <navPoint id="u0b18f775-4d8a-4a10-8618-5c6b72036ae9" playOrder="20">
+      <navLabel>
+        <text>NARHITOREK, EL NIGROMANTE</text>
+      </navLabel>
+      <content src="/rev/2012/01/narhitorek-el-nigromante-juan-manuel-valitutti/"/>
+    </navPoint>
+    <navPoint id="ub450bf1f-9ef2-448b-97a4-954542a3a1f8" playOrder="21">
+      <navLabel>
+        <text>LOS ENVIADOS DE NARHITOREK</text>
+      </navLabel>
+      <content src="/rev/2012/07/los-enviados-de-narhitorek-juan-manuel-valitutti/"/>
+    </navPoint>
+    <navPoint id="u6b39bc9f-766b-46e6-8d2f-8b422765098f" playOrder="22">
+      <navLabel>
+        <text>PARA VERLOS VOLAR</text>
+      </navLabel>
+      <content src="/rev/2012/09/para-verlos-volar-juan-manuel-valitutt/"/>
+    </navPoint>
+    <navPoint id="u4124012f-67d9-4b78-b9d4-8b232b06cdce" playOrder="23">
+      <navLabel>
+        <text>DEMONIO BLANCO</text>
+      </navLabel>
+      <content src="/rev/2012/10/demonio-blanco-juan-manuel-valitutti/"/>
+    </navPoint>
+    <navPoint id="ucb121c81-331a-4a79-a5e9-369490853926" playOrder="24">
+      <navLabel>
+        <text>EL FINAL DE LA HISTORIA</text>
+      </navLabel>
+      <content src="/rev/2012/11/el-final-de-la-historia-juan-manuel-valitutti/"/>
+    </navPoint>
+    <navPoint id="u17b8e820-fdd1-4c64-a157-620f012e19de" playOrder="25">
+      <navLabel>
+        <text>LOS TRABAJOS DE UN LADRÓN</text>
+      </navLabel>
+      <content src="/rev/2013/04/los-trabajos-de-un-ladron-juan-manuel-valitutti/"/>
+    </navPoint>
+  </navMap>
+</ncx>

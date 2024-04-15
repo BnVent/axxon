@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="2ac215c0-06e9-4c27-ab65-b546cd8d81c8" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.44.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 21</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uMDrjPoC9m5W9uklbQP37OA" playOrder="1">
+      <navLabel>
+        <text>Advertencia: Sobre la versión móvil</text>
+      </navLabel>
+      <content src="c-21Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uRZpIjS8kMJjNi2ir7wq6N4" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 21</text>
+      </navLabel>
+      <content src="c-21Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uYTeTaKw2NFYUmxByVDyNX3" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Un planeta llamado Shayol</text>
+      </navLabel>
+      <content src="c-21Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ujYR54Hp8M4coCfEWqpRoJD" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Las guerras mundiales</text>
+      </navLabel>
+      <content src="c-21Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uxbEhgRUulFA48p3iYHCKm9" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Una casa frente al mar</text>
+      </navLabel>
+      <content src="c-21Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uV5DojZwKEiJZjqvbSIpFt6" playOrder="6">
+      <navLabel>
+        <text>Bestiario: Rarezas cosmológicas</text>
+      </navLabel>
+      <content src="c-21Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uvHFEa7GvD89JzWOojOa9SC" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Los tigres azules</text>
+      </navLabel>
+      <content src="c-21Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uJnb6XNcdym5tWCx2Jzrah7" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Idea fija</text>
+      </navLabel>
+      <content src="c-21Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u9jYmSybGGqvH3xizvNIa2E" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Camino Blanco</text>
+      </navLabel>
+      <content src="c-21Pag09.htm"/>
+    </navPoint>
+    <navPoint id="urYseStzY6zgWaTZ4WONPHC" playOrder="10">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-21Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uyFXEg5ey3GpQZ7SneUft53" playOrder="11">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

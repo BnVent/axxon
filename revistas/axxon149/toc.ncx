@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="5c169873-b652-4bfe-b985-442b1b3b38e9" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.35.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 149</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u6fd39707-31d2-4acb-b099-724414c71ccc" playOrder="1">
+      <navLabel>
+        <text>Editorial: La muerte talk show</text>
+      </navLabel>
+      <content src="c-149Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u7465881d-14e2-4668-a9b4-971414e0039c" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxonitas</text>
+      </navLabel>
+      <content src="c-149Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u3797a6c7-a877-4e45-aba0-86ce87e31eee" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Piratas estelares</text>
+      </navLabel>
+      <content src="c-149Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u333d5c21-5d34-4399-af64-3ef28cec9ddd" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Las hermanas</text>
+      </navLabel>
+      <content src="c-149Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u8f60890b-448a-4c20-a5e4-95f0afd14776" playOrder="5">
+      <navLabel>
+        <text>Uficción: Monólogo de Dorian viendo agonizar a Oscar</text>
+      </navLabel>
+      <content src="c-149Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u54a6bbbf-def8-4e3e-b556-017cc46aab04" playOrder="6">
+      <navLabel>
+        <text>Divulgación: Destructores de cerebros</text>
+      </navLabel>
+      <content src="c-149Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u1c852447-275f-449f-b2a5-22e35c9ecb4f" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Las fronteras se han hecho para ser cruzadas</text>
+      </navLabel>
+      <content src="c-149Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u40209481-a6b5-4f50-a137-5f38ab4d84da" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Final de fiesta</text>
+      </navLabel>
+      <content src="c-149Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u899ec4a6-80fc-4410-8ea8-9ddcf85e4999" playOrder="9">
+      <navLabel>
+        <text>Ficciones: La garra perpetua</text>
+      </navLabel>
+      <content src="c-149Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u6685d180-1362-4437-a226-03faee5a2dbb" playOrder="10">
+      <navLabel>
+        <text>Ficciones: La otra muerte de Arquímedes</text>
+      </navLabel>
+      <content src="c-149Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uf63e2422-2271-4a28-935b-16e137d94133" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (4)</text>
+      </navLabel>
+      <content src="c-149Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u35cf403f-3192-4224-9edf-c9478a695f5e" playOrder="12">
+      <navLabel>
+        <text>Ficciones: S. J.</text>
+      </navLabel>
+      <content src="c-149Pag12.htm"/>
+    </navPoint>
+    <navPoint id="uec82d2b2-061a-462d-a0e3-5a544677808d" playOrder="13">
+      <navLabel>
+        <text>Ficciones: La guardia nocturna</text>
+      </navLabel>
+      <content src="c-149Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u8fff053c-0f43-451b-86d7-cb79863458a9" playOrder="14">
+      <navLabel>
+        <text>Ensayo: Recuerdo perdido</text>
+      </navLabel>
+      <content src="c-149Pag14.htm"/>
+    </navPoint>
+    <navPoint id="ucbb79668-4225-4d21-a35d-4c5b62d168ee" playOrder="15">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (cinco)</text>
+      </navLabel>
+      <content src="c-149Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u2f7ea780-055e-4dc5-b41f-ef13284f3eb0" playOrder="16">
+      <navLabel>
+        <text>Portfolio: Galería</text>
+      </navLabel>
+      <content src="c-149Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u669fe665-9ac7-42fc-bc9a-90d904dbb2ca" playOrder="17">
+      <navLabel>
+        <text>Ficciones: Refutación de América</text>
+      </navLabel>
+      <content src="c-149Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u5dba23e9-9476-45de-8173-527d864fb20d" playOrder="18">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

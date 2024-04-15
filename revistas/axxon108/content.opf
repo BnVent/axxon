@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Ediciones Axxón</dc:publisher>
+    <meta name="calibre:series_index" content="108"/>
+    <dc:language>es</dc:language>
+    <dc:creator opf:file-as="Desconocido" opf:role="aut">Eduardo Carletti (editor)</dc:creator>
+    <meta name="calibre:timestamp" content="2013-04-13T18:40:01.937000+00:00"/>
+    <dc:title>Axxón 108</dc:title>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:series" content="Axxón"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">af1ab44d-c884-4323-8f57-184335e6f8d8</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="axxon.htm" id="html15" media-type="application/xhtml+xml"/>
+    <item href="axxon00.gif" id="added24" media-type="image/gif"/>
+    <item href="axxon108.htm" id="html" media-type="application/xhtml+xml"/>
+    <item href="c-108Pag01.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="c-108Pag02.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="c-108Pag03.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="c-108Pag04.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="c-108Pag05.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="c-108Pag06.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="c-108Pag07.htm" id="html7" media-type="application/xhtml+xml"/>
+    <item href="c-108Pag08.htm" id="html8" media-type="application/xhtml+xml"/>
+    <item href="c-108Pag09.htm" id="html9" media-type="application/xhtml+xml"/>
+    <item href="c-108Pag10.htm" id="html10" media-type="application/xhtml+xml"/>
+    <item href="c-108Pag11.htm" id="html11" media-type="application/xhtml+xml"/>
+    <item href="c-108Pag12.htm" id="html12" media-type="application/xhtml+xml"/>
+    <item href="c-108Pag13.htm" id="html13" media-type="application/xhtml+xml"/>
+    <item href="c-108Pag14.htm" id="html14" media-type="application/xhtml+xml"/>
+    <item href="c-108anderconan.jpg" id="added18" media-type="image/jpeg"/>
+    <item href="c-108andercuarentena.jpg" id="added13" media-type="image/jpeg"/>
+    <item href="c-108anderembajada.jpg" id="added14" media-type="image/jpeg"/>
+    <item href="c-108anderhada1.jpg" id="added15" media-type="image/jpeg"/>
+    <item href="c-108anderhada2.jpg" id="added16" media-type="image/jpeg"/>
+    <item href="c-108anderphooka.jpg" id="added17" media-type="image/jpeg"/>
+    <item href="c-108anderporkys.jpg" id="added19" media-type="image/jpeg"/>
+    <item href="c-108clubgrilus.htm" id="added3" media-type="application/xhtml+xml"/>
+    <item href="c-108clubgrilusch.jpg" id="added4" media-type="image/jpeg"/>
+    <item href="c-108correocarta06foto01.jpg" id="added21" media-type="image/jpeg"/>
+    <item href="c-108correocarta06foto01ch.jpg" id="added22" media-type="image/jpeg"/>
+    <item href="c-108elfos05.htm" id="added23" media-type="application/xhtml+xml"/>
+    <item href="c-108iluslosque.jpg" id="added7" media-type="image/jpeg"/>
+    <item href="c-108iluslosquech.jpg" id="added8" media-type="image/jpeg"/>
+    <item href="c-108iluswoody1.jpg" id="added9" media-type="image/jpeg"/>
+    <item href="c-108iluswoody1ch.jpg" id="added10" media-type="image/jpeg"/>
+    <item href="c-108iluswoody2.jpg" id="added11" media-type="image/jpeg"/>
+    <item href="c-108iluswoody2ch.jpg" id="added12" media-type="image/jpeg"/>
+    <item href="c-108nanos.jpg" id="added5" media-type="image/jpeg"/>
+    <item href="c-108nanosch.jpg" id="added6" media-type="image/jpeg"/>
+    <item href="c-108tapach.jpg" id="added25" media-type="image/jpeg"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="x-epub.png" id="added26" media-type="image/png"/>
+    <item href="x-flet1.jpg" id="added27" media-type="image/jpeg"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+    <itemref idref="html1"/>
+    <itemref idref="html2"/>
+    <itemref idref="html3"/>
+    <itemref idref="html4"/>
+    <itemref idref="html5"/>
+    <itemref idref="html6"/>
+    <itemref idref="html7"/>
+    <itemref idref="html8"/>
+    <itemref idref="html9"/>
+    <itemref idref="html10"/>
+    <itemref idref="html11"/>
+    <itemref idref="html12"/>
+    <itemref idref="html13"/>
+    <itemref idref="html14"/>
+    <itemref idref="html15"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

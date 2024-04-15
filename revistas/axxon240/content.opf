@@ -1,0 +1,72 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="Carletti, Eduardo">Eduardo Carletti (editor)</dc:creator>
+<dc:publisher>Ediciones Axxón</dc:publisher>
+    <meta name="calibre:series_index" content="240.0"/>
+    <meta name="calibre:timestamp" content="2013-04-01T19:53:40.765000+00:00"/>
+    <dc:title>Axxón 240</dc:title>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:series" content="Axxón"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">5584d196-bff3-4f4f-978f-bdbaebb255f8</dc:identifier>
+  <meta name="calibre:title_sort" content="Axxón 240"/>
+<dc:contributor opf:role="bkp">calibre (0.9.26) [http://calibre-ebook.com]</dc:contributor>
+<dc:date>0101-01-01T00:00:00+00:00</dc:date>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Eduardo Carletti (editor)&quot;: &quot;&quot;}"/>
+<dc:language>es</dc:language>
+<dc:identifier opf:scheme="calibre">65a530da-88ef-4868-bab7-a0677062b31c</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="240articulo4ilus1ch.jpg" id="added10" media-type="image/jpeg"/>
+    <item href="240articulo6ilus1ch.jpg" id="added13" media-type="image/jpeg"/>
+    <item href="240cuento2ilus1ch.jpg" id="added6" media-type="image/jpeg"/>
+    <item href="240cuento5ilus1ch.jpg" id="added12" media-type="image/jpeg"/>
+    <item href="240cuento7ilus1ch.jpg" id="added14" media-type="image/jpeg"/>
+    <item href="240cuento8ilus1ch.jpg" id="added15" media-type="image/jpeg"/>
+    <item href="240cuento9ilus1ch.jpg" id="added16" media-type="image/jpeg"/>
+    <item href="240editcdjv.jpg" id="added3" media-type="image/jpeg"/>
+    <item href="240entrevistalauraponcech.jpg" id="added7" media-type="image/jpeg"/>
+    <item href="240entrevistatapaproxima17ch.jpg" id="added8" media-type="image/jpeg"/>
+    <item href="axxon.htm" id="html10" media-type="application/xhtml+xml"/>
+    <item href="axxon00.gif" id="added17" media-type="image/gif"/>
+    <item href="axxon240.htm" id="html" media-type="application/xhtml+xml"/>
+    <item href="band-arg.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="band-esp.jpg" id="added5" media-type="image/jpeg"/>
+    <item href="band-mex.jpg" id="added11" media-type="image/jpeg"/>
+    <item href="c-240Pag01.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="c-240Pag02.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="c-240Pag03.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="c-240Pag04.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="c-240Pag05.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="c-240Pag06.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="c-240Pag07.htm" id="html7" media-type="application/xhtml+xml"/>
+    <item href="c-240Pag08.htm" id="html8" media-type="application/xhtml+xml"/>
+    <item href="c-240Pag09.htm" id="html9" media-type="application/xhtml+xml"/>
+    <item href="c-240tapach.jpg" id="added18" media-type="image/jpeg"/>
+    <item href="entrevistareunionproxima5.jpg" id="added9" media-type="image/jpeg"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="x-epub.png" id="added19" media-type="image/png"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+    <itemref idref="html1"/>
+    <itemref idref="html2"/>
+    <itemref idref="html3"/>
+    <itemref idref="html4"/>
+    <itemref idref="html5"/>
+    <itemref idref="html6"/>
+    <itemref idref="html7"/>
+    <itemref idref="html8"/>
+    <itemref idref="html9"/>
+    <itemref idref="html10"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

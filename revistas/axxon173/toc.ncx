@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="49cedceb-7be1-48d2-815a-6e7cc0b342ec" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 173</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u30e8ba7c-cc47-4a3b-8dea-d461ec434285" playOrder="1">
+      <navLabel>
+        <text>Editorial: De nuevo a toda máquina</text>
+      </navLabel>
+      <content src="c-173Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u8cac4749-ee84-463b-9bf1-bd2002c21b27" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Apéndice para obra desconocida</text>
+      </navLabel>
+      <content src="c-173Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u32080075-3ea4-4eca-8aed-0b7594c371f3" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El arguro</text>
+      </navLabel>
+      <content src="c-173Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u465275e1-028a-4aa7-bf77-b462178ef90e" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Marsigia</text>
+      </navLabel>
+      <content src="c-173Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u2661cee1-0b07-4676-b8c2-c5d937876eb9" playOrder="5">
+      <navLabel>
+        <text>Ensayo: Tiempo y eternidad en “Primeras Armas” de Angélica Gorodischer</text>
+      </navLabel>
+      <content src="c-173Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uecb71a1f-b768-4c96-83ad-8a22988d36fe" playOrder="6">
+      <navLabel>
+        <text>Ficciones: La llanura de las ficciones (1): El sueño de los césares</text>
+      </navLabel>
+      <content src="c-173Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ub73a7d28-603c-4016-9af6-38ad90aef627" playOrder="7">
+      <navLabel>
+        <text>Novela: El sueño de los césares - Prólogo</text>
+      </navLabel>
+      <content src="c-173Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u86a2d35c-8224-43b3-860a-1e82e402481b" playOrder="8">
+      <navLabel>
+        <text>Novela: El sueño de los césares - I: En la orilla del río del pasado</text>
+      </navLabel>
+      <content src="c-173Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u97eb0a1c-7775-40f2-ac30-daff8fb691a1" playOrder="9">
+      <navLabel>
+        <text>Novela: El sueño de los césares - II: La casa sin orden</text>
+      </navLabel>
+      <content src="c-173Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u5cc2c01a-51fe-4fb3-82da-d1c3e36c427c" playOrder="10">
+      <navLabel>
+        <text>Novela: El sueño de los césares - III: El terror se extiende como una sombra</text>
+      </navLabel>
+      <content src="c-173Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ua812d6c6-4dc2-4b81-b1b5-b3ceb0fdd8aa" playOrder="11">
+      <navLabel>
+        <text>Novela: El sueño de los césares - IV: Escape de San Juan</text>
+      </navLabel>
+      <content src="c-173Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u0bf51240-68c9-467b-9542-74104e4902dc" playOrder="12">
+      <navLabel>
+        <text>Novela: El sueño de los césares - V: Una ciudad demasiado lejos</text>
+      </navLabel>
+      <content src="c-173Pag12.htm"/>
+    </navPoint>
+    <navPoint id="uebbb8590-3f4e-45dc-a6de-f55f2934fedf" playOrder="13">
+      <navLabel>
+        <text>Novela: El sueño de los césares - VI: La provincia separada</text>
+      </navLabel>
+      <content src="c-173Pag13.htm"/>
+    </navPoint>
+    <navPoint id="ue892b1f9-6366-433f-9e1b-80406394a95e" playOrder="14">
+      <navLabel>
+        <text>Novela: El sueño de los césares - VII: Una calle larga que no conducía a ningún sitio</text>
+      </navLabel>
+      <content src="c-173Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u4063315c-62f7-4936-911d-d5df62792a5d" playOrder="15">
+      <navLabel>
+        <text>Novela: El sueño de los césares - VIII: Una expedición, fuera de tiempo, se prepara en Buenos Aires</text>
+      </navLabel>
+      <content src="c-173Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u0caa867a-a278-4f4c-89a1-61211046e4c0" playOrder="16">
+      <navLabel>
+        <text>Novela: El sueño de los césares - IX: Reseña del mito de los Césares</text>
+      </navLabel>
+      <content src="c-173Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u2790d963-08ee-4516-96a6-38329def960b" playOrder="17">
+      <navLabel>
+        <text>Novela: El sueño de los césares - X: Travesía por mar. tierra adentro y la hendidura del río Santa C</text>
+      </navLabel>
+      <content src="c-173Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u2197acb4-231d-4071-b2dc-be1862767a39" playOrder="18">
+      <navLabel>
+        <text>Novela: El sueño de los césares - XI: Un tropel hambriento y desanimado cruza la tierra misteriosa</text>
+      </navLabel>
+      <content src="c-173Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u8bf5c81f-c72a-4183-a1c9-feac9b1596e1" playOrder="19">
+      <navLabel>
+        <text>Axxóncine: Déjà Vu</text>
+      </navLabel>
+      <content src="c-173Pag19.htm"/>
+    </navPoint>
+    <navPoint id="u613cb46a-bf04-4091-9dfd-8f30fe8f672a" playOrder="20">
+      <navLabel>
+        <text>Axxóncine: El laberinto del fauno</text>
+      </navLabel>
+      <content src="c-173Pag20.htm"/>
+    </navPoint>
+    <navPoint id="ua911e64f-d119-4405-9083-a75d23e7dcb5" playOrder="21">
+      <navLabel>
+        <text>Ficciones: El Imperio Caos</text>
+      </navLabel>
+      <content src="c-173Pag21.htm"/>
+    </navPoint>
+    <navPoint id="u98d2b7b1-dfab-47c6-8057-b47c4c2995be" playOrder="22">
+      <navLabel>
+        <text>Ensayo: El Santo y la fusión fría</text>
+      </navLabel>
+      <content src="c-173Pag22.htm"/>
+    </navPoint>
+    <navPoint id="u8d3f1e6c-c023-4b44-b536-33efb5919c17" playOrder="23">
+      <navLabel>
+        <text>Ficciones: Pinocho siempre miente. Siempre miente Pinocho</text>
+      </navLabel>
+      <content src="c-173Pag23.htm"/>
+    </navPoint>
+    <navPoint id="u9852f545-0662-4b00-a2f1-bb6f404c0351" playOrder="24">
+      <navLabel>
+        <text>Clásico: El color que cayó del cielo</text>
+      </navLabel>
+      <content src="c-173Pag24.htm"/>
+    </navPoint>
+    <navPoint id="u39477cac-26f7-4743-9a4a-2fa257edd66b" playOrder="25">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-173Pag25.htm"/>
+    </navPoint>
+    <navPoint id="ub80d0f36-5587-4665-91a1-379ebdc7fe03" playOrder="26">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

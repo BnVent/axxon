@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="1373c2a4-085a-4511-8b9a-8d0a0a012187" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.28.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 23</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uf175d78e-a9ea-4384-be0a-921bf26bf0be" playOrder="1">
+      <navLabel>
+        <text>Advertencia: Sobre la versión móvil</text>
+      </navLabel>
+      <content src="c-23Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ufba196a7-91c8-457f-92d8-3532e077b68a" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 23</text>
+      </navLabel>
+      <content src="c-23Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ud6d128ae-3def-4971-b28c-624c3929aa83" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El oro al final del arco estelar</text>
+      </navLabel>
+      <content src="c-23Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u34c069a5-3100-43c5-9afa-5b4ca0f2b6c6" playOrder="4">
+      <navLabel>
+        <text>Ficciones: La dama cronológica</text>
+      </navLabel>
+      <content src="c-23Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u31111dca-6061-4c15-a036-6211eda34c29" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Vivir de las memorias</text>
+      </navLabel>
+      <content src="c-23Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u8fde07ef-df5c-42cb-af59-d9dd4528d946" playOrder="6">
+      <navLabel>
+        <text>Sección: BITS</text>
+      </navLabel>
+      <content src="c-23Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u32cd5ac0-ea41-43ba-81ec-4c04f5ac473d" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Inocencia</text>
+      </navLabel>
+      <content src="c-23Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u685cfae2-b622-4ba3-b027-4e74d775fda0" playOrder="8">
+      <navLabel>
+        <text>Ficciones: El Bufón, el Gato y el Canario</text>
+      </navLabel>
+      <content src="c-23Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u877b340f-3063-437d-9266-b7f962322394" playOrder="9">
+      <navLabel>
+        <text>Correo: Correo 23</text>
+      </navLabel>
+      <content src="c-23Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u06f35590-ab5d-411b-b49f-886b176a8b02" playOrder="10">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-23Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u5cb83ac5-7ab9-4c73-9971-6fa545cc5c58" playOrder="11">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="97f4be1f-2a75-4441-889b-9b4cf87db04e" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.34.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 146</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u235a40f9-2f1e-4b45-ba87-5c48cc2946ba" playOrder="1">
+      <navLabel>
+        <text>Editorial: Duelo</text>
+      </navLabel>
+      <content src="c-146Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u0bbdc189-3170-4b64-9973-8cc8b321e4fa" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-146Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uaea94f9f-5bd1-4544-bbda-d9fd96e2d867" playOrder="3">
+      <navLabel>
+        <text>Divulgación: La furia de Poseidón</text>
+      </navLabel>
+      <content src="c-146Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ued6d96dc-b09a-4da6-9087-d4ac62d80f2f" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Sin Nombre</text>
+      </navLabel>
+      <content src="c-146Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u535ba304-af19-46f9-b406-8f0c215b7f5c" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Los contaminados</text>
+      </navLabel>
+      <content src="c-146Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ub641b8fe-19fb-410e-a1eb-84c58ccc667d" playOrder="6">
+      <navLabel>
+        <text>Contratapa: La montaña del origen</text>
+      </navLabel>
+      <content src="c-146Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u8e2d74eb-677a-4538-ac02-f7d38628f1d3" playOrder="7">
+      <navLabel>
+        <text>Ensayo: Los viajes en el tiempo en la ciencia y en la cf</text>
+      </navLabel>
+      <content src="c-146Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ue0a6a8b2-a722-4639-bf95-43d1ec79f73b" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Tlallin (Susan on the West Coast waiting)</text>
+      </navLabel>
+      <content src="c-146Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u591662cd-c3d3-48cb-a0c8-98b4baf70642" playOrder="9">
+      <navLabel>
+        <text>Ficciones: El gato dormido</text>
+      </navLabel>
+      <content src="c-146Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ubcd8df68-6c05-450a-9a0f-501ca61b94e4" playOrder="10">
+      <navLabel>
+        <text>Ficciones: No te quedes en Ulga cuando llueva</text>
+      </navLabel>
+      <content src="c-146Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ud02fd256-709e-4241-93c1-e19b7c160e29" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Gunda Matte (“La Carroña”)</text>
+      </navLabel>
+      <content src="c-146Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u81bfa02c-b7f4-4c3c-9665-fade155b4d90" playOrder="12">
+      <navLabel>
+        <text>Ficciones: 75.345</text>
+      </navLabel>
+      <content src="c-146Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u889856ac-a2be-47c1-96e1-ee3cf7f25d54" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Los efectos de la batalla</text>
+      </navLabel>
+      <content src="c-146Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u1f643deb-e111-4c13-8a6c-aab021720334" playOrder="14">
+      <navLabel>
+        <text>Ficciones: El laberinto</text>
+      </navLabel>
+      <content src="c-146Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u857a5da5-5ec3-4630-80d3-74017346db8d" playOrder="15">
+      <navLabel>
+        <text>Sección: Anacrónicas</text>
+      </navLabel>
+      <content src="c-146Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u897c1ea1-f6a8-4a08-9f25-bf3d2057527d" playOrder="16">
+      <navLabel>
+        <text>Anacrónicas: Ludosfera: Soluciones del Security Camera 5</text>
+      </navLabel>
+      <content src="c-146Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u746645ee-e597-4f56-b079-2065630c9eb5" playOrder="17">
+      <navLabel>
+        <text>Anacrónicas: La llamada de Footloose</text>
+      </navLabel>
+      <content src="c-146Pag17.htm"/>
+    </navPoint>
+    <navPoint id="ud07acad0-ad32-4b05-ae9f-78802eefc006" playOrder="18">
+      <navLabel>
+        <text>Anacrónicas: La yunta’e torres (5)</text>
+      </navLabel>
+      <content src="c-146Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u728268a4-7db5-4f7b-9ba0-e60be8fa8d03" playOrder="19">
+      <navLabel>
+        <text>Uficción: Xochiquetzal y el escuadrón de la venganza</text>
+      </navLabel>
+      <content src="c-146Pag19.htm"/>
+    </navPoint>
+    <navPoint id="u26f61e3c-fbe6-4aa1-992e-37676cb81e44" playOrder="20">
+      <navLabel>
+        <text>Ficciones: Apenas un sueño</text>
+      </navLabel>
+      <content src="c-146Pag20.htm"/>
+    </navPoint>
+    <navPoint id="ub4524a9c-2180-476a-86fa-fd19fd24bdf3" playOrder="21">
+      <navLabel>
+        <text>Ficciones: Karma</text>
+      </navLabel>
+      <content src="c-146Pag21.htm"/>
+    </navPoint>
+    <navPoint id="u4a7ff8ca-7b6b-4b33-b935-a48dcaaa67d6" playOrder="22">
+      <navLabel>
+        <text>Ficciones: Ficción breve (1)</text>
+      </navLabel>
+      <content src="c-146Pag22.htm"/>
+    </navPoint>
+    <navPoint id="uff4b279c-4388-4abd-83de-dcd633c6ae81" playOrder="23">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

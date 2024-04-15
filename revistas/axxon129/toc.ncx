@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="81a7fa19-fdff-455f-938a-eb48151355b0" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.21.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 129</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uf4263899-6727-475f-81c9-cc9f0753f096" playOrder="1">
+      <navLabel>
+        <text>Editorial: Y seguimos</text>
+      </navLabel>
+      <content src="c-129Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u32d26ab7-7e2f-431f-b8c1-4a8bc2787aaf" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Muñecas rusas</text>
+      </navLabel>
+      <content src="c-129Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u8dbe83c2-7b66-47fc-ad5f-967b9f83782d" playOrder="3">
+      <navLabel>
+        <text>Divulgación: El camión sin frenos: ¿por qué estalló Chernobyl?</text>
+      </navLabel>
+      <content src="c-129Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u161346c7-ec81-4c5b-b82d-d791a67f0d43" playOrder="4">
+      <navLabel>
+        <text>Ensayo: Aventuras conversacionales: El inicio del camino hacia la ficción interactiva</text>
+      </navLabel>
+      <content src="c-129Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u0697c265-35cf-441c-83b1-c499346e4e2e" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Algo en el lago</text>
+      </navLabel>
+      <content src="c-129Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u7878b74c-fc87-4779-a98c-31bbe69911dc" playOrder="6">
+      <navLabel>
+        <text>Contratapa: Los desposeídos</text>
+      </navLabel>
+      <content src="c-129Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u6e7ade1f-6dc2-424d-b53a-3df699bd10cf" playOrder="7">
+      <navLabel>
+        <text>Sección: Anacrónicas</text>
+      </navLabel>
+      <content src="c-129Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uf613de54-a7d7-40c6-ac4f-d610a47854fc" playOrder="8">
+      <navLabel>
+        <text>Anacrónicas: Entrevista a Dänik Eraparauntaar</text>
+      </navLabel>
+      <content src="c-129Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ubf797fb1-ddea-47db-aeae-e103d7677aa7" playOrder="9">
+      <navLabel>
+        <text>Anacrónicas: El informante</text>
+      </navLabel>
+      <content src="c-129Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u131d078f-5f45-4b8a-bf66-4244c45f1461" playOrder="10">
+      <navLabel>
+        <text>Anacrónicas: El gaucho de los anillos (10)</text>
+      </navLabel>
+      <content src="c-129Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u31edd586-dc48-4d53-910e-1fdac6d2cd3a" playOrder="11">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

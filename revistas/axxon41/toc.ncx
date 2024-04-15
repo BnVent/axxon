@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="660d77dc-7af5-4fbb-b4b5-a987ed744d7f" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.66)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 41</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="c64cb5d2-8992-4a37-a22d-238ff823f76d" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 41</text>
+      </navLabel>
+      <content src="c-41Pag01.htm"/>
+    </navPoint>
+    <navPoint id="4b28c54b-fc17-4c0c-917f-10112a31faff" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Hasta la reina</text>
+      </navLabel>
+      <content src="c-41Pag02.htm"/>
+    </navPoint>
+    <navPoint id="084279bf-aeef-4f2c-ba9f-6f74c4e93051" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Razones publicitarias</text>
+      </navLabel>
+      <content src="c-41Pag03.htm"/>
+    </navPoint>
+    <navPoint id="d344ba78-d234-4157-8fb8-7d068bb47dcc" playOrder="5">
+      <navLabel>
+        <text>Ficciones: La puerta abierta</text>
+      </navLabel>
+      <content src="c-41Pag04.htm"/>
+    </navPoint>
+    <navPoint id="7b8b4243-8ab7-4ff6-8f3d-ba93f29e21ef" playOrder="6">
+      <navLabel>
+        <text>Ficciones: El delito</text>
+      </navLabel>
+      <content src="c-41Pag05.htm"/>
+    </navPoint>
+    <navPoint id="1774483f-4485-4895-b95f-f18e1f7e8871" playOrder="7">
+      <navLabel>
+        <text>Correo: Correo 41</text>
+      </navLabel>
+      <content src="c-41Pag06.htm"/>
+    </navPoint>
+    <navPoint id="af7bd3fc-68cc-4c3b-9ff0-cea6ef080aba" playOrder="8">
+      <navLabel>
+        <text>Bestiario: Tecnología y supervivencia</text>
+      </navLabel>
+      <content src="c-41Pag07.htm"/>
+    </navPoint>
+    <navPoint id="e4dfe738-391e-45ee-a374-3f770124594d" playOrder="11">
+      <navLabel>
+        <text>Nota: Crónicas Españolas</text>
+      </navLabel>
+      <content src="c-41Pag08.htm"/>
+    </navPoint>
+    <navPoint id="e0b4859c-e696-4f62-9715-6b0696fb0646" playOrder="12">
+      <navLabel>
+        <text>Ensayo: Superman o el triste destino de un ET</text>
+      </navLabel>
+      <content src="c-41Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ae5ea0b5-981e-48bb-b5af-21781074893e" playOrder="13">
+      <navLabel>
+        <text>Seccion: Una mirada a la realidad (16)</text>
+      </navLabel>
+      <content src="c-41Pag10.htm"/>
+    </navPoint>
+    <navPoint id="dd7bedd4-12f3-4ce0-86a3-53504f8dde80" playOrder="14">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-41Pag11.htm"/>
+    </navPoint>
+    <navPoint id="58632b79-e4c3-4604-88d0-ee46befd19e9" playOrder="15">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-41Pag12.htm"/>
+    </navPoint>
+    <navPoint id="d4b1df91-eb78-4476-b731-517b84df66be" playOrder="16">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="71e29a29-6113-4be6-8745-67da6a77b0c2" playOrder="3">
+      <navLabel>
+        <text>[*]</text>
+      </navLabel>
+      <content src="c-41Pag02.htm#id2"/>
+    </navPoint>
+    <navPoint id="4ec6c86d-aeeb-4794-a050-00bfb7158c29" playOrder="9">
+      <navLabel>
+        <text>[1]</text>
+      </navLabel>
+      <content src="c-41Pag07.htm#id3"/>
+    </navPoint>
+    <navPoint id="14b3afec-021b-4880-90ac-76cbc381cf6d" playOrder="10">
+      <navLabel>
+        <text>[2]</text>
+      </navLabel>
+      <content src="c-41Pag07.htm#id4"/>
+    </navPoint>
+  </navMap>
+</ncx>

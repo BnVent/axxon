@@ -1,0 +1,840 @@
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <title>Axxón 78 - SECCIÓN: - Informática: Ensamblador 8086/88 (parte 6)</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link href="stylesheet.css" type="text/css" rel="stylesheet"/>
+<link href="page_styles.css" type="text/css" rel="stylesheet"/>
+</head>
+  <body class="calibre">
+
+<div id="main" class="calibre1">
+<h1 class="calibre13">Informática: Ensamblador 8086/88 (parte 6)</h1>
+<p class="calibre5"><b class="calibre4">Ricardo Forno</b></p><p class="calibre5"></p>
+<div class="document">
+<!-- # :maxLineLen=120:folding=explicit:mode=rest:wrap=soft:collapseFolds=1:encoding=windows-1252: -->
+<p class="resumen1">La Revista Virtual de Informática que se esconde dentro de la panza de Axxón es el último reducto de resistencia de los informáticos inteligentes</p>
+<div class="line" id="lenguaje-ensamblador-8086-8088-parte-6">
+<h2 class="indiceautor">LENGUAJE ENSAMBLADOR 8086/8088 (Parte 6)</h2>
+<p class="calibre5"><strong class="calibre4">Cómo adentrarse en el alma de la PC</strong></p>
+<p class="calibre5">Ing. Ricardo M. Forno</p>
+<div class="line" id="desplazamiento-y-rotacion">
+<h3 class="calibre22">12. Desplazamiento y rotación</h3>
+<p class="calibre5">Hasta ahora nos hemos arreglado con la instrucción ADD (por
+ejemplo add ax, ax) para desplazar el contenido de un
+registro hacia la izquierda. Esto es perfectamente válido, y
+económico desde el punto de vista de tiempo y de espacio,
+pero tiene sus limitaciones:</p>
+<ol class="upperalpha">
+<li class="calibre3">No es posible efectuar desplazamientos hacia la derecha.</li>
+<li class="calibre3">El desplazamiento es de sólo un bit; si deseamos desplazar
+más, debemos repetir la operación.</li>
+<li class="calibre3">No se puede desplazar palabras o bytes en memoria sin
+antes pasarlos por un registro.</li>
+</ol>
+<p class="calibre5">Para enfrentar estos inconvenientes se crearon las instrucciones de desplazamiento (shift).</p>
+<div class="line" id="desplazamiento-hacia-la-izquierda">
+<h4 class="calibre23">12.1. Desplazamiento hacia la izquierda</h4>
+<p class="calibre5">Esta instrucción tiene dos códigos mnemotécnicos que son
+sinónimos: SAL (Shift Arithmetic Left, desplazamiento
+aritmético hacia la izquierda) y SHL (Shift Logical Left,
+desplazamiento lógico hacia la izquierda). Esto se debe a que
+tanto el desplazamiento con signo como sin signo dan el mismo
+resultado. Veamos algunos ejemplos:</p>
+<pre class="literal-block">
+|      shl   bl, 1
+|      sal   si, 1
+|      shl   Rotulo [bx] [si], 1
+</pre>
+<p class="calibre5">El segundo operando de este formato de la instrucción es
+simplemente indicativo, pues siempre es 1. Por ejemplo shl
+bl, 1 equivale a add bl, bl. Pero observemos que con ADD no
+podemos lograr el equivalente de, por ejemplo, shl Rotulo, 1.
+La instrucción desplaza una posición hacia la izquierda los
+bits del registro o de la ubicación de memoria seleccionada,
+y el bit de orden alto va a parar a la bandera de acarreo
+(CF); del lado derecho ingresa un bit 0.</p>
+<p class="calibre5">Pero esta instrucción tiene otro formato, que le permite
+desplazar hacia la izquierda más de un bit por vez:</p>
+<pre class="literal-block">
+|      shl   ax, CL
+|      sal   Rotulo + 3 [di], CL
+</pre>
+<p class="calibre5">Como es habitual, CL puede escribirse con mayúsculas o con
+minúsculas; si lo escribimos con mayúsculas es para señalar
+que tiene un uso especial.</p>
+<p class="calibre5">En este caso, el contenido del registro CL especifica el
+número de bits a la izquierda que se desplazará el primer
+operando. CL es una constante, o sea que no puede indicarse
+otro registro que no sea CL. Veamos un ejemplo:</p>
+<pre class="literal-block">
+|      mov   cl, 5
+|      mov   bh, 10101110b
+|      sal   bh, CL
+</pre>
+<p class="calibre5">El contenido de BH se desplazará 5 bits hacia la izquierda,
+de modo que BH queda con 11000000 binario y la bandera de
+acarreo tendrá el último bit desplazado fuera del registro,
+en este caso 1.</p>
+<p class="calibre5">La acción de una instrucción SHL o SAL equivale a multiplicar
+el primer operando por 2n, donde n es el número de bits
+desplazados hacia la izquierda. Esto es cierto a menos que se
+desplacen fuera del operando bits con valor 1, como en el
+ejemplo anterior.</p>
+<p class="calibre5">La bandera de desborde (OF) sólo se modifica con el formato
+de desplazamiento de un bit, por ejemplo shl ax, 1. En tal
+caso, OF se coloca en 1 si ha cambiado el signo del operando,
+es decir, si CF es distinto del bit de signo del resultado, y
+en 0 en caso contrario.</p>
+<p class="calibre5">Las banderas de signo (SF) y de cero (ZF) se ponen de acuerdo
+con el valor del resultado.</p>
+</div>
+<div class="line" id="desplazamiento-hacia-la-derecha">
+<h4 class="calibre23">12.2. Desplazamiento hacia la derecha</h4>
+<p class="calibre5">Hay dos instrucciones distintas de este tipo: SAR (Shift
+Arithmetic Right, desplazamiento aritmético hacia la derecha)
+y SHR (Shift Logical Right, desplazamiento lógico hacia la
+derecha). Los formatos son los mismos que para SHL y SAL.</p>
+<p class="calibre5">Ambas instrucciones desplazan los bits del operando hacia la
+derecha. SHR alimenta bits 0 por la izquierda. SAR alimenta
+por la izquierda bits iguales al del signo del operando, de
+modo que conserva el signo.</p>
+<p class="calibre5">Los bits que salen por la derecha pasan por la bandera de
+acarreo (CF), y el último queda allí.</p>
+<p class="calibre5">La bandera de desborde (OF) sólo se modifica con el formato
+de desplazamiento de un bit, por ejemplo shr ax, 1. En tal
+caso, OF se coloca en 0 para SAR, y en el valor del bit de
+signo para SHR.</p>
+<p class="calibre5">Las banderas de signo (SF) y de cero (ZF) se ponen de acuerdo
+con el valor del resultado.</p>
+<p class="calibre5">SHR equivale a dividir por 2n sin considerar signo, donde n
+es el número de bits desplazados. SAR equivale a dividir por
+2n considerando el signo. La truncación ocurre siempre hacia
+valores menores en valor algebraico, de manera tal que, por
+ejemplo, desplazando un bit hacia la derecha el valor 3 se
+obtiene 1, pero desplazando -3 se obtiene -2.</p>
+</div>
+<div class="line" id="rotaciones">
+<h4 class="calibre23">12.3. Rotaciones</h4>
+<p class="calibre5">El procesador 8086 tiene, además de las instrucciones de
+desplazamiento recién vistas, otras de rotación bastante
+parecidas.</p>
+<p class="calibre5">Estas instrucciones no tienen mucho uso. Uno de sus usos
+consiste en incorporar el valor del CF a un registro o una
+ubicación de memoria, lo cual les da cierta utilidad en
+aritmética de múltiple precisión.</p>
+<p class="calibre5">Los formatos de las instrucciones de rotación son los mismos
+que los de las de desplazamiento, por ejemplo:</p>
+<pre class="literal-block">
+|      rol   ch, 1
+|      rol   Rotulo, CL
+|      rol   Rotulo [bx], 1
+</pre>
+<p class="calibre5">Las instrucciones de rotación son:</p>
+<ol class="upperalpha">
+<li class="calibre3">ROL, que rota los bits del operando hacia la izquierda, y
+realimenta los bits de orden alto por la derecha. CF recibe
+una copia del último bit rotado.</li>
+<li class="calibre3">ROR, que rota los bits del operando hacia la derecha, y
+realimenta los bits de orden bajo por la izquierda. CF recibe
+una copia del último bit rotado.</li>
+<li class="calibre3">RCL, similar a ROL, con la diferencia de que CF participa
+en la rotación, que será entonces de 9 o 17 bits en lugar de
+8 o 16.</li>
+<li class="calibre3">RCR, similar a ROR, con la diferencia de que CF participa
+en la rotación como para RCL.</li>
+</ol>
+<p class="calibre5">La bandera de desborde (OF) sólo está definida para el
+formato de rotación de un bit. OF es 1 si el operando cambió
+de signo, y 0 en caso contrario.</p>
+<p class="calibre5">Las banderas de signo (SF) y de cero (ZF) se ponen de acuerdo
+con el valor del resultado.</p>
+</div>
+<div class="line" id="ejercicio-no-16">
+<h4 class="calibre23">12.4. Ejercicio nº 16</h4>
+<p class="calibre5">Se trata de escribir una subrutina (y su programa llamador)
+para traducir una cadena de caracteres en notación hexadecimal a una cadena de caracteres que sea representada por la
+primera. Los registros SI y DI pasarán respectivamente las
+direcciones de comienzo de las cadenas hexadecimal y de
+caracteres. El registro CX tendrá la longitud de la cadena
+hexadecimal. Al finalizar la rutina, CF indicará con 1 que
+hubo un error (alguno de los caracteres de la primera cadena
+no estaba en los rangos 0 - 1 o A - F), y con 0 que no hubo
+error. No aceptaremos letras minúsculas. Véase una solución
+en <em class="calibre8">Soluciones</em>.</p>
+</div>
+</div>
+<div class="line" id="instrucciones-varias">
+<h3 class="calibre22">13. Instrucciones varias</h3>
+<p class="calibre5">En este capítulo veremos instrucciones difíciles de agrupar
+por tipo, muchas de las cuales nos simplificarán tareas que
+ya realizábamos por medio de secuencias de otras instrucciones.</p>
+<div class="line" id="borrar-la-bandera-de-acarreo-cf">
+<h4 class="calibre23">13.1. Borrar la bandera de acarreo (CF)</h4>
+<p class="calibre5">Para borrar la bandera de acarreo, cuando se emplea para
+transmitir una indicación de falta de error, hemos usado
+hasta ahora (en los ejercicios):</p>
+<pre class="literal-block">
+|      and   al, al
+</pre>
+<p class="calibre5">pues esta instrucción deja siempre CF = 0. La instrucción
+específica para hacer esto, en lenguaje de máquina más corta
+que la anterior, es:</p>
+<pre class="literal-block">
+|      clc
+</pre>
+<p class="calibre5">CLC significa Clear Carry Flag. Como se ve, carece de operandos.</p>
+</div>
+<div class="line" id="poner-la-bandera-de-acarreo-cf">
+<h4 class="calibre23">13.2. Poner la bandera de acarreo (CF)</h4>
+<p class="calibre5">Hasta ahora usábamos la siguiente secuencia para poner 1 en
+CF:</p>
+<pre class="literal-block">
+|      mov   al, 0ffh
+|      add   al, al
+</pre>
+<p class="calibre5">La instrucción específica para realizar esto es STC (Set
+Carry Flag) y, como la anterior, carece de operandos:</p>
+<pre class="literal-block">
+|      stc
+</pre>
+</div>
+<div class="line" id="complementar-la-bandera-de-acarreo-cf">
+<h4 class="calibre23">13.3. Complementar la bandera de acarreo (CF)</h4>
+<p class="calibre5">Esta instrucción tiene menos uso que las anteriores, pero a
+veces resulta útil. Es CMC (Complement Carry Flag), y lo que
+hace es poner CF = 0 si antes era 1, y CF = 1 si antes era 0.
+Tampoco tiene operandos:</p>
+<pre class="literal-block">
+|      cmc
+</pre>
+</div>
+<div class="line" id="borrar-la-bandera-de-interrupcion-if">
+<h4 class="calibre23">13.4. Borrar la bandera de interrupción (IF)</h4>
+<p class="calibre5">Su código es CLI (Clear Interrupt Flag). Tampoco tiene operandos. Pone 0 en la bandera de interrupción, lo cual deshabilita las interrupciones externas. Hay ciertas interrupciones que no pueden deshabilitarse.</p>
+<p class="calibre5">Esto se usa sobre todo en operaciones de entrada y salida,
+cuando se quiere tener la seguridad de que ciertos datos no
+estén cambiando mientras se los lee, y en subrutinas que
+procesen otras interrupciones.</p>
+</div>
+<div class="line" id="poner-la-bandera-de-interrupcion-if">
+<h4 class="calibre23">13.5. Poner la bandera de interrupción (IF)</h4>
+<p class="calibre5">Su código es STI (Set Interrupt Flag). No tiene operandos.
+Pone 1 en la bandera de interrupción, lo cual habilita las
+interrupciones. La habilitación tiene lugar después de la
+instrucción siguiente, a fin de permitir la secuencia:</p>
+<pre class="literal-block">
+|      sti
+|      ret
+</pre>
+<p class="calibre5">sin que se reconozcan las interrupciones antes del fin de la
+subrutina.</p>
+</div>
+<div class="line" id="interrupcion-de-software">
+<h4 class="calibre23">13.6. Interrupción de software</h4>
+<p class="calibre5">Ya hemos visto su uso para llamar rutinas del DOS o del BIOS.
+De cualquier manera, aclaremos que INT realiza un PUSH de los
+registros ST, CS e IP, en ese orden.</p>
+<p class="calibre5">El formato típico de esta instrucción incluye un operando
+inmediato de un byte, que multiplicado por 4 señala la dirección absoluta de memoria donde se encuentra un vector que con
+un desplazamiento y un segmento apunta a una subrutina que
+procesará la interrupción:</p>
+<pre class="literal-block">
+|      int   21h
+</pre>
+<p class="calibre5">Existen otros dos formatos de esta instrucción:</p>
+<pre class="literal-block">
+|      int3
+</pre>
+<p class="calibre5">que genera una interrupción 3 al debugger (depurador), y:</p>
+<pre class="literal-block">
+|      into
+</pre>
+<p class="calibre5">que genera una interrupción 4 sólo si OF = 1.</p>
+<p class="calibre5">No obstante, la versión actual del Turbo Assembler de Borland
+no acepta el código mnemotécnico int3, pero en cambio con int
+3 (con operando aparte) genera la instrucción correcta en
+lenguaje de máquina (código hexadecimal CC en vez de CD).</p>
+</div>
+<div class="line" id="retorno-de-interrupcion">
+<h4 class="calibre23">13.7. Retorno de interrupción</h4>
+<p class="calibre5">Su código es IRET. No tiene operandos. Se usa para retornar
+al programa principal desde una rutina llamada por una
+interrupción de software. Debe realizar en la Pila la tarea
+inversa de INT, o sea efectuar los POP de IP, CS y ST en ese
+orden. El programador la usará sólo cuando escriba una rutina
+de proceso de interrupciones.</p>
+</div>
+<div class="line" id="cargar-banderas-en-el-registro-ah">
+<h4 class="calibre23">13.8. Cargar banderas en el registro AH</h4>
+<p class="calibre5">Su código es LAHF (Load Flags into AH). No tiene operandos.
+Carga el byte de orden bajo del registro de banderas (ST) en
+el registro AH.</p>
+<p class="calibre5">Como ya se dijo, la bandera de acarreo auxiliar (AF) no tiene
+bifurcación condicional que la pruebe. Si deseamos averiguar
+cuál es su valor, deberemos hacerlo de manera indirecta. Sin
+la presente instrucción podríamos hacerlo como sigue, considerando que AF es el quinto bit de ST contando desde la
+derecha:</p>
+<pre class="literal-block">
+|      pushf
+|      pop   ax
+|      and   al, 10000b
+|      jnz   Auxiliar
+</pre>
+<p class="calibre5">Contando con la presente instrucción, podemos reducir algo
+esa secuencia:</p>
+<pre class="literal-block">
+|      lahf
+|      and   ah, 10000b
+|      jnz   Auxiliar
+</pre>
+<p class="calibre5">De cualquier manera, se la considera una instrucción obsoleta
+que se incluyó en este procesador sólo por compatibilidad con
+el 8080. Lo mismo ocurre con la siguiente. Como se ve, pese a
+ello tienen alguna utilidad.</p>
+</div>
+<div class="line" id="guardar-el-registro-ah-en-las-banderas">
+<h4 class="calibre23">13.9. Guardar el registro AH en las banderas</h4>
+<p class="calibre5">Su código es SAHF (Store AH into Flags). No tiene operandos.
+Es la inversa de la anterior: guarda el contenido de AH en el
+byte de orden bajo del registro de banderas (ST).</p>
+<p class="calibre5">Por conveniencia, reproducimos aquí la ilustración con la
+ubicación de las banderas dentro de ST:</p>
+<table border="1" class="docutils">
+<caption class="calibre24">ST</caption>
+<colgroup class="calibre25">
+<col width="6%" class="calibre26"/>
+<col width="6%" class="calibre26"/>
+<col width="6%" class="calibre26"/>
+<col width="6%" class="calibre26"/>
+<col width="6%" class="calibre26"/>
+<col width="6%" class="calibre26"/>
+<col width="6%" class="calibre26"/>
+<col width="6%" class="calibre26"/>
+<col width="6%" class="calibre26"/>
+<col width="6%" class="calibre26"/>
+<col width="6%" class="calibre26"/>
+<col width="6%" class="calibre26"/>
+<col width="6%" class="calibre26"/>
+<col width="6%" class="calibre26"/>
+<col width="6%" class="calibre26"/>
+<col width="6%" class="calibre26"/>
+</colgroup>
+<tbody valign="top" class="calibre27">
+<tr class="calibre28"><td class="calibre29"> </td>
+<td class="calibre29"> </td>
+<td class="calibre29"> </td>
+<td class="calibre29"> </td>
+<td class="calibre29">OF</td>
+<td class="calibre29">DF</td>
+<td class="calibre29">IF</td>
+<td class="calibre29">TF</td>
+<td class="calibre29">SF</td>
+<td class="calibre29">ZF</td>
+<td class="calibre29"> </td>
+<td class="calibre29">AF</td>
+<td class="calibre29"> </td>
+<td class="calibre29">PF</td>
+<td class="calibre29"> </td>
+<td class="calibre29">CF</td>
+</tr>
+</tbody>
+</table>
+<p class="calibre5">SAHF permite forzar varias banderas a la vez. Supongamos por
+ejemplo que deseamos forzar SF = 1, ZF = 0, AF = 1, PF = 1,
+CF = 0. Observando la posición de las banderas, codificamos:</p>
+<pre class="literal-block">
+|      mov   ah, 10010100b
+|      sahf
+</pre>
+<p class="calibre5">Los restantes bits del operando deben colocarse en 0, como en
+el ejemplo.</p>
+<p class="pri1">Es posible que deseemos forzar a 0 o a 1 algunas de las banderas, pero no modificar las restantes. Esto lo conseguimos
+efectuando AND con bits 0 sobre los que deben ser 0, y OR con
+bits 1 sobre los que deben ser 1. Por ejemplo, supongamos que
+necesitamos PF = 0 y CF = 1, y no modificar los restantes.</p>
+<p class="calibre5">Codificamos:</p>
+<pre class="literal-block">
+|      lahf
+|      and   ah, 11111011b
+|      or    ah, 00000001b
+|      sahf
+</pre>
+<p class="calibre5">Podemos notar que varias de las banderas se encuentran fuera
+del byte de orden bajo de ST, y por lo tanto no pueden ser
+alteradas por este método. Para esas banderas podemos recurrir a la siguiente secuencia de instrucciones:</p>
+<pre class="literal-block">
+|      pushf
+|      pop   ax
+|      and   ax, 1111001111101110b
+|      or    ax, 0000001000000010b
+|      push  ax
+|      popf
+</pre>
+<p class="calibre5">En este caso, AND forzó OF = 0, DF = 0, AF = 0, CF = 0; y OR
+forzó IF = 1, PF = 1.</p>
+<p class="calibre5">Para consultar cualquier combinación de banderas, podemos
+recurrir a:</p>
+<pre class="literal-block">
+|      pushf
+|      pop   ax
+|      test  ax, 0000010000010000b
+|      jnz   Alguna
+</pre>
+<p class="calibre5">En este caso, TEST prueba DF y AF; si alguna es 1, la bifurcación siguiente se efectuará (se puede reemplazar TEST por
+AND).</p>
+<p class="calibre5">En cuanto al uso de algunas de estas banderas, oportunamente
+lo veremos.</p>
+</div>
+<div class="line" id="cargar-direccion-efectiva">
+<h4 class="calibre23">13.10. Cargar dirección efectiva</h4>
+<p class="calibre5">Su código es LEA (Load Effective Address). Tiene dos operandos: el primero es un registro de propósito general de 16
+bits, y el segundo una dirección de memoria, modificada o no
+por registros base e índice. Por ejemplo:</p>
+<pre class="literal-block">
+|      lea   bx, Rotulo
+|      lea   ax, Rotulo [si]
+|      lea   di, 4 [bx] [si]
+</pre>
+<p class="calibre5">Para cargar un desplazamiento en un registro, hasta ahora
+habíamos usado una instrucción MOV:</p>
+<pre class="literal-block">
+|      mov   si, OFFSET Rotulo
+</pre>
+<p class="calibre5">Esta instrucción MOV se traduce a lenguaje de máquina en una
+instrucción con un segundo operando que es un dato inmediato,
+es decir, una constante en la propia instrucción. La instrucción LEA equivalente a ese MOV es:</p>
+<pre class="literal-block">
+|      lea   si, Rotulo
+</pre>
+<p class="calibre5">Obsérvese que el operando en este caso no es un dato inmediato sino una dirección de memoria (su desplazamiento), pero
+actúa como si fuera un dato inmediato. Mientras que mov si,
+Rotulo copia el contenido de Rotulo al registro SI, lea si,
+Rotulo copia el desplazamiento de Rotulo a SI, tal como lo
+hace mov si, OFFSET Rotulo.</p>
+<p class="calibre5">Ahora bien, la instrucción LEA permite que la dirección de
+memoria del segundo operando provenga no sólo del desplazamiento inserto en la misma instrucción, sino también de un
+registro índice y un registro base, usando el ya familiar
+mecanismo de direccionamiento del procesador 8086. Esto no lo
+permite la instrucción MOV con OFFSET en su segundo operando.
+Por ejemplo:</p>
+<pre class="literal-block">
+|      lea   si, Rotulo [bx] [di]
+</pre>
+<p class="calibre5">Si analizamos lo que significa esto, descubriremos que esta
+instrucción permite sumar el contenido de hasta dos registros
+y una constante y guardar la suma en otro registro. Los
+registros que se suman no pueden ser cualesquiera: sólo se
+admiten las combinaciones siguientes: BX; BP; SI; DI; BX +
+SI; BX + DI; BP + SI; BP + DI. El registro de destino puede
+ser cualquiera de propósito general de 16 bits (es decir, no
+los de segmento ni los de 8 bits). Veamos algunos ejemplos:</p>
+<pre class="literal-block">
+|      lea   ax, 6 [si]           ; AX = 6 + SI
+|      lea   bx, -709 [bx] [di]   ; BX = BX + DI - 709
+|      lea   cx, 6789 [bp] [si]   ; CX = BP + SI + 6789
+</pre>
+<p class="calibre5">Como se ve, la constante que se suma puede ser negativa, pues
+aparecerá en notación de complemento. Por la misma razón, el
+contenido de los registros puede ser negativo. El resultado,
+como en cualquier suma de palabras, se toma módulo 216. A
+diferencia de la suma normal, aquí las banderas no se alteran, de manera que no habrá desborde ni acarreo.</p>
+</div>
+<div class="line" id="intercambiar">
+<h4 class="calibre23">13.11. Intercambiar</h4>
+<p class="calibre5">Su código es XCHG (Exchange). Lleva dos operandos y no modifica las banderas. Como es lógico, ninguno de los operandos
+puede ser un dato inmediato, pues la acción consiste en
+intercambiarlos. Ejemplos:</p>
+<pre class="literal-block">
+|      xchg   ax, bx
+|      xchg   Rotulo, cl
+|      xchg   dl, Rotulo + 1 [bx] [di]
+</pre>
+<p class="calibre5">En muchos programas y subrutinas suele ser necesario intercambiar dos datos, y esta instrucción facilita la tarea, que
+si no requeriría tres instrucciones y un almacenamiento
+intermedio (a menos que se use la técnica explicada en la
+descripción de XOR, la cual si bien sigue necesitando tres
+instrucciones no requiere almacenamiento intermedio).</p>
+</div>
+<div class="line" id="traducir">
+<h4 class="calibre23">13.12. Traducir</h4>
+<p class="calibre5">Su código es XLATB (Translate Byte). No tiene operandos. Esta
+instrucción usa el contenido del registro AL, tomado sin
+signo, como índice en una tabla de bytes direccionada por BX.
+El valor hallado en la tabla es insertado en AL.</p>
+<p class="calibre5">Dado que los posibles valores almacenados en AL son 256, la
+tabla debería tener 256 bytes de longitud o, en caso contrario, uno debería asegurarse de que AL no contenga un valor
+que haga caer la dirección fuera de la tabla.</p>
+<p class="calibre5">A esta instrucción puede agregársele un operando ficticio,
+que es el nombre de la tabla. En ese caso, el código de
+instrucción es XLAT. Por ejemplo:</p>
+<pre class="literal-block">
+|      xlat   Tabla
+</pre>
+<p class="calibre5">El Ensamblador acepta también XLAT sin operando.</p>
+<p class="pri1">Un uso típico de esta instrucción sería traducir de código
+ASCII a EBCDIC (usado en computadoras principales de IBM) o
+viceversa. Se sugiere al lector proveerse de sendas tablas de
+caracteres ASCII y EBCDIC (se encuentran en el Apéndice B) y
+usar XLAT para realizar estas traducciones. El ejercicio que
+desarrollaremos a continuación tiene algunas diferencias con
+el propuesto.</p>
+</div>
+<div class="line" id="ejercicio-no-17">
+<h4 class="calibre23">13.13. Ejercicio nº 17</h4>
+<p class="calibre5">Se trata de traducir una cadena de caracteres a notación
+hexadecimal, como se hizo en el Ejercicio nº 9, esta vez
+usando XLAT. Esta versión tomará menos tiempo pero ocupará
+más espacio, pues se requiere una tabla de 256 bytes. Véase
+una solución en <em class="calibre8">Soluciones</em>.</p>
+</div>
+</div>
+<div class="line" id="ciclos">
+<h3 class="calibre22">14. Ciclos</h3>
+<div class="line" id="la-instruccion-loop">
+<h4 class="calibre23">14.1. La instrucción Loop</h4>
+<p class="calibre5">La instrucción LOOP (ciclar) sirve para reemplazar la
+siguiente secuencia de instrucciones:</p>
+<pre class="literal-block">
+|      dec   cx
+|      jnz   Lugar
+</pre>
+<p class="calibre5">Esta secuencia es reemplazada por:</p>
+<pre class="literal-block">
+|      loop   Lugar
+</pre>
+<p class="calibre5">Además del menor consumo de tiempo y espacio, existe otra
+diferencia: a diferencia de DEC, la instrucción LOOP no
+altera las banderas.</p>
+<p class="calibre5">El registro afectado es siempre CX.</p>
+<p class="pri1">Veamos cómo queda con LOOP un ejemplo ya tratado: desplegar
+en la pantalla una cadena de caracteres de la cual se
+suministra la longitud.</p>
+<pre class="literal-block">
+|      .DATA
+| Cadena     DB   'Esto es una prueba', 13, 10
+| Longitud   EQU   $ - Cadena
+|      .CODE
+| ................................
+|      mov   cx, Longitud        ; Cargar cuenta
+|      mov   si, OFFSET Cadena   ; Inicializar origen
+| Volver:
+|      mov   dl, [si]            ; Tomar próximo carácter
+|      inc   si                  ; Ir al siguiente
+|      mov   ah, 2               ; Función de despliegue
+|      int   21h                 ; Llamar al DOS
+|      loop  Volver              ; Ciclar
+| ................................
+</pre>
+<p class="calibre5">Si la longitud pudiera ser nula, como de costumbre una
+instrucción JCXZ precedería el ciclo.</p>
+<p class="calibre5">La dirección a la que bifurca LOOP debe estar en el rango de
+128 ubicaciones antes hasta 127 después de la dirección de
+memoria que sigue a LOOP.</p>
+</div>
+<div class="line" id="otras-formas-de-loop">
+<h4 class="calibre23">14.2. Otras formas de Loop</h4>
+<p class="calibre5">La instrucción LOOPE (ciclar por igual) (o también LOOPZ
+(ciclar por cero), que es sinónimo) funciona como LOOP, pero
+para que la bifurcación se produzca se requiere no sólo que
+el contenido de CX no sea cero, sino que ZF = 1. La instrucción LOOPNE (ciclar por no igual) (o su sinónimo LOOPNZ
+(ciclar por no cero)) hace lo mismo, con la diferencia de que
+la bifurcación se produce cuando CX no es 0 y ZF = 0.</p>
+<p class="calibre5">Estas instrucciones permiten controlar un ciclo por número de
+repeticiones y a la vez por condiciones de igualdad o
+desigualdad.</p>
+<p class="calibre5">Como en el caso de LOOP, la dirección adonde bifurca una de
+estas instrucciones puede estar a distancias máximas de 128
+posiciones hacia atrás y 127 hacia adelante a contar desde la
+ubicación siguiente a la instrucción.</p>
+</div>
+<div class="line" id="ejercicio-no-18">
+<h4 class="calibre23">14.3. Ejercicio nº 18</h4>
+<p class="calibre5">La función 1 de la interrupción 21h del DOS toma un carácter
+de la entrada estándar (normalmente el teclado), lo pone en
+la salida estándar (normalmente la pantalla) y lo devuelve en
+el registro AL. La usaremos en una subrutina que recibirá en
+el registro SI el desplazamiento de comienzo de un área de
+memoria donde se guardarán los caracteres recibidos, y en CX
+la longitud máxima del área de almacenaje. La lectura de
+caracteres terminará por agotarse dicha área o por recibirse
+un carácter CR (retorno de carro, con valor ASCII 13). El
+carácter CR, si se recibe, formará parte del resultado.
+Trataremos de usar las instrucciones recién estudiadas. Véase
+una posible solución en <em class="calibre8">Soluciones</em>.</p>
+</div>
+</div>
+<div class="line" id="soluciones">
+<h3 class="calibre22">Soluciones</h3>
+<div class="line" id="id1">
+<h4 class="calibre23">Ejercicio nº 16</h4>
+<pre class="literal-block">
+| ; Programa de prueba para la rutina Hexabyte
+|           .MODEL   small
+|           .STACK   100h
+|           .DATA
+| Longitud EQU    80                     ; Longitud máxima
+| Doble    EQU    Longitud + Longitud
+| Menserr1 DB     'El número de caracteres hexadecimales es '
+|           DB     'impar', 13, 10, '$'
+| Menserr2 DB     'Algún carácter no es hexadecimal válido'
+|           DB     13, 10, '$'
+| Hexa     DB     Doble DUP (?)
+| Cadena   DB     Longitud DUP (?)
+|           .CODE
+| Prueba   PROC   near
+|           mov    ax, @data          ; Apuntar DS a datos
+|           mov    ds, ax
+|           mov    ah, 3fh            ; Función de lectura
+|           mov    bx, 0              ; Entrada estándar
+|           mov    cx, Doble          ; Longitud máxima
+|           mov    dx, OFFSET Hexa    ; Dónde guardar los datos
+|           int    21h                ; Llamar al DOS
+|           mov    cx, ax             ; Guardar longitud leída
+|           and    ax, 1              ; Probar si es par
+|           jnz    Error1             ; Si es impar, error
+|           mov    si, OFFSET Hexa    ; Dirección 1er parámetro
+|           mov    di, OFFSET Cadena  ; Dirección 2o parámetro
+|           call   Hexabyte           ; Llamar a la subrutina
+|           jc     Error2             ; CF = 1 indica error
+|           mov    ah, 40h            ; Función de despliegue
+|           mov    bx, 1              ; Salida estándar
+|           mov    dx, si             ; Cadena hexadecimal
+| ; CX ya contiene la longitud de la cadena hexadecimal
+|           int    21h                ; Llamar al DOS
+| ; Despliega la cadena hexadecimal
+|           mov    dx, di             ; Cadena de caracteres
+|           sar    cx, 1              ; Mitad de longitud
+|           int    21h                ; Llamar al DOS
+| ; Despliega la cadena de caracteres resultado
+|           jmp    Fin                ; Termina bien
+| Error1:
+|           mov    dx, OFFSET Menserr1 ; Prepara despliegue
+|           jmp    Sigue
+| Error2:
+|           mov    dx, OFFSET Menserr2 ; Prepara despliegue
+| Sigue:
+|           mov    ah, 9               ; Función de despliegue
+|           int    21h                 ; Llamar al DOS
+| Fin:
+|           mov    ah, 4ch             ; Función de terminación
+|           int    21h                 ; Llamar al DOS
+| Prueba   ENDP                       ; Fin programa principal
+| ;
+| ; Subrutina para traducir una cadena hexadecimal a caracteres
+| ; Entradas:     SI apunta a la cadena hexadecimal
+| ;               DI apunta a la cadena de resultado
+| ;               CX tiene la longitud de la cadena hexadecimal
+| ; Salida:       CF = 1 si algún carácter hexa no es válido
+| Hexabyte PROC   near
+|           push   ax                 ; Salvar registros
+|           push   bx
+|           push   si
+|           push   di
+|           push   cx
+|           mov    bx, si             ; Calcular fin de hexa
+|           add    bx, si
+| Otro:
+|           cmp    si, bx             ; Ver si se llegó al fin
+|           jae    Bien
+|           mov    al, [si]           ; Tomar 1er dígito hexa
+|           cmp    al, 'A'            ; Ver si es alfabético
+|           jb     Num1
+|           cmp    al, 'F'
+|           ja     Error
+|           sub    al, 'A' - 10       ; Equivalente numérico
+|           jmp    Sigue1
+| Num1:
+|           sub    al, '0'            ; Equivalente numérico
+|           jb     Error              ; Ver si es numérico
+|           cmp    al, 9              ; Ya se le restó '0'
+|           ja     Error
+| Sigue1:
+|           mov    cx, 4              ; Preparar desplazamiento
+|           shl    al, cl             ; Desplazar a nibble alto
+|           mov    ah, al             ; Guardar resultado en AH
+|           inc    si                 ; Próximo dígito hexa
+|           mov    al, [si]           ; Tomar 2o dígito hexa
+|           cmp    al, 'A'            ; Ver si es alfabético
+|           jb     Num2
+|           cmp    al, 'F'
+|           ja     Error
+|           sub    al, 'A' - 10       ; Equivalente numérico
+|           jmp    Sigue2
+| Num2:
+|           sub    al, '0'            ; Equivalente numérico
+|           jb     Error              ; Ver si es numérico
+|           cmp    al, 9              ; Ya se le restó '0'
+|           ja     Error
+| Sigue2:
+|           or     al, ah             ; Combinar nibbles
+|           mov    [di], al           ; Poner en resultado
+|           inc    si                 ; Próximo dígito hexa
+|           inc    di                 ; Próximo carácter
+|           jmp    Otro               ; Iterar
+| Error:
+|           mov    al, 0ffh           ; Forzar CF = 1
+|           add    al, al
+|           jmp    Restaurar
+| Bien:    and    al, al             ; Forzar CF = 0
+| Restaurar:
+|           pop    cx                 ; Restaurar registros
+|           pop    di
+|           pop    si
+|           pop    bx
+|           pop    ax
+|           ret                       ; Retornar
+| Hexabyte ENDP                      ; Fin de la subrutina
+|           END    Prueba             ; Fin del archivo fuente
+</pre>
+<p class="calibre5">Se notará que en la subrutina se repite una parte de código
+bastante extensa. Esto sugiere que se podría desarrollar otra
+subrutina que fuera llamada por la presente y que contuviera
+una sola vez el código mencionado, a fin de ahorrar espacio.
+Éste puede ser buen motivo para otro ejercicio. Otra modificación que se podría aplicar consiste en usar la técnica de
+incremento hasta 0 que vimos oportunamente.</p>
+</div>
+<div class="line" id="id2">
+<h4 class="calibre23">Ejercicio nº 17</h4>
+<pre class="literal-block">
+| ; Traducir una cadena de caracteres a notación hexadecimal
+| ;  Longitud de la cadena en CX
+|           .DATA
+| Hexa1    DB     16 DUP ('0')
+|           DB     16 DUP ('1')
+|           DB     16 DUP ('2')
+|           DB     16 DUP ('3')
+|           DB     16 DUP ('4')
+|           DB     16 DUP ('5')
+|           DB     16 DUP ('6')
+|           DB     16 DUP ('7')
+|           DB     16 DUP ('8')
+|           DB     16 DUP ('9')
+|           DB     16 DUP ('A')
+|           DB     16 DUP ('B')
+|           DB     16 DUP ('C')
+|           DB     16 DUP ('D')
+|           DB     16 DUP ('E')
+|           DB     16 DUP ('F')
+| Hexa2    DB     16 DUP ('0123456789ABCDEF')
+| Longitud EQU    100
+| Cadena   DB     Longitud DUP (?)
+| Result   DB     Longitud + Longitud DUP (?)
+|           .CODE
+| ................................
+|           jcxz   Fin
+|           mov    si, cx             ; Dirección fin
+|           mov    di, cx
+|           add    di, di             ; Fin de Result
+|           add    di, OFFSET Result - 1  ; Preparar registros
+|           mov    cx, OFFSET Cadena - 1
+|           mov    bp, OFFSET Hexa1
+|           mov    dx, OFFSET Hexa2
+| Ciclo:
+|           mov    bx, cx            ; Preparar direccionamiento
+|           mov    al, [bx] [si]     ; Tomar byte
+|           mov    ah, al            ; Reservarlo
+|           mov    bx, dx            ; Direccionamiento Hexa2
+|           xlatb                    ; Traducirlo
+|           mov    [di], al          ; Guardar 2o hexa
+|           dec    di                ; Ir al 1er hexa
+|           mov    al, ah            ; Recuperar carácter
+|           mov    bx, bp            ; Direccionamiento Hexa1
+|           xlatb                    ; Traducirlo
+|           mov    [di], al          ; Guardar 1er hexa
+|           dec    di                ; Ir al próximo carácter
+|           dec    si                ; Idem para el origen
+|           jnz    Ciclo
+| Fin:
+| ................................
+</pre>
+<p class="calibre5">La precedente es una versión con direccionamiento descendente. El manejo de registros para almacenar datos tomados de la
+memoria o como datos inmediatos tiene por objeto ahorrar
+algunos microsegundos de tiempo. Pero debe observarse que no
+todos los procesadores ahorran tiempo así; en efecto, el 8086
+lo hace más rápido, pero la diferencia es mínima para el
+80286 u 80386. De cualquier manera, se pretende ilustrar las
+diversas técnicas que pueden emplearse.
+Sigue una versión del segmento de código con direccionamiento
+ascendente e incremento hasta 0:</p>
+<pre class="literal-block">
+|           .CODE
+| ................................
+|           jcxz   Fin
+|           add    cx, OFFSET Cadena   ; Preparar registros
+|           neg    si
+|           mov    di, OFFSET Result - 1
+|           mov    bp, OFFSET Hexa1
+|           mov    dx, OFFSET Hexa2
+| Ciclo:
+|           mov    bx, cx            ; Preparar direccionamiento
+|           mov    al, [bx] [si]     ; Tomar byte
+|           mov    ah, al            ; Reservarlo
+|           mov    bx, bp            ; Direccionamiento Hexa1
+|           xlatb                    ; Traducirlo
+|           mov    [di], al          ; Guardar 1er hexa
+|           inc    di                ; Ir al 2o hexa
+|           mov    al, ah            ; Recuperar carácter
+|           mov    bx, dx            ; Direccionamiento Hexa2
+|           xlatb                    ; Traducirlo
+|           mov    [di], al          ; Guardar 1er hexa
+|           inc    di                ; Ir al próximo carácter
+|           inc    si                ; Idem para el origen
+|           jnz    Ciclo
+| Fin:
+| ................................
+</pre>
+</div>
+<div class="line" id="id3">
+<h4 class="calibre23">Ejercicio nº 18</h4>
+<pre class="literal-block">
+| ; Subrutina de lectura de una cadena de caracteres
+| ; Entradas:     SI contiene el desplazamiento de comienzo
+| ;               del área de almacenaje
+| ;               CX contiene la longitud máxima del área
+| ; La lectura termina por llegarse a la longitud máxima o
+| ;  por recibir un carácter de control de carro
+| Leer     PROC   near
+|           push   si                 ; Salvar registros
+|           push   cx
+|           push   ax
+|           jcxz   Fin
+| Otro:
+|           mov    ah, 1              ; Función de lectura
+|           int    21h                ; Llamar al DOS
+|           mov    [si], al           ; Tomar carácter
+|           inc    si                 ; Ir al próximo byte
+|           cmp    al, 13             ; Ver si es CR
+|           loopne Otro               ; Ciclar
+| Fin:
+|           pop    ax                 ; Restaurar registros
+|           pop    cx
+|           pop    si
+|           ret                       ; Retornar
+</pre>
+<p class="calibre5">LOOPNE vuelve a Otro mientras CX sea distinto de 0 y el
+carácter en AL no sea CR.</p>
+<p class="pri1">En la próxima entrega de este manual:</p>
+<table class="docutils" frame="void" rules="none">
+<col class="calibre26"/>
+<col class="calibre26"/>
+<tbody valign="top" class="calibre27">
+<tr class="calibre28"><th class="field-name">Sección 15:</th><td class="calibre29">INSTRUCCIONES DE CADENA</td>
+</tr>
+<tr class="calibre28"><th class="field-name">Sección 16:</th><td class="calibre29">MULTIPLICACION Y DIVISION</td>
+</tr>
+<tr class="calibre28"><th class="field-name">Sección 17:</th><td class="calibre29">ARITMETICA DECIMAL</td>
+</tr>
+<tr class="calibre28"><th class="field-name">Sección 18:</th><td class="calibre29">ENTRADA, SALIDA Y OTRAS INSTRUCCIONES RELACIONADAS</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+
+</body>
+</html>

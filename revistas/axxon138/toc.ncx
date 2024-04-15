@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="1772b7fc-de67-40c8-8933-dd47f655534c" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.42.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 138</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u29890803-182c-4e65-8e93-8d79f36676b1" playOrder="1">
+      <navLabel>
+        <text>Editorial: Tiempos interesantes</text>
+      </navLabel>
+      <content src="c-138Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u9b0f6507-5ee3-427f-b2a5-b28914160ff1" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxonitas</text>
+      </navLabel>
+      <content src="c-138Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uadc9d420-077c-4002-8799-7c3b15e91fd2" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Recuerdos de mi hermana</text>
+      </navLabel>
+      <content src="c-138Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uecca8d53-925e-4be6-b690-421fe5863e0e" playOrder="4">
+      <navLabel>
+        <text>Ficciones: La Pancha</text>
+      </navLabel>
+      <content src="c-138Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u94f6ac2e-3556-48a1-9a10-2f44ae07a710" playOrder="5">
+      <navLabel>
+        <text>Divulgación: Nuestros socios internos</text>
+      </navLabel>
+      <content src="c-138Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ue8acecbf-10f2-458c-8c97-8f6575ade502" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Desmadre en el campus gravitatorio</text>
+      </navLabel>
+      <content src="c-138Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uae565b42-b3c6-447f-9840-e411a4412359" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Códigos</text>
+      </navLabel>
+      <content src="c-138Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u337bb7fb-d855-4443-8943-a059471b42a9" playOrder="8">
+      <navLabel>
+        <text>Sección: Anacrónicas</text>
+      </navLabel>
+      <content src="c-138Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ue1855a0d-76fb-46bd-920c-e046fcdab5ca" playOrder="9">
+      <navLabel>
+        <text>Anacrónicas: Operación Tres Marías</text>
+      </navLabel>
+      <content src="c-138Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uf38a94bf-3ab3-4585-a82f-2cf40ab90a58" playOrder="10">
+      <navLabel>
+        <text>Anacrónicas: Las Heroicrónicas, segunda parte</text>
+      </navLabel>
+      <content src="c-138Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u4e78c6b1-fe44-416e-86dd-bc00eb4f1b79" playOrder="11">
+      <navLabel>
+        <text>Uficción: Érase una vez</text>
+      </navLabel>
+      <content src="c-138Pag11.htm"/>
+    </navPoint>
+    <navPoint id="uaf83cfe8-72fc-4393-9326-b82c1b049fad" playOrder="12">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

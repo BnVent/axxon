@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Ediciones Axxón</dc:publisher>
+    <meta name="calibre:series_index" content="120"/>
+    <dc:language>es</dc:language>
+    <dc:creator opf:file-as="Desconocido" opf:role="aut">Eduardo Carletti (editor)</dc:creator>
+    <meta name="calibre:timestamp" content="2013-12-13T12:50:56.530000+00:00"/>
+    <dc:title>Axxón 120</dc:title>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:series" content="Axxón"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">cc5250f9-c77b-479a-903e-f77bb6b1f0ed</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="axxon.htm" id="html7" media-type="application/xhtml+xml"/>
+    <item href="axxon00.gif" id="added11" media-type="image/gif"/>
+    <item href="axxon120.htm" id="html" media-type="application/xhtml+xml"/>
+    <item href="band-arg.jpg" id="added7" media-type="image/jpeg"/>
+    <item href="c-120Pag01.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="c-120Pag02.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="c-120Pag03.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="c-120Pag04.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="c-120Pag05.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="c-120Pag06.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="c-120aalonso.jpg" id="added10" media-type="image/jpeg"/>
+    <item href="c-120entrevista.jpg" id="added9" media-type="image/jpeg"/>
+    <item href="c-120mf1fondo.jpg" id="added3" media-type="image/jpeg"/>
+    <item href="c-120mfbilbo.jpg" id="added4" media-type="image/jpeg"/>
+    <item href="c-120mfbilboch.jpg" id="added5" media-type="image/jpeg"/>
+    <item href="c-120tapach.jpg" id="added12" media-type="image/jpeg"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="pais-arg.jpg" id="added8" media-type="image/jpeg"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="x-epub.png" id="added13" media-type="image/png"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+    <itemref idref="html1"/>
+    <itemref idref="html2"/>
+    <itemref idref="html3"/>
+    <itemref idref="html4"/>
+    <itemref idref="html5"/>
+    <itemref idref="html6"/>
+    <itemref idref="html7"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

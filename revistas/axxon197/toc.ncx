@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="cdd14463-95e1-4d11-9c2c-447421680496" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.18.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 197</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u191795e6-05c6-4fad-a482-d04c7b3c2b52" playOrder="1">
+      <navLabel>
+        <text>Editorial: Un lugar seguro</text>
+      </navLabel>
+      <content src="c-197Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u257f9e8c-b1f4-4f1e-8a10-9a5c1ffc6d48" playOrder="2">
+      <navLabel>
+        <text>Correo: Correo 197</text>
+      </navLabel>
+      <content src="c-197Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u6b840403-ea2e-4552-a679-a47db46b7216" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Coches azules</text>
+      </navLabel>
+      <content src="c-197Pag03.htm"/>
+    </navPoint>
+    <navPoint id="udf40ff8b-0836-4a70-9558-5183298b5e54" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Dulces cuentos</text>
+      </navLabel>
+      <content src="c-197Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u368eb0bf-078b-427b-8865-cb9b86737533" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El doble</text>
+      </navLabel>
+      <content src="c-197Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ua9164805-ee2f-4937-9668-4f58b0f367a4" playOrder="6">
+      <navLabel>
+        <text>Ficciones: La portadora de almas</text>
+      </navLabel>
+      <content src="c-197Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u48e650f3-9d8c-4fe8-a026-384e3f05e9fa" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Zeta, el poeta de las con-solas</text>
+      </navLabel>
+      <content src="c-197Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ubc7f5d76-95f2-41a7-9d28-7e46de88b0f2" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Amor, de postre</text>
+      </navLabel>
+      <content src="c-197Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u23ee2ad8-4d2e-4df9-a2e7-a6d1e825c398" playOrder="9">
+      <navLabel>
+        <text>Ficciones: La máquina del amor</text>
+      </navLabel>
+      <content src="c-197Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u25357d27-833c-400e-a24e-ad8ff81323fa" playOrder="10">
+      <navLabel>
+        <text>Ficciones: ¿Tiene fuego?</text>
+      </navLabel>
+      <content src="c-197Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uf57f71ad-704c-41d3-a24d-e04a6dd60e4a" playOrder="11">
+      <navLabel>
+        <text>Divulgación: Salir de la cuna</text>
+      </navLabel>
+      <content src="c-197Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u519260c5-e8a7-43df-a886-c0ffc1eb0494" playOrder="12">
+      <navLabel>
+        <text>Humor: Don Ramirito, “En el infierno”</text>
+      </navLabel>
+      <content src="c-197Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u0a11e355-b11b-4f2b-83d0-3466df3e0c76" playOrder="13">
+      <navLabel>
+        <text>Axxóncine: Star Trek</text>
+      </navLabel>
+      <content src="c-197Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u8897bc57-bd9e-41cb-9fcd-73de89b1f873" playOrder="14">
+      <navLabel>
+        <text>Ficciones: Ficción breve (cuarenta y ocho)</text>
+      </navLabel>
+      <content src="c-197Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u7568e54c-0d27-4918-85cc-2466dc3b1ade" playOrder="15">
+      <navLabel>
+        <text>Ficciones: Singulares pautas de comportamiento a 55 A.L. de la Tierra</text>
+      </navLabel>
+      <content src="c-197Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u12ad5ef8-cd22-472b-bbe7-5f24f9e66d9c" playOrder="16">
+      <navLabel>
+        <text>Ficciones: En el umbral entre lugares y tiempos</text>
+      </navLabel>
+      <content src="c-197Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u97538a81-63ad-4194-87a4-020103008d26" playOrder="17">
+      <navLabel>
+        <text>Ficciones: Marte humano</text>
+      </navLabel>
+      <content src="c-197Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u657d6d54-514e-45c0-baa9-f23b40e6d5f6" playOrder="18">
+      <navLabel>
+        <text>Clásico: La pata de mono</text>
+      </navLabel>
+      <content src="c-197Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u06f00385-81c9-4d43-95ea-9765409466f3" playOrder="19">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-197Pag19.htm"/>
+    </navPoint>
+    <navPoint id="u87ec35d4-a06d-408d-9dad-ee545ec08be0" playOrder="20">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

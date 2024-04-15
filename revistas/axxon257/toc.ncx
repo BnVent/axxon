@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="69111547-94fd-41d1-9d8b-3d3703617a14" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.3.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 257</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u64c8ea85-b826-47f7-b9c3-29f49f31cb8f" playOrder="1">
+      <navLabel>
+        <text>Editorial: Retroalimentación creativa, o Historia de un bebé de sirena</text>
+      </navLabel>
+      <content src="c-257Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u3a3686d8-936b-49ef-9201-afee8bc12d29" playOrder="2">
+      <navLabel>
+        <text>Ficciones: La poética de las sirenas (1)</text>
+      </navLabel>
+      <content src="c-257Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u8e345415-a9a4-42aa-9027-9ac623ad4995" playOrder="3">
+      <navLabel>
+        <text>Ficciones: La poética de las sirenas (2)</text>
+      </navLabel>
+      <content src="c-257Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u02506b41-d31f-4544-bd90-9523c31f6c8c" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Ficciones Breves Nº 72</text>
+      </navLabel>
+      <content src="c-257Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uc8e86e8d-7a87-4b64-b934-e3b7e350059d" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El sublime instante del cazador</text>
+      </navLabel>
+      <content src="c-257Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u8a90d4c1-7d9b-46a3-acec-f7fd8f73c39d" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Lusca</text>
+      </navLabel>
+      <content src="c-257Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ua5aca6c5-5f8f-4c15-917b-cd32427dad3a" playOrder="7">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

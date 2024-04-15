@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="82fdc824-5d90-4c5c-98f0-db6ad0ba0629" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 176</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u265d595f-ddf9-4b9e-bdf1-7d9ab8bdc100" playOrder="1">
+      <navLabel>
+        <text>Editorial: Con el tiempo uno aprende…</text>
+      </navLabel>
+      <content src="c-176Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ue3dc61b9-3ac7-4a9a-99eb-ec827783b165" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-176Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u477558cf-0bb1-4245-9322-4ea56bedb641" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Veinte Espadas</text>
+      </navLabel>
+      <content src="c-176Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u61a909e0-9d2d-4e9c-b416-65dee612db1c" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Amazonas de la maceta</text>
+      </navLabel>
+      <content src="c-176Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u1ff2724d-330b-4879-8d82-1a37fc5975eb" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Ámbar gris</text>
+      </navLabel>
+      <content src="c-176Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uf7d7edb6-780c-46ea-9898-a145180f1ab8" playOrder="6">
+      <navLabel>
+        <text>Divulgación: Armageddón</text>
+      </navLabel>
+      <content src="c-176Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u98d6839b-78b9-4327-a86c-80d396864116" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Cuando los Administradores de Sistema gobernaron la Tierra</text>
+      </navLabel>
+      <content src="c-176Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uf711c7eb-bda6-4390-9e43-b0d4daa5306e" playOrder="8">
+      <navLabel>
+        <text>Ensayo: ¿Inventor o visionario?</text>
+      </navLabel>
+      <content src="c-176Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u8f07f3d4-b602-4d33-8811-75f74948be17" playOrder="9">
+      <navLabel>
+        <text>Ficciones: El viaje de Hermes</text>
+      </navLabel>
+      <content src="c-176Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uc3a25966-03ec-43e7-a64e-1e57ea062393" playOrder="10">
+      <navLabel>
+        <text>Axxóncine: Están entre nosotros</text>
+      </navLabel>
+      <content src="c-176Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u9ac7d11a-c329-426f-a225-7cd24eeefe0b" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Relaciones (Uno)</text>
+      </navLabel>
+      <content src="c-176Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u1692fb1b-4f0b-46f8-b71e-5f1d1f30da5c" playOrder="12">
+      <navLabel>
+        <text>Clásico: Micromegas</text>
+      </navLabel>
+      <content src="c-176Pag12.htm"/>
+    </navPoint>
+    <navPoint id="uf0637e0b-ec7c-47c4-b454-67fba7c7fd79" playOrder="13">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-176Pag13.htm"/>
+    </navPoint>
+    <navPoint id="ubd375fe2-b1c7-40e4-a152-9b829106b474" playOrder="14">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

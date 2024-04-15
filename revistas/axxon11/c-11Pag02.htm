@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <title>Axxón 11 - NOTA: - El conjunto de Mandelbrot</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link href="stylesheet.css" rel="stylesheet" type="text/css"/>
+<link href="page_styles.css" rel="stylesheet" type="text/css"/>
+</head>
+  <body class="calibre">
+
+<div id="main" class="calibre1">
+<h1 class="calibre9">El conjunto de Mandelbrot</h1>
+<p class="calibre5"><b class="calibre4">Fernando Bonsembiante</b></p><p class="calibre5"></p>
+<div class="calibre1">
+<div class="section" id="que-es-un-fractal">
+<h2 class="indiceautor">¿Qué es un fractal?</h2>
+<p class="pri pcalibre">El conjunto de Mandelbrot es un clásico dentro de los fractales.
+Es un objeto de complejidad infinita, generado por una fórmula sencillísima. Un fractal es un objeto que tiene una dimensión fraccionaria.
+¿Qué significa eso? Significa que, a pesar de ser, por ejemplo, una
+línea, comparte propiedades de una superficie. Esto se puede ver con
+un ejemplo: si tenemos una costa marítima, y queremos saber su longitud podemos hacer lo siguiente. Tomamos un mapa, agarramos un compás,
+y lo abrimos con la escala de diez kilómetros, y empezamos a medir la
+costa. Ese procedimiento nos va a dar, digamos, cien kilómetros de
+largo. Si repetimos el proceso con el compás abierto a un kilómetro,
+nos va a dar quizá ciento cincuenta o doscientos kilómetros de largo.
+Esto pasa porque antes habíamos pasado por alto bahías o puntas menores de diez kilómetros, y en la segunda vez tuvimos que recorrerlas,
+agregando todo el perímetro a la suma total. Si repetimos el proceso
+con diez metros (ya no sobre un mapa, sino sobre la costa real), vamos
+a obtener una longitud muchísimo mayor, ya que hay que recorrer el perímetro de cada montículo y cada construcción. Si volvemos a reducir
+la escala a un centímetro, tenemos que recorrer cada piedra y cada
+huella de pisada de la costa, y obtenemos una medida enormemente más
+larga. Si pasamos a menos de un milímetro, ya tenemos que contar cada
+grano de arena, y la medida sube astronómicamente. Si pasamos a escalas atómicas, ya la costa va a medir cientos de miles de kilómetros,
+ya que tenemos que rodear cada átomo, y cada partícula subatómica.
+¿Cuál medida es la correcta? Ninguna. La costa, en realidad, se puede
+describir mejor como una superficie. Pero no es una superficie porque
+es una línea… Entonces, la costa tiene una medida que no es ni lineal ni de superficie. Tiene una dimensión intermedia entre las dos
+cosas. Es un fractal.</p>
+<p class="calibre5">Los fractales son ideales para describir las cosas complejas del
+mundo real, como costas, árboles, hojas, montañas, cosas que tienen
+una complejidad que hacen absurdo todo intento de medida tradicional.
+Se están usando para la creación de imágenes de costas, montañas, árboles, texturas, imágenes complejas generadas por una fórmula extremadamente simple.</p>
+</div>
+<div class="section" id="algo-de-matematicas">
+<h2 class="indiceautor">Algo de matemáticas</h2>
+<p class="pri pcalibre">Dado un plano complejo, un punto C pertenece al Conjunto de Mandelbrot si en la iteración Z = Z² + C, para un número infinito de iteraciones, |Z| (módulo de Z) permanece acotado, o sea, no tiende a infinito. Para los efectos prácticos, se supone que si |Z| supera a 2 en
+un número pequeño de iteraciones (digamos, menos de mil), el punto no
+pertenece al conjunto de Mandelbrot. Para obtener figuras más interesantes, se puede colorear al punto estudiado según la cantidad de iteraciones que tarda en llegar a mil (a ese número se le llama dominio).
+Si las iteraciones llegan a mil sin que el módulo de Z supere a 2, se
+supone que el número pertenece al conjunto de Mandelbrot, y se colorea
+de negro, por convención.</p>
+<p class="calibre5">Es fácil ver que, siguiendo este procedimiento, vamos a obtener
+todos los puntos del conjunto de Mandelbrot dentro de un círculo de
+radio 2, centrado en el número (0, 0). Vamos a ver que fuera de dicho
+círculo los puntos tienen dominio 0, y dentro de él tienen dominio 1 o
+mayor. Existe otro círculo, de radio 1.5, centrado en (0, -0.5), que
+contiene los puntos de dominio 2 o mayor. Este círculo puede ser considerado como el límite del conjunto de Mandelbrot, ya que dentro de
+él está la figura del conjunto en su totalidad.</p>
+</div>
+<div class="section" id="algo-de-programacion">
+<h2 class="indiceautor">Algo de programación</h2>
+<p class="pri pcalibre">A continuación, está el listado en C de las partes más importantes de un programa que grafica el conjunto de Mandelbrot.</p>
+<!-- {{{ Code listing -->
+<pre class="code">
+<span class="comment">/* Esta estructura representa un número complejo, formado por dos
+reales de diez bytes */</span>
+
+<span class="keyword">struct</span> <span>lcomplex</span> <span>{</span> <span class="keyword">long</span> <span class="keyword">double</span> <span>x</span><span>,</span> <span>y</span><span>;</span> <span>};</span>
+
+<span class="comment">/* los dos FOR van recorriendo toda la pantalla, pixel por pixel; posx
+y posy son las posiciones actuales en que se está calculando; maxx y
+maxy son las coordenadas máximas de la pantalla en x e y */</span>
+
+<span class="keyword">for</span> <span>(</span><span>posx</span> <span>=</span> <span>0</span><span>;</span> <span>(</span><span>posx</span> <span>&lt;</span> <span>maxx</span><span>);</span> <span>posx</span><span>++</span><span>)</span>
+ <span>{</span>
+   <span class="keyword">for</span> <span>(</span><span>posy</span> <span>=</span> <span>maxy</span><span>;</span> <span>(</span><span>posy</span> <span>&gt;=</span> <span>0</span><span>);</span> <span>posy</span><span>--</span><span>)</span>
+    <span>{</span>
+<span class="comment">/* primero convierto la coordenada de pantalla a coordenadas complejas
+*/</span>
+
+<span class="comment">/* x1 e y1 son el valor de x complejo en el borde de la pantalla */</span>
+
+<span class="comment">/* rapixy es la razón entre el sistema de coordenadas complejo y la
+pantalla */</span>
+
+<span>c</span><span>.</span><span>x</span> <span>=</span> <span>x1</span> <span>+</span> <span>posx</span> <span>*</span> <span>rapixy</span><span>;</span>
+
+<span>c</span><span>.</span><span>y</span> <span>=</span> <span>y2</span> <span>-</span> <span>posy</span> <span>*</span> <span>rapixy</span><span>;</span>
+
+<span class="comment">/* El siguiente FOR calcula las iteraciones necesarias para que el
+módulo del número complejo correspondiente a la posición actual de la
+pantalla alcance el valor 2 */</span>
+
+<span class="comment">/* iteraciones: z = z² + c , desde z = 0,0; siendo c el número complejo en el que estamos; hasta que ¦z¦ &gt; 2, o cont sea mayor que el límite de iteraciones, donde se considera que c pertenece al conjunto de
+Mandelbrot */</span>
+
+
+<span class="keyword">for</span> <span>(</span><span>z</span><span>.</span><span>x</span> <span>=</span> <span>0</span><span>,</span> <span>z</span><span>.</span><span>y</span> <span>=</span> <span>0</span><span>,</span> <span>cont</span> <span>=</span> <span>0</span><span>;</span> <span>condifin</span><span>(((</span><span>z</span><span>.</span><span>x</span> <span>*</span> <span>z</span><span>.</span><span>x</span><span>)</span> <span>+</span> <span>(</span><span>z</span><span>.</span><span>y</span> <span>*</span> <span>z</span><span>.</span><span>y</span><span>)),</span> <span>cont</span><span>,</span> <span>&amp;</span><span>color</span><span>);</span> <span>++</span><span>cont</span> <span>)</span>
+
+<span>{</span>
+
+<span>z</span> <span>=</span> <span>csquare</span><span>(</span><span>&amp;</span><span>z</span><span>);</span>
+
+<span>z</span><span>.</span><span>x</span> <span>+=</span> <span>c</span><span>.</span><span>x</span><span>;</span>
+
+<span>z</span><span>.</span><span>y</span> <span>+=</span> <span>c</span><span>.</span><span>y</span><span>;</span>
+
+<span>}</span>
+
+<span class="comment">/* pongo el pixel correspondiente en el color que calculé */</span>
+
+
+<span>putpixel</span><span>(</span><span>posx</span><span>,</span> <span>posy</span><span>,</span> <span>color</span><span>);</span>
+<span>1</span><span class="comment">/* cálculo del cuadrado de un número complejo */</span>
+
+<span class="keyword">struct</span> <span>lcomplex</span> <span>csquare</span><span>(</span><span class="keyword">struct</span> <span>lcomplex</span> <span>*</span><span>z</span><span>)</span>
+ <span>{</span>
+   <span class="keyword">struct</span> <span>lcomplex</span> <span>temp</span><span>;</span>
+
+   <span>temp</span><span>.</span><span>x</span> <span>=</span> <span>(((</span><span>*</span><span>z</span><span>).</span><span>x</span><span>)</span> <span>*</span> <span>((</span><span>*</span><span>z</span><span>).</span><span>x</span><span>))</span> <span>-</span> <span>(((</span><span>*</span><span>z</span><span>).</span><span>y</span><span>)</span> <span>*</span> <span>((</span><span>*</span><span>z</span><span>).</span><span>y</span><span>));</span>
+   <span>temp</span><span>.</span><span>y</span> <span>=</span> <span>2</span> <span>*</span> <span>((</span><span>*</span><span>z</span><span>).</span><span>x</span><span>)</span> <span>*</span> <span>((</span><span>*</span><span>z</span><span>).</span><span>y</span><span>);</span>
+   <span class="keyword">return</span><span>(</span><span>temp</span><span>);</span>
+ <span>}</span>
+
+<span class="comment">/* Verifica hasta dónde llegó la iteración, y devuelve 0 si se llegó
+al límite de iteraciones, en caso contrario devuelve 1, y calcula el
+color correspondiente al número de iteraciones */</span>
+
+<span class="keyword">int</span> <span>condifin</span> <span>(</span><span class="keyword">double</span> <span>mz</span><span>,</span> <span class="keyword">int</span> <span>cont</span><span>,</span> <span class="keyword">int</span> <span>*</span><span>color</span><span>)</span>
+ <span>{</span>
+
+<span class="comment">/* Dwellimit es el límite del dominio del conjunto de Mandelbrot, o
+sea, el máximo de iteraciones que se van a hacer */</span>
+
+<span class="comment">/* Nótese que se compara con 4 porque el 'módulo de z' que se ingresa
+como parámetro es en realidad (para evitar realizar la operación de
+raíz cuadrada) ¦z¦², o sea re(z)² + im(z)² (re() = parte real; im() =
+parte imaginaria) */</span>
+
+<span class="comment">/* Colormax es el número máximo de colores disponibles */</span>
+
+   <span class="keyword">if</span> <span>((</span><span>cont</span> <span>==</span>  <span>dwellimit</span><span>)</span> <span>||</span> <span>(</span><span>mz</span> <span>&gt;</span> <span>4</span><span>))</span>
+
+<span>{</span>
+
+<span class="keyword">if</span> <span>(</span><span>colormax</span> <span>==</span> <span>1</span><span>)</span>
+
+<span class="keyword">if</span> <span>(</span><span>cont</span> <span>!=</span> <span>dwellimit</span><span>)</span>
+
+<span>*</span><span>color</span> <span>=</span> <span>cont</span> <span>%</span> <span>(</span><span>colormax</span> <span>+</span> <span>1</span><span>);</span>
+
+<span class="keyword">else</span>
+
+<span>*</span><span>color</span> <span>=</span> <span>0</span><span>;</span>
+
+<span class="keyword">else</span> <span class="keyword">if</span> <span>(</span><span>cont</span> <span>!=</span> <span>dwellimit</span><span>)</span>
+
+<span>*</span><span>color</span> <span>=</span> <span>(</span><span>cont</span> <span>%</span> <span>colormax</span><span>)</span> <span>+</span> <span>1</span><span>;</span>
+
+<span class="keyword">else</span>
+
+<span>*</span><span>color</span> <span>=</span> <span>0</span><span>;</span>
+
+
+<span class="keyword">return</span><span>(</span><span>0</span><span>);</span>
+
+<span>}</span>
+    <span class="keyword">else</span> <span class="keyword">return</span><span>(</span><span>1</span><span>);</span>
+ <span>}</span>
+</pre>
+<!-- :: Code listing }}} -->
+</div>
+</div>
+
+</div>
+
+</body>
+</html>

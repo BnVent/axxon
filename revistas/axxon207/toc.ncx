@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="3b5b9c62-e750-4f9b-b7e4-199a5fb2fc74" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.16.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 207</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uf0fb13b2-3180-4fcc-8e92-a28bcca382a7" playOrder="1">
+      <navLabel>
+        <text>Editorial: Evolucionando</text>
+      </navLabel>
+      <content src="c-207Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u4fcfd5b2-3499-4d50-af6c-8a43a9270a87" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-207Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u00e0704d-7b01-4424-8b02-66ec297e9641" playOrder="3">
+      <navLabel>
+        <text>Ficciones: “Los otros libros”</text>
+      </navLabel>
+      <content src="c-207Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uceef7156-fe1d-4763-a990-667dcede972e" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Vuelvo en siete minutos</text>
+      </navLabel>
+      <content src="c-207Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uae720756-16f8-462c-b6e1-92a36f82cec9" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Los niños de abajo</text>
+      </navLabel>
+      <content src="c-207Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u4d7cc623-5789-4ab9-96a0-4e6b16d430c3" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Desconexión</text>
+      </navLabel>
+      <content src="c-207Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ua581360f-ad4b-4415-a0b7-ba7e9f1ea360" playOrder="7">
+      <navLabel>
+        <text>Ficciones: De alquimia</text>
+      </navLabel>
+      <content src="c-207Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u4c68844c-ae9d-42d9-a593-48cc134ddd57" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (cincuenta y siete)</text>
+      </navLabel>
+      <content src="c-207Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u213ce3cb-420f-495a-b8b6-28552d5a742d" playOrder="9">
+      <navLabel>
+        <text>Ficciones: “Paradoja”</text>
+      </navLabel>
+      <content src="c-207Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u3b095118-ce17-4da2-afb7-95f69be79633" playOrder="10">
+      <navLabel>
+        <text>Ficciones: “El regreso de Mané”</text>
+      </navLabel>
+      <content src="c-207Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u0be64d04-df42-480a-bd96-cf80eaef227c" playOrder="11">
+      <navLabel>
+        <text>Ficciones: “Brincador en el jardín de mundos”</text>
+      </navLabel>
+      <content src="c-207Pag11.htm"/>
+    </navPoint>
+    <navPoint id="uf9ccc9fa-bc02-4a2e-9870-012977246987" playOrder="12">
+      <navLabel>
+        <text>Ficciones: “Las máscaras del crimen”</text>
+      </navLabel>
+      <content src="c-207Pag12.htm"/>
+    </navPoint>
+    <navPoint id="uafaee238-b357-4b77-9e54-d9f11c0db925" playOrder="13">
+      <navLabel>
+        <text>Ficciones: “El Jugador”</text>
+      </navLabel>
+      <content src="c-207Pag13.htm"/>
+    </navPoint>
+    <navPoint id="uef27ad47-1f95-4041-b7b1-4e271f3c8130" playOrder="14">
+      <navLabel>
+        <text>Ficciones: “Sueño kafkiano”</text>
+      </navLabel>
+      <content src="c-207Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u2e4722a6-13e9-4b23-9eca-c6b9b1de3349" playOrder="15">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

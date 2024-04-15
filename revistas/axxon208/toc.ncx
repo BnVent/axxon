@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="f0378788-e1c4-48ed-b3aa-c412ef36db7a" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.16.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 208</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u368207ed-ce68-464a-8ffd-5db47767727a" playOrder="1">
+      <navLabel>
+        <text>Editorial: Bueno, larguemos</text>
+      </navLabel>
+      <content src="c-208Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u358cc2e3-5b43-46aa-b32e-0f615febd1f5" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-208Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u43c1b6b1-0d13-4df7-a844-a7b0a6a485f0" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El mifps</text>
+      </navLabel>
+      <content src="c-208Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ue50c890f-7a35-4948-a455-880fcf1b1e63" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El rey de los pigmeos marcianos</text>
+      </navLabel>
+      <content src="c-208Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u3f5b00b3-4279-42a1-90b1-28d02880d569" playOrder="5">
+      <navLabel>
+        <text>Humor: Humor: La pulga snob</text>
+      </navLabel>
+      <content src="c-208Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ub9714d0b-70af-4c21-8faf-2c25b9ac5c81" playOrder="6">
+      <navLabel>
+        <text>Ensayo: La vida y el Universo</text>
+      </navLabel>
+      <content src="c-208Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u556a6260-7133-49df-b881-bbc7b0c9f091" playOrder="7">
+      <navLabel>
+        <text>Divulgación: ¿Cinco cosas que ya no necesitamos?</text>
+      </navLabel>
+      <content src="c-208Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u8b80562c-5c9d-4f42-a562-3bcea00dec2b" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Entornos</text>
+      </navLabel>
+      <content src="c-208Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u7b177b4f-e624-49fc-8dae-c11ba5c4bd15" playOrder="9">
+      <navLabel>
+        <text>Axxóncine: La Jetée, más allá de la ciencia ficción</text>
+      </navLabel>
+      <content src="c-208Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uc604cf5c-7591-4718-909c-fd3b1d07a251" playOrder="10">
+      <navLabel>
+        <text>Ficciones: El fin, los medios y la propiedad transitiva</text>
+      </navLabel>
+      <content src="c-208Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u0bb8d6bc-3fc6-45d6-b1b1-8b219d16999e" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Entre humanos</text>
+      </navLabel>
+      <content src="c-208Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u055e68ec-a007-442e-9018-db5259807052" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Infantil</text>
+      </navLabel>
+      <content src="c-208Pag12.htm"/>
+    </navPoint>
+    <navPoint id="uf0cce575-ce7a-47da-ac51-afc580c373d8" playOrder="13">
+      <navLabel>
+        <text>Ficciones: El misterio del campo de soja</text>
+      </navLabel>
+      <content src="c-208Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u8a61d864-b788-482b-b0b5-edc3425f0c9c" playOrder="14">
+      <navLabel>
+        <text>Ficciones: Púlsar</text>
+      </navLabel>
+      <content src="c-208Pag14.htm"/>
+    </navPoint>
+    <navPoint id="ua7ef9d79-fd15-49c0-9e59-9435f49cb7b7" playOrder="15">
+      <navLabel>
+        <text>Ficciones: Orogenia</text>
+      </navLabel>
+      <content src="c-208Pag15.htm"/>
+    </navPoint>
+    <navPoint id="ubb950314-ad94-4e8f-ac46-d90ed9d259b7" playOrder="16">
+      <navLabel>
+        <text>Ficciones: Residencias tan breves</text>
+      </navLabel>
+      <content src="c-208Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u47fc1382-82c3-4d37-87a3-2c42af96898e" playOrder="17">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

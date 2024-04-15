@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="fa9dfbd1-3345-4271-a906-273fc43c381b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.14.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 72</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u8450da85-f1eb-478a-b22a-479523b7e5aa" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 72</text>
+      </navLabel>
+      <content src="c-72Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u3f91660e-8f15-4afd-8bda-a4dda3e3c4f5" playOrder="2">
+      <navLabel>
+        <text>Ficciones: No tan ciegos</text>
+      </navLabel>
+      <content src="c-72Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u9e03135f-ed93-4a89-90f7-69e554282ce9" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Escuchando a Brahms</text>
+      </navLabel>
+      <content src="c-72Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u055c84fa-fe8e-4bfe-a43e-c086c0761ae2" playOrder="4">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual</text>
+      </navLabel>
+      <content src="c-72Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u3961e192-200e-4cfc-9bfa-c7526e3ae2f1" playOrder="5">
+      <navLabel>
+        <text>Reportaje: Reportaje en cuadritos</text>
+      </navLabel>
+      <content src="c-72Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u95b858a6-d8b0-4406-a818-17933138324f" playOrder="6">
+      <navLabel>
+        <text>Sección: Tour macabro</text>
+      </navLabel>
+      <content src="c-72Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u9c33070f-6489-4f57-ab44-8d3c87e9ee27" playOrder="7">
+      <navLabel>
+        <text>Ficciones: El problema de Laurita</text>
+      </navLabel>
+      <content src="c-72Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u5f0d003a-800c-4260-8430-ccdd8f366c63" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Los tres centavos marcados</text>
+      </navLabel>
+      <content src="c-72Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uec922994-1196-4a66-92d9-dd25c2333e4a" playOrder="9">
+      <navLabel>
+        <text>Ensayo: Notas y accesorios macabros</text>
+      </navLabel>
+      <content src="c-72Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uefe25fd0-613d-4d31-8de4-a9b98f76f161" playOrder="10">
+      <navLabel>
+        <text>Correo: Correo 72</text>
+      </navLabel>
+      <content src="c-72Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ue5ac9c69-0a2e-4dbe-b53a-570b70266bb9" playOrder="11">
+      <navLabel>
+        <text>Cine: SCREAMERS: Philip K. Dick vuelve al cine</text>
+      </navLabel>
+      <content src="c-72Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u5bfbbd59-e2da-4b14-b368-35ef27db25ad" playOrder="12">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad</text>
+      </navLabel>
+      <content src="c-72Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u1e8870f5-9b01-41f9-b648-10ac05c790fe" playOrder="13">
+      <navLabel>
+        <text>Sección: ET AL Virtual</text>
+      </navLabel>
+      <content src="c-72Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u91179647-3079-42e0-8096-db37569b1364" playOrder="14">
+      <navLabel>
+        <text>Sección: Revista virtual de informática</text>
+      </navLabel>
+      <content src="c-72Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u9b8d2a57-38e1-4439-adc4-bbd59ee8e968" playOrder="15">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-72Pag15.htm"/>
+    </navPoint>
+    <navPoint id="uf53c78ae-df99-4627-ae29-1726661b0bf2" playOrder="16">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-72Pag16.htm"/>
+    </navPoint>
+    <navPoint id="uc85c0444-5eb0-4ba3-a592-5e2f2cab3dff" playOrder="17">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

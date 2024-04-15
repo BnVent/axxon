@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="2a16c699-34ce-4373-b68e-d6153c1df32b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.41.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 189</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u72877158-b186-404e-8510-8c8fbf12f09a" playOrder="1">
+      <navLabel>
+        <text>Editorial: Cuestionario</text>
+      </navLabel>
+      <content src="c-189Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u328171b6-2689-4cb8-8f15-f9460faf8e97" playOrder="2">
+      <navLabel>
+        <text>Ficciones: La playa</text>
+      </navLabel>
+      <content src="c-189Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u8eb8355c-811c-4eb8-abdb-25ef81a7a2e1" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Los muchachos de Simmons</text>
+      </navLabel>
+      <content src="c-189Pag03.htm"/>
+    </navPoint>
+    <navPoint id="udb8a4f80-17e4-42b1-94d3-26bb8d7dc8e4" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Alcides</text>
+      </navLabel>
+      <content src="c-189Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u7a85dfbf-ac80-4635-9607-dcad5d93454a" playOrder="5">
+      <navLabel>
+        <text>Ficciones: PS3</text>
+      </navLabel>
+      <content src="c-189Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u878ac578-b741-4a70-8309-548671cc5cbe" playOrder="6">
+      <navLabel>
+        <text>Divulgación: Cassini, La más ambiciosa misión planetaria</text>
+      </navLabel>
+      <content src="c-189Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u1c15983f-e8e6-44df-b1d0-071b8b32ed62" playOrder="7">
+      <navLabel>
+        <text>Ensayo: Réquiem por Thomas M. Disch</text>
+      </navLabel>
+      <content src="c-189Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u24344305-5646-4e38-8125-ebca3f30ed85" playOrder="8">
+      <navLabel>
+        <text>Ensayo: Juegos y Deportes Fantásticos. Obras y Obreros de…</text>
+      </navLabel>
+      <content src="c-189Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ub090db00-41f3-42e0-aa63-48975baea237" playOrder="9">
+      <navLabel>
+        <text>Humor: Don Ramirito y la máquina del tiempo</text>
+      </navLabel>
+      <content src="c-189Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uf68e9d0a-4f33-4bfc-bcda-fd79f44c9839" playOrder="10">
+      <navLabel>
+        <text>Clásico: La Taquiporta, Una demostración matemática</text>
+      </navLabel>
+      <content src="c-189Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u5ef49fa7-af16-499e-959c-eb2e88b8d846" playOrder="11">
+      <navLabel>
+        <text>Clásico: Las zonas</text>
+      </navLabel>
+      <content src="c-189Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u1d29596a-ea5d-4b68-8a95-9957355f316e" playOrder="12">
+      <navLabel>
+        <text>Clásico: La madre de los monstruos</text>
+      </navLabel>
+      <content src="c-189Pag12.htm"/>
+    </navPoint>
+    <navPoint id="ub387b5db-beb4-4bcb-bd95-1df78e6d9745" playOrder="13">
+      <navLabel>
+        <text>Clásico: Dagon</text>
+      </navLabel>
+      <content src="c-189Pag13.htm"/>
+    </navPoint>
+    <navPoint id="uf1a34812-d26d-4d51-8ebc-cf1a0bd5c8fe" playOrder="14">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-189Pag14.htm"/>
+    </navPoint>
+    <navPoint id="ue9068447-ede1-43ae-9376-c78a49907e35" playOrder="15">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

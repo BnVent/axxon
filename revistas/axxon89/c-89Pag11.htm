@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <title>Axxón 89 - BITS: - DNS: El Sistema de Nombre de Dominio</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link href="stylesheet.css" rel="stylesheet" type="text/css"/>
+<link href="page_styles.css" rel="stylesheet" type="text/css"/>
+</head>
+  <body class="calibre">
+
+<div id="main" class="calibre1">
+<h1 class="calibre7">DNS: El Sistema de Nombre de Dominio</h1>
+<p class="calibre5"><b class="calibre4">J. Roger Morrison</b></p><p class="calibre5"></p>
+<div class="document">
+<!-- # :maxLineLen=120:folding=explicit:mode=rest:wrap=soft:collapseFolds=1:encoding=windows-1252: -->
+<p class="resumen1">Roger —quien colaboró en el número anterior
+con pequeñas notas para el Tecno Núcleo—
+esta vez nos comenta la forma en que Internet,
+esa enorme cañería de datos,
+se va guiando para llevarnos a destino.</p>
+<p class="pcalibre pri">Si usted es un merodeador ciberespacial, se habrá topado ya con un críptico mensaje del Netscape en el que
+se queja de que no puede localizar un Servidor porque no encuentra el ítem que corresponde a ese <em class="calibre8">DNS</em> (<em class="calibre8">Domain Name System
+= Sistema de Nombre de Dominio</em>) en el diccionario de nombres
+de Internet. Las computadoras hablan con números, mientras
+que la gente entiende mejor las palabras. Por eso existe una
+doble identificación para cualquier sitio de Internet: en palabras para los humanos y en números para las computadoras.
+Lo que le está diciendo su programa browser en ese caso es
+que sin la entrada DNS no puede traducir, por ejemplo, la dirección www.giga.com.ar (representada en texto) a la dirección numérica correspondiente que necesita la computadora:
+200.5.66.243.</p>
+<p class="pcalibre pri">Allá por los días de <em class="calibre8">Arpanet</em> —la Red precursora de Internet,
+creada hace más de 25 años— se desarrolló un sistema de nombres que relaciona la dirección numérica o IP de una computadora (por ejemplo 200.5.66.243) con un identificador en palabras en ASCII (por ejemplo www.satlink.com)</p>
+<p class="calibre5">Cuando tenía sólo unas pocas computadoras enlazadas a la
+Arpanet, el <em class="calibre8">Centro de Información de Redes</em> (NIC) del Departamento de Defensa Norteamericano mantenía un archivo llamado
+hosts.txt, un listado maestro con un registro de la relación
+entre cada dirección de computadora y su nombre de huésped.
+Los administradores de sistemas se ocupaban de bajar periódicamente el archivo hosts.txt. Si se sabía el nombre de una
+computadora de Arpanet, simplemente se buscaba su dirección
+numérica IP en ese archivo de usuarios.</p>
+<p class="calibre5">Pero pronto se hizo evidente que la computadora del NIC estaba sobrecargada por el gran número de usuarios. Complicando
+más el problema, proliferaban las pequeñas redes de estaciones
+de trabajo que se reorganizaban a menudo y eran más difíciles
+de rastrear. Todos querían tener sus computadoras conectadas
+en Arpanet, pero tenían que esperar a que el NIC actualizara
+el archivo hosts.txt. Se hizo obvio que era necesario algo diferente. A fines de 1987, <em class="calibre8">Paul</em> Mockapetris diseñó el <em class="calibre8">DNS</em>, o
+<em class="calibre8">Sistema de Nombre de Dominio</em>.</p>
+<p class="pcalibre pri">El DNS, tal como lo diseñó Mockapetris, es un servicio que
+puede ser usado por los programas browsers de Web, email, telnet y otras aplicaciones. Es como una guía telefónica de las
+computadoras. Pero en lugar de mantener los nombres en una base de datos única —algo que sería imposible hoy en día a causa del constante crecimiento de Internet—, los registros de
+datos del DNS están distribuidos entre miles de servidores,
+cada uno de los cuales contiene la información de una rama de
+Internet.</p>
+<p class="calibre5">Veamos un ejemplo: si su computadora no sabe dónde está
+satlink.com, ¿cómo puede encontrar una computadora que lo
+sepa?</p>
+<p class="calibre5">Avanzando por el árbol.</p>
+<p class="calibre5">Internet, desde el punto de vista del DNS, semeja un árbol
+jerárquico. En la cima están los servidores raíz, que contienen información acerca de los contenidos de los dominios principales: .com, .edu, .gov, .mil, .org, .net y los códigos de
+país de dos letras de la norma ISO-3166 (.ar, .mx, .es, .ve,
+.jp, etcétera). Por debajo de cada dominio principal o TLD
+(Top-Level Domain), la estructura del árbol es prácticamente
+plana. Organizaciones como Satlink, por dar un ejemplo, registran sus dominios en el segundo nivel (el satlink de satlink.com), ubicado inmediatamente debajo del dominio principal
+.com. Luego cualquier estructura adicional de la red se deriva
+de ellos. Dentro de satlink.com, los administradores pueden
+llamar a las computadoras como quieran: pepe.satlink.com, por
+ejemplo. Cada nombre lleva implícito su lugar en el árbol DNS:
+www.satlink.com es una computadora huésped (www) en el dominio
+satlink que a su vez está dentro del TLD .com.</p>
+<p class="calibre5">Lo bueno del DNS es que el trabajo de mantener una base de
+datos muy precisa está dividido entre los servidores raíz y
+los servidores locales. Los servidores raíz, si reconocen el
+nombre satlink.com, indicarán los nombres de los servidores de
+satlink.com donde se puede obtener la información relacionada
+con el dominio www.satlink.com que se está buscando.</p>
+<p class="calibre5">Esta información está en forma de archivos que contienen un
+registro de los recursos. Cada computadora huésped que posee
+un nombre de dominio tiene al menos uno de ellos. Una solicitud de búsqueda contiene típicamente el nombre de huésped de
+una computadora, su dirección IP y las direcciones IP de los
+servidores de nombre de esa computadora.</p>
+<p class="pcalibre pri">Al visitar www.satlink.com su browser de Web envía un mensaje
+al servidor de nombre, pidiéndole que traduzca el nombre a una
+dirección IP. Así como a cada huésped conectado a Internet se
+le asigna una dirección IP, también el administrador local de
+red (usualmente una computadora especial dentro de una compañía o institución) tiene un servidor de nombre que permite encontrar las direcciones IP internas.</p>
+<p class="calibre5">Usando un programa de determinación, el servidor de nombre
+envía un mensaje a uno de los servidores de nombre raíz, pidiéndole que busque en su base de datos del dominio .com la
+dirección IP del servidor de nombre satlink.com. Si el servidor de nombre raíz no lo sabe, devuelve la dirección de un segundo servidor de nombre y el programa de determinación pregunta de nuevo. Este proceso iterativo de solicitud libera la
+recarga de pedidos de los servidores de nombre raíz, permitiéndoles dar respuestas rápidas antes de pasar al siguiente
+pedido.</p>
+<p class="calibre5">Normalmente hay ocho servidores de nombre raíz en los Estados Unidos y uno en Suecia que contienen punteros a los servidores de nombre de todos los servidores principales y la mayoría de los secundarios. El proceso de solicitud iterativa se
+creó de manera que ningún servidor de nombre raíz tenga que
+conocer todos los dominios de Internet. Ese era, después de
+todo, el problema con el viejo sistema del archivo hosts.txt.</p>
+<p class="calibre5">Este proceso determinador trabaja bien, pero para mejorar
+su desempeño el DNS incluye además otras dos opciones. Cuando
+recibe una solicitud, antes de hacer contacto con los servidores de nombre raíz el programa de determinación busca primero
+en su base local de datos de nombres para ver si el huésped es
+parte de la propia red del determinador. Si no, el determinador busca en un archivo cache que guarda resultados recientes
+de solicitudes para ver si puede encontrar ahí la dirección
+del huésped. Para mantener actualizado ese archivo cache, cada
+entrada es marcada con un valor de tiempo de vida, o TTL (Time
+To Live), usualmente de entre unas pocas horas a una semana.
+Las entradas se eliminan cada vez que su TTL expira. Por esta
+razón puede ocurrir que al acceder a dominios que se han cambiado hace poco se obtenga un mensaje de error, ya que si bien
+Internet ya ha “tomado nota” del cambio en el alto nivel, los
+caches locales todavía no están actualizados e informan incorrectamente al programa browser.</p>
+<p class="pcalibre pri">Con la transformación de la Red en un fenómeno masivo de mercado, los TLDs genéricos —.com, .org y .net— están creciendo
+en forma ingente. Por esta razón la Autoridad Asignadora de
+Nombres de Internet, el grupo responsable de la administración
+del DNS, ha estado urgiendo a los usuarios registrados en los
+nuevos dominios a pasarse hacia los dominios de código de país
+menos usados. Mientras que a algunos no les importa afincarse
+en el dominio .us, por ejemplo, otros se preguntan por qué no
+pueden instalar sus propios dominios, con su propio nombre.</p>
+<p class="calibre5">Pueden hacerlo. La única razón por la que InterNIC retiene
+su poder sobre el DNS es que todos los servidores de nombre
+locales del mundo están configurados para solicitar información a los servidores de InterNIC. Si hubiera suficientes servidores de nombre en el mundo que supieran buscar a través de
+otros servidores al hallar un nombre de dominio diferente de
+los conocidos, podría haber dominios de cualquier nombre, sin
+necesidad de autorización ni control de ninguna entidad, algo
+que se asemeja más a lo que todos querríamos: el fortalecimiento del espíritu anárquico que reina —y debe reinar, para
+asegurar la libertad— en Internet.</p>
+</div>
+
+</div>
+
+</body>
+</html>

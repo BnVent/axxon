@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="8ab8c2ea-cb84-4079-92ea-2b606710604b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.15.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 260</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ub86f6bb1-21af-44c6-b414-5d6378347447" playOrder="1">
+      <navLabel>
+        <text>Editorial: Pasado reciente, presente, ¡futuro!</text>
+      </navLabel>
+      <content src="c-260Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u28f48c8a-c190-4c10-9897-771fd63ae23a" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Ficciones Breves Nº 74</text>
+      </navLabel>
+      <content src="c-260Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ue5a4d438-c715-4c4e-82d2-108a12efac2b" playOrder="3">
+      <navLabel>
+        <text>Ficciones: La carne del Behemot</text>
+      </navLabel>
+      <content src="c-260Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u2ca770c2-6ccb-4974-b97c-44a181ec7b0e" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Avenida Amoníaco</text>
+      </navLabel>
+      <content src="c-260Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u0959adfa-faa3-4dc4-afd2-89f34309d49a" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Pérez, el inventor</text>
+      </navLabel>
+      <content src="c-260Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u2e992d4f-7fd9-49b7-82d6-63fea57a614b" playOrder="6">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

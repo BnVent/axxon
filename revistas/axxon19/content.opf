@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Ediciones Axxón</dc:publisher>
+    <meta name="calibre:series" content="Axxón"/>
+    <meta name="calibre:series_index" content="19"/>
+    <dc:creator opf:file-as="Desconocido" opf:role="aut">Eduardo Carletti (editor)</dc:creator>
+    <meta name="calibre:timestamp" content="2015-02-09T14:09:23.255000+00:00"/>
+    <dc:title>Axxón 19</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">58290089-25b2-414f-ac18-10de2253401e</dc:identifier>
+    <dc:language>es</dc:language>
+  </metadata>
+  <manifest>
+    <item href="cover.png" id="cover" media-type="image/png"/>
+    <item href="01-preparativos.jpg" id="added3" media-type="image/jpeg"/>
+    <item href="02-sorprendido.jpg" id="added4" media-type="image/jpeg"/>
+    <item href="03-listo_para_la_guerra.jpg" id="added5" media-type="image/jpeg"/>
+    <item href="04-touche.jpg" id="added6" media-type="image/jpeg"/>
+    <item href="axxon.htm" id="html11" media-type="application/xhtml+xml"/>
+    <item href="axxon00.gif" id="added9" media-type="image/gif"/>
+    <item href="axxon19.htm" id="html" media-type="application/xhtml+xml"/>
+    <item href="c-19Pag01.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="c-19Pag02.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="c-19Pag03.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="c-19Pag04.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="c-19Pag05.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="c-19Pag06.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="c-19Pag07.htm" id="html7" media-type="application/xhtml+xml"/>
+    <item href="c-19Pag08.htm" id="html8" media-type="application/xhtml+xml"/>
+    <item href="c-19Pag09.htm" id="html9" media-type="application/xhtml+xml"/>
+    <item href="c-19Pag10.htm" id="html10" media-type="application/xhtml+xml"/>
+    <item href="c-19tapach.png" id="added10" media-type="image/png"/>
+    <item href="kyrie.jpg" id="added7" media-type="image/jpeg"/>
+    <item href="notas.jpg" id="added8" media-type="image/jpeg"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="x-epub.png" id="added11" media-type="image/png"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+    <itemref idref="html1"/>
+    <itemref idref="html2"/>
+    <itemref idref="html3"/>
+    <itemref idref="html4"/>
+    <itemref idref="html5"/>
+    <itemref idref="html6"/>
+    <itemref idref="html7"/>
+    <itemref idref="html8"/>
+    <itemref idref="html9"/>
+    <itemref idref="html10"/>
+    <itemref idref="html11"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

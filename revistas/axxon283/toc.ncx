@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="a318047a-9289-47ba-ada1-3c841e6d44e9" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.34.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 283</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uoTCjKACfT7GmRmiI9lAmA8" playOrder="1">
+      <navLabel>
+        <text>Ficciones: Editorial</text>
+      </navLabel>
+      <content src="c-283Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u56cnfw7sOZNp7eh6g2Q9kE" playOrder="2">
+      <navLabel>
+        <text>Articulo: Elogio de la locura ficcional. O de cómo la ciencia ficción y el Sr. Delany nos liberan de</text>
+      </navLabel>
+      <content src="c-283Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uG5VKmMwWAdTvLiesNeTIP2" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Stanley</text>
+      </navLabel>
+      <content src="c-283Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uroZobO6ft9I74PMovibDi4" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Silé</text>
+      </navLabel>
+      <content src="c-283Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uvLAcN5XzuwDktoWOLVN2EG" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El cubo de la galaxia</text>
+      </navLabel>
+      <content src="c-283Pag05.htm"/>
+    </navPoint>
+    <navPoint id="utLvZZ6wKKSlg4PyWwtliv4" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Oblación</text>
+      </navLabel>
+      <content src="c-283Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uWrzudxXqcoydiHzEOZpJYF" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Árboles en la noche</text>
+      </navLabel>
+      <content src="c-283Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uNR4FhwDJShIgyNNIWMjCS2" playOrder="8">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-283Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uQrvZyJWQQ6FZ2CW7imBlBA" playOrder="9">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

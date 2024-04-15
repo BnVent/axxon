@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="9c40c7a0-f35a-46e1-a600-c8b8974e7712" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.14.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 228</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ue7202c0a-e299-4bad-81e3-919175b853ed" playOrder="1">
+      <navLabel>
+        <text>Entrevista: Entrevista a Víctor Conde</text>
+      </navLabel>
+      <content src="c-228Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uf5ba237e-5d9c-4529-90d0-64976a81c0e0" playOrder="2">
+      <navLabel>
+        <text>Ficciones: La escritora</text>
+      </navLabel>
+      <content src="c-228Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u865c6222-128d-480a-95f7-0fed92b9974e" playOrder="3">
+      <navLabel>
+        <text>Homenaje: Punto de Salto</text>
+      </navLabel>
+      <content src="c-228Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u5b6cbee0-9da4-4e00-b521-e29bfc58744d" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Deshecho</text>
+      </navLabel>
+      <content src="c-228Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u79027aca-b161-4562-9867-3f2b6de8f3c0" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Esencia y naturaleza</text>
+      </navLabel>
+      <content src="c-228Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u457f1697-8bad-4a3a-819c-22bd610a607d" playOrder="6">
+      <navLabel>
+        <text>Ficciones: ¡Están aquí!</text>
+      </navLabel>
+      <content src="c-228Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u5bbb1b88-2ba1-4749-aa1f-269ce2e3a6f8" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (sesenta y seis)</text>
+      </navLabel>
+      <content src="c-228Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u6033e1a6-c048-4f56-bedd-cc9dc04ad40d" playOrder="8">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

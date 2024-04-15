@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="cd7bf12b-9e13-448a-af4b-6521f99767d7" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.26)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 107</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u890f5ecf-4996-4833-8f4e-ac23f4aac0d3" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades 107</text>
+      </navLabel>
+      <content src="c-107Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u2c981db2-8368-4454-927b-0d65db7440c0" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 107</text>
+      </navLabel>
+      <content src="c-107Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ucabddd3a-e639-4a6d-a087-e583305fd165" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Comé sandía</text>
+      </navLabel>
+      <content src="c-107Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u76499b70-581f-4c70-8bc4-085032c584ab" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Después de todo, lo más inesperado</text>
+      </navLabel>
+      <content src="c-107Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u4b393525-cf11-4114-8725-584a167c2009" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Las pelotas que vinieron del Espacio</text>
+      </navLabel>
+      <content src="c-107Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u229728c3-2a23-4866-b6f2-5484cf323463" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Dos milenios… Más o menos</text>
+      </navLabel>
+      <content src="c-107Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ubca5a975-ab20-4d0c-a45f-1fbf2344e80b" playOrder="7">
+      <navLabel>
+        <text>Ficciones: La asombrosa historia de Enrique y el horror tentacular de Venus</text>
+      </navLabel>
+      <content src="c-107Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u71ccd50e-7b4c-4c48-8b40-c36660933906" playOrder="8">
+      <navLabel>
+        <text>Sección: Andernow</text>
+      </navLabel>
+      <content src="c-107Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u13359c47-54ce-4dcf-ab45-939c47b95ee1" playOrder="9">
+      <navLabel>
+        <text>Sección: Tecno Núcleo</text>
+      </navLabel>
+      <content src="c-107Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u395536d0-58ab-47c1-ab71-6fea41718555" playOrder="10">
+      <navLabel>
+        <text>Secciön: Telaraña</text>
+      </navLabel>
+      <content src="c-107Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ua70acd2d-4fcb-45c1-b91b-4f8a18c5a647" playOrder="11">
+      <navLabel>
+        <text>Ensayo: El útero de la ciencia ficción danesa</text>
+      </navLabel>
+      <content src="c-107Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u1bfcaa3b-99fe-4b29-a680-29dcc4a37798" playOrder="12">
+      <navLabel>
+        <text>Info: Concursos, Premios, Convocatorias…</text>
+      </navLabel>
+      <content src="c-107Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u682f5fc5-9c57-4a0d-91a9-520d4c739131" playOrder="13">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

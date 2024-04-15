@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="001db570-4cbe-43b6-bc48-f2fdd4ceb458" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.41.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 1</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uc2a0388a-6301-4eb9-8904-bf1585d3bbe3" playOrder="1">
+      <navLabel>
+        <text>Editorial: Otro Axxón</text>
+      </navLabel>
+      <content src="c-1Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u1ee8e68c-dc33-4d6a-94d1-b57606854027" playOrder="2">
+      <navLabel>
+        <text>Ficciones: La sonrisa</text>
+      </navLabel>
+      <content src="c-1Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u7bc8213f-29d7-408c-bc8a-4b45e508c7cc" playOrder="3">
+      <navLabel>
+        <text>Historieta: Sanguine</text>
+      </navLabel>
+      <content src="c-1Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ud6cdae67-179b-4155-b838-b2cac19def67" playOrder="4">
+      <navLabel>
+        <text>Correo: Correo 1</text>
+      </navLabel>
+      <content src="c-1Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u332ba09b-a618-4dff-a52e-1fe28a39c1cc" playOrder="5">
+      <navLabel>
+        <text>Anticipo: En el próximo número…</text>
+      </navLabel>
+      <content src="c-1Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ufd5a7174-6c78-4552-98ee-6dca2bf3bea5" playOrder="6">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-1Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u9d69ddaf-f9c1-4e0d-8fb5-0f5e531394fd" playOrder="7">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

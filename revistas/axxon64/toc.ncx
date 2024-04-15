@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="eabdeefd-dcae-4675-90c1-9ac1265238fb" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.21)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 64</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u40e334f9-725c-414e-a857-5ee8ff9a7d97" playOrder="1">
+      <navLabel>
+        <text>Novedades: Novedades</text>
+      </navLabel>
+      <content src="c-64Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u4602087e-12b1-4ec0-bc14-f8e6370f32ca" playOrder="2">
+      <navLabel>
+        <text>Editorial: Editorial 64</text>
+      </navLabel>
+      <content src="c-64Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ud1d0c1a0-009f-41d9-b769-6e5f3638ec7f" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Occidente es rojo</text>
+      </navLabel>
+      <content src="c-64Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uaf41e315-0b0c-4be1-a38a-53a553c5cda3" playOrder="4">
+      <navLabel>
+        <text>Sección: El Portal Fantástico (11)</text>
+      </navLabel>
+      <content src="c-64Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u60a019a4-cd57-4e7f-8290-da39620a0752" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Androide</text>
+      </navLabel>
+      <content src="c-64Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u65849dcf-ce40-4325-a598-8d3e8ae5201d" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Sin título</text>
+      </navLabel>
+      <content src="c-64Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u3b2a9598-448f-4fd2-af96-e94be25a0afa" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Enamorado de la multi-mujer</text>
+      </navLabel>
+      <content src="c-64Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ua19959ee-163f-4350-ad6d-9efacc26a9a1" playOrder="8">
+      <navLabel>
+        <text>Sección: Tour Macabro</text>
+      </navLabel>
+      <content src="c-64Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u0b0c037d-3df5-4114-a350-95dd2ac75fbc" playOrder="9">
+      <navLabel>
+        <text>Ficciones: En el fondo del jardín</text>
+      </navLabel>
+      <content src="c-64Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ub3f18b58-8309-4bb0-8232-6f5a948a5abf" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Vigilad al pajarito</text>
+      </navLabel>
+      <content src="c-64Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uc580f20a-d7ac-473a-82c7-6c3183395a10" playOrder="11">
+      <navLabel>
+        <text>Sección: Crónicas desde la Garrafa Virtual (?)</text>
+      </navLabel>
+      <content src="c-64Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u4d8c8dc3-5c5e-41cd-a3f6-bfae6342ce8e" playOrder="12">
+      <navLabel>
+        <text>Sección: La aventura es la aventura (Jornada 5)</text>
+      </navLabel>
+      <content src="c-64Pag12.htm"/>
+    </navPoint>
+    <navPoint id="ub9c7ad12-7c82-4dd7-9bd8-9d216d9b45eb" playOrder="13">
+      <navLabel>
+        <text>Correo: Correo 64</text>
+      </navLabel>
+      <content src="c-64Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u5518c82f-20ec-4ea8-9ec6-6409b25364d8" playOrder="14">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad (37)</text>
+      </navLabel>
+      <content src="c-64Pag14.htm"/>
+    </navPoint>
+    <navPoint id="uda2281bd-16ce-4482-94e8-28117d4efa66" playOrder="33">
+      <navLabel>
+        <text>Sección: ET AL Virtual (8)</text>
+      </navLabel>
+      <content src="c-64Pag15.htm"/>
+    </navPoint>
+    <navPoint id="uf42ad20e-fcf2-45ad-a23f-96daf6752d5a" playOrder="47">
+      <navLabel>
+        <text>Sección: Informática</text>
+      </navLabel>
+      <content src="c-64Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u7b423bef-6567-42b5-a788-3fa5631a2246" playOrder="48">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-64Pag17.htm"/>
+    </navPoint>
+    <navPoint id="ua0199eb6-3660-4099-8f0c-959f8d0eaaf7" playOrder="49">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-64Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u98ad5360-9664-4184-8c62-b61e6231cc71" playOrder="50">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="u037b81e6-2d88-4dc8-959b-15d2444988ed" playOrder="15">
+      <navLabel>
+        <text>RESEÑANDO EL CIBERESPACIO</text>
+      </navLabel>
+      <content src="c-64Pag14.htm#resenando-el-ciberespacio"/>
+    </navPoint>
+    <navPoint id="ud5e8d873-fa32-471d-a0c4-a7303f20a71b" playOrder="16">
+      <navLabel>
+        <text>Juegos en CD ROM</text>
+      </navLabel>
+      <content src="c-64Pag14.htm#juegos-en-cd-rom"/>
+    </navPoint>
+    <navPoint id="u31ea739f-60f8-45b1-a173-4ee5a0884425" playOrder="17">
+      <navLabel>
+        <text>MICROCOSM</text>
+      </navLabel>
+      <content src="c-64Pag14.htm#microcosm"/>
+    </navPoint>
+    <navPoint id="ud357621c-5efa-4149-ba10-b23238666770" playOrder="18">
+      <navLabel>
+        <text>RINGWORLD</text>
+      </navLabel>
+      <content src="c-64Pag14.htm#ringworld"/>
+    </navPoint>
+    <navPoint id="u0fa5e57a-76ca-40e3-9958-e4d237115a06" playOrder="19">
+      <navLabel>
+        <text>CRIANDO UN BEBÉ ROBOT</text>
+      </navLabel>
+      <content src="c-64Pag14.htm#criando-un-bebe-robot"/>
+    </navPoint>
+    <navPoint id="u8d3d1f45-19a2-40fc-bc0e-8aa2f83edc57" playOrder="20">
+      <navLabel>
+        <text>CIENCIA FICCION Y SOCIEDAD</text>
+      </navLabel>
+      <content src="c-64Pag14.htm#ciencia-ficcion-y-sociedad"/>
+    </navPoint>
+    <navPoint id="u9f023af9-9e3f-40fc-835b-c1a183816d6b" playOrder="21">
+      <navLabel>
+        <text>A 25 AÑOS DEL NACIMIENTO DE LA INTERNET</text>
+      </navLabel>
+      <content src="c-64Pag14.htm#a-25-anos-del-nacimiento-de-la-internet"/>
+    </navPoint>
+    <navPoint id="u55f6fce1-87f5-4b04-b1c6-913aa4be8925" playOrder="22">
+      <navLabel>
+        <text>LA AMBICION COMERCIAL DEBE TENER LIMITES</text>
+      </navLabel>
+      <content src="c-64Pag14.htm#la-ambicion-comercial-debe-tener-limites"/>
+    </navPoint>
+    <navPoint id="udeab8e60-6dd7-41d6-8d0f-e3f206d87318" playOrder="23">
+      <navLabel>
+        <text>LA TV VA A USAR REALIDAD VIRTUAL</text>
+      </navLabel>
+      <content src="c-64Pag14.htm#la-tv-va-a-usar-realidad-virtual"/>
+    </navPoint>
+    <navPoint id="ub685ea81-8578-48b2-bfd1-26a8a3bf46ee" playOrder="24">
+      <navLabel>
+        <text>NUEVOS HALLAZGOS DE PINTURAS RUPESTRES</text>
+      </navLabel>
+      <content src="c-64Pag14.htm#nuevos-hallazgos-de-pinturas-rupestres"/>
+    </navPoint>
+    <navPoint id="u7cdfa9d5-3d4d-4456-8cde-b8294f07b318" playOrder="25">
+      <navLabel>
+        <text>LA MEJOR PRUEBA ES UN JUEGO</text>
+      </navLabel>
+      <content src="c-64Pag14.htm#la-mejor-prueba-es-un-juego"/>
+    </navPoint>
+    <navPoint id="u09a83fd7-9fd5-45ea-a501-e621c29da74f" playOrder="26">
+      <navLabel>
+        <text>¿Y SI NO HUBO UN BIG BANG?</text>
+      </navLabel>
+      <content src="c-64Pag14.htm#y-si-no-hubo-un-big-bang"/>
+    </navPoint>
+    <navPoint id="uc816f0ea-c193-4dd1-a5f6-0a67ff4244ae" playOrder="27">
+      <navLabel>
+        <text>RASTREO POR SATELITE</text>
+      </navLabel>
+      <content src="c-64Pag14.htm#rastreo-por-satelite"/>
+    </navPoint>
+    <navPoint id="u302051ec-6da8-46dd-ab6e-683ea532b3ee" playOrder="28">
+      <navLabel>
+        <text>UNA SOBRE HACKERS</text>
+      </navLabel>
+      <content src="c-64Pag14.htm#una-sobre-hackers"/>
+    </navPoint>
+    <navPoint id="u597db308-9b50-408b-9028-49bc507f6d63" playOrder="29">
+      <navLabel>
+        <text>EL CIBERESPACIO ES UTIL</text>
+      </navLabel>
+      <content src="c-64Pag14.htm#el-ciberespacio-es-util"/>
+    </navPoint>
+    <navPoint id="u4e2ff523-b9db-421f-8d82-7c6e83be8f97" playOrder="30">
+      <navLabel>
+        <text>LA BIBLIOTECA UNIVERSAL</text>
+      </navLabel>
+      <content src="c-64Pag14.htm#la-biblioteca-universal"/>
+    </navPoint>
+    <navPoint id="uc3795ec4-5f66-49aa-b6bc-24867bfd1ca8" playOrder="31">
+      <navLabel>
+        <text>UN CIBERCOMPAÑERO CREATIVO PARA LOS ESCRITORES</text>
+      </navLabel>
+      <content src="c-64Pag14.htm#un-cibercompanero-creativo-para-los-escritores"/>
+    </navPoint>
+    <navPoint id="u95f027dd-217c-4c75-a07b-27fd581a87c0" playOrder="32">
+      <navLabel>
+        <text>UN TRIUNFO DE LA VIDA</text>
+      </navLabel>
+      <content src="c-64Pag14.htm#un-triunfo-de-la-vida"/>
+    </navPoint>
+    <navPoint id="uc1f77078-6fca-4920-917b-87eb2a091b67" playOrder="34">
+      <navLabel>
+        <text>PREMIOS</text>
+      </navLabel>
+      <content src="c-64Pag15.htm#premios"/>
+    </navPoint>
+    <navPoint id="u5c720785-1787-43cc-aaf7-2d78d4fdbaa4" playOrder="35">
+      <navLabel>
+        <text>WORLD FANTASY AWARDS</text>
+      </navLabel>
+      <content src="c-64Pag15.htm#world-fantasy-awards"/>
+    </navPoint>
+    <navPoint id="ua43959ea-fd3d-422f-ade7-a066a1ff29d0" playOrder="36">
+      <navLabel>
+        <text>PREMIO UPC 1994</text>
+      </navLabel>
+      <content src="c-64Pag15.htm#premio-upc-1994"/>
+    </navPoint>
+    <navPoint id="udf264ea6-cae0-498e-a87f-b0ad3966de16" playOrder="37">
+      <navLabel>
+        <text>PREMIO SEIUN (Japón)</text>
+      </navLabel>
+      <content src="c-64Pag15.htm#premio-seiun-japon"/>
+    </navPoint>
+    <navPoint id="ue5f734ca-a873-4661-9cb8-cc835e84391f" playOrder="38">
+      <navLabel>
+        <text>PREMIO DELL MAGAZINE 1994</text>
+      </navLabel>
+      <content src="c-64Pag15.htm#premio-dell-magazine-1994"/>
+    </navPoint>
+    <navPoint id="u8295f07b-3105-401f-98fa-502141363cfd" playOrder="39">
+      <navLabel>
+        <text>7th ANNUAL COLLECTORS AWARDS (1994)</text>
+      </navLabel>
+      <content src="c-64Pag15.htm#th-annual-collectors-awards-1994"/>
+    </navPoint>
+    <navPoint id="ue3ad313d-59a4-4ff4-a752-12059601d6d3" playOrder="40">
+      <navLabel>
+        <text>PREMIO ATOROX (Finlandia)</text>
+      </navLabel>
+      <content src="c-64Pag15.htm#premio-atorox-finlandia"/>
+    </navPoint>
+    <navPoint id="ubeae03d3-bbcb-47ef-9040-cb7fbdc1950f" playOrder="41">
+      <navLabel>
+        <text>CONCURSOS</text>
+      </navLabel>
+      <content src="c-64Pag15.htm#concursos"/>
+    </navPoint>
+    <navPoint id="u114c09a9-a244-4920-88b6-fc8e94408ad0" playOrder="42">
+      <navLabel>
+        <text>CONCURSOS VARIOS EN ARGENTINA</text>
+      </navLabel>
+      <content src="c-64Pag15.htm#concursos-varios-en-argentina"/>
+    </navPoint>
+    <navPoint id="uc9d62fc7-143d-45c6-b777-c0b082eea584" playOrder="43">
+      <navLabel>
+        <text>AUTORES</text>
+      </navLabel>
+      <content src="c-64Pag15.htm#autores"/>
+    </navPoint>
+    <navPoint id="uf8ced4fd-9375-43d2-8b79-9b14caf01e2b" playOrder="44">
+      <navLabel>
+        <text>LIBROS</text>
+      </navLabel>
+      <content src="c-64Pag15.htm#libros"/>
+    </navPoint>
+    <navPoint id="u4f763845-a474-4350-a145-9aa06d8de4b1" playOrder="45">
+      <navLabel>
+        <text>REVISTAS</text>
+      </navLabel>
+      <content src="c-64Pag15.htm#revistas"/>
+    </navPoint>
+    <navPoint id="u3c060f29-786a-41a5-b608-dcd4a72fb4e0" playOrder="46">
+      <navLabel>
+        <text>FANDOM, INFORMACION BIBLIOGRAFICA</text>
+      </navLabel>
+      <content src="c-64Pag15.htm#fandom-informacion-bibliografica"/>
+    </navPoint>
+  </navMap>
+</ncx>

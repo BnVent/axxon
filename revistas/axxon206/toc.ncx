@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="6b58e23c-acda-49ea-8f2b-2d4ca533f520" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.16.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 206</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ufd3d7829-f7d8-4764-ae7f-ee38a52d6519" playOrder="1">
+      <navLabel>
+        <text>Editorial: Para degustar lo tradicional, lo nuevo y lo desconocido</text>
+      </navLabel>
+      <content src="c-206Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u3b92121c-6b0e-4f11-a150-4a5102296f61" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-206Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u31789d7a-b6f2-4b67-a117-ba45af1685c1" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Necronautas</text>
+      </navLabel>
+      <content src="c-206Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ub1087661-7898-4bef-b695-14926c4eb755" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Desde estas hermosas playas te recordamos con cariño y deseamos que estuvieses aquí con n</text>
+      </navLabel>
+      <content src="c-206Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u81c6c35c-a316-455b-8236-34e4fabd9caa" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El gato de Schrödinger</text>
+      </navLabel>
+      <content src="c-206Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u9f21f007-5f67-472d-a273-550d1a6a5b39" playOrder="6">
+      <navLabel>
+        <text>Ficciones: El Trapial</text>
+      </navLabel>
+      <content src="c-206Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uc944ef54-74b4-4a7d-bd15-50dd4262bdd4" playOrder="7">
+      <navLabel>
+        <text>Ficciones: La niña de Shambala</text>
+      </navLabel>
+      <content src="c-206Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u4c2b3fff-c994-4b98-88bd-2ef12f875d55" playOrder="8">
+      <navLabel>
+        <text>Artículo: Fronteras de la Ciencia Ficción</text>
+      </navLabel>
+      <content src="c-206Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u1a81b2c8-1d60-4312-a626-a135e343628a" playOrder="9">
+      <navLabel>
+        <text>Artículo: El triste oficio de Winston Smith</text>
+      </navLabel>
+      <content src="c-206Pag09.htm"/>
+    </navPoint>
+    <navPoint id="udcfb55e3-07e2-4538-b30f-1c8e060e82ed" playOrder="10">
+      <navLabel>
+        <text>Ficciones: La marcha nupcial de la niña muerta</text>
+      </navLabel>
+      <content src="c-206Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ufb638a95-eb93-458c-9f07-9f9d3170b5e9" playOrder="11">
+      <navLabel>
+        <text>Ficciones: El concierto</text>
+      </navLabel>
+      <content src="c-206Pag11.htm"/>
+    </navPoint>
+    <navPoint id="ubb99c8d5-9338-4855-af23-735a9ea53d69" playOrder="12">
+      <navLabel>
+        <text>Ficciones: La isla de Pierre Marie</text>
+      </navLabel>
+      <content src="c-206Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u33c7ebd3-8cfa-4339-bde8-71a7c825214a" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Cada pieza en su lugar</text>
+      </navLabel>
+      <content src="c-206Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u358d5eb7-0d30-460b-a0e4-f8a82dba72d7" playOrder="14">
+      <navLabel>
+        <text>Ficciones: Semillas</text>
+      </navLabel>
+      <content src="c-206Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u82386e36-8f1e-4233-b3f3-90a50bb3964d" playOrder="15">
+      <navLabel>
+        <text>Ficciones: La opción quirúrgica</text>
+      </navLabel>
+      <content src="c-206Pag15.htm"/>
+    </navPoint>
+    <navPoint id="uc3d40589-f805-4b8e-81f2-314949af14a6" playOrder="16">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

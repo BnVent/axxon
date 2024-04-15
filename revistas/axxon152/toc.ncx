@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="efcd72be-aaf6-4a08-ab1b-f70fc5470ba8" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.36.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 152</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uae71e66e-b592-48b8-a813-41447db398e7" playOrder="1">
+      <navLabel>
+        <text>Editorial: Maloliente</text>
+      </navLabel>
+      <content src="c-152Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ua241a1b2-1fcd-4c7c-bb44-ef2ba726c08e" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-152Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u3265c5a5-755b-47b6-8c84-50efee69c05c" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Bucle en el espacio-tiempo</text>
+      </navLabel>
+      <content src="c-152Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u10fbdd6b-d122-42dc-8c74-94b4fda125c3" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El discípulo</text>
+      </navLabel>
+      <content src="c-152Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uec98c73c-0bdd-4a20-a217-7f9f6a759b8e" playOrder="5">
+      <navLabel>
+        <text>Divulgación: La horrorosa verdad</text>
+      </navLabel>
+      <content src="c-152Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uacc80025-2d19-4509-99a3-a3c94b316685" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (11)</text>
+      </navLabel>
+      <content src="c-152Pag06.htm"/>
+    </navPoint>
+    <navPoint id="uf82b06ab-a7ed-44d1-9069-05f7eb5d1203" playOrder="7">
+      <navLabel>
+        <text>Informe: Mis cinco libros: Conclusiones</text>
+      </navLabel>
+      <content src="c-152Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uaf9fd92d-51d4-479f-a04c-a8a0f997684f" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Muchacha en pabellón con fondo de volcanes</text>
+      </navLabel>
+      <content src="c-152Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u38745e5c-d2ab-4a00-af81-3a6f85a86d45" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Cassandra y el arquitecto</text>
+      </navLabel>
+      <content src="c-152Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ud79edafe-f54b-46cd-8022-6983cb88a808" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Soñadores del sueño amarillo</text>
+      </navLabel>
+      <content src="c-152Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ud9647a5d-21bb-49e2-a810-cff55ebc31a1" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Náufragos</text>
+      </navLabel>
+      <content src="c-152Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u5f3ef60e-5baa-4c3b-9e1d-f3b62f6aa9bd" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (12)</text>
+      </navLabel>
+      <content src="c-152Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u4b99579f-2761-414a-b9df-2ded8827ccfe" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Responsabilidad</text>
+      </navLabel>
+      <content src="c-152Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u33940365-d27e-4b29-9d52-feadd9287a31" playOrder="14">
+      <navLabel>
+        <text>Ficciones: Océano</text>
+      </navLabel>
+      <content src="c-152Pag14.htm"/>
+    </navPoint>
+    <navPoint id="ub2cc9909-527a-49c3-bae1-0b6d0613d15b" playOrder="15">
+      <navLabel>
+        <text>Sección: AnaCrónicas</text>
+      </navLabel>
+      <content src="c-152Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u6ddc3720-a85d-4bef-978d-17b2a3ad5c51" playOrder="16">
+      <navLabel>
+        <text>Anacrónicas: Crónica invasiva</text>
+      </navLabel>
+      <content src="c-152Pag16.htm"/>
+    </navPoint>
+    <navPoint id="u9aaeb600-1938-46c9-b87d-a3e1ed0c86a3" playOrder="17">
+      <navLabel>
+        <text>Anacrónicas: La yunta e’ torres (8)</text>
+      </navLabel>
+      <content src="c-152Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u02c0a4e2-589e-4d97-80db-ae84177b72ec" playOrder="18">
+      <navLabel>
+        <text>Ficciones: Ficción Breve (13)</text>
+      </navLabel>
+      <content src="c-152Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u49a005d5-7b9b-410a-a516-745cfe61bdd2" playOrder="19">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

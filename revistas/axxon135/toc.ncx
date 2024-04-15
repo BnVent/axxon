@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="e5aa7d1e-28eb-4347-bf09-908912aaca6a" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.34.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 135</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u7ef7bb37-e497-47ef-a8f0-e9bd76b122e6" playOrder="1">
+      <navLabel>
+        <text>Editorial: Variedades</text>
+      </navLabel>
+      <content src="c-135Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u945b6f8e-d659-4856-af5f-aa2166371caf" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxonitas</text>
+      </navLabel>
+      <content src="c-135Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u1f2345ae-472e-4e2a-bc10-e41e7b7c8469" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Dios del ácido</text>
+      </navLabel>
+      <content src="c-135Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u23051c3e-61b4-49ba-b079-ffcc95f3795b" playOrder="4">
+      <navLabel>
+        <text>Divulgación: Te llevo a todas partes</text>
+      </navLabel>
+      <content src="c-135Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u0a9a68f9-197b-46ed-b1a5-8a7b034d11c9" playOrder="5">
+      <navLabel>
+        <text>Galería: Galería de arte</text>
+      </navLabel>
+      <content src="c-135Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u3efc6258-66e7-47f3-8d32-512570185c6c" playOrder="6">
+      <navLabel>
+        <text>Sección: Uficción</text>
+      </navLabel>
+      <content src="c-135Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u0d244ef9-3c55-447b-8c92-da74b0a605ee" playOrder="7">
+      <navLabel>
+        <text>Uficción: El destino no es ciego</text>
+      </navLabel>
+      <content src="c-135Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ua5d7ed28-c9f6-4e38-9159-79246095fe1f" playOrder="8">
+      <navLabel>
+        <text>Uficción: In vino veritas</text>
+      </navLabel>
+      <content src="c-135Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ue2f69bd9-ed4f-4eac-a01d-fa69349856c8" playOrder="9">
+      <navLabel>
+        <text>Sección: Anacrónicas</text>
+      </navLabel>
+      <content src="c-135Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ub05a8610-0a6f-488f-9cdb-a2671950b43b" playOrder="10">
+      <navLabel>
+        <text>Anacrónicas: Ludosfera: Quaker III Avena</text>
+      </navLabel>
+      <content src="c-135Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u598107af-418d-4493-a708-be18f2efa475" playOrder="11">
+      <navLabel>
+        <text>Anacrónicas: Tendencias “literarias”: La demasíada</text>
+      </navLabel>
+      <content src="c-135Pag11.htm"/>
+    </navPoint>
+    <navPoint id="uf6314681-6599-41f9-bd7c-3826ac54ee72" playOrder="12">
+      <navLabel>
+        <text>Anacrónicas: El Gaucho de los Anillos (16)</text>
+      </navLabel>
+      <content src="c-135Pag12.htm"/>
+    </navPoint>
+    <navPoint id="uaef34af3-7647-41cf-afce-2792729e0fd4" playOrder="13">
+      <navLabel>
+        <text>Contratapa: Ubik</text>
+      </navLabel>
+      <content src="c-135Pag13.htm"/>
+    </navPoint>
+    <navPoint id="ubb6e6466-9822-4dac-87ca-ab84b3f016f9" playOrder="14">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

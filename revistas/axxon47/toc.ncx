@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="dbe5730e-4063-443a-a16e-0f3f8949490b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.2)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 47</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="fb76ccc8-2df6-4c0d-b43e-61bd6777ece5" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 47</text>
+      </navLabel>
+      <content src="c-47Pag01.htm"/>
+    </navPoint>
+    <navPoint id="39c136ab-9f0c-4390-9a81-13fc9da525ca" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Efímero</text>
+      </navLabel>
+      <content src="c-47Pag02.htm"/>
+    </navPoint>
+    <navPoint id="ea1ddafb-88dd-4148-a0ee-dd1ab468f2da" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Procesos</text>
+      </navLabel>
+      <content src="c-47Pag03.htm"/>
+    </navPoint>
+    <navPoint id="b2138a5d-c3f6-4728-b095-d19c749e0c5a" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Enola Gay</text>
+      </navLabel>
+      <content src="c-47Pag04.htm"/>
+    </navPoint>
+    <navPoint id="43ee17c1-d37d-4f51-ad4b-a9f6f9fb210d" playOrder="5">
+      <navLabel>
+        <text>Ficciones: A la sombra de un sueño</text>
+      </navLabel>
+      <content src="c-47Pag05.htm"/>
+    </navPoint>
+    <navPoint id="577bcd71-0e79-4849-85fa-8d2b7539c684" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Dos encuentros en Marte</text>
+      </navLabel>
+      <content src="c-47Pag06.htm"/>
+    </navPoint>
+    <navPoint id="03d1f42e-f873-4f69-9425-cb2e96ba087f" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Nada nuevo que contar</text>
+      </navLabel>
+      <content src="c-47Pag07.htm"/>
+    </navPoint>
+    <navPoint id="64b49bd0-df6e-4dfa-8c70-2437b063f9b8" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Discurso inaugural</text>
+      </navLabel>
+      <content src="c-47Pag08.htm"/>
+    </navPoint>
+    <navPoint id="8bb3caaa-8d05-4698-824a-04c01576dab7" playOrder="12">
+      <navLabel>
+        <text>Ciencia: Sexta extinción - Arqueología molecular</text>
+      </navLabel>
+      <content src="c-47Pag09.htm"/>
+    </navPoint>
+    <navPoint id="c0d76edd-33dd-4e02-be22-ae01a1e8ef76" playOrder="28">
+      <navLabel>
+        <text>Ensayo: Descripción cuasi-exhaustiva del Universo Fundacional</text>
+      </navLabel>
+      <content src="c-47Pag10.htm"/>
+    </navPoint>
+    <navPoint id="7c8c0965-bab7-42c5-b3f9-90ec2ed6249f" playOrder="29">
+      <navLabel>
+        <text>Ensayo: El ciberespacio, la libertad y la ley</text>
+      </navLabel>
+      <content src="c-47Pag11.htm"/>
+    </navPoint>
+    <navPoint id="9d4a9bb7-0007-4190-a61c-144eab3a6bc3" playOrder="30">
+      <navLabel>
+        <text>Correo: Correo 47</text>
+      </navLabel>
+      <content src="c-47Pag12.htm"/>
+    </navPoint>
+    <navPoint id="8f82050f-c44f-412d-8b3c-4d8b67405bb6" playOrder="31">
+      <navLabel>
+        <text>Sección: Una mirada a la realidad</text>
+      </navLabel>
+      <content src="c-47Pag13.htm"/>
+    </navPoint>
+    <navPoint id="8cfae503-8ae2-4f59-bd8e-1d3a760c43a4" playOrder="32">
+      <navLabel>
+        <text>Anticipos: Anticipos</text>
+      </navLabel>
+      <content src="c-47Pag14.htm"/>
+    </navPoint>
+    <navPoint id="7cc8bea4-ea9d-43e3-ba9d-7120c718ad9b" playOrder="33">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-47Pag15.htm"/>
+    </navPoint>
+    <navPoint id="7cf8f246-0ee0-4da9-8e10-b5d032679de9" playOrder="34">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="152a193a-6ba4-4e4c-9d31-98a1c5e6d42c" playOrder="6">
+      <navLabel>
+        <text>[1]</text>
+      </navLabel>
+      <content src="c-47Pag05.htm#gaia"/>
+    </navPoint>
+    <navPoint id="a9e4383a-5497-47d1-922d-8c02b5287728" playOrder="7">
+      <navLabel>
+        <text>[2]</text>
+      </navLabel>
+      <content src="c-47Pag05.htm#our"/>
+    </navPoint>
+    <navPoint id="c1300e53-c6ac-4b00-bfe8-755c04cee2e4" playOrder="8">
+      <navLabel>
+        <text>[3]</text>
+      </navLabel>
+      <content src="c-47Pag05.htm#cats"/>
+    </navPoint>
+    <navPoint id="8a4c8d80-11be-46c5-be6a-57f22f32cd95" playOrder="13">
+      <navLabel>
+        <text>[4]</text>
+      </navLabel>
+      <content src="c-47Pag09.htm#crinoideos"/>
+    </navPoint>
+    <navPoint id="c534f5bb-6451-4c53-b99a-c80f18c45e82" playOrder="14">
+      <navLabel>
+        <text>[5]</text>
+      </navLabel>
+      <content src="c-47Pag09.htm#braquiopodos"/>
+    </navPoint>
+    <navPoint id="6ee2c271-9d1b-4a25-a349-6c57ac43c637" playOrder="15">
+      <navLabel>
+        <text>[6]</text>
+      </navLabel>
+      <content src="c-47Pag09.htm#moluscos"/>
+    </navPoint>
+    <navPoint id="d0f84d2a-ffa6-4bff-9e96-5977241e99f2" playOrder="16">
+      <navLabel>
+        <text>[7]</text>
+      </navLabel>
+      <content src="c-47Pag09.htm#permico"/>
+    </navPoint>
+    <navPoint id="01b4e6ea-0794-45ea-85ef-a464b325d9a4" playOrder="17">
+      <navLabel>
+        <text>[8]</text>
+      </navLabel>
+      <content src="c-47Pag09.htm#vulcanismo"/>
+    </navPoint>
+    <navPoint id="20be281b-1042-4d16-9733-f950aee709e0" playOrder="18">
+      <navLabel>
+        <text>[9]</text>
+      </navLabel>
+      <content src="c-47Pag09.htm#tectonica"/>
+    </navPoint>
+    <navPoint id="ff46ada1-f45d-4cf2-b402-539c48b0e077" playOrder="19">
+      <navLabel>
+        <text>[10]</text>
+      </navLabel>
+      <content src="c-47Pag09.htm#trilobites"/>
+    </navPoint>
+    <navPoint id="a5391f9f-f055-4d98-9181-1ca6e15a5ada" playOrder="20">
+      <navLabel>
+        <text>[11]</text>
+      </navLabel>
+      <content src="c-47Pag09.htm#taxonomia"/>
+    </navPoint>
+    <navPoint id="812a0ed9-5dc2-44f2-b170-5d341f3f886a" playOrder="21">
+      <navLabel>
+        <text>[12]</text>
+      </navLabel>
+      <content src="c-47Pag09.htm#adn"/>
+    </navPoint>
+    <navPoint id="a3911548-52e0-4d3b-8911-b11af62d96d6" playOrder="22">
+      <navLabel>
+        <text>[13]</text>
+      </navLabel>
+      <content src="c-47Pag09.htm#nucleotidos"/>
+    </navPoint>
+    <navPoint id="b7a1020c-f24e-4070-a706-3a088b9d4394" playOrder="23">
+      <navLabel>
+        <text>[14]</text>
+      </navLabel>
+      <content src="c-47Pag09.htm#clonacion"/>
+    </navPoint>
+    <navPoint id="e561f5de-558d-40a1-89f9-76d6052f32eb" playOrder="24">
+      <navLabel>
+        <text>[15]</text>
+      </navLabel>
+      <content src="c-47Pag09.htm#genes"/>
+    </navPoint>
+    <navPoint id="1cc1276f-fc84-46f4-964a-79214d0e666b" playOrder="25">
+      <navLabel>
+        <text>[16]</text>
+      </navLabel>
+      <content src="c-47Pag09.htm#carb"/>
+    </navPoint>
+    <navPoint id="1fb29728-bdb3-4703-8163-08e3c78bb8aa" playOrder="26">
+      <navLabel>
+        <text>[17]</text>
+      </navLabel>
+      <content src="c-47Pag09.htm#anaerobicas"/>
+    </navPoint>
+    <navPoint id="dc54a0a1-9fcd-4949-8d29-4f5cdf4908aa" playOrder="27">
+      <navLabel>
+        <text>[18]</text>
+      </navLabel>
+      <content src="c-47Pag09.htm#mutacion"/>
+    </navPoint>
+  </navMap>
+</ncx>

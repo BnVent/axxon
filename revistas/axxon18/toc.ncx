@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="f23bf208-2c00-4419-b715-e0b4f0262abc" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.45)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 18</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="6e1b2c42-b654-42c3-89b1-b22a0ee2ff87" playOrder="1">
+      <navLabel>
+        <text>Editorial - El ritmo de Axxón</text>
+      </navLabel>
+      <content src="c-18Pag01.htm"/>
+    </navPoint>
+    <navPoint id="f12e2efa-f45a-4bdf-bfec-17205437e3a1" playOrder="2">
+      <navLabel>
+        <text>Ficciones - Pentamotor</text>
+      </navLabel>
+      <content src="c-18Pag02.htm"/>
+    </navPoint>
+    <navPoint id="00603d83-b787-4119-a594-a5be15522158" playOrder="3">
+      <navLabel>
+        <text>Ficciones - Amanda y el extraterrestre</text>
+      </navLabel>
+      <content src="c-18Pag03.htm"/>
+    </navPoint>
+    <navPoint id="041a52c2-f1cc-44ec-8eac-f5b29b0cd089" playOrder="4">
+      <navLabel>
+        <text>Ficciones - El faro</text>
+      </navLabel>
+      <content src="c-18Pag04.htm"/>
+    </navPoint>
+    <navPoint id="4573b488-cc48-42f7-8f9c-662bedb4e7fc" playOrder="5">
+      <navLabel>
+        <text>Ficciones - La tumba vacía</text>
+      </navLabel>
+      <content src="c-18Pag05.htm"/>
+    </navPoint>
+    <navPoint id="9ae026c2-9292-4c0f-8c1a-8191d68ecfae" playOrder="6">
+      <navLabel>
+        <text>Ficciones - Recambio</text>
+      </navLabel>
+      <content src="c-18Pag06.htm"/>
+    </navPoint>
+    <navPoint id="0d932016-8fc4-4aeb-8672-f2302252fe46" playOrder="7">
+      <navLabel>
+        <text>Correo - Axxón 18</text>
+      </navLabel>
+      <content src="c-18Pag07.htm"/>
+    </navPoint>
+    <navPoint id="302d9537-8dde-4223-a961-a809070040d0" playOrder="8">
+      <navLabel>
+        <text>Secciones - Una mirada a la realidad</text>
+      </navLabel>
+      <content src="c-18Pag08.htm"/>
+    </navPoint>
+    <navPoint id="c77b299e-f3b0-42d1-934c-ba0cd218a4f1" playOrder="9">
+      <navLabel>
+        <text>Equipo - Equipo Axxón</text>
+      </navLabel>
+      <content src="c-18Pag09.htm"/>
+    </navPoint>
+    <navPoint id="08631600-46bf-4bbc-8d07-6fcba54ea246" playOrder="10">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

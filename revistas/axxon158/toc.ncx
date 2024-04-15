@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="42cc7f5b-1329-44a8-bf99-4fa9e7d6fd6e" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.38.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 158</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u1b28aaa7-5e9b-4a90-8580-58f2550a81c0" playOrder="1">
+      <navLabel>
+        <text>Editorial: Los sueños de la gente</text>
+      </navLabel>
+      <content src="c-158Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u69475a35-3f3a-41cd-8caa-d330cf5acfce" playOrder="2">
+      <navLabel>
+        <text>Correo: Correo axxónico</text>
+      </navLabel>
+      <content src="c-158Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u0e1d72a2-690f-4e92-a58d-9d85275b09cc" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Cronoelipsis</text>
+      </navLabel>
+      <content src="c-158Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ucfb438ec-5c01-4938-9f12-40f8b3ad2ea5" playOrder="4">
+      <navLabel>
+        <text>Ensayo: La gran esperanza blanca</text>
+      </navLabel>
+      <content src="c-158Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ud8ba92c2-4b4f-42f3-b3c9-bdba7015470d" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Ficción breve (20)</text>
+      </navLabel>
+      <content src="c-158Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u0bfa37d6-9fba-4e24-a58e-7156e4e647b9" playOrder="6">
+      <navLabel>
+        <text>Divulgación: Los misterios de Cerdeña</text>
+      </navLabel>
+      <content src="c-158Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u424ccf41-4d76-427b-a8c0-9c654d1df991" playOrder="7">
+      <navLabel>
+        <text>Ficciones: La prisión</text>
+      </navLabel>
+      <content src="c-158Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u3680046b-ee17-474c-8cfe-f4e202f5f303" playOrder="8">
+      <navLabel>
+        <text>Ficciones: El río del mundo</text>
+      </navLabel>
+      <content src="c-158Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uf252a7be-776a-472f-bc63-fac02aef97ed" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Erinnis</text>
+      </navLabel>
+      <content src="c-158Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u9402e8ee-6de1-4a61-92dc-a0ac311bc71d" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Burbuja de humedad</text>
+      </navLabel>
+      <content src="c-158Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uade87a1f-e08e-4f95-b1b1-a8f7f6bd49f0" playOrder="11">
+      <navLabel>
+        <text>Ficciones: Maria y los mendigos</text>
+      </navLabel>
+      <content src="c-158Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u87c1412d-8345-4824-9714-f921568d338e" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Ellos y nosotros</text>
+      </navLabel>
+      <content src="c-158Pag12.htm"/>
+    </navPoint>
+    <navPoint id="uf7b75124-05bc-4bbd-9c69-e8e006a84388" playOrder="13">
+      <navLabel>
+        <text>Ficciones: Paradojas</text>
+      </navLabel>
+      <content src="c-158Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u5d713f73-3d2a-4138-9b8e-e4d0b8beefe1" playOrder="14">
+      <navLabel>
+        <text>Sección: Batiburrillo</text>
+      </navLabel>
+      <content src="c-158Pag14.htm"/>
+    </navPoint>
+    <navPoint id="udfa548e3-09fd-4bbb-aa6d-2757b791ff91" playOrder="15">
+      <navLabel>
+        <text>Batiburrillo: Me la sé lunga</text>
+      </navLabel>
+      <content src="c-158Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u5bddd64d-ca00-47ae-b202-e8f19d7383ae" playOrder="16">
+      <navLabel>
+        <text>Batiburrillo: Especies en peligro</text>
+      </navLabel>
+      <content src="c-158Pag16.htm"/>
+    </navPoint>
+    <navPoint id="uc746bd21-12a3-4f83-8a2d-c52aeb03b44c" playOrder="17">
+      <navLabel>
+        <text>Batiburrillo: Una estrella en el hielo</text>
+      </navLabel>
+      <content src="c-158Pag17.htm"/>
+    </navPoint>
+    <navPoint id="u2a299c5f-b763-42ed-9b8f-36f2c9f4209c" playOrder="18">
+      <navLabel>
+        <text>Ficciones: Por amor</text>
+      </navLabel>
+      <content src="c-158Pag18.htm"/>
+    </navPoint>
+    <navPoint id="uac89035b-e314-49f3-a0f9-760b5b7c761e" playOrder="19">
+      <navLabel>
+        <text>Ficciones: Planetas de papel</text>
+      </navLabel>
+      <content src="c-158Pag19.htm"/>
+    </navPoint>
+    <navPoint id="u9d5a67af-05f8-4573-8fb3-a68a87d9c0c3" playOrder="20">
+      <navLabel>
+        <text>Ficciones: Pildora amarilla</text>
+      </navLabel>
+      <content src="c-158Pag20.htm"/>
+    </navPoint>
+    <navPoint id="u90a3dc2f-7e18-4d63-835f-874b618f0d6f" playOrder="21">
+      <navLabel>
+        <text>Sección: AnaCrónicas</text>
+      </navLabel>
+      <content src="c-158Pag21.htm"/>
+    </navPoint>
+    <navPoint id="u901ebe0c-6733-4810-85bd-f0adefbf4ff3" playOrder="22">
+      <navLabel>
+        <text>Anacrónicas: Publicidad</text>
+      </navLabel>
+      <content src="c-158Pag22.htm"/>
+    </navPoint>
+    <navPoint id="u3082b752-e0b6-45a8-bb6c-988ccd3ac4bc" playOrder="23">
+      <navLabel>
+        <text>Anacrónicas: El chivito, la reina, la heladera, etc.</text>
+      </navLabel>
+      <content src="c-158Pag23.htm"/>
+    </navPoint>
+    <navPoint id="uaf8d9249-c59b-4b48-9fcc-dcd7853172e7" playOrder="24">
+      <navLabel>
+        <text>Anacrónicas: La yunta’e torres (14)</text>
+      </navLabel>
+      <content src="c-158Pag24.htm"/>
+    </navPoint>
+    <navPoint id="u6556604b-8a5b-4ee2-8f43-587d4361bb08" playOrder="25">
+      <navLabel>
+        <text>Ficciones: Ficción breve (21)</text>
+      </navLabel>
+      <content src="c-158Pag25.htm"/>
+    </navPoint>
+    <navPoint id="u6600e243-f658-4ea0-bac8-2ccb1e2a3434" playOrder="26">
+      <navLabel>
+        <text>Clásico: La casa hechizada</text>
+      </navLabel>
+      <content src="c-158Pag26.htm"/>
+    </navPoint>
+    <navPoint id="u13e5184b-9826-4759-ab47-d26ffb5d4264" playOrder="27">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

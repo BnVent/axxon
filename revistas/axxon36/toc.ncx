@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta name="dtb:uid" content="f925a200-ed1a-4dbf-8299-4f06c317567b"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (5.10.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Axxón 36</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u9S8uIFhw9lCw4NMwo6Zls9" playOrder="1">
+      <navLabel>
+        <text>Editorial: Editorial 36</text>
+      </navLabel>
+      <content src="c-36Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uAOIROpDyhYVma6L9XEcaH9" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Capítulo XXX</text>
+      </navLabel>
+      <content src="c-36Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uoD222ERbSMrOJiH2d7UBu2" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Defensa interna</text>
+      </navLabel>
+      <content src="c-36Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uvCTSoHZihivAYAFV29iJDA" playOrder="4">
+      <navLabel>
+        <text>Ficciones: En la escala</text>
+      </navLabel>
+      <content src="c-36Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uOY9RLBYEG7h5dtbOGlVA38" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El rostro de Jaldabaoth</text>
+      </navLabel>
+      <content src="c-36Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uvBspuHmybXEmW4FwHLMvh8" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Análogos y therbligs</text>
+      </navLabel>
+      <content src="c-36Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ujzcewrMkvc6GtHxAd9qEwC" playOrder="7">
+      <navLabel>
+        <text>Ficciones: La luna</text>
+      </navLabel>
+      <content src="c-36Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u4znPs4xeDz3OCu23fqjmlD" playOrder="8">
+      <navLabel>
+        <text>Ficciones: La elección</text>
+      </navLabel>
+      <content src="c-36Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uV2tNGIzVnBsQ4bPCNXx6SA" playOrder="9">
+      <navLabel>
+        <text>Ensayo: Ciencia ficción argentina: panorama de un genero en crecimiento</text>
+      </navLabel>
+      <content src="c-36Pag09.htm"/>
+    </navPoint>
+    <navPoint id="uptbp5IAhS9TWF56GgLlPp7" playOrder="10">
+      <navLabel>
+        <text>Correo: Correo 36</text>
+      </navLabel>
+      <content src="c-36Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uyZ6ugkEJ4vKzwRXHmVonu6" playOrder="11">
+      <navLabel>
+        <text>Equipo: Equipo Axxón</text>
+      </navLabel>
+      <content src="c-36Pag11.htm"/>
+    </navPoint>
+    <navPoint id="uCg8r9FTCBSjgX83yxqFSd9" playOrder="12">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

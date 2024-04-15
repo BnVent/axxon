@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Ediciones Axxón</dc:publisher>
+    <meta name="calibre:series_index" content="213"/>
+    <dc:language>es</dc:language>
+    <dc:creator opf:file-as="Desconocido" opf:role="aut">Eduardo Carletti (editor)</dc:creator>
+    <meta name="calibre:timestamp" content="2012-07-06T20:03:26.968000+00:00"/>
+    <dc:title>Axxón 213</dc:title>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:series" content="Axxón"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">4f15f8e8-fdf1-4855-90c5-c68db7616364</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="001-5-1840-pulgaanob33.png" id="added17" media-type="image/png"/>
+    <item href="002-5-1760-pulgaanob32.png" id="added18" media-type="image/png"/>
+    <item href="003-5-1292-pulgaanob28.png" id="added19" media-type="image/png"/>
+    <item href="1-001-460-pulgaanob36.png" id="added39" media-type="image/png"/>
+    <item href="1-002-440-pulgaanob34.png" id="added41" media-type="image/png"/>
+    <item href="1-003-410-pulgaanob30.png" id="added42" media-type="image/png"/>
+    <item href="1-004-350-pulgaanob29_.png" id="added40" media-type="image/png"/>
+    <item href="1-006-460-pulgaanob24.png" id="added38" media-type="image/png"/>
+    <item href="1-007-382-pulgaanob19.png" id="added36" media-type="image/png"/>
+    <item href="1-008-475-pulgaanob15_.png" id="added31" media-type="image/png"/>
+    <item href="1-009-350-pulgaanob12.png" id="added35" media-type="image/png"/>
+    <item href="1-290-pulgaanob07.png" id="added21" media-type="image/png"/>
+    <item href="1-310-pulgaanob13_.png" id="added47" media-type="image/png"/>
+    <item href="1-312-pulgaanob20_.png" id="added46" media-type="image/png"/>
+    <item href="1-400-pulgaanob21_.png" id="added45" media-type="image/png"/>
+    <item href="1-410-pulgaanob18.png" id="added43" media-type="image/png"/>
+    <item href="1-420-pulgaanob08.png" id="added37" media-type="image/png"/>
+    <item href="1-439-pulgaanob04.png" id="added44" media-type="image/png"/>
+    <item href="1-458-pulgaanob17.png" id="added25" media-type="image/png"/>
+    <item href="1-562-pulgaanob23_.png" id="added29" media-type="image/png"/>
+    <item href="1220-pulga.jpg" id="added16" media-type="image/jpeg"/>
+    <item href="2-542-pulgaanob14.png" id="added26" media-type="image/png"/>
+    <item href="2-590-pulgaanob10_.png" id="added22" media-type="image/png"/>
+    <item href="2-630-pulgaanob11_.png" id="added23" media-type="image/png"/>
+    <item href="2-632-pulgaanob26.png" id="added27" media-type="image/png"/>
+    <item href="2-650-pulgaanob09_.png" id="added32" media-type="image/png"/>
+    <item href="2-729-pulgaanob31.png" id="added30" media-type="image/png"/>
+    <item href="2-860-pulgaanob35_.png" id="added33" media-type="image/png"/>
+    <item href="213-saludo.jpg" id="added15" media-type="image/jpeg"/>
+    <item href="213cuento1ilus1ch.jpg" id="added3" media-type="image/jpeg"/>
+    <item href="213cuento2ilus1ch.jpg" id="added4" media-type="image/jpeg"/>
+    <item href="213cuento3ilus1ch.jpg" id="added6" media-type="image/jpeg"/>
+    <item href="213cuento4ilus1ch.jpg" id="added7" media-type="image/jpeg"/>
+    <item href="213cuento5ilus1ch.jpg" id="added8" media-type="image/jpeg"/>
+    <item href="213cuento5ilus2ch.jpg" id="added9" media-type="image/jpeg"/>
+    <item href="213cuento5ilus3ch.jpg" id="added10" media-type="image/jpeg"/>
+    <item href="213cuento6ilus1ch.jpg" id="added12" media-type="image/jpeg"/>
+    <item href="213cuento7ilus1ch.jpg" id="added48" media-type="image/jpeg"/>
+    <item href="213cuento8ilus1ch.jpg" id="added49" media-type="image/jpeg"/>
+    <item href="213cuento9ilus3.jpg" id="added53" media-type="image/jpeg"/>
+    <item href="3-1100-pulgaanob01.png" id="added34" media-type="image/png"/>
+    <item href="3-360-pulgaanob27.png" id="added28" media-type="image/png"/>
+    <item href="3-810-pulgaanob05.png" id="added20" media-type="image/png"/>
+    <item href="3-828-pulgaanob25_.png" id="added24" media-type="image/png"/>
+    <item href="axxon.htm" id="html12" media-type="application/xhtml+xml"/>
+    <item href="axxon00.gif" id="added55" media-type="image/gif"/>
+    <item href="axxon213.htm" id="html" media-type="application/xhtml+xml"/>
+    <item href="band-arg.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="band-cub.jpg" id="added11" media-type="image/jpeg"/>
+    <item href="band-esp.jpg" id="added5" media-type="image/jpeg"/>
+    <item href="band-mex.jpg" id="added51" media-type="image/jpeg"/>
+    <item href="c-213Pag01.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="c-213Pag02.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="c-213Pag03.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="c-213Pag04.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="c-213Pag05.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="c-213Pag06.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="c-213Pag07.htm" id="html7" media-type="application/xhtml+xml"/>
+    <item href="c-213Pag08.htm" id="html8" media-type="application/xhtml+xml"/>
+    <item href="c-213Pag09.htm" id="html9" media-type="application/xhtml+xml"/>
+    <item href="c-213Pag10.htm" id="html10" media-type="application/xhtml+xml"/>
+    <item href="c-213Pag11.htm" id="html11" media-type="application/xhtml+xml"/>
+    <item href="c-213tapach.jpg" id="added56" media-type="image/jpeg"/>
+    <item href="c-ejc_navidad.jpg" id="added14" media-type="image/jpeg"/>
+    <item href="cuento9ilus1.jpg" id="added50" media-type="image/jpeg"/>
+    <item href="cuento9ilus2.jpg" id="added52" media-type="image/jpeg"/>
+    <item href="cuento9ilus4.jpg" id="added54" media-type="image/jpeg"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="x-epub.png" id="added57" media-type="image/png"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+    <itemref idref="html1"/>
+    <itemref idref="html2"/>
+    <itemref idref="html3"/>
+    <itemref idref="html4"/>
+    <itemref idref="html5"/>
+    <itemref idref="html6"/>
+    <itemref idref="html7"/>
+    <itemref idref="html8"/>
+    <itemref idref="html9"/>
+    <itemref idref="html10"/>
+    <itemref idref="html11"/>
+    <itemref idref="html12"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

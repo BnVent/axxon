@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="f0fabfdb-8442-44f6-a251-b8c725470684" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.1.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 245</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u772c864d-dc55-4667-962b-60a56783400b" playOrder="1">
+      <navLabel>
+        <text>Editorial: Juntarse</text>
+      </navLabel>
+      <content src="c-245Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uc539fb70-2837-4c07-b9cf-6c0722115ebc" playOrder="2">
+      <navLabel>
+        <text>Ficciones: La última gran batalla</text>
+      </navLabel>
+      <content src="c-245Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u7cbd27c5-6f66-4690-a9fc-7ce1919ff9c3" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Ataun</text>
+      </navLabel>
+      <content src="c-245Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uab1180c5-80a0-4bae-a783-409cf082521c" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Muerte en la pulpería</text>
+      </navLabel>
+      <content src="c-245Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u1ebcfc15-e2fc-4733-9667-808142fc7741" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Encallado</text>
+      </navLabel>
+      <content src="c-245Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u27ab6538-8c79-4b8e-8023-b14c1fe185a1" playOrder="6">
+      <navLabel>
+        <text>Ficciones: El hombre del sigilo</text>
+      </navLabel>
+      <content src="c-245Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u6551b1aa-3f40-4fd3-af79-f6a3afd6e403" playOrder="7">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="ucc6baabe-5945-4c93-a539-6ac9fd6b9215" playOrder="7">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/245/cuento1ilus1.htm"/>
+    </navPoint>
+    <navPoint id="u7ca17087-ea55-4698-be36-08992d3d4f79" playOrder="8">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/245/cuento2ilus1.htm"/>
+    </navPoint>
+    <navPoint id="uad4e901e-ed50-46b7-9b79-8ca5d81ad931" playOrder="9">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/245/cuento3ilus1.htm"/>
+    </navPoint>
+    <navPoint id="u12ba20cf-87cc-458d-b3c4-25ba0a1830a0" playOrder="10">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/245/cuento4ilus1.htm"/>
+    </navPoint>
+    <navPoint id="u285a453d-e03f-4772-9496-2c3ea0cf2833" playOrder="11">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/245/cuento5ilus1.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

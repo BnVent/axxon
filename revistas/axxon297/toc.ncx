@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta name="dtb:uid" content="7a1a87fe-9c63-4f59-8b41-a89f04ca51db"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (5.25.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Axxón 297</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uCft475BtKkGRtFIuyuPbCC" playOrder="1">
+      <navLabel>
+        <text>Editorial: Varios felices regresos</text>
+      </navLabel>
+      <content src="c-297Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ugsmbj6Ptr8AU5zE6FBjgs2" playOrder="2">
+      <navLabel>
+        <text>Ficciones: La cima (2030)</text>
+      </navLabel>
+      <content src="c-297Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uSoW6mG8CZVERgARZ3w9H3D" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El capitán Bartolomé Cuásar y la barrera insuperable de basura espacial</text>
+      </navLabel>
+      <content src="c-297Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ufGWcGB6UKC57RgG2tEZE46" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El precio de la grandeza</text>
+      </navLabel>
+      <content src="c-297Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uLsmU553jZ8FnqeKZNOFnU2" playOrder="5">
+      <navLabel>
+        <text>Batiburrillo: Batiburrillo</text>
+      </navLabel>
+      <content src="c-297Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uiWNBmvHSQTdtgTuIopyjY9" playOrder="6">
+      <navLabel>
+        <text>Batiburrillo: Me la sé lunga</text>
+      </navLabel>
+      <content src="c-297Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ucFA9X54dlpFL8L2VlafP73" playOrder="7">
+      <navLabel>
+        <text>Batiburrillo: Una estrella en el hielo: “Paseo Estelar: Épica”</text>
+      </navLabel>
+      <content src="c-297Pag07.htm"/>
+    </navPoint>
+    <navPoint id="uZqfrSCKhKOj8IGUeL4BV5G" playOrder="8">
+      <navLabel>
+        <text>Batiburrillo: Los Tips y Tops de Ana: 10 secretos que te convertirán en una mujer elegante</text>
+      </navLabel>
+      <content src="c-297Pag08.htm"/>
+    </navPoint>
+    <navPoint id="ukD27xpyxJehDu9F7qnHYO5" playOrder="9">
+      <navLabel>
+        <text>Ficciones: El jinete</text>
+      </navLabel>
+      <content src="c-297Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ukdBVUEsnrgFUe9iTUWRd9H" playOrder="10">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-297Pag10.htm"/>
+    </navPoint>
+    <navPoint id="ufujl8avBoZRwCqVKdUKAV4" playOrder="11">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

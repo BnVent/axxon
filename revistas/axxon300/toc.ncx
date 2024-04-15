@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta name="dtb:uid" content="ff947b74-d6e1-4489-96b8-efebdb1bb71e"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (5.25.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Axxón 300</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uJsfdpPPUA2zDnAVSaqBtX4" playOrder="1">
+      <navLabel>
+        <text>Editorial: Nuevo hito, viejos rumbos</text>
+      </navLabel>
+      <content src="c-300Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u9n3P4Mo9wGJd2y8cSFqrb4" playOrder="2">
+      <navLabel>
+        <text>Ficciones: La sombra sobre el Marne</text>
+      </navLabel>
+      <content src="c-300Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uJH6sbzaMX3zbDjVVyH7xu9" playOrder="3">
+      <navLabel>
+        <text>Ficciones: T(i)empo en común</text>
+      </navLabel>
+      <content src="c-300Pag03.htm"/>
+    </navPoint>
+    <navPoint id="uOjmBREqnH7sEYwYM4LpLE2" playOrder="4">
+      <navLabel>
+        <text>Ensayo: ‘Pubis angelical’ y la ciencia ficción de Miguel Puig</text>
+      </navLabel>
+      <content src="c-300Pag04.htm"/>
+    </navPoint>
+    <navPoint id="uCgnZULYDAlGgoPDihzKlgG" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Overo</text>
+      </navLabel>
+      <content src="c-300Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uTbcTcvkVxrTjhO2kZMOjPC" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Patas pa’rriba</text>
+      </navLabel>
+      <content src="c-300Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ujV6ZIkNAk6f8kHXjt9Xnr2" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Azogue</text>
+      </navLabel>
+      <content src="c-300Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u7owUmksezucuWlaPYnX3fC" playOrder="8">
+      <navLabel>
+        <text>Ficciones: Usos prácticos de la fe. Ejemplo 3</text>
+      </navLabel>
+      <content src="c-300Pag08.htm"/>
+    </navPoint>
+    <navPoint id="udMEm82iy5nNVuq84SK5KpF" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Usos prácticos de la fe. Ejemplo 4</text>
+      </navLabel>
+      <content src="c-300Pag09.htm"/>
+    </navPoint>
+    <navPoint id="umMCrU7lfBujIYYGAVx7Rh4" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Un visitante de Carcosa</text>
+      </navLabel>
+      <content src="c-300Pag10.htm"/>
+    </navPoint>
+    <navPoint id="uXd79VDVOWqr5xStnloO7h2" playOrder="11">
+      <navLabel>
+        <text>Ficciones: El equilibrio perdido</text>
+      </navLabel>
+      <content src="c-300Pag11.htm"/>
+    </navPoint>
+    <navPoint id="uk7DM8noyCnBcwXrzaAVExB" playOrder="12">
+      <navLabel>
+        <text>Equipo: Equipo</text>
+      </navLabel>
+      <content src="c-300Pag12.htm"/>
+    </navPoint>
+    <navPoint id="urlfL79heUkAe3bPSUXFDy4" playOrder="13">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

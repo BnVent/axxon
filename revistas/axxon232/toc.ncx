@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="95a2fb72-919d-44f1-aab4-06f27ab95e5a" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.62)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 232</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="e4a0cf41-08bc-4498-b8ac-5dd565aa1d17" playOrder="1">
+      <navLabel>
+        <text>Entrevista: Entrevista a M. C. Carper</text>
+      </navLabel>
+      <content src="c-232Pag01.htm"/>
+    </navPoint>
+    <navPoint id="bf4c0158-07ce-4dc1-9700-79d8c8bda298" playOrder="2">
+      <navLabel>
+        <text>Ficciones: El Monstruo</text>
+      </navLabel>
+      <content src="c-232Pag02.htm"/>
+    </navPoint>
+    <navPoint id="11ce8587-4f9f-476f-99f7-b325531188f8" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Problemas de oficina</text>
+      </navLabel>
+      <content src="c-232Pag03.htm"/>
+    </navPoint>
+    <navPoint id="79b42727-e3b4-49bd-94a6-ba56abfd6297" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Cara</text>
+      </navLabel>
+      <content src="c-232Pag04.htm"/>
+    </navPoint>
+    <navPoint id="0fbd4582-fed1-4e44-96d5-8b7854772766" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Los enviados de Narhitorek</text>
+      </navLabel>
+      <content src="c-232Pag05.htm"/>
+    </navPoint>
+    <navPoint id="fbdd300f-3b5c-4611-b181-85e7edc91ec7" playOrder="6">
+      <navLabel>
+        <text>Artículo: Una triste historia de Una triste aventura de 14 sabios</text>
+      </navLabel>
+      <content src="c-232Pag06.htm"/>
+    </navPoint>
+    <navPoint id="3d5e4a4c-5f3a-40c7-b522-ec62a48ce7f5" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Bicharraco</text>
+      </navLabel>
+      <content src="c-232Pag07.htm"/>
+    </navPoint>
+    <navPoint id="866edecf-8c0a-43cb-8281-1ecbbd14a546" playOrder="8">
+      <navLabel>
+        <text>Ficciones: El umbral en la playa</text>
+      </navLabel>
+      <content src="c-232Pag08.htm"/>
+    </navPoint>
+    <navPoint id="e0380cc3-8e43-469e-a953-bc491c58477a" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Entre la basura</text>
+      </navLabel>
+      <content src="c-232Pag09.htm"/>
+    </navPoint>
+    <navPoint id="40b1e458-c872-4c6e-a279-2666d4b6967b" playOrder="10">
+      <navLabel>
+        <text>Ficciones: El Hombre</text>
+      </navLabel>
+      <content src="c-232Pag10.htm"/>
+    </navPoint>
+    <navPoint id="a31b1929-2af6-4c00-b5c9-52fc53fdff8d" playOrder="11">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="2d6ddf68-c403-42f1-ae7e-4d2aaf6c6e9f" playOrder="11">
+      <navLabel>
+        <text>M. C. Carper con Augusto Gilimón y la dibujante Eiti Leda</text>
+      </navLabel>
+      <content src="/rev/232/entrevista1ilus1.htm"/>
+    </navPoint>
+    <navPoint id="72bf8edd-633d-48cd-9529-560e6423619d" playOrder="12">
+      <navLabel>
+        <text>M. C. Carper con el guionista Oenlao y la ilustradora e historietista Gala</text>
+      </navLabel>
+      <content src="/rev/232/entrevista1ilus2.htm"/>
+    </navPoint>
+    <navPoint id="ebbade2e-60f5-43c2-aa07-81a4fc6ee094" playOrder="13">
+      <navLabel>
+        <text>M. C. Carper con Fabián García y El Gory</text>
+      </navLabel>
+      <content src="/rev/232/entrevista1ilus3.htm"/>
+    </navPoint>
+    <navPoint id="2f717478-7559-4a60-bb9e-20764ceb3dbe" playOrder="14">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/232/cuento2ilus1.htm"/>
+    </navPoint>
+    <navPoint id="b37a0231-da3a-407a-8211-3d12acb8af27" playOrder="15">
+      <navLabel>
+        <text>CONTINUM PI</text>
+      </navLabel>
+      <content src="/rev/2010/10/continum-pi-mc-carper/"/>
+    </navPoint>
+    <navPoint id="a920e11d-c804-421a-8bf2-bc70dc9aaece" playOrder="16">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/232/cuento3ilus1.htm"/>
+    </navPoint>
+    <navPoint id="1510dd40-2831-4674-bb01-c7a63b0c0c2f" playOrder="17">
+      <navLabel>
+        <text>DEMOGRAFÍA</text>
+      </navLabel>
+      <content src="/rev/158/c-158cuento13.htm"/>
+    </navPoint>
+    <navPoint id="894e9f16-9f5a-479b-9676-3b518447d78f" playOrder="18">
+      <navLabel>
+        <text>HOTEL IMPERIAL</text>
+      </navLabel>
+      <content src="/rev/182/c-182cuento6.htm"/>
+    </navPoint>
+    <navPoint id="4d0eda6a-9b4a-4183-b4fc-5d997c44d32c" playOrder="19">
+      <navLabel>
+        <text>LA DAMA DE LA LUNA</text>
+      </navLabel>
+      <content src="/rev/193/c-193cuento5.htm"/>
+    </navPoint>
+    <navPoint id="818f7bb9-3ef8-4688-9b1b-629fe6ed424e" playOrder="20">
+      <navLabel>
+        <text>DULCES CUENTOS</text>
+      </navLabel>
+      <content src="/rev/197/c-197cuento2.htm"/>
+    </navPoint>
+    <navPoint id="25c794cd-14ab-4585-a2df-c314c3875e0d" playOrder="21">
+      <navLabel>
+        <text>LA CAZA DE LA BALLENA</text>
+      </navLabel>
+      <content src="/rev/2009/12/la-caza-de-la-ballena-e-veronica-figueirido/"/>
+    </navPoint>
+    <navPoint id="077e5c42-7a8f-4d79-9f91-ed9012366752" playOrder="22">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/232/cuento4ilus1.htm"/>
+    </navPoint>
+    <navPoint id="24351ab3-7b56-4995-8225-9c88659be04d" playOrder="23">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/232/cuento5ilus1.htm"/>
+    </navPoint>
+    <navPoint id="e905c6e5-483f-4316-a97c-744107b8271d" playOrder="24">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/232/cuento7ilus1.htm"/>
+    </navPoint>
+    <navPoint id="7db0856e-0617-4e78-847d-6f13642df111" playOrder="25">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/232/cuento8ilus1.htm"/>
+    </navPoint>
+    <navPoint id="d111eb41-4907-45be-914a-f8b55ab87697" playOrder="26">
+      <navLabel>
+        <text>[1]</text>
+      </navLabel>
+      <content src="/rev/#nota1"/>
+    </navPoint>
+    <navPoint id="2b335051-829d-4443-a84d-dfe4f7fa1d88" playOrder="27">
+      <navLabel>
+        <text>[VOLVER]</text>
+      </navLabel>
+      <content src="/rev/#llamada1"/>
+    </navPoint>
+    <navPoint id="faf7f453-cc58-48cd-b715-020ca6069cf8" playOrder="28">
+      <navLabel>
+        <text>EL OTRO MESÍAS</text>
+      </navLabel>
+      <content src="/rev/2012/06/el-otro-mesias-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="33331291-a358-4a36-9e28-2bd342dfc28a" playOrder="29">
+      <navLabel>
+        <text>EL HOMBRE EQUIVOCADO</text>
+      </navLabel>
+      <content src="/rev/2012/04/el-hombre-equivocado-pe-de-j-pauner/"/>
+    </navPoint>
+    <navPoint id="fdfaf24f-aa88-4cb7-99bf-2efda6530f15" playOrder="30">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/232/cuento9ilus1.htm"/>
+    </navPoint>
+    <navPoint id="7d36f20d-863f-4e20-a6ac-ac327ffe4019" playOrder="31">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/232/cuento10ilus1.htm"/>
+    </navPoint>
+    <navPoint id="ea7fa2a0-9bfa-47fc-a2b6-75c201e36eb2" playOrder="32">
+      <navLabel>
+        <text>DESDE LA CULPA</text>
+      </navLabel>
+      <content src="/rev/2010/12/desde-la-culpa-lucas-berruezo/"/>
+    </navPoint>
+  </navMap>
+</ncx>

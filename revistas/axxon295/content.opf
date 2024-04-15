@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Axxón 295</dc:title>
+    <meta name="calibre:timestamp" content="2020-12-23T23:48:00.460186+00:00"/>
+    <dc:language>es</dc:language>
+    <dc:creator opf:file-as="Desconocido" opf:role="aut">Eduardo Carletti (editor)</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">fa4dd84e-dee4-4cc9-819c-f0779b3b948b</dc:identifier>
+    <dc:publisher>Ediciones Axxón</dc:publisher>
+    <meta name="calibre:series" content="Axxón"/>
+    <meta name="calibre:series_index" content="295"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="cover" href="cover.jpg" media-type="image/jpeg"/>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html" href="axxon295.htm" media-type="application/xhtml+xml"/>
+    <item id="html1" href="c-295Pag01.htm" media-type="application/xhtml+xml"/>
+    <item id="html2" href="c-295Pag02.htm" media-type="application/xhtml+xml"/>
+    <item id="html3" href="c-295Pag03.htm" media-type="application/xhtml+xml"/>
+    <item id="html4" href="c-295Pag04.htm" media-type="application/xhtml+xml"/>
+    <item id="html5" href="c-295Pag05.htm" media-type="application/xhtml+xml"/>
+    <item id="html6" href="c-295Pag06.htm" media-type="application/xhtml+xml"/>
+    <item id="html7" href="c-295Pag07.htm" media-type="application/xhtml+xml"/>
+    <item id="html8" href="c-295Pag08.htm" media-type="application/xhtml+xml"/>
+    <item id="html9" href="c-295Pag09.htm" media-type="application/xhtml+xml"/>
+    <item id="html10" href="c-295Pag10.htm" media-type="application/xhtml+xml"/>
+    <item id="html11" href="axxon.htm" media-type="application/xhtml+xml"/>
+    <item id="added19" href="axxon00.gif" media-type="image/gif"/>
+    <item id="added6" href="295cuento02ilus1ch.jpg" media-type="image/jpeg"/>
+    <item id="added7" href="295cuento02ilus2ch.jpg" media-type="image/jpeg"/>
+    <item id="added14" href="295cuento08ilus1ch.jpg" media-type="image/jpeg"/>
+    <item id="added15" href="295cuento08ilus2ch.jpg" media-type="image/jpeg"/>
+    <item id="added17" href="295cuento09ilus1ch.jpg" media-type="image/jpeg"/>
+    <item id="added18" href="295cuento09ilus2ch.jpg" media-type="image/jpeg"/>
+    <item id="added2" href="band-arg.jpg" media-type="image/jpeg"/>
+    <item id="added16" href="band-gbr.jpg" media-type="image/jpeg"/>
+    <item id="added5" href="band-mex.jpg" media-type="image/jpeg"/>
+    <item id="added13" href="band-usa.jpg" media-type="image/jpeg"/>
+    <item id="added20" href="c-295tapach.jpg" media-type="image/jpeg"/>
+    <item id="added3" href="mghsm2009.jpg" media-type="image/jpeg"/>
+    <item id="added9" href="editorial.png" media-type="image/png"/>
+    <item id="added8" href="logobati.png" media-type="image/png"/>
+    <item id="added10" href="me-la-se-lunga.png" media-type="image/png"/>
+    <item id="added11" href="starlogo-nuevo.png" media-type="image/png"/>
+    <item id="added12" href="tipsytops.png" media-type="image/png"/>
+    <item id="added21" href="x-epub.png" media-type="image/png"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+    <itemref idref="html1"/>
+    <itemref idref="html2"/>
+    <itemref idref="html3"/>
+    <itemref idref="html4"/>
+    <itemref idref="html5"/>
+    <itemref idref="html6"/>
+    <itemref idref="html7"/>
+    <itemref idref="html8"/>
+    <itemref idref="html9"/>
+    <itemref idref="html10"/>
+    <itemref idref="html11"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="titlepage.xhtml" title="Cover"/>
+  </guide>
+</package>

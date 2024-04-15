@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="2f4dfb0f-ed62-422c-9ee9-cc466f7a44be" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.11.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 259</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u67e0842a-64c1-4037-b72a-151736d99735" playOrder="1">
+      <navLabel>
+        <text>Editorial: El buen escribir</text>
+      </navLabel>
+      <content src="c-259Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ub92b9ecb-00f8-430b-930b-a6a326199c0a" playOrder="2">
+      <navLabel>
+        <text>Ficciones: La señal de Caín</text>
+      </navLabel>
+      <content src="c-259Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u6bdbb671-75c6-4fbc-82dd-c35a3ac60b5e" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Sibyl</text>
+      </navLabel>
+      <content src="c-259Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u79284af0-cacd-4483-8102-84d1a6f1a9b5" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Ficciones Breves Nº 73</text>
+      </navLabel>
+      <content src="c-259Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u04eaf541-daf0-4b8f-b9a9-231e7a22565c" playOrder="5">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

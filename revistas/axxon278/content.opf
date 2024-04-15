@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <meta name="calibre:series" content="Axxón"/>
+    <dc:creator opf:file-as="Desconocido" opf:role="aut">Eduardo Carletti (editor)</dc:creator>
+    <meta name="calibre:timestamp" content="2016-12-08T02:13:16.635000+00:00"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">c9864fb9-2452-4c76-8aca-de40a0d9c4d3</dc:identifier>
+    <meta name="calibre:series_index" content="278"/>
+    <meta name="cover" content="cover"/>
+    <dc:title>Axxón 278</dc:title>
+    <dc:language>es</dc:language>
+    <dc:publisher>Ediciones Axxón</dc:publisher>
+  </metadata>
+  <manifest>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="278cuento1ilus1ch.jpg" id="added5" media-type="image/jpeg"/>
+    <item href="278cuento2ilus1ch.jpg" id="added7" media-type="image/jpeg"/>
+    <item href="278cuento3ilus1ch.jpg" id="added9" media-type="image/jpeg"/>
+    <item href="278cuento4ilus1ch.jpg" id="added10" media-type="image/jpeg"/>
+    <item href="278editcdjv.jpg" id="added3" media-type="image/jpeg"/>
+    <item href="axxon.htm" id="html7" media-type="application/xhtml+xml"/>
+    <item href="axxon00.gif" id="added11" media-type="image/gif"/>
+    <item href="axxon278.htm" id="html" media-type="application/xhtml+xml"/>
+    <item href="band-arg.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="band-esp.jpg" id="added8" media-type="image/jpeg"/>
+    <item href="band-ing.jpg" id="added6" media-type="image/jpeg"/>
+    <item href="c-278Pag01.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="c-278Pag02.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="c-278Pag03.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="c-278Pag04.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="c-278Pag05.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="c-278Pag06.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="c-278tapach.jpg" id="added12" media-type="image/jpeg"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="x-epub.png" id="added13" media-type="image/png"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+    <itemref idref="html1"/>
+    <itemref idref="html2"/>
+    <itemref idref="html3"/>
+    <itemref idref="html4"/>
+    <itemref idref="html5"/>
+    <itemref idref="html6"/>
+    <itemref idref="html7"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

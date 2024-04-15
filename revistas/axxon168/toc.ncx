@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="08290c5d-6e67-48e7-8261-edabf6911bfb" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 168</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u7c4133eb-7319-446f-a10b-0a0edc4766a6" playOrder="1">
+      <navLabel>
+        <text>Editorial: Especiación</text>
+      </navLabel>
+      <content src="c-168Pag01.htm"/>
+    </navPoint>
+    <navPoint id="ua0fc5ed2-62bc-4121-a47b-43722fa54405" playOrder="2">
+      <navLabel>
+        <text>Correo: Cartas axxónicas</text>
+      </navLabel>
+      <content src="c-168Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u366d4a21-9b52-46e1-b09c-da55fcd344f0" playOrder="3">
+      <navLabel>
+        <text>Ficciones: El año que perdí a Lucy</text>
+      </navLabel>
+      <content src="c-168Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u110349ff-3b7a-4390-b929-599bfbc028df" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Cuatro mil cuatrocientos noventa y cuatro días</text>
+      </navLabel>
+      <content src="c-168Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ua7672d1e-be4c-4d79-bfe0-9a7d643b861c" playOrder="5">
+      <navLabel>
+        <text>Ficciones: El dueño del barrio</text>
+      </navLabel>
+      <content src="c-168Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ue2a828a5-d4a0-4942-98fc-afe289f92fd0" playOrder="6">
+      <navLabel>
+        <text>Ficciones: El asunto García</text>
+      </navLabel>
+      <content src="c-168Pag06.htm"/>
+    </navPoint>
+    <navPoint id="ued3dafcc-3c2a-4004-8beb-913f17a279de" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Historia de gallina</text>
+      </navLabel>
+      <content src="c-168Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u66b8ed00-0d7e-46e1-9c37-d169ba155af0" playOrder="8">
+      <navLabel>
+        <text>Ficciones: La intelectualidad liberal</text>
+      </navLabel>
+      <content src="c-168Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uabcfa2d5-75fc-4056-bd92-e08b4f7cc2c8" playOrder="9">
+      <navLabel>
+        <text>Ficciones: El recuerdo inmóvil</text>
+      </navLabel>
+      <content src="c-168Pag09.htm"/>
+    </navPoint>
+    <navPoint id="u4ecc5365-3741-4ea9-9e9b-d0776638d294" playOrder="10">
+      <navLabel>
+        <text>Ensayo: Cómo ser artista y no morir en el intento</text>
+      </navLabel>
+      <content src="c-168Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u0e898db4-0852-42b6-a4a4-546c54af66da" playOrder="11">
+      <navLabel>
+        <text>Ensayo: La entropía y el Hombre</text>
+      </navLabel>
+      <content src="c-168Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u2461b140-7dc4-4d43-9639-9d4f34c7c6c8" playOrder="12">
+      <navLabel>
+        <text>Ensayo: El mar en la ciencia ficción</text>
+      </navLabel>
+      <content src="c-168Pag12.htm"/>
+    </navPoint>
+    <navPoint id="u17f02fd7-fcf6-44d0-a95e-5ffcb19b024d" playOrder="13">
+      <navLabel>
+        <text>Ficciones: El día de la guerra</text>
+      </navLabel>
+      <content src="c-168Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u686ad10a-89c1-4071-bd95-cc37ca1ad748" playOrder="14">
+      <navLabel>
+        <text>Ficciones: Parada obligatoria</text>
+      </navLabel>
+      <content src="c-168Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u9c81af5e-ad83-41ef-b4a9-55f9ea84e53f" playOrder="15">
+      <navLabel>
+        <text>Ficciones: La pecera del gigante</text>
+      </navLabel>
+      <content src="c-168Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u6c730d5b-3d76-4233-b52e-3262867ea592" playOrder="16">
+      <navLabel>
+        <text>Ficciones: Ostraniene</text>
+      </navLabel>
+      <content src="c-168Pag16.htm"/>
+    </navPoint>
+    <navPoint id="ubd18f833-fed3-4fc5-9d85-f50dcac7a03b" playOrder="17">
+      <navLabel>
+        <text>Ficciones: El vendedor de lluvia</text>
+      </navLabel>
+      <content src="c-168Pag17.htm"/>
+    </navPoint>
+    <navPoint id="ufee5f47f-2fe2-42e6-a40f-d84829f2459a" playOrder="18">
+      <navLabel>
+        <text>Divulgación: Tunguska</text>
+      </navLabel>
+      <content src="c-168Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u387ab787-11bf-4d82-9295-e8da1bcfe194" playOrder="19">
+      <navLabel>
+        <text>Especial: Axxón 100x100 - Primera serie</text>
+      </navLabel>
+      <content src="c-168Pag19.htm"/>
+    </navPoint>
+    <navPoint id="uf8a9f120-59c6-4ccd-bfa8-9153593c51ed" playOrder="20">
+      <navLabel>
+        <text>Ficciones: La esquina de la tierra de los hombres</text>
+      </navLabel>
+      <content src="c-168Pag20.htm"/>
+    </navPoint>
+    <navPoint id="u38e11260-8668-4571-8c9b-1fdd03fe7d99" playOrder="21">
+      <navLabel>
+        <text>Ficciones: El brillo del mal</text>
+      </navLabel>
+      <content src="c-168Pag21.htm"/>
+    </navPoint>
+    <navPoint id="u0c4e1b8d-852e-4af5-8d15-86fc21c2fb5c" playOrder="22">
+      <navLabel>
+        <text>Ficciones: Neurofeedback</text>
+      </navLabel>
+      <content src="c-168Pag22.htm"/>
+    </navPoint>
+    <navPoint id="uee664b63-d2e6-4947-a875-1eb5a663a1e3" playOrder="23">
+      <navLabel>
+        <text>Ensayo: Inteligencia artificial y el arte de contar historias</text>
+      </navLabel>
+      <content src="c-168Pag23.htm"/>
+    </navPoint>
+    <navPoint id="u99a42834-bd04-42a1-ae5f-04f85995ce5f" playOrder="24">
+      <navLabel>
+        <text>Sección: AnaCrónicas</text>
+      </navLabel>
+      <content src="c-168Pag24.htm"/>
+    </navPoint>
+    <navPoint id="u861c1cd7-bde2-4e64-b436-4d4c9b8d46ad" playOrder="25">
+      <navLabel>
+        <text>Anacrónicas: Adelantos exclusivos</text>
+      </navLabel>
+      <content src="c-168Pag25.htm"/>
+    </navPoint>
+    <navPoint id="u085aa66f-e803-4335-a41b-42f7f5155fe6" playOrder="26">
+      <navLabel>
+        <text>Anacrónicas: Resident Elvis 4</text>
+      </navLabel>
+      <content src="c-168Pag26.htm"/>
+    </navPoint>
+    <navPoint id="u8d83273b-dcc0-4fbf-8eac-634768368087" playOrder="27">
+      <navLabel>
+        <text>Anacrónicas: La Güelta del Patrón (1)</text>
+      </navLabel>
+      <content src="c-168Pag27.htm"/>
+    </navPoint>
+    <navPoint id="ue2cc4d8f-cc1d-4b77-b042-7c89dc177d3a" playOrder="28">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

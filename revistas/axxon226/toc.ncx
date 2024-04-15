@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="ba972956-4a1b-4c89-ad17-eeb420ea72ad" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.14.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 226</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u7ee19f67-dc90-4d4d-9dac-3182536fc80b" playOrder="1">
+      <navLabel>
+        <text>Ficciones: Los Funes</text>
+      </navLabel>
+      <content src="c-226Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u1a12c0ad-27f2-412d-91c3-fbd85e6a1147" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Uno</text>
+      </navLabel>
+      <content src="c-226Pag02.htm"/>
+    </navPoint>
+    <navPoint id="uc7934f59-7932-4de3-b048-f17558744843" playOrder="3">
+      <navLabel>
+        <text>Ensayo: Cuando el mañana llama a tu casa</text>
+      </navLabel>
+      <content src="c-226Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u7fd26e86-6145-4cfb-bd8b-9d6bc19934a9" playOrder="4">
+      <navLabel>
+        <text>Ficciones: De lo acontecido al capitán Joaquín Díaz Alvarado y a las gentes que con él iban</text>
+      </navLabel>
+      <content src="c-226Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u5dbce614-7d2e-4264-bbdf-370c4fa7c5e4" playOrder="5">
+      <navLabel>
+        <text>Entrevista: Entrevista a Eduardo J. Carletti</text>
+      </navLabel>
+      <content src="c-226Pag05.htm"/>
+    </navPoint>
+    <navPoint id="u2b8d257c-728a-4951-97df-1bbd2d8c4d79" playOrder="6">
+      <navLabel>
+        <text>Ficciones: Cuatro letras al botón</text>
+      </navLabel>
+      <content src="c-226Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u14390062-b889-44af-a6b5-af02725c9ae5" playOrder="7">
+      <navLabel>
+        <text>Ficciones: La decimotercera cláusula</text>
+      </navLabel>
+      <content src="c-226Pag07.htm"/>
+    </navPoint>
+    <navPoint id="u1123cfd0-86f3-42a8-8336-03268a8e2b62" playOrder="8">
+      <navLabel>
+        <text>Ficciones: El enigma del bar de los viejos y los gatos</text>
+      </navLabel>
+      <content src="c-226Pag08.htm"/>
+    </navPoint>
+    <navPoint id="uf7b707c3-6242-42f7-a55e-eca25badf86c" playOrder="9">
+      <navLabel>
+        <text>Ficciones: Narhitorek</text>
+      </navLabel>
+      <content src="c-226Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ub3cde3f2-8d91-4517-9c0e-fbda5c63a325" playOrder="10">
+      <navLabel>
+        <text>Ficciones: Historia universal. Hoy</text>
+      </navLabel>
+      <content src="c-226Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u635441a0-f062-4ed1-a96a-e134c53fbdf4" playOrder="11">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

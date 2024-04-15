@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="3546be47-7531-4a2a-b13d-005f8c58d1ea" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.37.1)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 156</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u0e5621c2-e3a4-46e9-b12a-d9f1907ff6aa" playOrder="1">
+      <navLabel>
+        <text>Editorial: Traslaciones, traducciones, transferencias, transcripciones</text>
+      </navLabel>
+      <content src="c-156Pag01.htm"/>
+    </navPoint>
+    <navPoint id="u2db15c35-9d4d-44e3-80e1-166e9a682bac" playOrder="2">
+      <navLabel>
+        <text>Correo: Correo axxónico</text>
+      </navLabel>
+      <content src="c-156Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u4c14bd39-aeb5-4d3c-a436-389fff4c6cc4" playOrder="3">
+      <navLabel>
+        <text>Ficciones: Hiperconsciente</text>
+      </navLabel>
+      <content src="c-156Pag03.htm"/>
+    </navPoint>
+    <navPoint id="ub5504500-cfb7-4946-8d51-99fb9d0255e5" playOrder="4">
+      <navLabel>
+        <text>Ficciones: Ajolote</text>
+      </navLabel>
+      <content src="c-156Pag04.htm"/>
+    </navPoint>
+    <navPoint id="u04be3c3f-77db-4159-80d1-31d29a0244d9" playOrder="5">
+      <navLabel>
+        <text>Ficciones: En el borde del mundo</text>
+      </navLabel>
+      <content src="c-156Pag05.htm"/>
+    </navPoint>
+    <navPoint id="uc310eb27-b55b-4bc3-87f2-01778bbd3d20" playOrder="6">
+      <navLabel>
+        <text>Ficciones: El Guasón</text>
+      </navLabel>
+      <content src="c-156Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u8d8db7bd-a909-4e28-82c1-c203aac683d8" playOrder="7">
+      <navLabel>
+        <text>Sección: Batiburrillo</text>
+      </navLabel>
+      <content src="c-156Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ue7899604-664e-4bea-aeea-44cf67945410" playOrder="8">
+      <navLabel>
+        <text>Batiburrillo: Me la sé lunga</text>
+      </navLabel>
+      <content src="c-156Pag08.htm"/>
+    </navPoint>
+    <navPoint id="u6d03af9b-1861-412b-972a-22fa47a8323e" playOrder="9">
+      <navLabel>
+        <text>Batiburrillo: Especies en peligro</text>
+      </navLabel>
+      <content src="c-156Pag09.htm"/>
+    </navPoint>
+    <navPoint id="ucdd19dd9-b66b-41fd-9d1c-df515ae347d6" playOrder="10">
+      <navLabel>
+        <text>Batiburrillo: Una estrella en el hielo</text>
+      </navLabel>
+      <content src="c-156Pag10.htm"/>
+    </navPoint>
+    <navPoint id="u4332eba3-d635-4d13-8487-aedb122da516" playOrder="11">
+      <navLabel>
+        <text>Divulgación: Una definición problemática</text>
+      </navLabel>
+      <content src="c-156Pag11.htm"/>
+    </navPoint>
+    <navPoint id="u440c26b7-1c2e-4bdf-b23c-9074863168ee" playOrder="12">
+      <navLabel>
+        <text>Ficciones: Alimento para perros</text>
+      </navLabel>
+      <content src="c-156Pag12.htm"/>
+    </navPoint>
+    <navPoint id="ube59600a-8049-4666-9c48-ca23a7c9c6aa" playOrder="13">
+      <navLabel>
+        <text>Ficciones: En alas de mariposa</text>
+      </navLabel>
+      <content src="c-156Pag13.htm"/>
+    </navPoint>
+    <navPoint id="u4523c1f3-65d9-4e6e-9f6d-7b99b294be0d" playOrder="14">
+      <navLabel>
+        <text>Ficciones: El efecto Cibeles</text>
+      </navLabel>
+      <content src="c-156Pag14.htm"/>
+    </navPoint>
+    <navPoint id="u0ac09b98-8575-4dd6-93d2-9b3cd9d887fd" playOrder="15">
+      <navLabel>
+        <text>Ficciones: A brillar mi amor</text>
+      </navLabel>
+      <content src="c-156Pag15.htm"/>
+    </navPoint>
+    <navPoint id="u54cf106e-ba68-48c5-b1e5-6474f107d8f0" playOrder="16">
+      <navLabel>
+        <text>Ficciones: El libro de cocina de los muertos</text>
+      </navLabel>
+      <content src="c-156Pag16.htm"/>
+    </navPoint>
+    <navPoint id="ud318254c-fd9e-4f5f-82d6-5f8c3fccb4cf" playOrder="17">
+      <navLabel>
+        <text>Ficciones: Material descartable</text>
+      </navLabel>
+      <content src="c-156Pag17.htm"/>
+    </navPoint>
+    <navPoint id="udd59a31f-d576-487e-baf5-9c908af030f0" playOrder="18">
+      <navLabel>
+        <text>Carta Abierta: Sobre la muerte del Asimov</text>
+      </navLabel>
+      <content src="c-156Pag18.htm"/>
+    </navPoint>
+    <navPoint id="u47b22f8b-96c4-4279-9a5b-887babf58e4d" playOrder="19">
+      <navLabel>
+        <text>Sección: Anacrónicas</text>
+      </navLabel>
+      <content src="c-156Pag19.htm"/>
+    </navPoint>
+    <navPoint id="u81b09f12-3202-437e-a9f9-cbd0ca303050" playOrder="20">
+      <navLabel>
+        <text>Anacrónicas: La yunta’e torres (11)</text>
+      </navLabel>
+      <content src="c-156Pag20.htm"/>
+    </navPoint>
+    <navPoint id="uc0bb3f8b-382d-4a2a-9299-38a75f060a59" playOrder="21">
+      <navLabel>
+        <text>Anacrónicas: La yunta’e torres (12)</text>
+      </navLabel>
+      <content src="c-156Pag21.htm"/>
+    </navPoint>
+    <navPoint id="u6ecece51-ce1e-4aa0-8531-9bea870b8c8a" playOrder="22">
+      <navLabel>
+        <text>Anacrónicas: La yunta’e torres (13)</text>
+      </navLabel>
+      <content src="c-156Pag22.htm"/>
+    </navPoint>
+    <navPoint id="u4fcca50b-1dd0-4d62-99d7-828147a88606" playOrder="23">
+      <navLabel>
+        <text>Ensayo: Panorámica actual en la literatura de cf en España</text>
+      </navLabel>
+      <content src="c-156Pag23.htm"/>
+    </navPoint>
+    <navPoint id="u67333eea-2739-4b87-aba3-1fe25b1c128f" playOrder="24">
+      <navLabel>
+        <text>Ensayo: El comportamiento berserker de los hobbits</text>
+      </navLabel>
+      <content src="c-156Pag24.htm"/>
+    </navPoint>
+    <navPoint id="u084dd158-1761-4331-b8ff-4d3c6c3ea932" playOrder="25">
+      <navLabel>
+        <text>Ensayo: Geeks y Bohemios</text>
+      </navLabel>
+      <content src="c-156Pag25.htm"/>
+    </navPoint>
+    <navPoint id="u068d8e6a-0897-4d45-bae4-02d0509ba6cd" playOrder="26">
+      <navLabel>
+        <text>Ficciones: Ficción breve (18)</text>
+      </navLabel>
+      <content src="c-156Pag26.htm"/>
+    </navPoint>
+    <navPoint id="ua381880b-042b-4b6e-beed-55771c6b4639" playOrder="27">
+      <navLabel>
+        <text>Clásico: Con el correo nocturno</text>
+      </navLabel>
+      <content src="c-156Pag27.htm"/>
+    </navPoint>
+    <navPoint id="ud0a1fc52-e039-4d78-b4ac-e24518a4d225" playOrder="28">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

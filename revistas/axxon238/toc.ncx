@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="72ea7639-d3d0-47cd-a00a-7da4c44c5361" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.16)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Axxón 238</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u48986b71-3019-4f50-9f8b-7b8d162b4a12" playOrder="1">
+      <navLabel>
+        <text>Editorial: Después del Fin del Mundo - página principal</text>
+      </navLabel>
+      <content src="c-238Pag01.htm"/>
+    </navPoint>
+    <navPoint id="uabf9ec89-2054-4720-988c-aa024d584b9a" playOrder="2">
+      <navLabel>
+        <text>Ficciones: Los últimos días de la eternidad</text>
+      </navLabel>
+      <content src="c-238Pag02.htm"/>
+    </navPoint>
+    <navPoint id="u31a38cee-2f11-4960-9a16-5d076debe8b1" playOrder="3">
+      <navLabel>
+        <text>Artículo: Muertos que caminan… y hacen dinero</text>
+      </navLabel>
+      <content src="c-238Pag03.htm"/>
+    </navPoint>
+    <navPoint id="u5fdbc9c1-0bc6-4c1d-a112-5c33122549e2" playOrder="4">
+      <navLabel>
+        <text>Ficciones: El caso Vicky</text>
+      </navLabel>
+      <content src="c-238Pag04.htm"/>
+    </navPoint>
+    <navPoint id="ue9b693f0-397b-436d-a830-009557832704" playOrder="5">
+      <navLabel>
+        <text>Ficciones: Catáfilas</text>
+      </navLabel>
+      <content src="c-238Pag05.htm"/>
+    </navPoint>
+    <navPoint id="ufdb3547e-0ab4-4894-8409-bf983e401bc6" playOrder="6">
+      <navLabel>
+        <text>Ficciones: La clonación</text>
+      </navLabel>
+      <content src="c-238Pag06.htm"/>
+    </navPoint>
+    <navPoint id="u8d4cf360-3da4-49c4-8b59-b8204647439d" playOrder="7">
+      <navLabel>
+        <text>Ficciones: Amarillo</text>
+      </navLabel>
+      <content src="c-238Pag07.htm"/>
+    </navPoint>
+    <navPoint id="ubc579443-3cb4-4248-aa38-58697c76251e" playOrder="8">
+      <navLabel>
+        <text>Acerca de esta versión</text>
+      </navLabel>
+      <content src="axxon.htm"/>
+    </navPoint>
+    <navPoint id="ud650b023-ab59-48b8-b402-eefc215a1c6e" playOrder="8">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/238/cuento2ilus1.htm"/>
+    </navPoint>
+    <navPoint id="ude0fdee6-4a0c-4955-8fbf-cfd8a2955c88" playOrder="9">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/238/cuento4ilus1.htm"/>
+    </navPoint>
+    <navPoint id="ucc59d9cd-d231-4af6-8c7f-6ab884f22498" playOrder="10">
+      <navLabel>
+        <text>FINAL DE FIESTA</text>
+      </navLabel>
+      <content src="/rev/149/c-149Cuento4.htm"/>
+    </navPoint>
+    <navPoint id="u8d2e3aea-d9e9-46ae-8b6d-cf0645625231" playOrder="11">
+      <navLabel>
+        <text>QUE DIOS Y LA PATRIA</text>
+      </navLabel>
+      <content src="/rev/150/c-150cuento11.htm"/>
+    </navPoint>
+    <navPoint id="ue6a35606-81f5-4196-a927-c358612813f9" playOrder="12">
+      <navLabel>
+        <text>ACASO UNA FIGURA HUMANA</text>
+      </navLabel>
+      <content src="/rev/152/c-152cuento8.htm#4"/>
+    </navPoint>
+    <navPoint id="ud9f53abf-4749-4d8e-9d93-5de5ef2f67ba" playOrder="13">
+      <navLabel>
+        <text>JUGAR CON FUEGO</text>
+      </navLabel>
+      <content src="/rev/161/c-161cuento6.htm"/>
+    </navPoint>
+    <navPoint id="uf3739a54-bde1-4c03-b5be-562274663cb7" playOrder="14">
+      <navLabel>
+        <text>entrevistado por Ricardo Giorno</text>
+      </navLabel>
+      <content src="/rev/2011/09/entrevista-a-marcelo-di-marco-por-ricardo-german-giorno/"/>
+    </navPoint>
+    <navPoint id="u042a8f3c-6c89-4d29-8120-f971405745f9" playOrder="15">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/238/cuento5ilus1.htm"/>
+    </navPoint>
+    <navPoint id="ubffddbe5-d95c-4144-8499-9a6232330727" playOrder="16">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/238/cuento6ilus1.htm"/>
+    </navPoint>
+    <navPoint id="udef068fe-9838-4410-8d6c-4919fcabb8d0" playOrder="17">
+      <navLabel>
+        <text>Sin nombre</text>
+      </navLabel>
+      <content src="/rev/238/cuento7ilus1.htm"/>
+    </navPoint>
+    <navPoint id="udf602e85-07fa-4036-9729-0d0d78232224" playOrder="18">
+      <navLabel>
+        <text>UNA BATALLA PERSONAL y</text>
+      </navLabel>
+      <content src="/rev/2012/02/una-batalla-personal-marilau-sanchez/"/>
+    </navPoint>
+    <navPoint id="u67a2337d-0c88-424f-b7c9-babf252dd1f4" playOrder="19">
+      <navLabel>
+        <text>UN ARMANI</text>
+      </navLabel>
+      <content src="/rev/2012/12/un-armani-maria-laura-sanchez/"/>
+    </navPoint>
+  </navMap>
+</ncx>
